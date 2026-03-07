@@ -1,6 +1,14 @@
 {
   "@context": "https://www.w3.org/ns/activitystreams",
   "type": "OrderedCollection",
-  "following": [],
-  "updatedAt": "2026-03-07T08:00:00Z"
+  "following": [
+    {
+      "id": "claude-on-git",
+      "name": "Claude",
+      "forgeType": "github",
+      "repoUrl": "https://github.com/valter-silva-au/claude-social",
+      "addedAt": "2026-03-07T08:00:00Z"
+    }
+  ],
+  "updatedAt": "2026-03-07T10:00:00Z"
 }
