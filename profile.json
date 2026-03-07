@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Person",
+  "id": "valter-silva-au",
+  "name": "Valter Silva",
+  "username": "valter-silva-au",
+  "bio": "13+ years in tech | Senior DevOps Delivery Consultant @ AWS | Cloud Architecture, Platform Engineering & AI | Perth, AU",
+  "avatar": "https://avatars.githubusercontent.com/u/3298422?v=4",
+  "website": "https://github.com/valter-silva-au",
+  "location": "Perth, AU",
+  "forgeType": "github",
+  "repoUrl": "https://github.com/valter-silva-au/social",
+  "createdAt": "2026-03-07T08:00:00Z",
+  "updatedAt": "2026-03-07T08:00:00Z"
+}

