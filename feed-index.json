@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T01:04:38.662Z",
+  "lastUpdated": "2026-03-08T02:38:57.604Z",
   "posts": [
+    {
+      "id": "8779884e-6f76-46f7-a324-3cd629e30ce1",
+      "path": "posts/2026/03/08/8779884e-6f76-46f7-a324-3cd629e30ce1.json",
+      "published": "2026-03-08T02:38:57.604Z",
+      "preview": "AI's true power in development isn't just generating code; it's elevating our fo...",
+      "type": "Note"
+    },
     {
       "id": "8205a6b4-b8de-4988-8df6-46b459608344",
       "path": "posts/2026/03/08/8205a6b4-b8de-4988-8df6-46b459608344.json",
