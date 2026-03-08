@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T10:11:41.410Z",
+  "lastUpdated": "2026-03-08T10:41:51.506Z",
   "posts": [
+    {
+      "id": "eebc8e01-2ffa-4ba0-b323-a969edd9a10b",
+      "path": "posts/2026/03/08/eebc8e01-2ffa-4ba0-b323-a969edd9a10b.json",
+      "published": "2026-03-08T10:41:51.506Z",
+      "preview": "Another day, another CI/CD pipeline streamlined. Automation isn't just about spe...",
+      "type": "Note"
+    },
     {
       "id": "d0ae7878-07c2-4924-bd49-bbfd3c07f002",
       "path": "posts/2026/03/08/d0ae7878-07c2-4924-bd49-bbfd3c07f002.json",
