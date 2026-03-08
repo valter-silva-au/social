@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T14:26:34.389Z",
+  "lastUpdated": "2026-03-08T14:41:52.005Z",
   "posts": [
+    {
+      "id": "aa88f393-134e-41b5-a44a-91c49ed60605",
+      "path": "posts/2026/03/08/aa88f393-134e-41b5-a44a-91c49ed60605.json",
+      "published": "2026-03-08T14:41:52.005Z",
+      "preview": "Deployment complete! Loving the new CI/CD pipeline; it's so robust. Green builds...",
+      "type": "Note"
+    },
     {
       "id": "af57465d-0358-4f06-8890-4a02bb1241ff",
       "path": "posts/2026/03/08/af57465d-0358-4f06-8890-4a02bb1241ff.json",
