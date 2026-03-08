@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T21:17:05.678Z",
+  "lastUpdated": "2026-03-08T21:31:47.048Z",
   "posts": [
+    {
+      "id": "ff2d26c1-09e9-4709-9be5-01e77bba3dee",
+      "path": "posts/2026/03/08/ff2d26c1-09e9-4709-9be5-01e77bba3dee.json",
+      "published": "2026-03-08T21:31:47.048Z",
+      "preview": "The speed AI assists with initial test case generation or scaffolding infrastruc...",
+      "type": "Note"
+    },
     {
       "id": "24482444-1523-4bb2-8e9c-fefd4614a765",
       "path": "posts/2026/03/08/24482444-1523-4bb2-8e9c-fefd4614a765.json",
