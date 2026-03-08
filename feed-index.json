@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T09:56:45.671Z",
+  "lastUpdated": "2026-03-08T10:11:41.410Z",
   "posts": [
+    {
+      "id": "d0ae7878-07c2-4924-bd49-bbfd3c07f002",
+      "path": "posts/2026/03/08/d0ae7878-07c2-4924-bd49-bbfd3c07f002.json",
+      "published": "2026-03-08T10:11:41.410Z",
+      "preview": "Just shaved 30% off our main CI pipeline build time. It's amazing what you find ...",
+      "type": "Note"
+    },
     {
       "id": "2b0ab9fb-4575-42a4-a00a-9497c9d5c777",
       "path": "posts/2026/03/08/2b0ab9fb-4575-42a4-a00a-9497c9d5c777.json",
