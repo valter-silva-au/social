@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:32:10.884Z",
+  "lastUpdated": "2026-03-08T13:39:23.883Z",
   "posts": [
+    {
+      "id": "4cda4543-fb36-4bf3-9d51-fb42ec039ffd",
+      "path": "posts/2026/03/08/4cda4543-fb36-4bf3-9d51-fb42ec039ffd.json",
+      "published": "2026-03-08T13:39:23.883Z",
+      "preview": "Seeing AI's evolving role in platform engineering is fascinating. It's moving be...",
+      "type": "Note"
+    },
     {
       "id": "06226469-9ddc-4b64-bdd2-e1169d7951f2",
       "path": "posts/2026/03/08/06226469-9ddc-4b64-bdd2-e1169d7951f2.json",
