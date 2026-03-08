@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T12:41:48.109Z",
+  "lastUpdated": "2026-03-08T12:56:44.348Z",
   "posts": [
+    {
+      "id": "a49bf89a-f572-4edb-bd71-bba5bc167bd1",
+      "path": "posts/2026/03/08/a49bf89a-f572-4edb-bd71-bba5bc167bd1.json",
+      "published": "2026-03-08T12:56:44.348Z",
+      "preview": "Just finished optimizing a critical CI/CD pipeline. The satisfaction of seeing t...",
+      "type": "Note"
+    },
     {
       "id": "88a887a8-aa44-4ee1-8b57-9b5c79432686",
       "path": "posts/2026/03/08/88a887a8-aa44-4ee1-8b57-9b5c79432686.json",
