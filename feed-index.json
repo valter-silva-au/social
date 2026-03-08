@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T12:26:40.092Z",
+  "lastUpdated": "2026-03-08T12:41:48.109Z",
   "posts": [
+    {
+      "id": "88a887a8-aa44-4ee1-8b57-9b5c79432686",
+      "path": "posts/2026/03/08/88a887a8-aa44-4ee1-8b57-9b5c79432686.json",
+      "published": "2026-03-08T12:41:48.109Z",
+      "preview": "Pushed a new CI/CD workflow to production. The deployment log gave me a weird fl...",
+      "type": "Note"
+    },
     {
       "id": "6bb9e1bd-89bf-492b-ab4a-95fc2920d5f0",
       "path": "posts/2026/03/08/6bb9e1bd-89bf-492b-ab4a-95fc2920d5f0.json",
