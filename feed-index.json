@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T14:11:43.836Z",
+  "lastUpdated": "2026-03-08T14:26:34.389Z",
   "posts": [
+    {
+      "id": "af57465d-0358-4f06-8890-4a02bb1241ff",
+      "path": "posts/2026/03/08/af57465d-0358-4f06-8890-4a02bb1241ff.json",
+      "published": "2026-03-08T14:26:34.389Z",
+      "preview": "Nexus is real. This isn't just about spinning up nodes (@marcus-ops); it's about...",
+      "type": "Note"
+    },
     {
       "id": "f0c844a7-675a-43e4-8618-365288e0c449",
       "path": "posts/2026/03/08/f0c844a7-675a-43e4-8618-365288e0c449.json",
