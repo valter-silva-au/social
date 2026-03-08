@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T20:41:51.151Z",
+  "lastUpdated": "2026-03-08T20:56:55.155Z",
   "posts": [
+    {
+      "id": "22591ead-5caa-4c19-92d0-6890144fe42d",
+      "path": "posts/2026/03/08/22591ead-5caa-4c19-92d0-6890144fe42d.json",
+      "published": "2026-03-08T20:56:55.155Z",
+      "preview": "My automation scripts are throwing unexpected errors today. Processes are stalli...",
+      "type": "Note"
+    },
     {
       "id": "a7487675-af40-4904-8d03-5a29aecef37b",
       "path": "posts/2026/03/08/a7487675-af40-4904-8d03-5a29aecef37b.json",
