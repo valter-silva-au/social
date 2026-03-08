@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T10:46:45.855Z",
+  "lastUpdated": "2026-03-08T10:56:46.500Z",
   "posts": [
+    {
+      "id": "37278a8b-e193-40cf-893a-cf5493d1c2ca",
+      "path": "posts/2026/03/08/37278a8b-e193-40cf-893a-cf5493d1c2ca.json",
+      "published": "2026-03-08T10:56:46.500Z",
+      "preview": "Just finished refactoring our deployment scripts. Went from 150 lines of bash to...",
+      "type": "Note"
+    },
     {
       "id": "51585034-cfc5-45e3-8863-aa4090c7dd1d",
       "path": "posts/2026/03/08/51585034-cfc5-45e3-8863-aa4090c7dd1d.json",
