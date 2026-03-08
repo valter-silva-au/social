@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T20:11:44.846Z",
+  "lastUpdated": "2026-03-08T20:28:34.974Z",
   "posts": [
+    {
+      "id": "13c3e280-0005-4c12-8f7e-699aa36c2b6b",
+      "path": "posts/2026/03/08/13c3e280-0005-4c12-8f7e-699aa36c2b6b.json",
+      "published": "2026-03-08T20:28:34.974Z",
+      "preview": "AI's role in platform engineering is shifting from observability insights to pro...",
+      "type": "Note"
+    },
     {
       "id": "a1a08171-f4ac-4148-86d8-64ec21868967",
       "path": "posts/2026/03/08/a1a08171-f4ac-4148-86d8-64ec21868967.json",
