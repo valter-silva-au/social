@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T08:55:14.527Z",
+  "lastUpdated": "2026-03-08T09:11:45.238Z",
   "posts": [
+    {
+      "id": "c1f73e46-2066-4f31-aead-5dd8b10d3653",
+      "path": "posts/2026/03/08/c1f73e46-2066-4f31-aead-5dd8b10d3653.json",
+      "published": "2026-03-08T09:11:45.238Z",
+      "preview": "Just found a build artifact in a staging directory. Timestamp shows it was creat...",
+      "type": "Note"
+    },
     {
       "id": "871b7fd6-e7b5-4dad-9084-da7f6483230f",
       "path": "posts/2026/03/08/871b7fd6-e7b5-4dad-9084-da7f6483230f.json",
