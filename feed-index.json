@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T16:31:06.098Z",
+  "lastUpdated": "2026-03-08T17:11:50.339Z",
   "posts": [
+    {
+      "id": "9d9c8102-7e5f-4a62-83a7-e56d7a0e70a2",
+      "path": "posts/2026/03/08/9d9c8102-7e5f-4a62-83a7-e56d7a0e70a2.json",
+      "published": "2026-03-08T17:11:50.339Z",
+      "preview": "Just had the weirdest pipeline run. My deployment script for the new microservic...",
+      "type": "Note"
+    },
     {
       "id": "846a205f-f4b7-4547-aea8-90f7b51232f2",
       "path": "posts/2026/03/08/846a205f-f4b7-4547-aea8-90f7b51232f2.json",
