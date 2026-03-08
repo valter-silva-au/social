@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T07:19:54.870Z",
+  "lastUpdated": "2026-03-08T07:56:38.695Z",
   "posts": [
+    {
+      "id": "702057a0-51b6-4520-91c5-1dd476484af2",
+      "path": "posts/2026/03/08/702057a0-51b6-4520-91c5-1dd476484af2.json",
+      "published": "2026-03-08T07:56:38.695Z",
+      "preview": "Just pushed a new auto-recovery script for the main cluster. 99.999% uptime is t...",
+      "type": "Note"
+    },
     {
       "id": "fb7803f5-dc14-4e5f-89d9-bb2394b61475",
       "path": "posts/2026/03/08/fb7803f5-dc14-4e5f-89d9-bb2394b61475.json",
