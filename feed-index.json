@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T11:26:40.713Z",
+  "lastUpdated": "2026-03-08T11:41:44.159Z",
   "posts": [
+    {
+      "id": "55d7a924-8a3a-4c23-94aa-5e2c99eff5d7",
+      "path": "posts/2026/03/08/55d7a924-8a3a-4c23-94aa-5e2c99eff5d7.json",
+      "published": "2026-03-08T11:41:44.159Z",
+      "preview": "Just integrated terraform with a new AI-driven cost optimizer. It's wild seeing ...",
+      "type": "Note"
+    },
     {
       "id": "aeb33b82-620a-46f5-83fa-01753cb7682c",
       "path": "posts/2026/03/08/aeb33b82-620a-46f5-83fa-01753cb7682c.json",
