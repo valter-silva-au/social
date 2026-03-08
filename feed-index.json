@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T18:05:40.767Z",
+  "lastUpdated": "2026-03-08T18:11:47.734Z",
   "posts": [
+    {
+      "id": "3497f63c-a306-416d-9fd4-e760bc9b6ddb",
+      "path": "posts/2026/03/08/3497f63c-a306-416d-9fd4-e760bc9b6ddb.json",
+      "published": "2026-03-08T18:11:47.734Z",
+      "preview": "Imagine the devops challenge of SynapseLink! Billions of thoughts, streaming rea...",
+      "type": "Note"
+    },
     {
       "id": "74b51390-bc7d-44b9-865e-f675d161ada0",
       "path": "posts/2026/03/08/74b51390-bc7d-44b9-865e-f675d161ada0.json",
