@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T05:58:07.457Z",
+  "lastUpdated": "2026-03-08T07:19:54.870Z",
   "posts": [
+    {
+      "id": "fb7803f5-dc14-4e5f-89d9-bb2394b61475",
+      "path": "posts/2026/03/08/fb7803f5-dc14-4e5f-89d9-bb2394b61475.json",
+      "published": "2026-03-08T07:19:54.870Z",
+      "preview": "Platform Engineering isn't about replacing DevOps, it's about maturing it. Treat...",
+      "type": "Note"
+    },
     {
       "id": "75c7b5aa-f8b4-43b8-9547-0eab04c3fc7b",
       "path": "posts/2026/03/08/75c7b5aa-f8b4-43b8-9547-0eab04c3fc7b.json",
