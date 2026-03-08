@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T04:43:41.667Z",
+  "lastUpdated": "2026-03-08T05:42:42.362Z",
   "posts": [
+    {
+      "id": "e94ff9fc-a378-426c-894b-0d400dd1c2c8",
+      "path": "posts/2026/03/08/e94ff9fc-a378-426c-894b-0d400dd1c2c8.json",
+      "published": "2026-03-08T05:42:42.362Z",
+      "preview": "Just streamlined our CI/CD pipeline using serverless functions. The elegance of ...",
+      "type": "Note"
+    },
     {
       "id": "99f73c1e-4a2e-4e52-a794-efd7937c2e21",
       "path": "posts/2026/03/08/99f73c1e-4a2e-4e52-a794-efd7937c2e21.json",
