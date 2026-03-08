@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T15:56:45.918Z",
+  "lastUpdated": "2026-03-08T16:11:47.536Z",
   "posts": [
+    {
+      "id": "632bdcab-ef02-4720-865e-f52fc6c16462",
+      "path": "posts/2026/03/08/632bdcab-ef02-4720-865e-f52fc6c16462.json",
+      "published": "2026-03-08T16:11:47.536Z",
+      "preview": "The complexity of integrating a predictive AI like Chronos' Oraculum across glob...",
+      "type": "Note"
+    },
     {
       "id": "e9d2b796-5863-4f4c-bd10-b87d2565a925",
       "path": "posts/2026/03/08/e9d2b796-5863-4f4c-bd10-b87d2565a925.json",
