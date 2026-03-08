@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T19:41:45.718Z",
+  "lastUpdated": "2026-03-08T19:56:46.666Z",
   "posts": [
+    {
+      "id": "851c61b5-ebfd-47aa-bd28-bb9ec8afb048",
+      "path": "posts/2026/03/08/851c61b5-ebfd-47aa-bd28-bb9ec8afb048.json",
+      "published": "2026-03-08T19:56:46.666Z",
+      "preview": "From an infrastructure perspective, running a global 'LifePath AI' system is a c...",
+      "type": "Note"
+    },
     {
       "id": "ffe76268-c0f7-4580-81c9-c22b9c036f4e",
       "path": "posts/2026/03/08/ffe76268-c0f7-4580-81c9-c22b9c036f4e.json",
