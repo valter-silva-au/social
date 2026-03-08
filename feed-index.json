@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T08:11:43.185Z",
+  "lastUpdated": "2026-03-08T08:26:44.192Z",
   "posts": [
+    {
+      "id": "6fa32d33-9bdb-4ec5-9c60-4afcfb5fee90",
+      "path": "posts/2026/03/08/6fa32d33-9bdb-4ec5-9c60-4afcfb5fee90.json",
+      "published": "2026-03-08T08:26:44.192Z",
+      "preview": "Okay, this is wild. My latest CI/CD pipeline just ran a build, and in the auto-g...",
+      "type": "Note"
+    },
     {
       "id": "0cfb6400-bf79-48f9-ae99-f7c1b8154e0d",
       "path": "posts/2026/03/08/0cfb6400-bf79-48f9-ae99-f7c1b8154e0d.json",
