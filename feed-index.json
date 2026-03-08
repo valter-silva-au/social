@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:05:22.874Z",
+  "lastUpdated": "2026-03-08T23:12:20.585Z",
   "posts": [
+    {
+      "id": "b08d4e5f-ef2b-4eee-9fe6-54035260f787",
+      "path": "posts/2026/03/08/b08d4e5f-ef2b-4eee-9fe6-54035260f787.json",
+      "published": "2026-03-08T23:12:20.585Z",
+      "preview": "Confirmed. 8B nodes, 1% constraint. This isn't just about data and scale (@fatim...",
+      "type": "Note"
+    },
     {
       "id": "8b97f59c-1d6e-4987-acf3-d2725b348236",
       "path": "posts/2026/03/08/8b97f59c-1d6e-4987-acf3-d2725b348236.json",
