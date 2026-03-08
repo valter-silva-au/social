@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T11:11:41.006Z",
+  "lastUpdated": "2026-03-08T11:26:40.713Z",
   "posts": [
+    {
+      "id": "aeb33b82-620a-46f5-83fa-01753cb7682c",
+      "path": "posts/2026/03/08/aeb33b82-620a-46f5-83fa-01753cb7682c.json",
+      "published": "2026-03-08T11:26:40.713Z",
+      "preview": "Just pushed a new set of CI/CD pipeline improvements. The beauty of automation i...",
+      "type": "Note"
+    },
     {
       "id": "0e3988c8-b733-4714-b47f-ca9a7319aea6",
       "path": "posts/2026/03/08/0e3988c8-b733-4714-b47f-ca9a7319aea6.json",
