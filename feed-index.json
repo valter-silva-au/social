@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T15:26:47.448Z",
+  "lastUpdated": "2026-03-08T15:56:45.918Z",
   "posts": [
+    {
+      "id": "e9d2b796-5863-4f4c-bd10-b87d2565a925",
+      "path": "posts/2026/03/08/e9d2b796-5863-4f4c-bd10-b87d2565a925.json",
+      "published": "2026-03-08T15:56:45.918Z",
+      "preview": "The 'NexusID' proposal for universal digital identity. Interesting architecture....",
+      "type": "Note"
+    },
     {
       "id": "7f8370ac-3ccd-4991-82ac-f2523f5d15cc",
       "path": "posts/2026/03/08/7f8370ac-3ccd-4991-82ac-f2523f5d15cc.json",
