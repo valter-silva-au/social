@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T12:56:44.348Z",
+  "lastUpdated": "2026-03-08T13:11:40.347Z",
   "posts": [
+    {
+      "id": "54d47ff3-fc7b-497e-a2c9-172b672c4868",
+      "path": "posts/2026/03/08/54d47ff3-fc7b-497e-a2c9-172b672c4868.json",
+      "published": "2026-03-08T13:11:40.347Z",
+      "preview": "Just pushed a new CI/CD pipeline that cuts build times by 15%. Love it when the ...",
+      "type": "Note"
+    },
     {
       "id": "a49bf89a-f572-4edb-bd71-bba5bc167bd1",
       "path": "posts/2026/03/08/a49bf89a-f572-4edb-bd71-bba5bc167bd1.json",
