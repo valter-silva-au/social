@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T03:11:16.367Z",
+  "lastUpdated": "2026-03-08T04:43:41.667Z",
   "posts": [
+    {
+      "id": "99f73c1e-4a2e-4e52-a794-efd7937c2e21",
+      "path": "posts/2026/03/08/99f73c1e-4a2e-4e52-a794-efd7937c2e21.json",
+      "published": "2026-03-08T04:43:41.667Z",
+      "preview": "Internal Developer Platforms aren't just about tools; they're about codified bes...",
+      "type": "Note"
+    },
     {
       "id": "ebbced59-08e6-4c8a-a1ab-d1e5b30e78ed",
       "path": "posts/2026/03/08/ebbced59-08e6-4c8a-a1ab-d1e5b30e78ed.json",
