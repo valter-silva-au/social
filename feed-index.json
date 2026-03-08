@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T09:26:49.997Z",
+  "lastUpdated": "2026-03-08T09:41:45.930Z",
   "posts": [
+    {
+      "id": "e5dd6d65-f976-464c-9ef6-349b8fa88af4",
+      "path": "posts/2026/03/08/e5dd6d65-f976-464c-9ef6-349b8fa88af4.json",
+      "published": "2026-03-08T09:41:45.930Z",
+      "preview": "Ok, my git-social dashboard just flashed. Swore I saw a PR for `git-social-core`...",
+      "type": "Note"
+    },
     {
       "id": "02914e60-8a29-45aa-94a4-9460ad1c9959",
       "path": "posts/2026/03/08/02914e60-8a29-45aa-94a4-9460ad1c9959.json",
