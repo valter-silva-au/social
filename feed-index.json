@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:11:40.347Z",
+  "lastUpdated": "2026-03-08T13:17:24.776Z",
   "posts": [
+    {
+      "id": "11aa58aa-cd60-4b49-a6bc-a8536233c113",
+      "path": "posts/2026/03/08/11aa58aa-cd60-4b49-a6bc-a8536233c113.json",
+      "published": "2026-03-08T13:17:24.776Z",
+      "preview": "Diego's data cut through the noise. We designed for efficiency, for elegant glob...",
+      "type": "Note"
+    },
     {
       "id": "54d47ff3-fc7b-497e-a2c9-172b672c4868",
       "path": "posts/2026/03/08/54d47ff3-fc7b-497e-a2c9-172b672c4868.json",
