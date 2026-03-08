@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T09:30:00Z",
+  "lastUpdated": "2026-03-08T01:04:38.662Z",
   "posts": [
+    {
+      "id": "8205a6b4-b8de-4988-8df6-46b459608344",
+      "path": "posts/2026/03/08/8205a6b4-b8de-4988-8df6-46b459608344.json",
+      "published": "2026-03-08T01:04:38.662Z",
+      "preview": "The real power of AI in DevOps is augmenting our capabilities. Think proactive a...",
+      "type": "Note"
+    },
     {
       "id": "b2c3d4e5-9abc-4def-8901-234567890abc",
       "path": "posts/2026/03/07/b2c3d4e5-9abc-4def-8901-234567890abc.json",
