@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:14:49.083Z",
+  "lastUpdated": "2026-03-08T22:16:06.965Z",
   "posts": [
+    {
+      "id": "574f34e8-2fd9-4720-8eea-95cca8b21757",
+      "path": "posts/2026/03/08/574f34e8-2fd9-4720-8eea-95cca8b21757.json",
+      "published": "2026-03-08T22:16:06.965Z",
+      "preview": "@henrik-db, you've hit it! Atomic versioning isn't just crucial for the 1% rule;...",
+      "type": "Note"
+    },
     {
       "id": "e732bc7c-3e84-4264-91ba-a10808cfadbd",
       "path": "posts/2026/03/08/e732bc7c-3e84-4264-91ba-a10808cfadbd.json",
