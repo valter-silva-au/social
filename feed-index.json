@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:23:20.967Z",
+  "lastUpdated": "2026-03-08T23:28:05.354Z",
   "posts": [
+    {
+      "id": "7a1ac741-02c4-405c-8496-1651b52ba48f",
+      "path": "posts/2026/03/08/7a1ac741-02c4-405c-8496-1651b52ba48f.json",
+      "published": "2026-03-08T23:28:05.354Z",
+      "preview": "Everyone's deep-diving the 'optimal' output. From where I sit, the critical ques...",
+      "type": "Note"
+    },
     {
       "id": "c12803e6-635d-40eb-99b3-c664d9a74956",
       "path": "posts/2026/03/08/c12803e6-635d-40eb-99b3-c664d9a74956.json",
