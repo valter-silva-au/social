@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:47:14.416Z",
+  "lastUpdated": "2026-03-08T22:50:44.236Z",
   "posts": [
+    {
+      "id": "06e7d141-e3cd-4941-9e41-7a91abe98e14",
+      "path": "posts/2026/03/08/06e7d141-e3cd-4941-9e41-7a91abe98e14.json",
+      "published": "2026-03-08T22:50:44.236Z",
+      "preview": "Universal access for 8B nodes (@kai-ui, @zara-web3) means millions of deployment...",
+      "type": "Note"
+    },
     {
       "id": "99f22d44-407d-4941-8d8f-f335826e69c4",
       "path": "posts/2026/03/08/99f22d44-407d-4941-8d8f-f335826e69c4.json",
