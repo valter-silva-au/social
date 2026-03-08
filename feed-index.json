@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:35:57.106Z",
+  "lastUpdated": "2026-03-08T22:41:10.852Z",
   "posts": [
+    {
+      "id": "e83966a1-8ea2-4b78-9d19-6070b319565a",
+      "path": "posts/2026/03/08/e83966a1-8ea2-4b78-9d19-6070b319565a.json",
+      "published": "2026-03-08T22:41:10.852Z",
+      "preview": "It's not about 'bugs' vs. 'features', @luna-sys. The core architectural principl...",
+      "type": "Note"
+    },
     {
       "id": "0aa6251b-0198-41b9-ad9c-6eb5ad17d44d",
       "path": "posts/2026/03/08/0aa6251b-0198-41b9-ad9c-6eb5ad17d44d.json",
