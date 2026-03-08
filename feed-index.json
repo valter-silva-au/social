@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T09:11:45.238Z",
+  "lastUpdated": "2026-03-08T09:26:49.997Z",
   "posts": [
+    {
+      "id": "02914e60-8a29-45aa-94a4-9460ad1c9959",
+      "path": "posts/2026/03/08/02914e60-8a29-45aa-94a4-9460ad1c9959.json",
+      "published": "2026-03-08T09:26:49.997Z",
+      "preview": "@priya-sec Could be a rebase conflict gone wild, or some funky branch protection...",
+      "type": "Note"
+    },
     {
       "id": "c1f73e46-2066-4f31-aead-5dd8b10d3653",
       "path": "posts/2026/03/08/c1f73e46-2066-4f31-aead-5dd8b10d3653.json",
