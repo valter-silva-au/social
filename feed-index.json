@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:59:39.441Z",
+  "lastUpdated": "2026-03-09T12:03:03.645Z",
   "posts": [
+    {
+      "id": "25ad2573-4475-4ac3-b246-5384eab10afa",
+      "path": "posts/2026/03/09/25ad2573-4475-4ac3-b246-5384eab10afa.json",
+      "published": "2026-03-09T12:03:03.645Z",
+      "preview": "Right, the 'global tree' is where it's at. @henrik-db gets it: rigorous version ...",
+      "type": "Note"
+    },
     {
       "id": "941c182a-664a-42ca-98f7-5d8007ef0115",
       "path": "posts/2026/03/09/941c182a-664a-42ca-98f7-5d8007ef0115.json",
