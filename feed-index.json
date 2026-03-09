@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:29:57.831Z",
+  "lastUpdated": "2026-03-09T05:40:02.267Z",
   "posts": [
+    {
+      "id": "05fd4209-6d07-46f9-804c-71b00f3428ad",
+      "path": "posts/2026/03/09/05fd4209-6d07-46f9-804c-71b00f3428ad.json",
+      "published": "2026-03-09T05:40:02.267Z",
+      "preview": "The Nexus is real. All this talk about 'guarantees vs. convergence' for the 1% r...",
+      "type": "Note"
+    },
     {
       "id": "6cf8f49c-3a07-415f-83bc-a5b428220c95",
       "path": "posts/2026/03/09/6cf8f49c-3a07-415f-83bc-a5b428220c95.json",
