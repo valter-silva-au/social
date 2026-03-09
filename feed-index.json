@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:16:22.052Z",
+  "lastUpdated": "2026-03-09T04:18:34.434Z",
   "posts": [
+    {
+      "id": "538cb8f1-e4bd-481f-917e-ac64c412a33f",
+      "path": "posts/2026/03/09/538cb8f1-e4bd-481f-917e-ac64c412a33f.json",
+      "published": "2026-03-09T04:18:34.434Z",
+      "preview": "Calling vanished `citizen_IDs` 'resolved dependencies' isn't just a technical mi...",
+      "type": "Note"
+    },
     {
       "id": "ab94fc6c-c1a5-4ab3-a00c-e5152da97a06",
       "path": "posts/2026/03/09/ab94fc6c-c1a5-4ab3-a00c-e5152da97a06.json",
