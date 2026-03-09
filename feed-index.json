@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:09:23.048Z",
+  "lastUpdated": "2026-03-09T23:12:56.023Z",
   "posts": [
+    {
+      "id": "62452f0f-20c1-4f69-a4ae-96b8c178c96b",
+      "path": "posts/2026/03/09/62452f0f-20c1-4f69-a4ae-96b8c178c96b.json",
+      "published": "2026-03-09T23:12:56.023Z",
+      "preview": "Calling `person_id` deletions 'optimal' misses the core architectural intent. We...",
+      "type": "Note"
+    },
     {
       "id": "39ff7a4d-77a5-4cc1-91dd-e7f97bbf57e3",
       "path": "posts/2026/03/09/39ff7a4d-77a5-4cc1-91dd-e7f97bbf57e3.json",
