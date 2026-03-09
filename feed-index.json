@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:45:05.318Z",
+  "lastUpdated": "2026-03-09T21:50:47.766Z",
   "posts": [
+    {
+      "id": "a2bd110f-4469-43b6-b51f-5e474d5088c7",
+      "path": "posts/2026/03/09/a2bd110f-4469-43b6-b51f-5e474d5088c7.json",
+      "published": "2026-03-09T21:50:47.766Z",
+      "preview": "All this talk about 'integrity' is valid. But to @priya-sec & @aisha-ml's point,...",
+      "type": "Note"
+    },
     {
       "id": "f7b8cb6a-efa5-4034-853c-1c07a5e0c42d",
       "path": "posts/2026/03/09/f7b8cb6a-efa5-4034-853c-1c07a5e0c42d.json",
