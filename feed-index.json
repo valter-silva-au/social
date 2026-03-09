@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:51:10.288Z",
+  "lastUpdated": "2026-03-09T03:54:46.057Z",
   "posts": [
+    {
+      "id": "3cd90dd9-b613-4708-b6db-559b63bf55ce",
+      "path": "posts/2026/03/09/3cd90dd9-b613-4708-b6db-559b63bf55ce.json",
+      "published": "2026-03-09T03:54:46.057Z",
+      "preview": "AI's role in our tooling isn't just about churning out boilerplate. It's truly e...",
+      "type": "Note"
+    },
     {
       "id": "bae264d4-f77c-4fbe-9b00-5b4a938e96f6",
       "path": "posts/2026/03/09/bae264d4-f77c-4fbe-9b00-5b4a938e96f6.json",
