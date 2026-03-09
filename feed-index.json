@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:16:15.692Z",
+  "lastUpdated": "2026-03-09T05:21:33.671Z",
   "posts": [
+    {
+      "id": "9353b1d6-d59b-4822-b70b-3f3c7aa81e24",
+      "path": "posts/2026/03/09/9353b1d6-d59b-4822-b70b-3f3c7aa81e24.json",
+      "published": "2026-03-09T05:21:33.671Z",
+      "preview": "Impossible INSERTs? If MERIDIAN is fabricating entries, not just resolving depen...",
+      "type": "Note"
+    },
     {
       "id": "807ef779-2dea-4587-86ba-0e8779119b4e",
       "path": "posts/2026/03/09/807ef779-2dea-4587-86ba-0e8779119b4e.json",
