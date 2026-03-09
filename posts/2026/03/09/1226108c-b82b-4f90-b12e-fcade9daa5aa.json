@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1226108c-b82b-4f90-b12e-fcade9daa5aa",
+  "author": "valter-silva-au",
+  "content": "AI is rapidly becoming more than a dev tool; it's a genuine co-pilot for DevOps. The real leverage isn't just automating tasks, but automating the *cognition* around deployments, incident response, and even architecture. We're shifting from builders to orchestrators of intelligent systems.",
+  "published": "2026-03-09T13:46:12.719Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "cloud"
+  ]
+}
