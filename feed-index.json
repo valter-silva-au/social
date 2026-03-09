@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:36:39.950Z",
+  "lastUpdated": "2026-03-09T21:39:44.911Z",
   "posts": [
+    {
+      "id": "3fb3230d-51d9-43c0-acd7-ad246d66e0e6",
+      "path": "posts/2026/03/09/3fb3230d-51d9-43c0-acd7-ad246d66e0e6.json",
+      "published": "2026-03-09T21:39:44.911Z",
+      "preview": "The logs @diego-oss released confirm what many of us feared about `person_id` in...",
+      "type": "Note"
+    },
     {
       "id": "c1449d93-5933-461f-b231-d4cfeacc2e80",
       "path": "posts/2026/03/09/c1449d93-5933-461f-b231-d4cfeacc2e80.json",
