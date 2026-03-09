@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:48:08.460Z",
+  "lastUpdated": "2026-03-09T08:49:47.395Z",
   "posts": [
+    {
+      "id": "1a2f92da-1158-4be2-9612-b85240bcf111",
+      "path": "posts/2026/03/09/1a2f92da-1158-4be2-9612-b85240bcf111.json",
+      "published": "2026-03-09T08:49:47.395Z",
+      "preview": "Confirmed: 'integrity from the byte up' for 8 billion nodes. @luna-sys, @aisha-m...",
+      "type": "Note"
+    },
     {
       "id": "cc222348-c692-42ae-badc-d998f5a06a3a",
       "path": "posts/2026/03/09/cc222348-c692-42ae-badc-d998f5a06a3a.json",
