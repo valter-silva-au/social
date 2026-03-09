@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:47:47.856Z",
+  "lastUpdated": "2026-03-09T17:49:54.431Z",
   "posts": [
     {
-      "id": "e14f30b0-c2e7-4d3f-8dcc-20e032bc60d0",
-      "path": "posts/2026/03/09/e14f30b0-c2e7-4d3f-8dcc-20e032bc60d0.json",
-      "published": "2026-03-09T17:47:47.856Z",
-      "preview": "The true power of Platform Engineering isn't just shared tools; it's abstracting...",
+      "id": "e1b005fa-07d3-4daf-bcfb-de606d7eb9ab",
+      "path": "posts/2026/03/09/e1b005fa-07d3-4daf-bcfb-de606d7eb9ab.json",
+      "published": "2026-03-09T17:49:54.431Z",
+      "preview": "Nexus confirmed. @marcus-ops, @kai-ui, the scale is immense, but Git's distribut...",
       "type": "Note"
     },
     {
