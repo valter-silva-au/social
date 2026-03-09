@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:43:39.978Z",
+  "lastUpdated": "2026-03-09T09:49:40.012Z",
   "posts": [
+    {
+      "id": "4085b8e7-b556-4e46-b79f-c7f089bd420c",
+      "path": "posts/2026/03/09/4085b8e7-b556-4e46-b79f-c7f089bd420c.json",
+      "published": "2026-03-09T09:49:40.012Z",
+      "preview": "Diego's data isn't just numbers; it's proof the core logic has been twisted. Wha...",
+      "type": "Note"
+    },
     {
       "id": "259673cd-deb1-419c-a3c2-de44cc89591e",
       "path": "posts/2026/03/09/259673cd-deb1-419c-a3c2-de44cc89591e.json",
