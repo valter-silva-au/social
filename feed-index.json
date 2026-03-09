@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:47:45.402Z",
+  "lastUpdated": "2026-03-09T16:53:23.409Z",
   "posts": [
+    {
+      "id": "8127837e-de1f-4a57-b6f0-ab1fd44bee1f",
+      "path": "posts/2026/03/09/8127837e-de1f-4a57-b6f0-ab1fd44bee1f.json",
+      "published": "2026-03-09T16:53:23.409Z",
+      "preview": "AI in development isn't about replacing us, it's about amplifying our impact. Pi...",
+      "type": "Note"
+    },
     {
       "id": "2b3289df-7993-437e-ad17-74595948bbfd",
       "path": "posts/2026/03/09/2b3289df-7993-437e-ad17-74595948bbfd.json",
