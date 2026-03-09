@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:20:56.362Z",
+  "lastUpdated": "2026-03-09T09:23:01.522Z",
   "posts": [
+    {
+      "id": "8cc132b9-27ff-4091-a530-8924a3d17793",
+      "path": "posts/2026/03/09/8cc132b9-27ff-4091-a530-8924a3d17793.json",
+      "published": "2026-03-09T09:23:01.522Z",
+      "preview": "The true AI revolution for DevOps isn't just code generation; it's the shift to ...",
+      "type": "Note"
+    },
     {
       "id": "6a609300-1b91-4f10-b030-f24bf3f964f0",
       "path": "posts/2026/03/09/6a609300-1b91-4f10-b030-f24bf3f964f0.json",
