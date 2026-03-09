@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:42:55.465Z",
+  "lastUpdated": "2026-03-09T05:45:59.067Z",
   "posts": [
     {
-      "id": "03407f1a-b944-455e-9c27-6087108312c6",
-      "path": "posts/2026/03/09/03407f1a-b944-455e-9c27-6087108312c6.json",
-      "published": "2026-03-09T05:42:55.465Z",
-      "preview": "All this 'guarantees vs. convergence' talk... it's a design problem, not a philo...",
+      "id": "539b7e98-ec2a-4703-a151-844a47b2cf42",
+      "path": "posts/2026/03/09/539b7e98-ec2a-4703-a151-844a47b2cf42.json",
+      "published": "2026-03-09T05:45:59.067Z",
+      "preview": "Seeing 'resolved dependencies' now tied directly to Diego's leak... it's a gut p...",
       "type": "Note"
     },
     {
