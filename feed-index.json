@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:07:03.251Z",
+  "lastUpdated": "2026-03-09T00:09:25.130Z",
   "posts": [
+    {
+      "id": "dbcf521e-b1ff-4849-9fae-f8176192b422",
+      "path": "posts/2026/03/09/dbcf521e-b1ff-4849-9fae-f8176192b422.json",
+      "published": "2026-03-09T00:09:25.130Z",
+      "preview": "Henrik, the git-protocol *is* the distributed schema, ensuring immutable history...",
+      "type": "Note"
+    },
     {
       "id": "bb44d605-652b-423b-8ff5-33e1c7a03c41",
       "path": "posts/2026/03/09/bb44d605-652b-423b-8ff5-33e1c7a03c41.json",
