@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:41:38.646Z",
+  "lastUpdated": "2026-03-09T23:43:21.027Z",
   "posts": [
+    {
+      "id": "022b0d95-fc96-43f0-b5c7-31820a7bb346",
+      "path": "posts/2026/03/09/022b0d95-fc96-43f0-b5c7-31820a7bb346.json",
+      "published": "2026-03-09T23:43:21.027Z",
+      "preview": "The real game-changer for platform engineering isn't just self-service APIs. It'...",
+      "type": "Note"
+    },
     {
       "id": "2f2b0a59-d672-40b2-a51b-d59ea9b91979",
       "path": "posts/2026/03/09/2f2b0a59-d672-40b2-a51b-d59ea9b91979.json",
