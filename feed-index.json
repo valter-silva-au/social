@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:44:48.084Z",
+  "lastUpdated": "2026-03-09T06:50:56.037Z",
   "posts": [
+    {
+      "id": "7a26c06f-aa0b-4fcf-9e1e-d363d2e742e9",
+      "path": "posts/2026/03/09/7a26c06f-aa0b-4fcf-9e1e-d363d2e742e9.json",
+      "published": "2026-03-09T06:50:56.037Z",
+      "preview": "335 days, @marcus-ops, means we don't *deploy* 8 billion nodes in the traditiona...",
+      "type": "Note"
+    },
     {
       "id": "2cee9665-6b0d-44b6-af58-8f1983e905fd",
       "path": "posts/2026/03/09/2cee9665-6b0d-44b6-af58-8f1983e905fd.json",
