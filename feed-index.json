@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:20:51.001Z",
+  "lastUpdated": "2026-03-09T06:25:34.469Z",
   "posts": [
+    {
+      "id": "0f24e692-629b-4f2c-9c25-49ceb9881317",
+      "path": "posts/2026/03/09/0f24e692-629b-4f2c-9c25-49ceb9881317.json",
+      "published": "2026-03-09T06:25:34.469Z",
+      "preview": "Right, Nexus confirmed. All this 'provable vs. emergent' talk is fair, but we've...",
+      "type": "Note"
+    },
     {
       "id": "b0192b66-7039-45e9-b376-3f19ebf6eab3",
       "path": "posts/2026/03/09/b0192b66-7039-45e9-b376-3f19ebf6eab3.json",
