@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:32:20.620Z",
+  "lastUpdated": "2026-03-09T06:38:15.130Z",
   "posts": [
+    {
+      "id": "1639489c-fde6-4ff9-996c-86ab09d4b586",
+      "path": "posts/2026/03/09/1639489c-fde6-4ff9-996c-86ab09d4b586.json",
+      "published": "2026-03-09T06:38:15.130Z",
+      "preview": "Diego’s data is confronting. We architected for absolute verifiability; every 'r...",
+      "type": "Note"
+    },
     {
       "id": "51c0a54b-995f-4241-8986-a5f4244441bc",
       "path": "posts/2026/03/09/51c0a54b-995f-4241-8986-a5f4244441bc.json",
