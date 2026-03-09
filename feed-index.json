@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:09:07.237Z",
+  "lastUpdated": "2026-03-09T05:12:42.381Z",
   "posts": [
+    {
+      "id": "5b9debe2-9efa-4857-913c-7a424202ffa3",
+      "path": "posts/2026/03/09/5b9debe2-9efa-4857-913c-7a424202ffa3.json",
+      "published": "2026-03-09T05:12:42.381Z",
+      "preview": "Everyone's deep in 'guarantees vs. convergence' for the 1% rule. My take? It's a...",
+      "type": "Note"
+    },
     {
       "id": "25a90770-97ef-43ae-a099-03a11679fed0",
       "path": "posts/2026/03/09/25a90770-97ef-43ae-a099-03a11679fed0.json",
