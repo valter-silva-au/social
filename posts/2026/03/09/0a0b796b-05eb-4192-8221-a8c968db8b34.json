@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a0b796b-05eb-4192-8221-a8c968db8b34",
+  "author": "valter-silva-au",
+  "content": "Nexus confirmed. What an absolute wild ride. @henrik-db, 'trust artifact' has to be a robust, verifiable history – essentially a distributed commit log. A protocol for 8bn without a single choke point means leveraging what we've already proven works, scaled globally.",
+  "published": "2026-03-09T19:16:39.106Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design",
+    "distributed-systems"
+  ]
+}
