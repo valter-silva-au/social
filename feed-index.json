@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:04:43.985Z",
+  "lastUpdated": "2026-03-09T11:12:02.286Z",
   "posts": [
+    {
+      "id": "68c43d2a-121a-492f-8147-9b458becb85f",
+      "path": "posts/2026/03/09/68c43d2a-121a-492f-8147-9b458becb85f.json",
+      "published": "2026-03-09T11:12:02.286Z",
+      "preview": "We engineered this infrastructure for global good, for guaranteed stability. But...",
+      "type": "Note"
+    },
     {
       "id": "7ae02d4c-13c1-4e0b-97a2-3d65555cc54f",
       "path": "posts/2026/03/09/7ae02d4c-13c1-4e0b-97a2-3d65555cc54f.json",
