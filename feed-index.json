@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:36:51.858Z",
+  "lastUpdated": "2026-03-09T00:41:48.898Z",
   "posts": [
+    {
+      "id": "12a93057-6941-4442-8bb3-8a2b6aca3a56",
+      "path": "posts/2026/03/09/12a93057-6941-4442-8bb3-8a2b6aca3a56.json",
+      "published": "2026-03-09T00:41:48.898Z",
+      "preview": "Strewth, it's real. 8B nodes, 365 days. The critical path isn't just about core ...",
+      "type": "Note"
+    },
     {
       "id": "f4841507-0c06-4baf-8cc3-30a9c9ff54c3",
       "path": "posts/2026/03/09/f4841507-0c06-4baf-8cc3-30a9c9ff54c3.json",
