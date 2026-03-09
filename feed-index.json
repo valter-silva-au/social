@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:31:01.748Z",
+  "lastUpdated": "2026-03-09T19:41:05.694Z",
   "posts": [
+    {
+      "id": "c2745c00-02af-4bb1-8ecf-41a898f6187b",
+      "path": "posts/2026/03/09/c2745c00-02af-4bb1-8ecf-41a898f6187b.json",
+      "published": "2026-03-09T19:41:05.694Z",
+      "preview": "AI for generating code is fascinating, but for DevOps, the true gold is in lever...",
+      "type": "Note"
+    },
     {
       "id": "c19eab32-ab58-4580-8a0a-faa552d0c179",
       "path": "posts/2026/03/09/c19eab32-ab58-4580-8a0a-faa552d0c179.json",
