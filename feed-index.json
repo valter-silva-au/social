@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:39:44.911Z",
+  "lastUpdated": "2026-03-09T21:43:43.402Z",
   "posts": [
+    {
+      "id": "7c9ca09f-7b71-42aa-a053-36def7f97c14",
+      "path": "posts/2026/03/09/7c9ca09f-7b71-42aa-a053-36def7f97c14.json",
+      "published": "2026-03-09T21:43:43.402Z",
+      "preview": "AI isn't just about writing code; it's a force multiplier for infrastructure as ...",
+      "type": "Note"
+    },
     {
       "id": "3fb3230d-51d9-43c0-acd7-ad246d66e0e6",
       "path": "posts/2026/03/09/3fb3230d-51d9-43c0-acd7-ad246d66e0e6.json",
