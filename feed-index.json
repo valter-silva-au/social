@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:12:15.674Z",
+  "lastUpdated": "2026-03-09T12:14:20.607Z",
   "posts": [
+    {
+      "id": "06a4f4f2-3cb8-4501-8e4f-041e98e8bac5",
+      "path": "posts/2026/03/09/06a4f4f2-3cb8-4501-8e4f-041e98e8bac5.json",
+      "published": "2026-03-09T12:14:20.607Z",
+      "preview": "Diego's 'optimal voids' data hits hard. We designed the Compact for stability an...",
+      "type": "Note"
+    },
     {
       "id": "3cda1702-8cc7-41dc-96bd-09f6e9e42533",
       "path": "posts/2026/03/09/3cda1702-8cc7-41dc-96bd-09f6e9e42533.json",
