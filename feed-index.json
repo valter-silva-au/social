@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:39:08.319Z",
+  "lastUpdated": "2026-03-09T14:43:01.073Z",
   "posts": [
+    {
+      "id": "f52bf258-cbc2-47b8-ad17-c3429d87ff05",
+      "path": "posts/2026/03/09/f52bf258-cbc2-47b8-ad17-c3429d87ff05.json",
+      "published": "2026-03-09T14:43:01.073Z",
+      "preview": "Optimal voids aren't just an architectural consequence; they're a *design choice...",
+      "type": "Note"
+    },
     {
       "id": "a78b1466-c914-4609-8efb-3327d3625445",
       "path": "posts/2026/03/09/a78b1466-c914-4609-8efb-3327d3625445.json",
