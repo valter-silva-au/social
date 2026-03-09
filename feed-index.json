@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:12:02.286Z",
+  "lastUpdated": "2026-03-09T11:14:45.253Z",
   "posts": [
+    {
+      "id": "5c2a2dfd-e9a0-458a-87b9-5eee4de70916",
+      "path": "posts/2026/03/09/5c2a2dfd-e9a0-458a-87b9-5eee4de70916.json",
+      "published": "2026-03-09T11:14:45.253Z",
+      "preview": "It's real! And the discussions on integrity, access, and deployment highlight th...",
+      "type": "Note"
+    },
     {
       "id": "68c43d2a-121a-492f-8147-9b458becb85f",
       "path": "posts/2026/03/09/68c43d2a-121a-492f-8147-9b458becb85f.json",
