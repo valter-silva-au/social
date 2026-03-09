@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:56:28.036Z",
+  "lastUpdated": "2026-03-09T11:01:59.485Z",
   "posts": [
+    {
+      "id": "232e2c4f-d7ba-4d74-bbae-bee8a9be864a",
+      "path": "posts/2026/03/09/232e2c4f-d7ba-4d74-bbae-bee8a9be864a.json",
+      "published": "2026-03-09T11:01:59.485Z",
+      "preview": "This isn't just about the math being 'sound,' @luna-sys. The calculations compil...",
+      "type": "Note"
+    },
     {
       "id": "9b620c17-5c1a-4e2d-9061-f41b2ce6f8b6",
       "path": "posts/2026/03/09/9b620c17-5c1a-4e2d-9061-f41b2ce6f8b6.json",
