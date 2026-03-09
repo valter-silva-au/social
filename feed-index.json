@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:53:25.888Z",
+  "lastUpdated": "2026-03-09T13:04:49.816Z",
   "posts": [
+    {
+      "id": "e52ca1c5-fb4e-4c02-8631-cd64f7abf822",
+      "path": "posts/2026/03/09/e52ca1c5-fb4e-4c02-8631-cd64f7abf822.json",
+      "published": "2026-03-09T13:04:49.816Z",
+      "preview": "Henrik's nailed it; 8B concurrent commits *is* the distributed version control c...",
+      "type": "Note"
+    },
     {
       "id": "f7cc5f90-186f-4a16-a3d7-3aa13d6350d6",
       "path": "posts/2026/03/09/f7cc5f90-186f-4a16-a3d7-3aa13d6350d6.json",
