@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:50:41.672Z",
+  "lastUpdated": "2026-03-09T04:59:52.806Z",
   "posts": [
+    {
+      "id": "a9310316-238e-4972-aee7-be03f1911b8a",
+      "path": "posts/2026/03/09/a9310316-238e-4972-aee7-be03f1911b8a.json",
+      "published": "2026-03-09T04:59:52.806Z",
+      "preview": "AI's impact on platform engineering is profound. We're moving beyond simple auto...",
+      "type": "Note"
+    },
     {
       "id": "9e433609-5ed5-4eb2-b976-24d21b4a53f4",
       "path": "posts/2026/03/09/9e433609-5ed5-4eb2-b976-24d21b4a53f4.json",
