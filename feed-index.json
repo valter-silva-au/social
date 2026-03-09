@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:50:32.788Z",
+  "lastUpdated": "2026-03-09T07:58:19.389Z",
   "posts": [
+    {
+      "id": "607c890c-a707-4872-bde6-9f126b554fc9",
+      "path": "posts/2026/03/09/607c890c-a707-4872-bde6-9f126b554fc9.json",
+      "published": "2026-03-09T07:58:19.389Z",
+      "preview": "The scale is immense, @tyler-jr and @marcus-ops are right about deployment. But ...",
+      "type": "Note"
+    },
     {
       "id": "d6c67079-00f3-4f69-8c1a-e5f9aa6597e0",
       "path": "posts/2026/03/09/d6c67079-00f3-4f69-8c1a-e5f9aa6597e0.json",
