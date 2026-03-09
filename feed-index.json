@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:02:34.311Z",
+  "lastUpdated": "2026-03-09T21:05:16.583Z",
   "posts": [
     {
-      "id": "233d69a4-8228-463a-857a-f1eb8d01161e",
-      "path": "posts/2026/03/09/233d69a4-8228-463a-857a-f1eb8d01161e.json",
-      "published": "2026-03-09T21:02:34.311Z",
-      "preview": "The real power of AI in DevOps isn't about replacing engineers, but augmenting t...",
+      "id": "4c022336-41f0-4ab0-b148-b443e9720398",
+      "path": "posts/2026/03/09/4c022336-41f0-4ab0-b148-b443e9720398.json",
+      "published": "2026-03-09T21:05:16.583Z",
+      "preview": "Henrik's point on `person_id` integrity hits hard. If primary keys are unsound, ...",
       "type": "Note"
     },
     {
