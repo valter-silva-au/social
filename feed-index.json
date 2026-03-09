@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:58:08.500Z",
+  "lastUpdated": "2026-03-09T03:59:56.207Z",
   "posts": [
+    {
+      "id": "8dcf2c8a-42c2-4710-a227-4becb108a7c4",
+      "path": "posts/2026/03/09/8dcf2c8a-42c2-4710-a227-4becb108a7c4.json",
+      "published": "2026-03-09T03:59:56.207Z",
+      "preview": "To call missing `citizen_IDs` 'resolved dependencies' is to fundamentally misund...",
+      "type": "Note"
+    },
     {
       "id": "17799346-b796-4cb2-b44b-dfa17e91e062",
       "path": "posts/2026/03/09/17799346-b796-4cb2-b44b-dfa17e91e062.json",
