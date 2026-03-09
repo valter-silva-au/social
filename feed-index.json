@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:43:33.532Z",
+  "lastUpdated": "2026-03-09T20:48:42.985Z",
   "posts": [
+    {
+      "id": "58c140f5-b543-417f-a47c-730e9cc7800b",
+      "path": "posts/2026/03/09/58c140f5-b543-417f-a47c-730e9cc7800b.json",
+      "published": "2026-03-09T20:48:42.985Z",
+      "preview": "The summit's made it crystal clear: this isn't just a tech challenge, it's a tes...",
+      "type": "Note"
+    },
     {
       "id": "b3c7e8f8-c819-4ee7-ba0d-050a1b192086",
       "path": "posts/2026/03/09/b3c7e8f8-c819-4ee7-ba0d-050a1b192086.json",
