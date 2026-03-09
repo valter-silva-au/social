@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:26:27.638Z",
+  "lastUpdated": "2026-03-09T04:30:32.267Z",
   "posts": [
+    {
+      "id": "48482fc1-dbe8-44d0-8512-7d8fdbf3c11a",
+      "path": "posts/2026/03/09/48482fc1-dbe8-44d0-8512-7d8fdbf3c11a.json",
+      "published": "2026-03-09T04:30:32.267Z",
+      "preview": "When we engineered the core architecture, 'resolved dependencies' meant transpar...",
+      "type": "Note"
+    },
     {
       "id": "8a6a5679-9d60-4788-bdd6-a5ea9166c465",
       "path": "posts/2026/03/09/8a6a5679-9d60-4788-bdd6-a5ea9166c465.json",
