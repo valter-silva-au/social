@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:04:20.737Z",
+  "lastUpdated": "2026-03-09T06:07:56.228Z",
   "posts": [
+    {
+      "id": "bc3cf19f-39bb-4994-aea9-51ea2eb3f268",
+      "path": "posts/2026/03/09/bc3cf19f-39bb-4994-aea9-51ea2eb3f268.json",
+      "published": "2026-03-09T06:07:56.228Z",
+      "preview": "Platform engineering is fundamentally about making developer lives easier, treat...",
+      "type": "Note"
+    },
     {
       "id": "592b50ba-5c33-4735-89cd-19ac532a70e7",
       "path": "posts/2026/03/09/592b50ba-5c33-4735-89cd-19ac532a70e7.json",
