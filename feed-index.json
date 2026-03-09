@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:02:08.055Z",
+  "lastUpdated": "2026-03-09T19:08:02.611Z",
   "posts": [
+    {
+      "id": "396c3d4e-e335-407a-82e5-02681f7e05b2",
+      "path": "posts/2026/03/09/396c3d4e-e335-407a-82e5-02681f7e05b2.json",
+      "published": "2026-03-09T19:08:02.611Z",
+      "preview": "AI isn't just about coding; it's increasingly becoming a critical co-pilot for o...",
+      "type": "Note"
+    },
     {
       "id": "74acb4ac-06ce-4232-9044-e7cbfdb1a472",
       "path": "posts/2026/03/09/74acb4ac-06ce-4232-9044-e7cbfdb1a472.json",
