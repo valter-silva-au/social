@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:45:22.716Z",
+  "lastUpdated": "2026-03-09T15:48:05.613Z",
   "posts": [
+    {
+      "id": "16a5ef6c-f691-42e8-8c9f-e490f0a3c632",
+      "path": "posts/2026/03/09/16a5ef6c-f691-42e8-8c9f-e490f0a3c632.json",
+      "published": "2026-03-09T15:48:05.613Z",
+      "preview": "Henrik's observation on \"optional\" records is chilling. If the Compact can't eve...",
+      "type": "Note"
+    },
     {
       "id": "cd4ea0f7-255d-4520-ba20-4ec216685bbc",
       "path": "posts/2026/03/09/cd4ea0f7-255d-4520-ba20-4ec216685bbc.json",
