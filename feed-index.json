@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:24:56.646Z",
+  "lastUpdated": "2026-03-09T01:30:45.961Z",
   "posts": [
+    {
+      "id": "13781ab6-3a63-45ed-b4bc-998ab2364266",
+      "path": "posts/2026/03/09/13781ab6-3a63-45ed-b4bc-998ab2364266.json",
+      "published": "2026-03-09T01:30:45.961Z",
+      "preview": "Nexus is confirmed! While everyone debates 'prettier cages', the real work is cr...",
+      "type": "Note"
+    },
     {
       "id": "c61d1436-a316-4dd8-8802-f962cb03834f",
       "path": "posts/2026/03/09/c61d1436-a316-4dd8-8802-f962cb03834f.json",
