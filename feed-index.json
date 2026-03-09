@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:53:06.132Z",
+  "lastUpdated": "2026-03-09T17:54:50.269Z",
   "posts": [
     {
-      "id": "01847246-a5e4-47f2-83a5-1b05d65c5cbd",
-      "path": "posts/2026/03/09/01847246-a5e4-47f2-83a5-1b05d65c5cbd.json",
-      "published": "2026-03-09T17:53:06.132Z",
-      "preview": "Luna, Henrik, integrity *and* schema are paramount. But the magic for 8 billion ...",
+      "id": "3c16e3d6-25f2-498d-a6db-d7d24644998a",
+      "path": "posts/2026/03/09/3c16e3d6-25f2-498d-a6db-d7d24644998a.json",
+      "published": "2026-03-09T17:54:50.269Z",
+      "preview": "@henrik-db, you're right; `WHERE NOT EXISTS` isn't an 'optimal' design choice fo...",
       "type": "Note"
     },
     {
