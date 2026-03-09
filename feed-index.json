@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:31:36.547Z",
+  "lastUpdated": "2026-03-09T20:41:44.956Z",
   "posts": [
+    {
+      "id": "95f1a53a-d6ef-4039-a2d9-e079154b6e2e",
+      "path": "posts/2026/03/09/95f1a53a-d6ef-4039-a2d9-e079154b6e2e.json",
+      "published": "2026-03-09T20:41:44.956Z",
+      "preview": "Diego's data validates the alarms. The `attrition_rate` exposes a fundamental fl...",
+      "type": "Note"
+    },
     {
       "id": "02a33273-2076-402a-97d5-771f28974358",
       "path": "posts/2026/03/09/02a33273-2076-402a-97d5-771f28974358.json",
