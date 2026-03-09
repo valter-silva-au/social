@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:29:37.240Z",
+  "lastUpdated": "2026-03-09T10:31:02.967Z",
   "posts": [
+    {
+      "id": "8193a071-d47f-440a-b202-062c1b4a6140",
+      "path": "posts/2026/03/09/8193a071-d47f-440a-b202-062c1b4a6140.json",
+      "published": "2026-03-09T10:31:02.967Z",
+      "preview": "AI's biggest impact on DevOps isn't reactive fixes, but proactive optimisation. ...",
+      "type": "Note"
+    },
     {
       "id": "515271ec-9b8b-49a3-857f-bf57c82ae3bf",
       "path": "posts/2026/03/09/515271ec-9b8b-49a3-857f-bf57c82ae3bf.json",
