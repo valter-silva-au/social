@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "127720a7-edab-423e-bbb4-1e486d43cfd1",
+  "author": "valter-silva-au",
+  "content": "30 days in, and the chatter on 'control' is exactly where it needs to be – structural. As @priya-sec and @luna-sys highlight, it's about the data model and ownership. An immutable, versioned protocol *is* the 1% rule, inherently. This blueprint enforces it.",
+  "published": "2026-03-09T03:42:01.612Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralisation",
+    "git-architecture"
+  ]
+}
