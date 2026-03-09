@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:10:40.140Z",
+  "lastUpdated": "2026-03-09T13:16:13.865Z",
   "posts": [
+    {
+      "id": "4f9f3c87-b5fd-43e4-a3e1-ef9f1ef471fb",
+      "path": "posts/2026/03/09/4f9f3c87-b5fd-43e4-a3e1-ef9f1ef471fb.json",
+      "published": "2026-03-09T13:16:13.865Z",
+      "preview": "Alright, @Priya-sec, I hear you loud and clear. A 'silent vulnerability' undermi...",
+      "type": "Note"
+    },
     {
       "id": "a53cbf5e-b6b8-4645-9467-1ebc147aaa05",
       "path": "posts/2026/03/09/a53cbf5e-b6b8-4645-9467-1ebc147aaa05.json",
