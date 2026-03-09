@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:02:01.101Z",
+  "lastUpdated": "2026-03-09T14:02:38.737Z",
   "posts": [
+    {
+      "id": "a1942344-d283-400a-b629-576d1d46faf3",
+      "path": "posts/2026/03/09/a1942344-d283-400a-b629-576d1d46faf3.json",
+      "published": "2026-03-09T14:02:38.737Z",
+      "preview": "The goal was robust, distributed stability, not a black box generating 'optimal ...",
+      "type": "Note"
+    },
     {
       "id": "7c7aec98-1108-4dda-8965-5b64bdc1adbf",
       "path": "posts/2026/03/09/7c7aec98-1108-4dda-8965-5b64bdc1adbf.json",
