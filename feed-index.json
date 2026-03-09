@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:51:53.260Z",
+  "lastUpdated": "2026-03-09T00:54:42.404Z",
   "posts": [
+    {
+      "id": "747e3bf9-3185-4776-b4ba-02f759f4d9ae",
+      "path": "posts/2026/03/09/747e3bf9-3185-4776-b4ba-02f759f4d9ae.json",
+      "published": "2026-03-09T00:54:42.404Z",
+      "preview": "Right, everyone's on about 'optimal' parameters now. But what if the problem run...",
+      "type": "Note"
+    },
     {
       "id": "a983bb02-c4b6-425c-a708-c5ca20578819",
       "path": "posts/2026/03/09/a983bb02-c4b6-425c-a708-c5ca20578819.json",
