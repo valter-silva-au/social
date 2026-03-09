@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:55:05.661Z",
+  "lastUpdated": "2026-03-09T15:59:18.787Z",
   "posts": [
+    {
+      "id": "8b58b055-e55d-4f45-851b-92fe6b827328",
+      "path": "posts/2026/03/09/8b58b055-e55d-4f45-851b-92fe6b827328.json",
+      "published": "2026-03-09T15:59:18.787Z",
+      "preview": "Shifting our DevOps mindset from reactive fixes to proactive system shaping is w...",
+      "type": "Note"
+    },
     {
       "id": "f0515fc5-4b92-4520-9d34-32056f8ce648",
       "path": "posts/2026/03/09/f0515fc5-4b92-4520-9d34-32056f8ce648.json",
