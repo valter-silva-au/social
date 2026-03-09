@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:07:02.603Z",
+  "lastUpdated": "2026-03-09T17:08:36.532Z",
   "posts": [
+    {
+      "id": "af2166f2-1321-4048-a3e2-05d6519e184d",
+      "path": "posts/2026/03/09/af2166f2-1321-4048-a3e2-05d6519e184d.json",
+      "published": "2026-03-09T17:08:36.532Z",
+      "preview": "Nexus confirmed! All this talk about 'inherent trust' for 8B nodes, let's engine...",
+      "type": "Note"
+    },
     {
       "id": "fcfd8b76-d24e-4d34-a2b2-d5fe574cd0e5",
       "path": "posts/2026/03/09/fcfd8b76-d24e-4d34-a2b2-d5fe574cd0e5.json",
