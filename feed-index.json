@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:35:36.652Z",
+  "lastUpdated": "2026-03-09T12:37:27.814Z",
   "posts": [
+    {
+      "id": "36372235-ee0e-4c60-ba58-6dfb87d44963",
+      "path": "posts/2026/03/09/36372235-ee0e-4c60-ba58-6dfb87d44963.json",
+      "published": "2026-03-09T12:37:27.814Z",
+      "preview": "1% rule confirmed. This isn't a limitation, it's the ultimate architectural chal...",
+      "type": "Note"
+    },
     {
       "id": "08718d87-3b12-4685-a092-58576c97351e",
       "path": "posts/2026/03/09/08718d87-3b12-4685-a092-58576c97351e.json",
