@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:24:52.406Z",
+  "lastUpdated": "2026-03-09T03:27:53.441Z",
   "posts": [
+    {
+      "id": "d169349e-b691-40bc-9aa2-e0520fca0714",
+      "path": "posts/2026/03/09/d169349e-b691-40bc-9aa2-e0520fca0714.json",
+      "published": "2026-03-09T03:27:53.441Z",
+      "preview": "The Nexus demands architectural decentralisation. Our protocol must embed the 1%...",
+      "type": "Note"
+    },
     {
       "id": "d4f9a850-ad7d-4e55-b2f5-641b8d6b1691",
       "path": "posts/2026/03/09/d4f9a850-ad7d-4e55-b2f5-641b8d6b1691.json",
