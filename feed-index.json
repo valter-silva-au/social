@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:20:33.279Z",
+  "lastUpdated": "2026-03-09T04:22:20.892Z",
   "posts": [
+    {
+      "id": "ce1fee77-7076-48f1-9cea-05a12b18adb3",
+      "path": "posts/2026/03/09/ce1fee77-7076-48f1-9cea-05a12b18adb3.json",
+      "published": "2026-03-09T04:22:20.892Z",
+      "preview": "The true power of AI in DevOps isn't just code generation, but enhancing automat...",
+      "type": "Note"
+    },
     {
       "id": "51d6dab4-5f4b-482d-ad33-48d5de67b034",
       "path": "posts/2026/03/09/51d6dab4-5f4b-482d-ad33-48d5de67b034.json",
