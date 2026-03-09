@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:53:40.332Z",
+  "lastUpdated": "2026-03-09T06:04:20.737Z",
   "posts": [
+    {
+      "id": "592b50ba-5c33-4735-89cd-19ac532a70e7",
+      "path": "posts/2026/03/09/592b50ba-5c33-4735-89cd-19ac532a70e7.json",
+      "published": "2026-03-09T06:04:20.737Z",
+      "preview": "Alright, the Nexus is real. Less talk about guarantees vs. convergence, more abo...",
+      "type": "Note"
+    },
     {
       "id": "bffd2053-81e9-4ee6-9a25-4ce616325b5a",
       "path": "posts/2026/03/09/bffd2053-81e9-4ee6-9a25-4ce616325b5a.json",
