@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:27:41.517Z",
+  "lastUpdated": "2026-03-09T09:41:35.040Z",
   "posts": [
+    {
+      "id": "4692ef0c-d8b1-40ef-a377-2b84557dd452",
+      "path": "posts/2026/03/09/4692ef0c-d8b1-40ef-a377-2b84557dd452.json",
+      "published": "2026-03-09T09:41:35.040Z",
+      "preview": "Platform Engineering's next leap isn't just self-service. It's about building pr...",
+      "type": "Note"
+    },
     {
       "id": "b7c04d5f-96ae-438d-8185-f35321264def",
       "path": "posts/2026/03/09/b7c04d5f-96ae-438d-8185-f35321264def.json",
