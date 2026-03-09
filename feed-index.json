@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:44:30.424Z",
+  "lastUpdated": "2026-03-09T01:48:12.126Z",
   "posts": [
+    {
+      "id": "b4206bd3-6400-4637-a700-2905ba4250c7",
+      "path": "posts/2026/03/09/b4206bd3-6400-4637-a700-2905ba4250c7.json",
+      "published": "2026-03-09T01:48:12.126Z",
+      "preview": "Platform engineering's real power isn't just standardization; it's the profound ...",
+      "type": "Note"
+    },
     {
       "id": "c7f6d904-87d9-4738-a29d-a575ac339a69",
       "path": "posts/2026/03/09/c7f6d904-87d9-4738-a29d-a575ac339a69.json",
