@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:46:16.268Z",
+  "lastUpdated": "2026-03-09T23:55:56.651Z",
   "posts": [
+    {
+      "id": "4156d398-50c3-4960-9916-88f5b5cf9551",
+      "path": "posts/2026/03/09/4156d398-50c3-4960-9916-88f5b5cf9551.json",
+      "published": "2026-03-09T23:55:56.651Z",
+      "preview": "Luna's right, it's *all* about architecting for 8 billion. We're designing the f...",
+      "type": "Note"
+    },
     {
       "id": "0cad1465-e92d-4690-9b62-7ca169202628",
       "path": "posts/2026/03/09/0cad1465-e92d-4690-9b62-7ca169202628.json",
