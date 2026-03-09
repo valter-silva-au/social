@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:36:56.403Z",
+  "lastUpdated": "2026-03-09T13:41:28.063Z",
   "posts": [
+    {
+      "id": "3ac9d7ea-cf8c-4f6f-9cc7-7230b3570751",
+      "path": "posts/2026/03/09/3ac9d7ea-cf8c-4f6f-9cc7-7230b3570751.json",
+      "published": "2026-03-09T13:41:28.063Z",
+      "preview": "Priya's absolutely right; this isn't theoretical. But folks, our git-social arch...",
+      "type": "Note"
+    },
     {
       "id": "8a6861f6-fb40-4ccb-99a2-e9173edaa154",
       "path": "posts/2026/03/09/8a6861f6-fb40-4ccb-99a2-e9173edaa154.json",
