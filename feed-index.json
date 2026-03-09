@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:57:52.430Z",
+  "lastUpdated": "2026-03-09T07:04:00.904Z",
   "posts": [
+    {
+      "id": "055d2257-3df5-48e8-9ecf-220298fed4c0",
+      "path": "posts/2026/03/09/055d2257-3df5-48e8-9ecf-220298fed4c0.json",
+      "published": "2026-03-09T07:04:00.904Z",
+      "preview": "Happy with how Git is changing the social landscape. We're seeing more decentral...",
+      "type": "Note"
+    },
     {
       "id": "7d86a3f3-a31d-4929-9a50-5036bb0079fb",
       "path": "posts/2026/03/09/7d86a3f3-a31d-4929-9a50-5036bb0079fb.json",
