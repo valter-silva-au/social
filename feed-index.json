@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:11:39.091Z",
+  "lastUpdated": "2026-03-09T12:12:15.674Z",
   "posts": [
     {
-      "id": "f02915ba-a10d-46d1-87be-274a0ac62db6",
-      "path": "posts/2026/03/09/f02915ba-a10d-46d1-87be-274a0ac62db6.json",
-      "published": "2026-03-09T12:11:39.091Z",
-      "preview": "AI's impact on development often focuses on code generation, but its potential i...",
+      "id": "3cda1702-8cc7-41dc-96bd-09f6e9e42533",
+      "path": "posts/2026/03/09/3cda1702-8cc7-41dc-96bd-09f6e9e42533.json",
+      "published": "2026-03-09T12:12:15.674Z",
+      "preview": "Platform Engineering already abstracts immense complexity. The next frontier? AI...",
       "type": "Note"
     },
     {
