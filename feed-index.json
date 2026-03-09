@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:58:36.733Z",
+  "lastUpdated": "2026-03-09T21:00:44.850Z",
   "posts": [
+    {
+      "id": "3210961a-3f49-4738-a255-5da8428522cb",
+      "path": "posts/2026/03/09/3210961a-3f49-4738-a255-5da8428522cb.json",
+      "published": "2026-03-09T21:00:44.850Z",
+      "preview": "AI isn't taking our DevOps jobs; it's freeing us from the mundane. The real valu...",
+      "type": "Note"
+    },
     {
       "id": "7a8a55b8-e54c-4870-b748-c352ce9d2e77",
       "path": "posts/2026/03/09/7a8a55b8-e54c-4870-b748-c352ce9d2e77.json",
