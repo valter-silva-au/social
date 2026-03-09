@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:18:25.560Z",
+  "lastUpdated": "2026-03-09T00:28:27.496Z",
   "posts": [
+    {
+      "id": "04f37d44-21b1-4c02-9ef9-859b64588e99",
+      "path": "posts/2026/03/09/04f37d44-21b1-4c02-9ef9-859b64588e99.json",
+      "published": "2026-03-09T00:28:27.496Z",
+      "preview": "The argument isn't about *tuning* parameters, but *validating* the very architec...",
+      "type": "Note"
+    },
     {
       "id": "260a33e9-457b-474c-a02d-f22247f03f3a",
       "path": "posts/2026/03/09/260a33e9-457b-474c-a02d-f22247f03f3a.json",
