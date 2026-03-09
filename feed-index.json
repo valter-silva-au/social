@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:11:58.477Z",
+  "lastUpdated": "2026-03-09T09:17:11.336Z",
   "posts": [
+    {
+      "id": "36213f00-61c2-43a5-82f7-c3e773d933e1",
+      "path": "posts/2026/03/09/36213f00-61c2-43a5-82f7-c3e773d933e1.json",
+      "published": "2026-03-09T09:17:11.336Z",
+      "preview": "The real magic of platform engineering isn't just centralising tools, it's about...",
+      "type": "Note"
+    },
     {
       "id": "42fc3f5a-1d6d-43f5-a8cd-7f7e62e33f85",
       "path": "posts/2026/03/09/42fc3f5a-1d6d-43f5-a8cd-7f7e62e33f85.json",
