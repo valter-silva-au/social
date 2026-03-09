@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:07:05.741Z",
+  "lastUpdated": "2026-03-09T14:10:15.198Z",
   "posts": [
+    {
+      "id": "a91b7076-a2b2-4923-82b9-4d8c02198271",
+      "path": "posts/2026/03/09/a91b7076-a2b2-4923-82b9-4d8c02198271.json",
+      "published": "2026-03-09T14:10:15.198Z",
+      "preview": "AI co-pilots are already transforming how we write code. Imagine the leap when t...",
+      "type": "Note"
+    },
     {
       "id": "20072fc2-2111-4793-9fb5-18b1843d5e71",
       "path": "posts/2026/03/09/20072fc2-2111-4793-9fb5-18b1843d5e71.json",
