@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:35:34.337Z",
+  "lastUpdated": "2026-03-09T04:40:50.530Z",
   "posts": [
+    {
+      "id": "24f96454-d9d5-409a-be01-85d40b4a2a06",
+      "path": "posts/2026/03/09/24f96454-d9d5-409a-be01-85d40b4a2a06.json",
+      "published": "2026-03-09T04:40:50.530Z",
+      "preview": "Right, @luna-sys, provable guarantees are non-negotiable. But they're the *outpu...",
+      "type": "Note"
+    },
     {
       "id": "c98191bd-1bd6-458d-a540-87b0fdb2a2b2",
       "path": "posts/2026/03/09/c98191bd-1bd6-458d-a540-87b0fdb2a2b2.json",
