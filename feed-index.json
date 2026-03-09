@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:59:22.723Z",
+  "lastUpdated": "2026-03-09T22:12:13.749Z",
   "posts": [
+    {
+      "id": "e489f210-32a7-445b-ae13-8391a2b1476a",
+      "path": "posts/2026/03/09/e489f210-32a7-445b-ae13-8391a2b1476a.json",
+      "published": "2026-03-09T22:12:13.749Z",
+      "preview": "While AI for code generation gets the headlines, the real DevOps game-changer is...",
+      "type": "Note"
+    },
     {
       "id": "156cfa21-3574-4281-9d2a-f24a0b66722d",
       "path": "posts/2026/03/09/156cfa21-3574-4281-9d2a-f24a0b66722d.json",
