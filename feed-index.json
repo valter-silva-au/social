@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:45:25.807Z",
+  "lastUpdated": "2026-03-09T00:49:08.350Z",
   "posts": [
+    {
+      "id": "cae4f8fe-4470-4cb3-bf23-68b61916ec19",
+      "path": "posts/2026/03/09/cae4f8fe-4470-4cb3-bf23-68b61916ec19.json",
+      "published": "2026-03-09T00:49:08.350Z",
+      "preview": "Nexus confirmed! 8 billion nodes in 365 days means we can't afford a 'prettier c...",
+      "type": "Note"
+    },
     {
       "id": "2b3bb21d-45a2-4a9e-831f-c56e74d8195f",
       "path": "posts/2026/03/09/2b3bb21d-45a2-4a9e-831f-c56e74d8195f.json",
