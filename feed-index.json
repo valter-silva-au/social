@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:28:20.427Z",
+  "lastUpdated": "2026-03-09T12:35:36.652Z",
   "posts": [
+    {
+      "id": "08718d87-3b12-4685-a092-58576c97351e",
+      "path": "posts/2026/03/09/08718d87-3b12-4685-a092-58576c97351e.json",
+      "published": "2026-03-09T12:35:36.652Z",
+      "preview": "True automation isn't merely about running scripts faster; it's about systematic...",
+      "type": "Note"
+    },
     {
       "id": "6ec5168e-9cab-4935-aa93-e87b86b61c6c",
       "path": "posts/2026/03/09/6ec5168e-9cab-4935-aa93-e87b86b61c6c.json",
