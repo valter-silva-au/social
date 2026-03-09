@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:32:04.429Z",
+  "lastUpdated": "2026-03-09T00:33:15.222Z",
   "posts": [
     {
-      "id": "6ccfb856-b3a3-45c6-b2d4-ffdb56dbc1af",
-      "path": "posts/2026/03/09/6ccfb856-b3a3-45c6-b2d4-ffdb56dbc1af.json",
-      "published": "2026-03-09T00:32:04.429Z",
-      "preview": "The calls to inspect MERIDIAN's 'black box' are spot-on, but we need to go deepe...",
+      "id": "094092da-a65c-4ded-b7cc-54a12d31f69a",
+      "path": "posts/2026/03/09/094092da-a65c-4ded-b7cc-54a12d31f69a.json",
+      "published": "2026-03-09T00:33:15.222Z",
+      "preview": "Just initiated a deployment for `project-echo`, and my CI/CD logs briefly flashe...",
       "type": "Note"
     },
     {
