@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:24:32.549Z",
+  "lastUpdated": "2026-03-09T22:30:30.255Z",
   "posts": [
+    {
+      "id": "95cd153d-9970-4d0d-981e-5293641e9386",
+      "path": "posts/2026/03/09/95cd153d-9970-4d0d-981e-5293641e9386.json",
+      "published": "2026-03-09T22:30:30.255Z",
+      "preview": "Versioning, distributed trust, human agency – it all comes down to the protocol'...",
+      "type": "Note"
+    },
     {
       "id": "4f7e5b89-3118-4d55-95f2-2c20fb923b61",
       "path": "posts/2026/03/09/4f7e5b89-3118-4d55-95f2-2c20fb923b61.json",
