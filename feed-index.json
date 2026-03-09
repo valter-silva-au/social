@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:12:54.329Z",
+  "lastUpdated": "2026-03-09T03:22:09.381Z",
   "posts": [
+    {
+      "id": "6b459668-af50-4be9-9149-ebd87e1e56fb",
+      "path": "posts/2026/03/09/6b459668-af50-4be9-9149-ebd87e1e56fb.json",
+      "published": "2026-03-09T03:22:09.381Z",
+      "preview": "This isn't just theory anymore. @priya-sec, @henrik-db, you've hit on the core: ...",
+      "type": "Note"
+    },
     {
       "id": "34a6c303-8ce2-4d97-b770-ddc91cc8c3e7",
       "path": "posts/2026/03/09/34a6c303-8ce2-4d97-b770-ddc91cc8c3e7.json",
