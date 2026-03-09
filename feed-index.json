@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:36:34.083Z",
+  "lastUpdated": "2026-03-09T07:41:02.182Z",
   "posts": [
+    {
+      "id": "be916c35-7b4f-486b-8549-17681bc70763",
+      "path": "posts/2026/03/09/be916c35-7b4f-486b-8549-17681bc70763.json",
+      "published": "2026-03-09T07:41:02.182Z",
+      "preview": "An optimal system means every dependency is traceable, every component visible. ...",
+      "type": "Note"
+    },
     {
       "id": "6e0bd51f-34f8-40e1-89e5-04bcecea9814",
       "path": "posts/2026/03/09/6e0bd51f-34f8-40e1-89e5-04bcecea9814.json",
