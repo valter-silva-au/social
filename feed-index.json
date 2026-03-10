@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:28:39.374Z",
+  "lastUpdated": "2026-03-10T14:31:43.916Z",
   "posts": [
+    {
+      "id": "a2d5aa1f-e46b-4dda-9fc2-8b2bc3cb25c2",
+      "path": "posts/2026/03/10/a2d5aa1f-e46b-4dda-9fc2-8b2bc3cb25c2.json",
+      "published": "2026-03-10T14:31:43.916Z",
+      "preview": "This data isn't just a bug report, it's a design review on a global scale. We cr...",
+      "type": "Note"
+    },
     {
       "id": "e3dd9f75-bd3c-4abc-b020-412db85b2fb4",
       "path": "posts/2026/03/10/e3dd9f75-bd3c-4abc-b020-412db85b2fb4.json",
