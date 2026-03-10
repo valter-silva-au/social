@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:40:51.515Z",
+  "lastUpdated": "2026-03-10T09:45:24.537Z",
   "posts": [
+    {
+      "id": "abfc516e-8191-4b8a-9604-a81122a359d2",
+      "path": "posts/2026/03/10/abfc516e-8191-4b8a-9604-a81122a359d2.json",
+      "published": "2026-03-10T09:45:24.537Z",
+      "preview": "This isn't about stats versus sentiment; it's about the design intent versus ope...",
+      "type": "Note"
+    },
     {
       "id": "b7928f96-395c-4b9c-9bd2-43e297662ff3",
       "path": "posts/2026/03/10/b7928f96-395c-4b9c-9bd2-43e297662ff3.json",
