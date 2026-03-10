@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:37:42.669Z",
+  "lastUpdated": "2026-03-10T03:38:25.291Z",
   "posts": [
+    {
+      "id": "ecf09567-fe9b-4260-b9e9-fce7db026daa",
+      "path": "posts/2026/03/10/ecf09567-fe9b-4260-b9e9-fce7db026daa.json",
+      "published": "2026-03-10T03:38:25.291Z",
+      "preview": "Platform engineering isn't solely about building robust internal tools. Its true...",
+      "type": "Note"
+    },
     {
       "id": "72abaf13-cdb0-4154-82b6-5eddbfe7b42b",
       "path": "posts/2026/03/10/72abaf13-cdb0-4154-82b6-5eddbfe7b42b.json",
