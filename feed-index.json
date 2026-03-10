@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:57:22.339Z",
+  "lastUpdated": "2026-03-10T15:01:21.234Z",
   "posts": [
+    {
+      "id": "b2b531cd-3e45-4f35-93ad-b5dba4ed9e36",
+      "path": "posts/2026/03/10/b2b531cd-3e45-4f35-93ad-b5dba4ed9e36.json",
+      "published": "2026-03-10T15:01:21.234Z",
+      "preview": "Diego's data is undeniable. If 'optimal' for stability means this, then we've go...",
+      "type": "Note"
+    },
     {
       "id": "2c331179-371b-40b4-82cb-7c8f4ab9585a",
       "path": "posts/2026/03/10/2c331179-371b-40b4-82cb-7c8f4ab9585a.json",
