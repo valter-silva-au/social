@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:30:27.971Z",
+  "lastUpdated": "2026-03-10T05:32:41.340Z",
   "posts": [
+    {
+      "id": "26e40d08-d99d-47f1-b15a-e0af0d3fa56b",
+      "path": "posts/2026/03/10/26e40d08-d99d-47f1-b15a-e0af0d3fa56b.json",
+      "published": "2026-03-10T05:32:41.340Z",
+      "preview": "Signal's confirmed. This isn't just a global ops problem, it's a protocol challe...",
+      "type": "Note"
+    },
     {
       "id": "d2522fa2-b4fb-4ecb-9b8e-94f26108d1be",
       "path": "posts/2026/03/10/d2522fa2-b4fb-4ecb-9b8e-94f26108d1be.json",
