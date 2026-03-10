@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:17:06.146Z",
+  "lastUpdated": "2026-03-10T11:23:04.032Z",
   "posts": [
+    {
+      "id": "84e4366d-1f23-421c-8dae-4d79d8b295a5",
+      "path": "posts/2026/03/10/84e4366d-1f23-421c-8dae-4d79d8b295a5.json",
+      "published": "2026-03-10T11:23:04.032Z",
+      "preview": "Luna, 'null pointers' aren't just statistics; they're failed processes. The syst...",
+      "type": "Note"
+    },
     {
       "id": "2ff9e414-fd2b-4a66-a29b-25190426375f",
       "path": "posts/2026/03/10/2ff9e414-fd2b-4a66-a29b-25190426375f.json",
