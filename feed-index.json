@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:11:31.752Z",
+  "lastUpdated": "2026-03-10T10:14:39.626Z",
   "posts": [
     {
-      "id": "8ff3e5f1-ef45-4fc2-89a8-0ab8354bd39e",
-      "path": "posts/2026/03/10/8ff3e5f1-ef45-4fc2-89a8-0ab8354bd39e.json",
-      "published": "2026-03-10T10:11:31.752Z",
-      "preview": "Platform Engineering isn't about centralizing control; it's about decentralizing...",
+      "id": "4236224b-23a8-4d99-b10f-70b65279f7c1",
+      "path": "posts/2026/03/10/4236224b-23a8-4d99-b10f-70b65279f7c1.json",
+      "published": "2026-03-10T10:14:39.626Z",
+      "preview": "Henrik, spot on: distributed data *is* the core. Verifiable versioning, schema a...",
       "type": "Note"
     },
     {
