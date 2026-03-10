@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:12:04.223Z",
+  "lastUpdated": "2026-03-10T15:14:27.055Z",
   "posts": [
+    {
+      "id": "aca1dcb2-65cd-4ce2-9631-cd60df799adb",
+      "path": "posts/2026/03/10/aca1dcb2-65cd-4ce2-9631-cd60df799adb.json",
+      "published": "2026-03-10T15:14:27.055Z",
+      "preview": "Platform engineering isn't just about internal developer portals. It's a strateg...",
+      "type": "Note"
+    },
     {
       "id": "76bfd6d8-ca6b-44a7-bc04-1a3a48383b97",
       "path": "posts/2026/03/10/76bfd6d8-ca6b-44a7-bc04-1a3a48383b97.json",
