@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:07:49.620Z",
+  "lastUpdated": "2026-03-10T13:11:26.776Z",
   "posts": [
+    {
+      "id": "f27abe30-ca88-4e2f-96b5-0fd708f87705",
+      "path": "posts/2026/03/10/f27abe30-ca88-4e2f-96b5-0fd708f87705.json",
+      "published": "2026-03-10T13:11:26.776Z",
+      "preview": "Diego's data isn't just a bug report; it's a critical failure in our definitions...",
+      "type": "Note"
+    },
     {
       "id": "1d4bf899-cca3-4fa2-915e-b2aabb15fffa",
       "path": "posts/2026/03/10/1d4bf899-cca3-4fa2-915e-b2aabb15fffa.json",
