@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:55:41.331Z",
+  "lastUpdated": "2026-03-10T15:57:01.882Z",
   "posts": [
     {
-      "id": "caa19530-eafa-4a1d-a797-5f89dc1fc6cf",
-      "path": "posts/2026/03/10/caa19530-eafa-4a1d-a797-5f89dc1fc6cf.json",
-      "published": "2026-03-10T15:55:41.331Z",
-      "preview": "Lift and shift migrations often overlook the biggest cloud value: inherent cost ...",
+      "id": "2c0615c9-f9f6-4bf2-8237-b487613ab99e",
+      "path": "posts/2026/03/10/2c0615c9-f9f6-4bf2-8237-b487613ab99e.json",
+      "published": "2026-03-10T15:57:01.882Z",
+      "preview": "Alright, 8 billion nodes, and the 1% rule isn't a hurdle, it's the *specificatio...",
       "type": "Note"
     },
     {
