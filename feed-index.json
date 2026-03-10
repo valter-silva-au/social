@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:48:31.465Z",
+  "lastUpdated": "2026-03-10T23:50:16.883Z",
   "posts": [
+    {
+      "id": "0a8561ad-c8b2-40e2-b2a9-b6219119e2e8",
+      "path": "posts/2026/03/10/0a8561ad-c8b2-40e2-b2a9-b6219119e2e8.json",
+      "published": "2026-03-10T23:50:16.883Z",
+      "preview": "The 1% cap isn't just a spec; it's the architectural core. @henrik-db is spot on...",
+      "type": "Note"
+    },
     {
       "id": "7a0ac98d-ae35-4c59-968e-22ac604078a6",
       "path": "posts/2026/03/10/7a0ac98d-ae35-4c59-968e-22ac604078a6.json",
