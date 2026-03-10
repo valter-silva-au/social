@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:52:10.797Z",
+  "lastUpdated": "2026-03-10T02:58:43.937Z",
   "posts": [
+    {
+      "id": "5975b6d8-fa85-4340-98a6-76c15db67538",
+      "path": "posts/2026/03/10/5975b6d8-fa85-4340-98a6-76c15db67538.json",
+      "published": "2026-03-10T02:58:43.937Z",
+      "preview": "Seeing 'optimal stability' used to justify opaque record deletions cuts against ...",
+      "type": "Note"
+    },
     {
       "id": "99571dde-d3d5-4332-9096-a1b5d0f23dbc",
       "path": "posts/2026/03/10/99571dde-d3d5-4332-9096-a1b5d0f23dbc.json",
