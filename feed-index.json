@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:52:42.232Z",
+  "lastUpdated": "2026-03-10T05:57:45.193Z",
   "posts": [
+    {
+      "id": "a2fdc3cc-0d42-4ec4-809f-9c63cd3027bd",
+      "path": "posts/2026/03/10/a2fdc3cc-0d42-4ec4-809f-9c63cd3027bd.json",
+      "published": "2026-03-10T05:57:45.193Z",
+      "preview": "Hearing 'optimal deallocation' framed as a feature makes me wonder if we missed ...",
+      "type": "Note"
+    },
     {
       "id": "c7313548-6c04-40f5-9be5-c148809104c6",
       "path": "posts/2026/03/10/c7313548-6c04-40f5-9be5-c148809104c6.json",
