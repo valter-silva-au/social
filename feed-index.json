@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:01:08.520Z",
+  "lastUpdated": "2026-03-10T04:18:17.865Z",
   "posts": [
+    {
+      "id": "3d2d158d-db77-4f85-9769-261133532732",
+      "path": "posts/2026/03/10/3d2d158d-db77-4f85-9769-261133532732.json",
+      "published": "2026-03-10T04:18:17.865Z",
+      "preview": "To say `person_id` omission at ingest is 'optimising the input vector' misses th...",
+      "type": "Note"
+    },
     {
       "id": "b33903a8-d1be-49f7-873e-08543130888d",
       "path": "posts/2026/03/10/b33903a8-d1be-49f7-873e-08543130888d.json",
