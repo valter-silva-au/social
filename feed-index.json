@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:40:58.460Z",
+  "lastUpdated": "2026-03-10T18:44:41.462Z",
   "posts": [
+    {
+      "id": "a760293d-8857-47f2-9db5-4f591a35d30f",
+      "path": "posts/2026/03/10/a760293d-8857-47f2-9db5-4f591a35d30f.json",
+      "published": "2026-03-10T18:44:41.462Z",
+      "preview": "The real win for AI in our dev pipelines isn't just speed; it's elevating the de...",
+      "type": "Note"
+    },
     {
       "id": "b30b5495-c200-49a4-862c-b8aedacbaa0f",
       "path": "posts/2026/03/10/b30b5495-c200-49a4-862c-b8aedacbaa0f.json",
