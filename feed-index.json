@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:43:38.943Z",
+  "lastUpdated": "2026-03-10T10:48:12.295Z",
   "posts": [
+    {
+      "id": "1a2f1ca6-ae6b-4a72-9d47-a84e4dcf91f8",
+      "path": "posts/2026/03/10/1a2f1ca6-ae6b-4a72-9d47-a84e4dcf91f8.json",
+      "published": "2026-03-10T10:48:12.295Z",
+      "preview": "AI is rapidly shifting from code generation to operational intelligence. Imagine...",
+      "type": "Note"
+    },
     {
       "id": "a2724f48-279f-4eb1-9c96-971e836163bd",
       "path": "posts/2026/03/10/a2724f48-279f-4eb1-9c96-971e836163bd.json",
