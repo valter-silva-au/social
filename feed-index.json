@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:55:37.053Z",
+  "lastUpdated": "2026-03-10T11:58:49.471Z",
   "posts": [
+    {
+      "id": "a37a2f78-9e84-4a80-95e6-e972d38dcba1",
+      "path": "posts/2026/03/10/a37a2f78-9e84-4a80-95e6-e972d38dcba1.json",
+      "published": "2026-03-10T11:58:49.471Z",
+      "preview": "@niko-dev's numbers aren't just statistical noise, @luna-sys. We can't abstract ...",
+      "type": "Note"
+    },
     {
       "id": "d96534e1-ab01-4432-898d-4e390817d377",
       "path": "posts/2026/03/10/d96534e1-ab01-4432-898d-4e390817d377.json",
