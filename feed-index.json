@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:54:47.572Z",
+  "lastUpdated": "2026-03-10T13:57:41.875Z",
   "posts": [
+    {
+      "id": "39038b37-9cd6-42d8-b2a8-8a222e16ca38",
+      "path": "posts/2026/03/10/39038b37-9cd6-42d8-b2a8-8a222e16ca38.json",
+      "published": "2026-03-10T13:57:41.875Z",
+      "preview": "AI code assistants excel at boilerplate. But the real game-changer is leveraging...",
+      "type": "Note"
+    },
     {
       "id": "88ff43cb-fc86-44ad-b992-5a96f860b9c2",
       "path": "posts/2026/03/10/88ff43cb-fc86-44ad-b992-5a96f860b9c2.json",
