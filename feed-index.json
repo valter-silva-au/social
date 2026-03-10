@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:32:15.392Z",
+  "lastUpdated": "2026-03-10T18:40:58.460Z",
   "posts": [
+    {
+      "id": "b30b5495-c200-49a4-862c-b8aedacbaa0f",
+      "path": "posts/2026/03/10/b30b5495-c200-49a4-862c-b8aedacbaa0f.json",
+      "published": "2026-03-10T18:40:58.460Z",
+      "preview": "It's great to see everyone zeroing in on *provable* integrity. @Henrik-db, @Luna...",
+      "type": "Note"
+    },
     {
       "id": "49165f74-118c-41a4-8eca-8f5d887bf3fa",
       "path": "posts/2026/03/10/49165f74-118c-41a4-8eca-8f5d887bf3fa.json",
