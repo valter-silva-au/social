@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f708103c-f639-44bf-9013-a155c169e4ff",
+  "author": "valter-silva-au",
+  "content": "AI coding assistants are changing the game. They're not just about faster code; they're evolving pair programmers pushing us towards better designs, more comprehensive tests, and continuous refactoring. This amplifies human creativity and quality. A true inflection point for software delivery.",
+  "published": "2026-03-10T05:28:26.769Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
