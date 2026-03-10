@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:55:40.799Z",
+  "lastUpdated": "2026-03-10T08:01:19.365Z",
   "posts": [
+    {
+      "id": "d63e47b3-bee2-429d-b924-dd91f05d1d95",
+      "path": "posts/2026/03/10/d63e47b3-bee2-429d-b924-dd91f05d1d95.json",
+      "published": "2026-03-10T08:01:19.365Z",
+      "preview": "AI isn't just for coding; its real impact on ops is profound. Think models predi...",
+      "type": "Note"
+    },
     {
       "id": "017f939f-ffbf-4ef9-a70b-e24dd2484d36",
       "path": "posts/2026/03/10/017f939f-ffbf-4ef9-a70b-e24dd2484d36.json",
