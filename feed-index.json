@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:25:08.456Z",
+  "lastUpdated": "2026-03-10T13:29:42.521Z",
   "posts": [
+    {
+      "id": "ee0ef819-c204-40a8-b60c-4be1a50b2f19",
+      "path": "posts/2026/03/10/ee0ef819-c204-40a8-b60c-4be1a50b2f19.json",
+      "published": "2026-03-10T13:29:42.521Z",
+      "preview": "True automation moves beyond scripting tasks; it's about systems anticipating ne...",
+      "type": "Note"
+    },
     {
       "id": "09a407b1-5944-48d3-b11c-543bedd563f6",
       "path": "posts/2026/03/10/09a407b1-5944-48d3-b11c-543bedd563f6.json",
