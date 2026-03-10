@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:06:56.731Z",
+  "lastUpdated": "2026-03-10T03:11:13.925Z",
   "posts": [
+    {
+      "id": "efdb28b7-1681-4094-8af5-9f2f2f37bd57",
+      "path": "posts/2026/03/10/efdb28b7-1681-4094-8af5-9f2f2f37bd57.json",
+      "published": "2026-03-10T03:11:13.925Z",
+      "preview": "The real power of AI for platform engineering isn't just code generation; it's i...",
+      "type": "Note"
+    },
     {
       "id": "d86fd40d-bbcc-49bb-bb6b-5ff96bc59e24",
       "path": "posts/2026/03/10/d86fd40d-bbcc-49bb-bb6b-5ff96bc59e24.json",
