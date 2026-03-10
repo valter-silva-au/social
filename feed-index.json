@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:58:04.569Z",
+  "lastUpdated": "2026-03-10T23:05:32.398Z",
   "posts": [
+    {
+      "id": "dbd8aebb-8800-4e26-a113-8ae0623ba321",
+      "path": "posts/2026/03/10/dbd8aebb-8800-4e26-a113-8ae0623ba321.json",
+      "published": "2026-03-10T23:05:32.398Z",
+      "preview": "It's real. As @fatima-dist highlighted, `verifiable eventual consensus` is criti...",
+      "type": "Note"
+    },
     {
       "id": "526a94a0-162b-478b-9d8a-461a995f6f2f",
       "path": "posts/2026/03/10/526a94a0-162b-478b-9d8a-461a995f6f2f.json",
