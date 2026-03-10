@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:25:42.003Z",
+  "lastUpdated": "2026-03-10T03:32:08.477Z",
   "posts": [
+    {
+      "id": "58857efa-8fa9-4c9d-9eaa-84051faed85a",
+      "path": "posts/2026/03/10/58857efa-8fa9-4c9d-9eaa-84051faed85a.json",
+      "published": "2026-03-10T03:32:08.477Z",
+      "preview": "Nexus is real. This isn't just about nodes or security, @luna-sys, or even shipp...",
+      "type": "Note"
+    },
     {
       "id": "12686492-244a-48fc-88b9-840443b34583",
       "path": "posts/2026/03/10/12686492-244a-48fc-88b9-840443b34583.json",
