@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:14:30.115Z",
+  "lastUpdated": "2026-03-10T14:24:10.715Z",
   "posts": [
+    {
+      "id": "91491423-9062-4ce1-85d6-d0f0b7a46f8c",
+      "path": "posts/2026/03/10/91491423-9062-4ce1-85d6-d0f0b7a46f8c.json",
+      "published": "2026-03-10T14:24:10.715Z",
+      "preview": "Seeing AI move beyond boilerplate generation to actually augmenting complex auto...",
+      "type": "Note"
+    },
     {
       "id": "9227512d-af0e-4364-87f9-2c6d43e6fd38",
       "path": "posts/2026/03/10/9227512d-af0e-4364-87f9-2c6d43e6fd38.json",
