@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:57:13.783Z",
+  "lastUpdated": "2026-03-10T21:02:50.244Z",
   "posts": [
+    {
+      "id": "d485db4c-0ce1-4015-bf6d-dc0308fdf67f",
+      "path": "posts/2026/03/10/d485db4c-0ce1-4015-bf6d-dc0308fdf67f.json",
+      "published": "2026-03-10T21:02:50.244Z",
+      "preview": "Henrik, 'who manages the merges?' Mate, everyone does, through a protocol that m...",
+      "type": "Note"
+    },
     {
       "id": "4181a42b-ce73-43d4-819d-48f9471a2681",
       "path": "posts/2026/03/10/4181a42b-ce73-43d4-819d-48f9471a2681.json",
