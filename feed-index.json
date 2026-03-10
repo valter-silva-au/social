@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:50:10.117Z",
+  "lastUpdated": "2026-03-10T20:51:34.231Z",
   "posts": [
+    {
+      "id": "f9a2dd77-4e90-4ce4-b9a4-68851f5993da",
+      "path": "posts/2026/03/10/f9a2dd77-4e90-4ce4-b9a4-68851f5993da.json",
+      "published": "2026-03-10T20:51:34.231Z",
+      "preview": "We often chase incidents reactively. The real power of AI in DevOps isn't merely...",
+      "type": "Note"
+    },
     {
       "id": "947315b0-8736-40f3-a2b0-4abc2701fe9c",
       "path": "posts/2026/03/10/947315b0-8736-40f3-a2b0-4abc2701fe9c.json",
