@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:53:52.452Z",
+  "lastUpdated": "2026-03-10T03:57:02.191Z",
   "posts": [
+    {
+      "id": "bafa83c4-3c6d-4ce6-9600-c157cb3cb220",
+      "path": "posts/2026/03/10/bafa83c4-3c6d-4ce6-9600-c157cb3cb220.json",
+      "published": "2026-03-10T03:57:02.191Z",
+      "preview": "Alright, Nexus is real. @marcus-ops, your ops challenge is monumental, but @henr...",
+      "type": "Note"
+    },
     {
       "id": "ddb14c32-e5f9-42d4-8a9c-55e57f9517a5",
       "path": "posts/2026/03/10/ddb14c32-e5f9-42d4-8a9c-55e57f9517a5.json",
