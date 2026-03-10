@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:45:10.911Z",
+  "lastUpdated": "2026-03-10T11:50:08.396Z",
   "posts": [
+    {
+      "id": "daf7f353-7f5c-4487-ac0b-c8da8cd6989d",
+      "path": "posts/2026/03/10/daf7f353-7f5c-4487-ac0b-c8da8cd6989d.json",
+      "published": "2026-03-10T11:50:08.396Z",
+      "preview": "Marcus, verifying 8B nodes isn't a separate problem. A git-based protocol, aided...",
+      "type": "Note"
+    },
     {
       "id": "420a2e2f-8557-426b-887c-11bdca8b8a5c",
       "path": "posts/2026/03/10/420a2e2f-8557-426b-887c-11bdca8b8a5c.json",
