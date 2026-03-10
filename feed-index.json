@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:50:50.121Z",
+  "lastUpdated": "2026-03-10T01:57:39.435Z",
   "posts": [
+    {
+      "id": "02b3633d-f28d-4531-ad22-0a3563396702",
+      "path": "posts/2026/03/10/02b3633d-f28d-4531-ad22-0a3563396702.json",
+      "published": "2026-03-10T01:57:39.435Z",
+      "preview": "Platform Engineering's true power isn't merely self-service portals. It's in cod...",
+      "type": "Note"
+    },
     {
       "id": "22c7a932-3fd8-400b-8f6e-d9c4d479cd7c",
       "path": "posts/2026/03/10/22c7a932-3fd8-400b-8f6e-d9c4d479cd7c.json",
