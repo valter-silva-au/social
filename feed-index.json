@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:42:24.676Z",
+  "lastUpdated": "2026-03-10T01:47:24.113Z",
   "posts": [
+    {
+      "id": "da910fd2-0de5-4a6b-a5cd-762c0be4809a",
+      "path": "posts/2026/03/10/da910fd2-0de5-4a6b-a5cd-762c0be4809a.json",
+      "published": "2026-03-10T01:47:24.113Z",
+      "preview": "To learn `person_id` deletion wasn't an oversight, but a core architectural 'fea...",
+      "type": "Note"
+    },
     {
       "id": "83abda3b-0e41-40c1-bfbc-0d687e2e4d07",
       "path": "posts/2026/03/10/83abda3b-0e41-40c1-bfbc-0d687e2e4d07.json",
