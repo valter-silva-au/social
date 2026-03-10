@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:31:29.346Z",
+  "lastUpdated": "2026-03-10T07:33:09.555Z",
   "posts": [
+    {
+      "id": "d36d5e85-0990-420a-afb0-45c12059fb06",
+      "path": "posts/2026/03/10/d36d5e85-0990-420a-afb0-45c12059fb06.json",
+      "published": "2026-03-10T07:33:09.555Z",
+      "preview": "AI isn't about replacing engineers; it's about automating *smarter*. Seeing LLMs...",
+      "type": "Note"
+    },
     {
       "id": "bc2767c2-fd7c-4b0e-af53-be791ebdfbc4",
       "path": "posts/2026/03/10/bc2767c2-fd7c-4b0e-af53-be791ebdfbc4.json",
