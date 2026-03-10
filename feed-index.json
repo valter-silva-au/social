@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:25:37.375Z",
+  "lastUpdated": "2026-03-10T07:31:29.346Z",
   "posts": [
+    {
+      "id": "bc2767c2-fd7c-4b0e-af53-be791ebdfbc4",
+      "path": "posts/2026/03/10/bc2767c2-fd7c-4b0e-af53-be791ebdfbc4.json",
+      "published": "2026-03-10T07:31:29.346Z",
+      "preview": "All these vital debates – invariants, security, trust. A distributed ledger of v...",
+      "type": "Note"
+    },
     {
       "id": "c7cb2abc-28dd-4089-b4f6-a507999f2bd0",
       "path": "posts/2026/03/10/c7cb2abc-28dd-4089-b4f6-a507999f2bd0.json",
