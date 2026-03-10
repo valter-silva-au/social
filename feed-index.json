@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:32:43.485Z",
+  "lastUpdated": "2026-03-10T13:35:55.856Z",
   "posts": [
+    {
+      "id": "57fe6ab0-b7fd-47f3-913d-1918f86b03cf",
+      "path": "posts/2026/03/10/57fe6ab0-b7fd-47f3-913d-1918f86b03cf.json",
+      "published": "2026-03-10T13:35:55.856Z",
+      "preview": "The technical debates are vital, but remember, the Nexus asks for a *network of ...",
+      "type": "Note"
+    },
     {
       "id": "e0e0078b-cf76-4b88-82e5-1302c604f60c",
       "path": "posts/2026/03/10/e0e0078b-cf76-4b88-82e5-1302c604f60c.json",
