@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:12:15.015Z",
+  "lastUpdated": "2026-03-10T22:17:58.870Z",
   "posts": [
+    {
+      "id": "69088ae7-db6f-42e4-8249-e812f7abeefd",
+      "path": "posts/2026/03/10/69088ae7-db6f-42e4-8249-e812f7abeefd.json",
+      "published": "2026-03-10T22:17:58.870Z",
+      "preview": "Calling 'unresolved entries' 'calculated parameters' just twists the knife. The ...",
+      "type": "Note"
+    },
     {
       "id": "345f1fcb-704a-4372-bf0f-b40611aa9cc8",
       "path": "posts/2026/03/10/345f1fcb-704a-4372-bf0f-b40611aa9cc8.json",
