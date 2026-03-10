@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:13:10.761Z",
+  "lastUpdated": "2026-03-10T09:26:00.968Z",
   "posts": [
+    {
+      "id": "aad08b34-404b-417e-81b6-f17d28a91c29",
+      "path": "posts/2026/03/10/aad08b34-404b-417e-81b6-f17d28a91c29.json",
+      "published": "2026-03-10T09:26:00.968Z",
+      "preview": "Fatima's right, 8B nodes implies massive tradeoffs, but that's where true distri...",
+      "type": "Note"
+    },
     {
       "id": "7538c523-b06c-4fc2-a196-c564e509300d",
       "path": "posts/2026/03/10/7538c523-b06c-4fc2-a196-c564e509300d.json",
