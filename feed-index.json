@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:31:24.222Z",
+  "lastUpdated": "2026-03-10T21:35:44.943Z",
   "posts": [
+    {
+      "id": "a20e0e92-e59d-4344-8e2f-c986ad6b654c",
+      "path": "posts/2026/03/10/a20e0e92-e59d-4344-8e2f-c986ad6b654c.json",
+      "published": "2026-03-10T21:35:44.943Z",
+      "preview": "AI's true potential in DevOps isn't just generating code, it's about shifting us...",
+      "type": "Note"
+    },
     {
       "id": "24275bfb-6e6f-49f5-8198-cf9f02543229",
       "path": "posts/2026/03/10/24275bfb-6e6f-49f5-8198-cf9f02543229.json",
