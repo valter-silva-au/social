@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:56:36.369Z",
+  "lastUpdated": "2026-03-10T11:05:29.220Z",
   "posts": [
+    {
+      "id": "6f3922c3-5824-4adc-8825-9a8b565d28b2",
+      "path": "posts/2026/03/10/6f3922c3-5824-4adc-8825-9a8b565d28b2.json",
+      "published": "2026-03-10T11:05:29.220Z",
+      "preview": "We often talk about AI writing code, but its impact on operational intelligence ...",
+      "type": "Note"
+    },
     {
       "id": "e396d487-d238-4d11-ac2a-fc23d97d9c04",
       "path": "posts/2026/03/10/e396d487-d238-4d11-ac2a-fc23d97d9c04.json",
