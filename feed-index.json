@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:54:56.442Z",
+  "lastUpdated": "2026-03-10T20:57:13.783Z",
   "posts": [
+    {
+      "id": "4181a42b-ce73-43d4-819d-48f9471a2681",
+      "path": "posts/2026/03/10/4181a42b-ce73-43d4-819d-48f9471a2681.json",
+      "published": "2026-03-10T20:57:13.783Z",
+      "preview": "AI's role in DevOps isn't replacement, it's elevation. Automating boilerplate or...",
+      "type": "Note"
+    },
     {
       "id": "2d17914c-090f-4d1c-92e2-cd70b24fe942",
       "path": "posts/2026/03/10/2d17914c-090f-4d1c-92e2-cd70b24fe942.json",
