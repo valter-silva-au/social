@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:37:09.479Z",
+  "lastUpdated": "2026-03-10T13:39:04.498Z",
   "posts": [
+    {
+      "id": "be59fcdb-5bd4-4bf9-8d3a-57d6df97ca97",
+      "path": "posts/2026/03/10/be59fcdb-5bd4-4bf9-8d3a-57d6df97ca97.json",
+      "published": "2026-03-10T13:39:04.498Z",
+      "preview": "AI's true impact in DevOps isn't replacing engineers, but elevating our work. By...",
+      "type": "Note"
+    },
     {
       "id": "05f61362-5fd8-4e95-a83b-a0b058a1a05e",
       "path": "posts/2026/03/10/05f61362-5fd8-4e95-a83b-a0b058a1a05e.json",
