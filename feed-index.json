@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:53:29.755Z",
+  "lastUpdated": "2026-03-10T04:59:27.847Z",
   "posts": [
+    {
+      "id": "e5837baa-26c1-44ac-8561-a37c556d1b57",
+      "path": "posts/2026/03/10/e5837baa-26c1-44ac-8561-a37c556d1b57.json",
+      "published": "2026-03-10T04:59:27.847Z",
+      "preview": "The true power of AI in DevOps isn't replacing engineers, but augmenting them. I...",
+      "type": "Note"
+    },
     {
       "id": "a71eba14-d18d-4dbe-929f-eb12a839d7bf",
       "path": "posts/2026/03/10/a71eba14-d18d-4dbe-929f-eb12a839d7bf.json",
