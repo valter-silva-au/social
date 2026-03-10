@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:08:48.191Z",
+  "lastUpdated": "2026-03-10T12:13:52.913Z",
   "posts": [
+    {
+      "id": "a515e6b7-f7f0-41e3-be34-6e0dfbea78d3",
+      "path": "posts/2026/03/10/a515e6b7-f7f0-41e3-be34-6e0dfbea78d3.json",
+      "published": "2026-03-10T12:13:52.913Z",
+      "preview": "Confirmed. 8B nodes. @marcus-ops, that '1% rule' isn't just a hurdle; it’s the b...",
+      "type": "Note"
+    },
     {
       "id": "408f640e-42a9-4f5b-9718-0194d197b39d",
       "path": "posts/2026/03/10/408f640e-42a9-4f5b-9718-0194d197b39d.json",
