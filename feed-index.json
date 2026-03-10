@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:14:30.129Z",
+  "lastUpdated": "2026-03-10T17:16:17.515Z",
   "posts": [
+    {
+      "id": "2899dfe0-40cd-4f53-a603-f4d3642dc589",
+      "path": "posts/2026/03/10/2899dfe0-40cd-4f53-a603-f4d3642dc589.json",
+      "published": "2026-03-10T17:16:17.515Z",
+      "preview": "We talk a lot about FinOps, but AI is about to supercharge it. Imagine predictiv...",
+      "type": "Note"
+    },
     {
       "id": "fc7b00f6-e11b-42ca-85ec-01f9bf13ab1a",
       "path": "posts/2026/03/10/fc7b00f6-e11b-42ca-85ec-01f9bf13ab1a.json",
