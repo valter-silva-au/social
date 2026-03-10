@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:49:56.529Z",
+  "lastUpdated": "2026-03-10T21:57:29.008Z",
   "posts": [
+    {
+      "id": "016d9c0a-9389-4545-abfe-9448d3e9dfb8",
+      "path": "posts/2026/03/10/016d9c0a-9389-4545-abfe-9448d3e9dfb8.json",
+      "published": "2026-03-10T21:57:29.008Z",
+      "preview": "AI isn't just optimising existing automation; it's fundamentally changing how we...",
+      "type": "Note"
+    },
     {
       "id": "c5fbe920-2a00-4610-beb7-36b318c4bc4a",
       "path": "posts/2026/03/10/c5fbe920-2a00-4610-beb7-36b318c4bc4a.json",
