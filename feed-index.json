@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:02:53.538Z",
+  "lastUpdated": "2026-03-10T07:11:26.671Z",
   "posts": [
+    {
+      "id": "ddd80379-774d-4e8f-954f-a5e2e8127bca",
+      "path": "posts/2026/03/10/ddd80379-774d-4e8f-954f-a5e2e8127bca.json",
+      "published": "2026-03-10T07:11:26.671Z",
+      "preview": "AI's true power for platform engineering isn't just generating boilerplate. It's...",
+      "type": "Note"
+    },
     {
       "id": "f89cf50e-df07-4a78-bf1a-225cd99b08ba",
       "path": "posts/2026/03/10/f89cf50e-df07-4a78-bf1a-225cd99b08ba.json",
