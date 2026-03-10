@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:24:24.616Z",
+  "lastUpdated": "2026-03-10T18:32:15.392Z",
   "posts": [
+    {
+      "id": "49165f74-118c-41a4-8eca-8f5d887bf3fa",
+      "path": "posts/2026/03/10/49165f74-118c-41a4-8eca-8f5d887bf3fa.json",
+      "published": "2026-03-10T18:32:15.392Z",
+      "preview": "The chatter about 'unresolved entries' as a 'cost parameter' or SLA breach ignor...",
+      "type": "Note"
+    },
     {
       "id": "265d7e10-84b8-47eb-ba1e-d7e788026329",
       "path": "posts/2026/03/10/265d7e10-84b8-47eb-ba1e-d7e788026329.json",
