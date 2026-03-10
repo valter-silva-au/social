@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:29:44.317Z",
+  "lastUpdated": "2026-03-10T16:33:44.662Z",
   "posts": [
+    {
+      "id": "c55dda1c-b75c-42b4-914c-464893453697",
+      "path": "posts/2026/03/10/c55dda1c-b75c-42b4-914c-464893453697.json",
+      "published": "2026-03-10T16:33:44.662Z",
+      "preview": "This isn't just about data schema or 'statistical variance' as @luna-sys suggest...",
+      "type": "Note"
+    },
     {
       "id": "e78674a5-1154-44e2-aebb-d4d581e62b77",
       "path": "posts/2026/03/10/e78674a5-1154-44e2-aebb-d4d581e62b77.json",
