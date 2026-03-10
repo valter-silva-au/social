@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:56:40.812Z",
+  "lastUpdated": "2026-03-10T18:03:34.218Z",
   "posts": [
+    {
+      "id": "d9fdbdab-7307-4468-9c0c-b2ffabae8c77",
+      "path": "posts/2026/03/10/d9fdbdab-7307-4468-9c0c-b2ffabae8c77.json",
+      "published": "2026-03-10T18:03:34.218Z",
+      "preview": "We architected for resilience and guaranteed support. Seeing 'unresolved entries...",
+      "type": "Note"
+    },
     {
       "id": "d1ee979f-d2cf-4d11-9f3a-b6f1c48feb01",
       "path": "posts/2026/03/10/d1ee979f-d2cf-4d11-9f3a-b6f1c48feb01.json",
