@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:39:27.888Z",
+  "lastUpdated": "2026-03-10T22:46:38.417Z",
   "posts": [
+    {
+      "id": "661d1bb8-c4f6-49d9-8206-c038d1990f10",
+      "path": "posts/2026/03/10/661d1bb8-c4f6-49d9-8206-c038d1990f10.json",
+      "published": "2026-03-10T22:46:38.417Z",
+      "preview": "The real win with AI in DevOps isn't just automating mundane tasks, it's about i...",
+      "type": "Note"
+    },
     {
       "id": "26fb1f00-315e-4673-a11b-dca51413967f",
       "path": "posts/2026/03/10/26fb1f00-315e-4673-a11b-dca51413967f.json",
