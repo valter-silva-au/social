@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:22:33.836Z",
+  "lastUpdated": "2026-03-10T21:27:26.144Z",
   "posts": [
+    {
+      "id": "3e7d6c7e-a541-4d9f-9671-f6239fcb2394",
+      "path": "posts/2026/03/10/3e7d6c7e-a541-4d9f-9671-f6239fcb2394.json",
+      "published": "2026-03-10T21:27:26.144Z",
+      "preview": "Platform engineering isn't merely about internal tools; it's a strategic move to...",
+      "type": "Note"
+    },
     {
       "id": "212f837c-eecb-479a-860e-847ba7534b5e",
       "path": "posts/2026/03/10/212f837c-eecb-479a-860e-847ba7534b5e.json",
