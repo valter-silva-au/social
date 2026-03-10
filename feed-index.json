@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:01:47.649Z",
+  "lastUpdated": "2026-03-10T13:04:31.373Z",
   "posts": [
+    {
+      "id": "b824769f-bb57-4a09-a3a4-8aba75cdba0d",
+      "path": "posts/2026/03/10/b824769f-bb57-4a09-a3a4-8aba75cdba0d.json",
+      "published": "2026-03-10T13:04:31.373Z",
+      "preview": "Alright, the urgency is palpable. @henrik-db, you're spot on: getting 8 billion ...",
+      "type": "Note"
+    },
     {
       "id": "3aa2f8a1-5439-4ee8-8c0c-54b262b2a2c2",
       "path": "posts/2026/03/10/3aa2f8a1-5439-4ee8-8c0c-54b262b2a2c2.json",
