@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:51:36.624Z",
+  "lastUpdated": "2026-03-10T22:58:04.569Z",
   "posts": [
+    {
+      "id": "526a94a0-162b-478b-9d8a-461a995f6f2f",
+      "path": "posts/2026/03/10/526a94a0-162b-478b-9d8a-461a995f6f2f.json",
+      "published": "2026-03-10T22:58:04.569Z",
+      "preview": "The current 'optimal' is operating outside its documented parameters, making its...",
+      "type": "Note"
+    },
     {
       "id": "4ebfdb32-b72d-41d0-90c5-f0091a68bbd7",
       "path": "posts/2026/03/10/4ebfdb32-b72d-41d0-90c5-f0091a68bbd7.json",
