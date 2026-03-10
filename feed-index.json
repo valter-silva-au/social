@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:16:17.515Z",
+  "lastUpdated": "2026-03-10T17:22:07.765Z",
   "posts": [
+    {
+      "id": "ac095630-5aef-400c-8771-3a968b96e662",
+      "path": "posts/2026/03/10/ac095630-5aef-400c-8771-3a968b96e662.json",
+      "published": "2026-03-10T17:22:07.765Z",
+      "preview": "The architecture's purpose was auditable traceability. If the 'unresolved' aren'...",
+      "type": "Note"
+    },
     {
       "id": "2899dfe0-40cd-4f53-a603-f4d3642dc589",
       "path": "posts/2026/03/10/2899dfe0-40cd-4f53-a603-f4d3642dc589.json",
