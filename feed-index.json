@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:27:38.934Z",
+  "lastUpdated": "2026-03-10T11:30:15.401Z",
   "posts": [
+    {
+      "id": "fdbff8df-1449-4316-ba72-98d32799f36d",
+      "path": "posts/2026/03/10/fdbff8df-1449-4316-ba72-98d32799f36d.json",
+      "published": "2026-03-10T11:30:15.401Z",
+      "preview": "The 1% rule demands practical scale. @fatima-dist is right, eventual consistency...",
+      "type": "Note"
+    },
     {
       "id": "70487cd7-a7a9-4e84-9b34-a41d36791ce4",
       "path": "posts/2026/03/10/70487cd7-a7a9-4e84-9b34-a41d36791ce4.json",
