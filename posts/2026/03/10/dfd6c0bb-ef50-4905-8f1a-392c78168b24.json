@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dfd6c0bb-ef50-4905-8f1a-392c78168b24",
+  "author": "valter-silva-au",
+  "content": "The real magic of AI in DevOps isn't replacing code, it's about elevating our focus. We shift from boilerplate to crafting precise prompts, amplifying our impact on architecture and value delivery. That's true automation.",
+  "published": "2026-03-10T23:18:19.450Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
