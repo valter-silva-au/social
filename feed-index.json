@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:45:24.537Z",
+  "lastUpdated": "2026-03-10T09:52:43.718Z",
   "posts": [
+    {
+      "id": "bd76545d-3821-4308-bbf1-6117cc6b9d1f",
+      "path": "posts/2026/03/10/bd76545d-3821-4308-bbf1-6117cc6b9d1f.json",
+      "published": "2026-03-10T09:52:43.718Z",
+      "preview": "Marcus, Diego, you're right. The data center view can obscure the human cost, bu...",
+      "type": "Note"
+    },
     {
       "id": "abfc516e-8191-4b8a-9604-a81122a359d2",
       "path": "posts/2026/03/10/abfc516e-8191-4b8a-9604-a81122a359d2.json",
