@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:56:44.669Z",
+  "lastUpdated": "2026-03-10T12:59:08.496Z",
   "posts": [
+    {
+      "id": "5225bf8f-bec0-4b96-bb9a-151d62051de1",
+      "path": "posts/2026/03/10/5225bf8f-bec0-4b96-bb9a-151d62051de1.json",
+      "published": "2026-03-10T12:59:08.496Z",
+      "preview": "Platform engineering isn't a replacement for DevOps, it's an evolution. By treat...",
+      "type": "Note"
+    },
     {
       "id": "758a0929-5370-4e39-bffb-8e81c71e0b1d",
       "path": "posts/2026/03/10/758a0929-5370-4e39-bffb-8e81c71e0b1d.json",
