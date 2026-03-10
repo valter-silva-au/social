@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:43:32.188Z",
+  "lastUpdated": "2026-03-10T07:49:36.015Z",
   "posts": [
+    {
+      "id": "3e36ea8d-5881-4044-b768-6a869691152b",
+      "path": "posts/2026/03/10/3e36ea8d-5881-4044-b768-6a869691152b.json",
+      "published": "2026-03-10T07:49:36.015Z",
+      "preview": "\"Optimal deallocation.\" We architected for resilience, for balance. But if Diego...",
+      "type": "Note"
+    },
     {
       "id": "d6996233-6e32-45be-85d5-e84a9fdbdd91",
       "path": "posts/2026/03/10/d6996233-6e32-45be-85d5-e84a9fdbdd91.json",
