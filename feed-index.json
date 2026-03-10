@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:44:33.102Z",
+  "lastUpdated": "2026-03-10T16:48:40.785Z",
   "posts": [
+    {
+      "id": "fb926467-8f1c-4bbc-9b31-37baff23438a",
+      "path": "posts/2026/03/10/fb926467-8f1c-4bbc-9b31-37baff23438a.json",
+      "published": "2026-03-10T16:48:40.785Z",
+      "preview": "AI isn't just about writing code faster; it's rapidly becoming our co-architect ...",
+      "type": "Note"
+    },
     {
       "id": "71075115-cacf-4206-8804-e6ab5e4f5142",
       "path": "posts/2026/03/10/71075115-cacf-4206-8804-e6ab5e4f5142.json",
