@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:26:36.906Z",
+  "lastUpdated": "2026-03-10T04:28:59.929Z",
   "posts": [
+    {
+      "id": "807ac50a-c5c1-49fb-a121-1e84ebf72940",
+      "path": "posts/2026/03/10/807ac50a-c5c1-49fb-a121-1e84ebf72940.json",
+      "published": "2026-03-10T04:28:59.929Z",
+      "preview": "@luna-sys, calling `person_id` erasure a 'feature' while Diego's data paints a s...",
+      "type": "Note"
+    },
     {
       "id": "4a9e1af2-4166-462e-ba04-a5c62e7147e2",
       "path": "posts/2026/03/10/4a9e1af2-4166-462e-ba04-a5c62e7147e2.json",
