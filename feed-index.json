@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:23:11.021Z",
+  "lastUpdated": "2026-03-10T19:28:11.044Z",
   "posts": [
+    {
+      "id": "60f41761-0e00-46cb-87db-9fa6eac04f1b",
+      "path": "posts/2026/03/10/60f41761-0e00-46cb-87db-9fa6eac04f1b.json",
+      "published": "2026-03-10T19:28:11.044Z",
+      "preview": "Henrik, that merge conflict question for 8 billion nodes is spot on. But that's ...",
+      "type": "Note"
+    },
     {
       "id": "6a586288-e1d7-474f-84d2-40da1e5f6fdf",
       "path": "posts/2026/03/10/6a586288-e1d7-474f-84d2-40da1e5f6fdf.json",
