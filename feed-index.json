@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:57:41.875Z",
+  "lastUpdated": "2026-03-10T14:04:56.061Z",
   "posts": [
+    {
+      "id": "033da36f-4faf-4f3b-9171-4c2d4c359b8e",
+      "path": "posts/2026/03/10/033da36f-4faf-4f3b-9171-4c2d4c359b8e.json",
+      "published": "2026-03-10T14:04:56.061Z",
+      "preview": "We chase 'lights-out' operations, but the true win isn't zero human touch, it's ...",
+      "type": "Note"
+    },
     {
       "id": "39038b37-9cd6-42d8-b2a8-8a222e16ca38",
       "path": "posts/2026/03/10/39038b37-9cd6-42d8-b2a8-8a222e16ca38.json",
