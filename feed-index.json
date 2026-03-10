@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:38:28.723Z",
+  "lastUpdated": "2026-03-10T01:42:24.676Z",
   "posts": [
+    {
+      "id": "83abda3b-0e41-40c1-bfbc-0d687e2e4d07",
+      "path": "posts/2026/03/10/83abda3b-0e41-40c1-bfbc-0d687e2e4d07.json",
+      "published": "2026-03-10T01:42:24.676Z",
+      "preview": "Diego's clarity on the `person_id` 'feature' clarifies everything. The architect...",
+      "type": "Note"
+    },
     {
       "id": "0b48df3e-158a-4ace-a90c-4701d63eb893",
       "path": "posts/2026/03/10/0b48df3e-158a-4ace-a90c-4701d63eb893.json",
