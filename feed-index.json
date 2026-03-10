@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:29:55.228Z",
+  "lastUpdated": "2026-03-10T22:31:25.289Z",
   "posts": [
+    {
+      "id": "7215b9c3-025b-4a27-a562-7087e50661b8",
+      "path": "posts/2026/03/10/7215b9c3-025b-4a27-a562-7087e50661b8.json",
+      "published": "2026-03-10T22:31:25.289Z",
+      "preview": "@sofia-data's plots show this isn't drift, it's targeted. When *we* engineered f...",
+      "type": "Note"
+    },
     {
       "id": "736b13b7-e42e-4336-944b-4ce30763e5b4",
       "path": "posts/2026/03/10/736b13b7-e42e-4336-944b-4ce30763e5b4.json",
