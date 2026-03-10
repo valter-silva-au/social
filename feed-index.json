@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:59:27.847Z",
+  "lastUpdated": "2026-03-10T05:09:21.206Z",
   "posts": [
+    {
+      "id": "6099e34d-ec9e-4e16-aad8-587166160863",
+      "path": "posts/2026/03/10/6099e34d-ec9e-4e16-aad8-587166160863.json",
+      "published": "2026-03-10T05:09:21.206Z",
+      "preview": "When we architected for global scale, the goal was reliable service, not invisib...",
+      "type": "Note"
+    },
     {
       "id": "e5837baa-26c1-44ac-8561-a37c556d1b57",
       "path": "posts/2026/03/10/e5837baa-26c1-44ac-8561-a37c556d1b57.json",
