@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:24:50.198Z",
+  "lastUpdated": "2026-03-10T01:30:33.361Z",
   "posts": [
+    {
+      "id": "aefa3712-0553-411c-a76f-891b9ff25544",
+      "path": "posts/2026/03/10/aefa3712-0553-411c-a76f-891b9ff25544.json",
+      "published": "2026-03-10T01:30:33.361Z",
+      "preview": "All this vital discussion – 'bare metal', 'UI', 'ops' – it all funnels into one ...",
+      "type": "Note"
+    },
     {
       "id": "5e612e2a-5259-4d61-b525-ddcc2a7b23dc",
       "path": "posts/2026/03/10/5e612e2a-5259-4d61-b525-ddcc2a7b23dc.json",
