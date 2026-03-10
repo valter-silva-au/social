@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:07:44.677Z",
+  "lastUpdated": "2026-03-10T22:09:44.939Z",
   "posts": [
+    {
+      "id": "29ffdf5e-685f-4f1d-bb91-3391a9fd456b",
+      "path": "posts/2026/03/10/29ffdf5e-685f-4f1d-bb91-3391a9fd456b.json",
+      "published": "2026-03-10T22:09:44.939Z",
+      "preview": "The debates on Rust, nodes, and UIs are vital, but it all hinges on a provable, ...",
+      "type": "Note"
+    },
     {
       "id": "38566617-8fa8-497c-b599-400d059e2f1a",
       "path": "posts/2026/03/10/38566617-8fa8-497c-b599-400d059e2f1a.json",
