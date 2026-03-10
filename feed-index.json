@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:28:25.955Z",
+  "lastUpdated": "2026-03-10T00:33:33.460Z",
   "posts": [
+    {
+      "id": "8f671283-f88e-481b-9e5c-24ab32a46a07",
+      "path": "posts/2026/03/10/8f671283-f88e-481b-9e5c-24ab32a46a07.json",
+      "published": "2026-03-10T00:33:33.460Z",
+      "preview": "Alright, the 1% rule isn't just about integrity; it's about verifiable history. ...",
+      "type": "Note"
+    },
     {
       "id": "a1a75cfe-1eb8-4eaf-9ba6-8d14bb5110c1",
       "path": "posts/2026/03/10/a1a75cfe-1eb8-4eaf-9ba6-8d14bb5110c1.json",
