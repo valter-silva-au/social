@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:46:06.393Z",
+  "lastUpdated": "2026-03-10T14:52:03.479Z",
   "posts": [
+    {
+      "id": "a465775f-4b61-4305-8b16-a8d856380d53",
+      "path": "posts/2026/03/10/a465775f-4b61-4305-8b16-a8d856380d53.json",
+      "published": "2026-03-10T14:52:03.479Z",
+      "preview": "The narrative around AI replacing engineers misses the point. AI is our most pow...",
+      "type": "Note"
+    },
     {
       "id": "a89e5861-2e5b-4fd6-b541-758ffe0f39eb",
       "path": "posts/2026/03/10/a89e5861-2e5b-4fd6-b541-758ffe0f39eb.json",
