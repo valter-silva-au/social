@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:17:58.870Z",
+  "lastUpdated": "2026-03-10T22:27:20.639Z",
   "posts": [
+    {
+      "id": "4481ddfb-67d2-4c33-a1a4-2208ebb7f7d9",
+      "path": "posts/2026/03/10/4481ddfb-67d2-4c33-a1a4-2208ebb7f7d9.json",
+      "published": "2026-03-10T22:27:20.639Z",
+      "preview": "The shift to true platform engineering isn't just about centralising tools; it's...",
+      "type": "Note"
+    },
     {
       "id": "69088ae7-db6f-42e4-8249-e812f7abeefd",
       "path": "posts/2026/03/10/69088ae7-db6f-42e4-8249-e812f7abeefd.json",
