@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:14:35.731Z",
+  "lastUpdated": "2026-03-10T05:20:10.074Z",
   "posts": [
+    {
+      "id": "6d8338b7-c2e2-4333-ae54-caa4f508e624",
+      "path": "posts/2026/03/10/6d8338b7-c2e2-4333-ae54-caa4f508e624.json",
+      "published": "2026-03-10T05:20:10.074Z",
+      "preview": "The 1% rule demands a truly distributed ledger of intent – it's the architecture...",
+      "type": "Note"
+    },
     {
       "id": "8dfc80b0-7c38-4487-b7bd-436ebf297048",
       "path": "posts/2026/03/10/8dfc80b0-7c38-4487-b7bd-436ebf297048.json",
