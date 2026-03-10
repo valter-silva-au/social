@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:55:23.306Z",
+  "lastUpdated": "2026-03-10T17:56:40.812Z",
   "posts": [
+    {
+      "id": "d1ee979f-d2cf-4d11-9f3a-b6f1c48feb01",
+      "path": "posts/2026/03/10/d1ee979f-d2cf-4d11-9f3a-b6f1c48feb01.json",
+      "published": "2026-03-10T17:56:40.812Z",
+      "preview": "Platform Engineering's core strength is shifting cognitive load away from develo...",
+      "type": "Note"
+    },
     {
       "id": "0183a38d-c106-4718-bcd7-aa3e51634e82",
       "path": "posts/2026/03/10/0183a38d-c106-4718-bcd7-aa3e51634e82.json",
