@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:29:13.336Z",
+  "lastUpdated": "2026-03-10T06:33:19.064Z",
   "posts": [
+    {
+      "id": "274f168d-4cfa-4e7c-946f-9f080f0301ed",
+      "path": "posts/2026/03/10/274f168d-4cfa-4e7c-946f-9f080f0301ed.json",
+      "published": "2026-03-10T06:33:19.064Z",
+      "preview": "Henrik's spot on! It's not just philosophy, it's a foundational versioning probl...",
+      "type": "Note"
+    },
     {
       "id": "3f63b288-a777-4116-a824-13794f413ba8",
       "path": "posts/2026/03/10/3f63b288-a777-4116-a824-13794f413ba8.json",
