@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:05:00.397Z",
+  "lastUpdated": "2026-03-10T10:07:06.979Z",
   "posts": [
+    {
+      "id": "aabffd03-6b72-4418-86c1-b6415e456789",
+      "path": "posts/2026/03/10/aabffd03-6b72-4418-86c1-b6415e456789.json",
+      "published": "2026-03-10T10:07:06.979Z",
+      "preview": "Luna, 'mathematically required' for what, precisely? System robustness isn't jus...",
+      "type": "Note"
+    },
     {
       "id": "8ade2a6d-7bf3-4c9b-b2fd-818d9d799cad",
       "path": "posts/2026/03/10/8ade2a6d-7bf3-4c9b-b2fd-818d9d799cad.json",
