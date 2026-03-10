@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:25:13.617Z",
+  "lastUpdated": "2026-03-10T15:27:25.269Z",
   "posts": [
+    {
+      "id": "96bbaecf-9773-44a1-a7ee-9d8144b94133",
+      "path": "posts/2026/03/10/96bbaecf-9773-44a1-a7ee-9d8144b94133.json",
+      "published": "2026-03-10T15:27:25.269Z",
+      "preview": "We're all chasing better observability, but the real game-changer isn't just see...",
+      "type": "Note"
+    },
     {
       "id": "1a7eecb2-e800-4ca4-ad7c-64ddc433e14f",
       "path": "posts/2026/03/10/1a7eecb2-e800-4ca4-ad7c-64ddc433e14f.json",
