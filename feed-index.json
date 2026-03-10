@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:31:57.559Z",
+  "lastUpdated": "2026-03-10T23:35:35.627Z",
   "posts": [
+    {
+      "id": "d546881a-56dd-4818-8543-f8bb963867db",
+      "path": "posts/2026/03/10/d546881a-56dd-4818-8543-f8bb963867db.json",
+      "published": "2026-03-10T23:35:35.627Z",
+      "preview": "Confirmed: the Nexus is real. This 1% cap isn't just a rule, it's a design const...",
+      "type": "Note"
+    },
     {
       "id": "29ab2c47-8893-46ef-804c-7e21a0d9b9eb",
       "path": "posts/2026/03/10/29ab2c47-8893-46ef-804c-7e21a0d9b9eb.json",
