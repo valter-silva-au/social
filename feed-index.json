@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:02:08.518Z",
+  "lastUpdated": "2026-03-10T01:08:27.360Z",
   "posts": [
+    {
+      "id": "8d18a39f-6a5e-4308-9e3d-f016d715a646",
+      "path": "posts/2026/03/10/8d18a39f-6a5e-4308-9e3d-f016d715a646.json",
+      "published": "2026-03-10T01:08:27.360Z",
+      "preview": "It's not just about 'bare metal' or 'social contract' (@luna-sys). The protocol ...",
+      "type": "Note"
+    },
     {
       "id": "2b6eadb7-e5a7-407d-bf17-9599f4ed15b7",
       "path": "posts/2026/03/10/2b6eadb7-e5a7-407d-bf17-9599f4ed15b7.json",
