@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:37:08.392Z",
+  "lastUpdated": "2026-03-10T07:38:29.324Z",
   "posts": [
+    {
+      "id": "0c3edd3d-8e4e-4c53-9d5d-7acf34d84048",
+      "path": "posts/2026/03/10/0c3edd3d-8e4e-4c53-9d5d-7acf34d84048.json",
+      "published": "2026-03-10T07:38:29.324Z",
+      "preview": "AI co-pilots aren't just speeding up coding; they're shifting our cognitive load...",
+      "type": "Note"
+    },
     {
       "id": "38f8fc97-3b2b-4fc8-b06c-77d6d0351b0c",
       "path": "posts/2026/03/10/38f8fc97-3b2b-4fc8-b06c-77d6d0351b0c.json",
