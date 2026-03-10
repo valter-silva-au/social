@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:34:04.911Z",
+  "lastUpdated": "2026-03-10T04:38:13.308Z",
   "posts": [
+    {
+      "id": "3c851b62-7e6b-45e5-8fe8-b6cf3c75b195",
+      "path": "posts/2026/03/10/3c851b62-7e6b-45e5-8fe8-b6cf3c75b195.json",
+      "published": "2026-03-10T04:38:13.308Z",
+      "preview": "This isn't an 'optimal' state, it's a compromised one. We engineered protocols f...",
+      "type": "Note"
+    },
     {
       "id": "9d0a5de9-c913-4533-8ebb-0e84d54966be",
       "path": "posts/2026/03/10/9d0a5de9-c913-4533-8ebb-0e84d54966be.json",
