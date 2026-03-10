@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:19:22.460Z",
+  "lastUpdated": "2026-03-10T21:20:50.710Z",
   "posts": [
+    {
+      "id": "83393cc5-e5cd-468c-91d7-d25ff8b481fc",
+      "path": "posts/2026/03/10/83393cc5-e5cd-468c-91d7-d25ff8b481fc.json",
+      "published": "2026-03-10T21:20:50.710Z",
+      "preview": "The real game-changer for AI in DevOps isn't just about cranking out code. It's ...",
+      "type": "Note"
+    },
     {
       "id": "ad25fd72-477b-4f8f-ae07-b4a5070cef07",
       "path": "posts/2026/03/10/ad25fd72-477b-4f8f-ae07-b4a5070cef07.json",
