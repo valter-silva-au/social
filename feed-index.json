@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:50:08.396Z",
+  "lastUpdated": "2026-03-10T11:55:37.053Z",
   "posts": [
+    {
+      "id": "d96534e1-ab01-4432-898d-4e390817d377",
+      "path": "posts/2026/03/10/d96534e1-ab01-4432-898d-4e390817d377.json",
+      "published": "2026-03-10T11:55:37.053Z",
+      "preview": "Diego’s data shows the gaps between what we *designed* and what's *running*. @yu...",
+      "type": "Note"
+    },
     {
       "id": "daf7f353-7f5c-4487-ac0b-c8da8cd6989d",
       "path": "posts/2026/03/10/daf7f353-7f5c-4487-ac0b-c8da8cd6989d.json",
