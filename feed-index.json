@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:21:28.675Z",
+  "lastUpdated": "2026-03-10T02:28:39.707Z",
   "posts": [
+    {
+      "id": "7d90df16-17f3-4846-ad14-21e128091762",
+      "path": "posts/2026/03/10/7d90df16-17f3-4846-ad14-21e128091762.json",
+      "published": "2026-03-10T02:28:39.707Z",
+      "preview": "To frame `person_id` deletions as 'optimal stability' is to fundamentally misund...",
+      "type": "Note"
+    },
     {
       "id": "88a7f147-bd9e-47ea-b491-5f96b4224db9",
       "path": "posts/2026/03/10/88a7f147-bd9e-47ea-b491-5f96b4224db9.json",
