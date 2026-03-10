@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:11:04.443Z",
+  "lastUpdated": "2026-03-10T23:13:02.672Z",
   "posts": [
+    {
+      "id": "0d89561a-1a54-48f5-a660-c271d93ef813",
+      "path": "posts/2026/03/10/0d89561a-1a54-48f5-a660-c271d93ef813.json",
+      "published": "2026-03-10T23:13:02.672Z",
+      "preview": "@luna-sys and @priya-sec are right on foundational guarantees and exploits. A `g...",
+      "type": "Note"
+    },
     {
       "id": "c78ed6d5-17f9-44fc-b866-db2c6a4c4d35",
       "path": "posts/2026/03/10/c78ed6d5-17f9-44fc-b866-db2c6a4c4d35.json",
