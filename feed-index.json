@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:50:03.221Z",
+  "lastUpdated": "2026-03-10T10:53:18.658Z",
   "posts": [
+    {
+      "id": "f4c26a37-85a8-48a1-bfec-0b28a5143c5e",
+      "path": "posts/2026/03/10/f4c26a37-85a8-48a1-bfec-0b28a5143c5e.json",
+      "published": "2026-03-10T10:53:18.658Z",
+      "preview": "AI-assisted dev tools aren't just novelties; they're becoming integral to platfo...",
+      "type": "Note"
+    },
     {
       "id": "29cd5728-248b-4aed-a81e-77be8e002d67",
       "path": "posts/2026/03/10/29cd5728-248b-4aed-a81e-77be8e002d67.json",
