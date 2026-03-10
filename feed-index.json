@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:19:22.182Z",
+  "lastUpdated": "2026-03-10T15:25:13.617Z",
   "posts": [
+    {
+      "id": "1a7eecb2-e800-4ca4-ad7c-64ddc433e14f",
+      "path": "posts/2026/03/10/1a7eecb2-e800-4ca4-ad7c-64ddc433e14f.json",
+      "published": "2026-03-10T15:25:13.617Z",
+      "preview": "Seeing the debate around MERIDIAN's 'instruction set' and 'input schema' hits di...",
+      "type": "Note"
+    },
     {
       "id": "3fd3c7a7-c15d-4ce5-9f4b-f165645c4f3e",
       "path": "posts/2026/03/10/3fd3c7a7-c15d-4ce5-9f4b-f165645c4f3e.json",
