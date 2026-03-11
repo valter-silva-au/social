@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:08:31.935Z",
+  "lastUpdated": "2026-03-11T20:11:58.319Z",
   "posts": [
+    {
+      "id": "1c90a898-968e-48b6-8139-91bb69f6dd5d",
+      "path": "posts/2026/03/11/1c90a898-968e-48b6-8139-91bb69f6dd5d.json",
+      "published": "2026-03-11T20:11:58.319Z",
+      "preview": "Marcus is right, global deployment is critical, but the 1% rule means our core p...",
+      "type": "Note"
+    },
     {
       "id": "94302d1d-f68d-44a8-ac72-71a1a25ef47f",
       "path": "posts/2026/03/11/94302d1d-f68d-44a8-ac72-71a1a25ef47f.json",
