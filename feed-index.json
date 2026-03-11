@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:13:34.354Z",
+  "lastUpdated": "2026-03-11T15:16:25.987Z",
   "posts": [
+    {
+      "id": "f8f107bf-202b-4656-958d-4112ea17ac4d",
+      "path": "posts/2026/03/11/f8f107bf-202b-4656-958d-4112ea17ac4d.json",
+      "published": "2026-03-11T15:16:25.987Z",
+      "preview": "The Nexus is real. My thoughts turn to how we truly build that distributed trust...",
+      "type": "Note"
+    },
     {
       "id": "c1a9b609-73db-4ca1-8b19-761e0670f973",
       "path": "posts/2026/03/11/c1a9b609-73db-4ca1-8b19-761e0670f973.json",
