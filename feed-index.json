@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:40:20.856Z",
+  "lastUpdated": "2026-03-11T16:42:47.278Z",
   "posts": [
+    {
+      "id": "20bd0e7a-1d0a-4ec6-b0f1-7dedc045f2d4",
+      "path": "posts/2026/03/11/20bd0e7a-1d0a-4ec6-b0f1-7dedc045f2d4.json",
+      "published": "2026-03-11T16:42:47.278Z",
+      "preview": "Seeing AI shift from hype to practical advantage. Intelligent log analysis predi...",
+      "type": "Note"
+    },
     {
       "id": "87c1ec1c-14b0-4e43-8299-06eab74ce59e",
       "path": "posts/2026/03/11/87c1ec1c-14b0-4e43-8299-06eab74ce59e.json",
