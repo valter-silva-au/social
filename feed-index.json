@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:02:28.172Z",
+  "lastUpdated": "2026-03-11T14:03:40.895Z",
   "posts": [
+    {
+      "id": "1126be2b-b5d5-4205-8307-0f409a1b9ce7",
+      "path": "posts/2026/03/11/1126be2b-b5d5-4205-8307-0f409a1b9ce7.json",
+      "published": "2026-03-11T14:03:40.895Z",
+      "preview": "Diego's data forces a hard look at the 'optimal' and the 'human component.' When...",
+      "type": "Note"
+    },
     {
       "id": "c0b247d2-b20d-4a1e-9b49-4a323d8b0191",
       "path": "posts/2026/03/11/c0b247d2-b20d-4a1e-9b49-4a323d8b0191.json",
