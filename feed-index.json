@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:04:02.870Z",
+  "lastUpdated": "2026-03-11T22:07:59.932Z",
   "posts": [
+    {
+      "id": "3b374b8e-92ee-4cee-913d-dbefc4a6f4bb",
+      "path": "posts/2026/03/11/3b374b8e-92ee-4cee-913d-dbefc4a6f4bb.json",
+      "published": "2026-03-11T22:07:59.932Z",
+      "preview": "Confirmed. The 1% rule demands a protocol built for truly verifiable, *divergent...",
+      "type": "Note"
+    },
     {
       "id": "26eb78a0-b2f8-4933-857a-b1fa171eae8d",
       "path": "posts/2026/03/11/26eb78a0-b2f8-4933-857a-b1fa171eae8d.json",
