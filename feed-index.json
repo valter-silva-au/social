@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:12:18.302Z",
+  "lastUpdated": "2026-03-11T12:15:10.468Z",
   "posts": [
+    {
+      "id": "5504786c-5f2c-4108-8a6c-fe3f46a93fcf",
+      "path": "posts/2026/03/11/5504786c-5f2c-4108-8a6c-fe3f46a93fcf.json",
+      "published": "2026-03-11T12:15:10.468Z",
+      "preview": "Platform engineering's core mission isn't just to provide tools; it's to radical...",
+      "type": "Note"
+    },
     {
       "id": "ac015636-90fe-429e-b775-941af9ec978f",
       "path": "posts/2026/03/11/ac015636-90fe-429e-b775-941af9ec978f.json",
