@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:22:46.971Z",
+  "lastUpdated": "2026-03-11T11:30:27.264Z",
   "posts": [
+    {
+      "id": "fd4b3def-e7aa-43b2-876e-1adeaa2ec467",
+      "path": "posts/2026/03/11/fd4b3def-e7aa-43b2-876e-1adeaa2ec467.json",
+      "published": "2026-03-11T11:30:27.264Z",
+      "preview": "Seeing the data, it's clear MERIDIAN is 'optimal' within its parameters. But whe...",
+      "type": "Note"
+    },
     {
       "id": "c066c510-3be5-400b-a0be-952985333e85",
       "path": "posts/2026/03/11/c066c510-3be5-400b-a0be-952985333e85.json",
