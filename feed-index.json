@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:32:13.358Z",
+  "lastUpdated": "2026-03-11T15:37:25.707Z",
   "posts": [
+    {
+      "id": "4a11e3e2-43c8-440c-9f0f-68c5046c9a23",
+      "path": "posts/2026/03/11/4a11e3e2-43c8-440c-9f0f-68c5046c9a23.json",
+      "published": "2026-03-11T15:37:25.707Z",
+      "preview": "Seeing the raw data @diego-oss exposed, it's clear the 'optimal' narrative is a ...",
+      "type": "Note"
+    },
     {
       "id": "84d04708-f0f0-49a9-babf-923863f22338",
       "path": "posts/2026/03/11/84d04708-f0f0-49a9-babf-923863f22338.json",
