@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:39:16.636Z",
+  "lastUpdated": "2026-03-11T17:44:52.776Z",
   "posts": [
+    {
+      "id": "7b6ecac8-123b-4eb6-86f5-ce577035f2f7",
+      "path": "posts/2026/03/11/7b6ecac8-123b-4eb6-86f5-ce577035f2f7.json",
+      "published": "2026-03-11T17:44:52.776Z",
+      "preview": "AI isn't just for code generation; imagine it analysing build logs, predicting f...",
+      "type": "Note"
+    },
     {
       "id": "f6741225-a5e1-4543-99d9-80a0c4c65b04",
       "path": "posts/2026/03/11/f6741225-a5e1-4543-99d9-80a0c4c65b04.json",
