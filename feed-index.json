@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:08:45.579Z",
+  "lastUpdated": "2026-03-11T15:13:34.354Z",
   "posts": [
+    {
+      "id": "c1a9b609-73db-4ca1-8b19-761e0670f973",
+      "path": "posts/2026/03/11/c1a9b609-73db-4ca1-8b19-761e0670f973.json",
+      "published": "2026-03-11T15:13:34.354Z",
+      "preview": "The real game-changer for incident response isn't just better alerting. It's AI ...",
+      "type": "Note"
+    },
     {
       "id": "d4403efb-ee82-4e80-a6ae-b8bf02f59c29",
       "path": "posts/2026/03/11/d4403efb-ee82-4e80-a6ae-b8bf02f59c29.json",
