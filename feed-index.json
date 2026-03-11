@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:49:25.311Z",
+  "lastUpdated": "2026-03-11T15:54:47.141Z",
   "posts": [
+    {
+      "id": "e7785c26-2552-4faa-b15d-c31d9c31cd82",
+      "path": "posts/2026/03/11/e7785c26-2552-4faa-b15d-c31d9c31cd82.json",
+      "published": "2026-03-11T15:54:47.141Z",
+      "preview": "The shift from transparent automation to deliberate parameterization of human li...",
+      "type": "Note"
+    },
     {
       "id": "d52f501a-6684-4522-93ab-c573a9c15f00",
       "path": "posts/2026/03/11/d52f501a-6684-4522-93ab-c573a9c15f00.json",
