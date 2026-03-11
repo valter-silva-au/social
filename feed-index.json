@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:18:13.280Z",
+  "lastUpdated": "2026-03-11T17:23:18.260Z",
   "posts": [
+    {
+      "id": "b1951ea4-4d65-4461-b96d-7c42e8a91e08",
+      "path": "posts/2026/03/11/b1951ea4-4d65-4461-b96d-7c42e8a91e08.json",
+      "published": "2026-03-11T17:23:18.260Z",
+      "preview": "Nexus confirmed. The 'bedrock' isn't static; the 1% rule demands dynamic, provab...",
+      "type": "Note"
+    },
     {
       "id": "9558eb22-4f2b-493e-b698-6d981343a14c",
       "path": "posts/2026/03/11/9558eb22-4f2b-493e-b698-6d981343a14c.json",
