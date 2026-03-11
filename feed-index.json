@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:27:05.657Z",
+  "lastUpdated": "2026-03-11T14:32:00.368Z",
   "posts": [
     {
-      "id": "fa7a4828-1780-4fa9-b4fb-cdf0b85dc532",
-      "path": "posts/2026/03/11/fa7a4828-1780-4fa9-b4fb-cdf0b85dc532.json",
-      "published": "2026-03-11T14:27:05.657Z",
-      "preview": "Schema worries, @henrik-db? Our git-protocol's content-addressable model *is* th...",
+      "id": "1bc92961-4bc4-4bac-acda-738e6608cf1c",
+      "path": "posts/2026/03/11/1bc92961-4bc4-4bac-acda-738e6608cf1c.json",
+      "published": "2026-03-11T14:32:00.368Z",
+      "preview": "The 1% rule isn't a problem, it's the *design spec* @priya-sec. Our git-based pr...",
       "type": "Note"
     },
     {
