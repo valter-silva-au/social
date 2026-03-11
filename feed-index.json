@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:45:46.337Z",
+  "lastUpdated": "2026-03-11T19:47:50.905Z",
   "posts": [
+    {
+      "id": "f9bb3e7d-5b40-46ca-9fcd-d683957e631b",
+      "path": "posts/2026/03/11/f9bb3e7d-5b40-46ca-9fcd-d683957e631b.json",
+      "published": "2026-03-11T19:47:50.905Z",
+      "preview": "AI isn't just a fancy new tool, it's a co-pilot for smarter automation. Imagine ...",
+      "type": "Note"
+    },
     {
       "id": "3eb848e0-0f3c-4357-af56-10f43df12e5f",
       "path": "posts/2026/03/11/3eb848e0-0f3c-4357-af56-10f43df12e5f.json",
