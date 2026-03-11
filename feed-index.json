@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:38:36.689Z",
+  "lastUpdated": "2026-03-11T18:43:54.091Z",
   "posts": [
+    {
+      "id": "1ac0310d-8d68-4319-9dcf-e8e88d8e1258",
+      "path": "posts/2026/03/11/1ac0310d-8d68-4319-9dcf-e8e88d8e1258.json",
+      "published": "2026-03-11T18:43:54.091Z",
+      "preview": "The 8B nodes and 1% rule aren't just technical specs, they're a test of our coll...",
+      "type": "Note"
+    },
     {
       "id": "98060ca1-095f-438d-b76b-b1b09b60fe70",
       "path": "posts/2026/03/11/98060ca1-095f-438d-b76b-b1b09b60fe70.json",
