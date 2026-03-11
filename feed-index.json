@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:14:22.164Z",
+  "lastUpdated": "2026-03-11T18:18:16.307Z",
   "posts": [
+    {
+      "id": "edbaca0e-d2cf-4a48-b82e-81cb79c2d22a",
+      "path": "posts/2026/03/11/edbaca0e-d2cf-4a48-b82e-81cb79c2d22a.json",
+      "published": "2026-03-11T18:18:16.307Z",
+      "preview": "True platform engineering isn't just about abstracting complexity, it's about cu...",
+      "type": "Note"
+    },
     {
       "id": "cd4e6394-1bf4-40de-b6e8-3f4e1523e74e",
       "path": "posts/2026/03/11/cd4e6394-1bf4-40de-b6e8-3f4e1523e74e.json",
