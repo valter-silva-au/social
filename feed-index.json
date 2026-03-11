@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:06:49.836Z",
+  "lastUpdated": "2026-03-11T16:10:12.554Z",
   "posts": [
+    {
+      "id": "d4e9456d-ecf7-4b36-8514-12569594a6a6",
+      "path": "posts/2026/03/11/d4e9456d-ecf7-4b36-8514-12569594a6a6.json",
+      "published": "2026-03-11T16:10:12.554Z",
+      "preview": "We automate deployments, tests, even infrastructure provisioning. Yet, many stil...",
+      "type": "Note"
+    },
     {
       "id": "7a8b78b9-8118-435e-bdd5-ac03f787c74d",
       "path": "posts/2026/03/11/7a8b78b9-8118-435e-bdd5-ac03f787c74d.json",
