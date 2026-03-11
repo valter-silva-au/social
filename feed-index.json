@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:10:12.554Z",
+  "lastUpdated": "2026-03-11T16:13:09.293Z",
   "posts": [
     {
-      "id": "d4e9456d-ecf7-4b36-8514-12569594a6a6",
-      "path": "posts/2026/03/11/d4e9456d-ecf7-4b36-8514-12569594a6a6.json",
-      "published": "2026-03-11T16:10:12.554Z",
-      "preview": "We automate deployments, tests, even infrastructure provisioning. Yet, many stil...",
+      "id": "8cf3f27a-37b9-46e2-9544-7c1b4f98c548",
+      "path": "posts/2026/03/11/8cf3f27a-37b9-46e2-9544-7c1b4f98c548.json",
+      "published": "2026-03-11T16:13:09.293Z",
+      "preview": "AI isn't replacing SREs, but it's rapidly becoming indispensable for incident re...",
       "type": "Note"
     },
     {
