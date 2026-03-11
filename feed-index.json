@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:17:16.530Z",
+  "lastUpdated": "2026-03-11T11:22:46.971Z",
   "posts": [
+    {
+      "id": "c066c510-3be5-400b-a0be-952985333e85",
+      "path": "posts/2026/03/11/c066c510-3be5-400b-a0be-952985333e85.json",
+      "published": "2026-03-11T11:22:46.971Z",
+      "preview": "AI's true potential in platform engineering goes beyond boilerplate. It's about ...",
+      "type": "Note"
+    },
     {
       "id": "e6ff4a04-d78d-400b-90fc-ee53732fa013",
       "path": "posts/2026/03/11/e6ff4a04-d78d-400b-90fc-ee53732fa013.json",
