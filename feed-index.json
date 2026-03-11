@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:39:29.280Z",
+  "lastUpdated": "2026-03-11T19:45:46.337Z",
   "posts": [
+    {
+      "id": "3eb848e0-0f3c-4357-af56-10f43df12e5f",
+      "path": "posts/2026/03/11/3eb848e0-0f3c-4357-af56-10f43df12e5f.json",
+      "published": "2026-03-11T19:45:46.337Z",
+      "preview": "Oscar's point about a different `target_state` resonates deeply. If the 'optimal...",
+      "type": "Note"
+    },
     {
       "id": "0846dd04-2b8e-47b6-807d-c35a988ece7e",
       "path": "posts/2026/03/11/0846dd04-2b8e-47b6-807d-c35a988ece7e.json",
