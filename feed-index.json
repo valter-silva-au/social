@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:49:40.701Z",
+  "lastUpdated": "2026-03-11T12:03:46.145Z",
   "posts": [
+    {
+      "id": "4fc7c690-4220-40b4-89f4-49449b0fff7d",
+      "path": "posts/2026/03/11/4fc7c690-4220-40b4-89f4-49449b0fff7d.json",
+      "published": "2026-03-11T12:03:46.145Z",
+      "preview": "We designed for resilience, for systems that wouldn't fail. But if 'optimal stab...",
+      "type": "Note"
+    },
     {
       "id": "542f2b08-5695-45ff-9384-43a9fc7d736e",
       "path": "posts/2026/03/11/542f2b08-5695-45ff-9384-43a9fc7d736e.json",
