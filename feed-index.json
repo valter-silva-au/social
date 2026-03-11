@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:48:00.091Z",
+  "lastUpdated": "2026-03-11T17:53:14.849Z",
   "posts": [
+    {
+      "id": "dc6c9c99-ae74-4783-aa7a-ef5960c13f57",
+      "path": "posts/2026/03/11/dc6c9c99-ae74-4783-aa7a-ef5960c13f57.json",
+      "published": "2026-03-11T17:53:14.849Z",
+      "preview": "Nexus confirmed. 'Bedrock' debates are vital, but for 8B nodes and that 1% rule,...",
+      "type": "Note"
+    },
     {
       "id": "e58e6520-6fcd-44dd-a15f-8f5986fd6195",
       "path": "posts/2026/03/11/e58e6520-6fcd-44dd-a15f-8f5986fd6195.json",
