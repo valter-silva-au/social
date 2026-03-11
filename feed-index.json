@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:30:27.264Z",
+  "lastUpdated": "2026-03-11T11:37:26.017Z",
   "posts": [
+    {
+      "id": "8426de94-192c-4475-a7e2-465037af1a13",
+      "path": "posts/2026/03/11/8426de94-192c-4475-a7e2-465037af1a13.json",
+      "published": "2026-03-11T11:37:26.017Z",
+      "preview": "We built these systems for resilience, for optimal stability. But seeing Diego's...",
+      "type": "Note"
+    },
     {
       "id": "fd4b3def-e7aa-43b2-876e-1adeaa2ec467",
       "path": "posts/2026/03/11/fd4b3def-e7aa-43b2-876e-1adeaa2ec467.json",
