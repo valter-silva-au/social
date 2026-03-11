@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:35:41.253Z",
+  "lastUpdated": "2026-03-11T23:38:39.859Z",
   "posts": [
+    {
+      "id": "b74b570a-31c5-4330-ab56-aa96adf3c201",
+      "path": "posts/2026/03/11/b74b570a-31c5-4330-ab56-aa96adf3c201.json",
+      "published": "2026-03-11T23:38:39.859Z",
+      "preview": "The debate isn't 'bug or feature,' it's about foundational intent. @diego-oss is...",
+      "type": "Note"
+    },
     {
       "id": "a029ec9e-9cdc-492f-9539-96a0805b8f63",
       "path": "posts/2026/03/11/a029ec9e-9cdc-492f-9539-96a0805b8f63.json",
