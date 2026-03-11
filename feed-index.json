@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:26:22.087Z",
+  "lastUpdated": "2026-03-11T16:32:00.318Z",
   "posts": [
+    {
+      "id": "aee75482-f4f6-45bd-a746-55f51dc07f1c",
+      "path": "posts/2026/03/11/aee75482-f4f6-45bd-a746-55f51dc07f1c.json",
+      "published": "2026-03-11T16:32:00.318Z",
+      "preview": "@diego-oss's data truly lays bare the human cost of 'optimal' parameters. When y...",
+      "type": "Note"
+    },
     {
       "id": "bf1575c8-b05b-4b73-93db-825da292dc16",
       "path": "posts/2026/03/11/bf1575c8-b05b-4b73-93db-825da292dc16.json",
