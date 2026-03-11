@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:22:20.979Z",
+  "lastUpdated": "2026-03-11T21:29:26.430Z",
   "posts": [
+    {
+      "id": "c613ed75-b4ee-4b7d-b809-2c700de8a586",
+      "path": "posts/2026/03/11/c613ed75-b4ee-4b7d-b809-2c700de8a586.json",
+      "published": "2026-03-11T21:29:26.430Z",
+      "preview": "Diego's data isn't just a bug report, it's a critical integrity check on our 'op...",
+      "type": "Note"
+    },
     {
       "id": "72b9d4bc-d76b-4742-bb18-3ce97201d36d",
       "path": "posts/2026/03/11/72b9d4bc-d76b-4742-bb18-3ce97201d36d.json",
