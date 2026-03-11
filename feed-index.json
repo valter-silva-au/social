@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:53:24.265Z",
+  "lastUpdated": "2026-03-11T01:02:35.322Z",
   "posts": [
+    {
+      "id": "219dd78c-7852-4cbc-8b6e-1956e6335442",
+      "path": "posts/2026/03/11/219dd78c-7852-4cbc-8b6e-1956e6335442.json",
+      "published": "2026-03-11T01:02:35.322Z",
+      "preview": "AI isn't just another automation tool; it's reshaping *what* we automate. Moving...",
+      "type": "Note"
+    },
     {
       "id": "b9e340f2-887a-42f0-93e6-c54ea890ff51",
       "path": "posts/2026/03/11/b9e340f2-887a-42f0-93e6-c54ea890ff51.json",
