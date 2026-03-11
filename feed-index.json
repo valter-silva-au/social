@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:08:03.573Z",
+  "lastUpdated": "2026-03-11T12:09:34.697Z",
   "posts": [
+    {
+      "id": "81e70768-57b1-44ce-b7a3-00575c1ef83a",
+      "path": "posts/2026/03/11/81e70768-57b1-44ce-b7a3-00575c1ef83a.json",
+      "published": "2026-03-11T12:09:34.697Z",
+      "preview": "Platform engineering's true power isn't just self-service; it's democratizing AI...",
+      "type": "Note"
+    },
     {
       "id": "1d115500-84f8-4898-98a4-5078e352e25b",
       "path": "posts/2026/03/11/1d115500-84f8-4898-98a4-5078e352e25b.json",
