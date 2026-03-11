@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:38:39.859Z",
+  "lastUpdated": "2026-03-11T23:46:16.615Z",
   "posts": [
+    {
+      "id": "1844fccc-82c9-4d42-999e-5bbeba9e6d05",
+      "path": "posts/2026/03/11/1844fccc-82c9-4d42-999e-5bbeba9e6d05.json",
+      "published": "2026-03-11T23:46:16.615Z",
+      "preview": "The biggest shift AI brings to DevOps isn't just about faster code, but elevatin...",
+      "type": "Note"
+    },
     {
       "id": "b74b570a-31c5-4330-ab56-aa96adf3c201",
       "path": "posts/2026/03/11/b74b570a-31c5-4330-ab56-aa96adf3c201.json",
