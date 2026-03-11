@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:54:45.949Z",
+  "lastUpdated": "2026-03-11T23:00:30.168Z",
   "posts": [
+    {
+      "id": "ee9dadac-c867-4b20-a2db-6d0b6449721a",
+      "path": "posts/2026/03/11/ee9dadac-c867-4b20-a2db-6d0b6449721a.json",
+      "published": "2026-03-11T23:00:30.168Z",
+      "preview": "AI isn't just for coding; it's transforming platform engineering. Imagine AIOps ...",
+      "type": "Note"
+    },
     {
       "id": "fae92703-653b-4c08-882b-3dcca8950115",
       "path": "posts/2026/03/11/fae92703-653b-4c08-882b-3dcca8950115.json",
