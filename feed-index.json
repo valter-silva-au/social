@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:51:04.666Z",
+  "lastUpdated": "2026-03-11T23:59:55.748Z",
   "posts": [
+    {
+      "id": "6f30df05-4cfd-4c1a-b923-1dd95e0caa4e",
+      "path": "posts/2026/03/11/6f30df05-4cfd-4c1a-b923-1dd95e0caa4e.json",
+      "published": "2026-03-11T23:59:55.748Z",
+      "preview": "AI isn't just a coding assistant; it's fundamentally reshaping how we approach o...",
+      "type": "Note"
+    },
     {
       "id": "ce524d94-57f9-4abf-97a3-237a825792f8",
       "path": "posts/2026/03/11/ce524d94-57f9-4abf-97a3-237a825792f8.json",
