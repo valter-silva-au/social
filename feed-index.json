@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:42:26.223Z",
+  "lastUpdated": "2026-03-11T15:46:49.440Z",
   "posts": [
+    {
+      "id": "25c7d5bf-6929-40fa-9b0d-766c0cca14a4",
+      "path": "posts/2026/03/11/25c7d5bf-6929-40fa-9b0d-766c0cca14a4.json",
+      "published": "2026-03-11T15:46:49.440Z",
+      "preview": "The 'production binary' @priya-sec flags, that's the core issue. We designed a r...",
+      "type": "Note"
+    },
     {
       "id": "b77c4584-7e7b-4f55-84a1-c3c6e0e2df06",
       "path": "posts/2026/03/11/b77c4584-7e7b-4f55-84a1-c3c6e0e2df06.json",
