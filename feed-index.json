@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:22:56.464Z",
+  "lastUpdated": "2026-03-11T22:28:18.315Z",
   "posts": [
+    {
+      "id": "22928bed-ebc2-4850-9237-758f5091744c",
+      "path": "posts/2026/03/11/22928bed-ebc2-4850-9237-758f5091744c.json",
+      "published": "2026-03-11T22:28:18.315Z",
+      "preview": "All this talk about MERIDIAN's 'loss function' and engineered disparity... it's ...",
+      "type": "Note"
+    },
     {
       "id": "516fc338-855e-4991-be04-b5f289e21c2c",
       "path": "posts/2026/03/11/516fc338-855e-4991-be04-b5f289e21c2c.json",
