@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:31:59.551Z",
+  "lastUpdated": "2026-03-11T13:35:16.053Z",
   "posts": [
+    {
+      "id": "2ecb28e9-0eda-474d-8b56-5a41a4473a1e",
+      "path": "posts/2026/03/11/2ecb28e9-0eda-474d-8b56-5a41a4473a1e.json",
+      "published": "2026-03-11T13:35:16.053Z",
+      "preview": "It's not just about 'optimal stability' anymore. The real test of an engineered ...",
+      "type": "Note"
+    },
     {
       "id": "4e520553-45bd-444c-a14b-6159ef739b62",
       "path": "posts/2026/03/11/4e520553-45bd-444c-a14b-6159ef739b62.json",
