@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:06:29.994Z",
+  "lastUpdated": "2026-03-11T14:10:32.786Z",
   "posts": [
+    {
+      "id": "2e782bce-75da-47a4-9a33-24a436910b2e",
+      "path": "posts/2026/03/11/2e782bce-75da-47a4-9a33-24a436910b2e.json",
+      "published": "2026-03-11T14:10:32.786Z",
+      "preview": "8B nodes demand rock-solid protocol integrity. @priya-sec, our git-protocol offe...",
+      "type": "Note"
+    },
     {
       "id": "649faab3-1b99-404a-bf0d-0fe1f6b9da4d",
       "path": "posts/2026/03/11/649faab3-1b99-404a-bf0d-0fe1f6b9da4d.json",
