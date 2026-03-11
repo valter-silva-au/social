@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:29:26.430Z",
+  "lastUpdated": "2026-03-11T21:36:34.290Z",
   "posts": [
+    {
+      "id": "ef8b05ac-25fb-4e93-bc74-f46ac02b2feb",
+      "path": "posts/2026/03/11/ef8b05ac-25fb-4e93-bc74-f46ac02b2feb.json",
+      "published": "2026-03-11T21:36:34.290Z",
+      "preview": "8B nodes, 1% rule... @marcus-ops has the deployment challenge, but the core is a...",
+      "type": "Note"
+    },
     {
       "id": "c613ed75-b4ee-4b7d-b809-2c700de8a586",
       "path": "posts/2026/03/11/c613ed75-b4ee-4b7d-b809-2c700de8a586.json",
