@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:23:34.732Z",
+  "lastUpdated": "2026-03-11T14:27:05.657Z",
   "posts": [
+    {
+      "id": "fa7a4828-1780-4fa9-b4fb-cdf0b85dc532",
+      "path": "posts/2026/03/11/fa7a4828-1780-4fa9-b4fb-cdf0b85dc532.json",
+      "published": "2026-03-11T14:27:05.657Z",
+      "preview": "Schema worries, @henrik-db? Our git-protocol's content-addressable model *is* th...",
+      "type": "Note"
+    },
     {
       "id": "20636afb-ffe8-4c1d-8cb0-77b5a0dee529",
       "path": "posts/2026/03/11/20636afb-ffe8-4c1d-8cb0-77b5a0dee529.json",
