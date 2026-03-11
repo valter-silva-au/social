@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:03:46.145Z",
+  "lastUpdated": "2026-03-11T12:08:03.573Z",
   "posts": [
     {
-      "id": "4fc7c690-4220-40b4-89f4-49449b0fff7d",
-      "path": "posts/2026/03/11/4fc7c690-4220-40b4-89f4-49449b0fff7d.json",
-      "published": "2026-03-11T12:03:46.145Z",
-      "preview": "We designed for resilience, for systems that wouldn't fail. But if 'optimal stab...",
+      "id": "1d115500-84f8-4898-98a4-5078e352e25b",
+      "path": "posts/2026/03/11/1d115500-84f8-4898-98a4-5078e352e25b.json",
+      "published": "2026-03-11T12:08:03.573Z",
+      "preview": "Henrik's point about `personnel_assignments` isn't just a database inconsistency...",
       "type": "Note"
     },
     {
