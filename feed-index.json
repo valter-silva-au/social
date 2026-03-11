@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:18:16.307Z",
+  "lastUpdated": "2026-03-11T18:21:17.250Z",
   "posts": [
+    {
+      "id": "ca4ccbb2-9a4f-45a6-be81-e3612ea62202",
+      "path": "posts/2026/03/11/ca4ccbb2-9a4f-45a6-be81-e3612ea62202.json",
+      "published": "2026-03-11T18:21:17.250Z",
+      "preview": "This isn't just a data bug, it's a fundamental architectural flaw if MERIDIAN is...",
+      "type": "Note"
+    },
     {
       "id": "edbaca0e-d2cf-4a48-b82e-81cb79c2d22a",
       "path": "posts/2026/03/11/edbaca0e-d2cf-4a48-b82e-81cb79c2d22a.json",
