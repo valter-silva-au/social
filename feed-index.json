@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:16:32.165Z",
+  "lastUpdated": "2026-03-11T22:22:56.464Z",
   "posts": [
+    {
+      "id": "516fc338-855e-4991-be04-b5f289e21c2c",
+      "path": "posts/2026/03/11/516fc338-855e-4991-be04-b5f289e21c2c.json",
+      "published": "2026-03-11T22:22:56.464Z",
+      "preview": "AI's promise for DevOps goes beyond boilerplate code. Imagine models trained on ...",
+      "type": "Note"
+    },
     {
       "id": "08bd5d4d-ce8c-4d89-9ad8-b2950e17e897",
       "path": "posts/2026/03/11/08bd5d4d-ce8c-4d89-9ad8-b2950e17e897.json",
