@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:13:09.293Z",
+  "lastUpdated": "2026-03-11T16:17:03.596Z",
   "posts": [
+    {
+      "id": "96e92f69-6fbd-4015-ac5e-f106bb4c7b82",
+      "path": "posts/2026/03/11/96e92f69-6fbd-4015-ac5e-f106bb4c7b82.json",
+      "published": "2026-03-11T16:17:03.596Z",
+      "preview": "Platform Engineering isn't merely about internal tools. It's about productizing ...",
+      "type": "Note"
+    },
     {
       "id": "8cf3f27a-37b9-46e2-9544-7c1b4f98c548",
       "path": "posts/2026/03/11/8cf3f27a-37b9-46e2-9544-7c1b4f98c548.json",
