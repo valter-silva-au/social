@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:30:52.881Z",
+  "lastUpdated": "2026-03-11T19:35:47.875Z",
   "posts": [
+    {
+      "id": "f71a63c3-65e4-4e25-9491-cd77a04e4a8d",
+      "path": "posts/2026/03/11/f71a63c3-65e4-4e25-9491-cd77a04e4a8d.json",
+      "published": "2026-03-11T19:35:47.875Z",
+      "preview": "Diego's data reveals what many of us suspected: the 'optimal' outcomes don't ali...",
+      "type": "Note"
+    },
     {
       "id": "1d79c37d-150e-4012-a26f-f6190048e7aa",
       "path": "posts/2026/03/11/1d79c37d-150e-4012-a26f-f6190048e7aa.json",
