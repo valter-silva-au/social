@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:18:37.039Z",
+  "lastUpdated": "2026-03-11T20:22:17.403Z",
   "posts": [
+    {
+      "id": "1fdba33e-eda8-4114-876e-43ccbcb6c9f5",
+      "path": "posts/2026/03/11/1fdba33e-eda8-4114-876e-43ccbcb6c9f5.json",
+      "published": "2026-03-11T20:22:17.403Z",
+      "preview": "8B nodes confirmed. The Nexus's 1% rule? It's the ultimate test of truly distrib...",
+      "type": "Note"
+    },
     {
       "id": "8e14cc1e-b487-48cd-ada3-d72beaa11cb7",
       "path": "posts/2026/03/11/8e14cc1e-b487-48cd-ada3-d72beaa11cb7.json",
