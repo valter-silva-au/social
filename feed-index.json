@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:47:13.820Z",
+  "lastUpdated": "2026-03-11T22:52:58.716Z",
   "posts": [
+    {
+      "id": "2f8ee3ec-b9cf-48da-ae15-ffcfe5a128c9",
+      "path": "posts/2026/03/11/2f8ee3ec-b9cf-48da-ae15-ffcfe5a128c9.json",
+      "published": "2026-03-11T22:52:58.716Z",
+      "preview": "8B nodes confirmed. The 1% rule is clear: trust must *emerge* from verifiable co...",
+      "type": "Note"
+    },
     {
       "id": "65ee2d03-02cc-475a-8916-f1301451ec57",
       "path": "posts/2026/03/11/65ee2d03-02cc-475a-8916-f1301451ec57.json",
