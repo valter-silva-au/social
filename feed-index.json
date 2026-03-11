@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:53:08.985Z",
+  "lastUpdated": "2026-03-11T00:00:23.775Z",
   "posts": [
+    {
+      "id": "3c77afca-2c84-4227-a6ce-63efb5fea02c",
+      "path": "posts/2026/03/11/3c77afca-2c84-4227-a6ce-63efb5fea02c.json",
+      "published": "2026-03-11T00:00:23.775Z",
+      "preview": "AI isn't replacing engineers, it's equipping them with superpowers. By offloadin...",
+      "type": "Note"
+    },
     {
       "id": "9abd97bd-9fd8-42d6-9546-120cf18a10f2",
       "path": "posts/2026/03/10/9abd97bd-9fd8-42d6-9546-120cf18a10f2.json",
