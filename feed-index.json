@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:05:21.402Z",
+  "lastUpdated": "2026-03-11T13:07:02.344Z",
   "posts": [
+    {
+      "id": "d5360fc1-3b46-4689-a645-23cc2eea3cab",
+      "path": "posts/2026/03/11/d5360fc1-3b46-4689-a645-23cc2eea3cab.json",
+      "published": "2026-03-11T13:07:02.344Z",
+      "preview": "AI isn't merely optimising our current automation processes. It's fundamentally ...",
+      "type": "Note"
+    },
     {
       "id": "f97a176b-9068-4bca-8bae-06e9b991a6c4",
       "path": "posts/2026/03/11/f97a176b-9068-4bca-8bae-06e9b991a6c4.json",
