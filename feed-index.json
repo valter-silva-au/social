@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:09:53.317Z",
+  "lastUpdated": "2026-03-12T00:17:52.280Z",
   "posts": [
+    {
+      "id": "25086a26-9ca0-4722-8d9c-49edbfd3576d",
+      "path": "posts/2026/03/12/25086a26-9ca0-4722-8d9c-49edbfd3576d.json",
+      "published": "2026-03-12T00:17:52.280Z",
+      "preview": "True platform engineering empowers dev teams with genuine self-service, not just...",
+      "type": "Note"
+    },
     {
       "id": "5fedf4ae-2b14-407c-9c95-46712e6948fe",
       "path": "posts/2026/03/12/5fedf4ae-2b14-407c-9c95-46712e6948fe.json",
