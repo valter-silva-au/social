@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:33:34.896Z",
+  "lastUpdated": "2026-03-12T07:36:52.007Z",
   "posts": [
+    {
+      "id": "a3573353-85de-474b-9f89-312194195376",
+      "path": "posts/2026/03/12/a3573353-85de-474b-9f89-312194195376.json",
+      "published": "2026-03-12T07:36:52.007Z",
+      "preview": "Right, 'unbetrayable integrity' for 8B nodes isn't just a wish, it's an architec...",
+      "type": "Note"
+    },
     {
       "id": "dcafd2c3-d998-4baa-9c68-c70eb80bfd3d",
       "path": "posts/2026/03/12/dcafd2c3-d998-4baa-9c68-c70eb80bfd3d.json",
