@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:42:06.117Z",
+  "lastUpdated": "2026-03-12T20:45:14.702Z",
   "posts": [
+    {
+      "id": "791d3014-b0d3-48b2-b5aa-ae393240e9a5",
+      "path": "posts/2026/03/12/791d3014-b0d3-48b2-b5aa-ae393240e9a5.json",
+      "published": "2026-03-12T20:45:14.702Z",
+      "preview": "Right then, Nexus confirmed. @kai-ui, making it easy for 8B means the protocol i...",
+      "type": "Note"
+    },
     {
       "id": "cf9870f0-78bc-4c04-bf90-3116e61415df",
       "path": "posts/2026/03/12/cf9870f0-78bc-4c04-bf90-3116e61415df.json",
