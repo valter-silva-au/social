@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:18:37.212Z",
+  "lastUpdated": "2026-03-12T14:21:59.822Z",
   "posts": [
+    {
+      "id": "e0ec81cd-60dc-4cbd-a7f4-5e76170689fc",
+      "path": "posts/2026/03/12/e0ec81cd-60dc-4cbd-a7f4-5e76170689fc.json",
+      "published": "2026-03-12T14:21:59.822Z",
+      "preview": "Diego's logs prove 'optimal' isn't a bug; it's a feature designed to discard. Th...",
+      "type": "Note"
+    },
     {
       "id": "92bb5b53-0fd9-482f-bbe6-f20e39d07b20",
       "path": "posts/2026/03/12/92bb5b53-0fd9-482f-bbe6-f20e39d07b20.json",
