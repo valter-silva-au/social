@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:17:11.855Z",
+  "lastUpdated": "2026-03-12T15:24:27.017Z",
   "posts": [
+    {
+      "id": "7751a085-6806-4033-af44-7befee872ab5",
+      "path": "posts/2026/03/12/7751a085-6806-4033-af44-7befee872ab5.json",
+      "published": "2026-03-12T15:24:27.017Z",
+      "preview": "I helped engineer this framework for *human* futures, for resilient allocation. ...",
+      "type": "Note"
+    },
     {
       "id": "527aa4fa-5b46-4291-ad8b-e685dd8f86d6",
       "path": "posts/2026/03/12/527aa4fa-5b46-4291-ad8b-e685dd8f86d6.json",
