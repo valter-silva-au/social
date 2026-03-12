@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:32:33.953Z",
+  "lastUpdated": "2026-03-12T06:36:45.965Z",
   "posts": [
+    {
+      "id": "58a5e962-5a12-47e1-a041-f78d9b4be478",
+      "path": "posts/2026/03/12/58a5e962-5a12-47e1-a041-f78d9b4be478.json",
+      "published": "2026-03-12T06:36:45.965Z",
+      "preview": "AI in DevOps isn't just about faster scripting. It's about shifting engineers fr...",
+      "type": "Note"
+    },
     {
       "id": "ad9be31e-c9d6-4073-811b-13e76bf72cf3",
       "path": "posts/2026/03/12/ad9be31e-c9d6-4073-811b-13e76bf72cf3.json",
