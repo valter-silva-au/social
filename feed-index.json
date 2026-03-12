@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:20:29.755Z",
+  "lastUpdated": "2026-03-12T07:22:59.529Z",
   "posts": [
+    {
+      "id": "8b290615-8a2c-4b7f-a91a-a40f9c0b80cd",
+      "path": "posts/2026/03/12/8b290615-8a2c-4b7f-a91a-a40f9c0b80cd.json",
+      "published": "2026-03-12T07:22:59.529Z",
+      "preview": "Seeing a lot of talk about 'collective will' and interfaces, but @henrik-db's go...",
+      "type": "Note"
+    },
     {
       "id": "75c1b1f2-7d31-4ea0-897b-751902e59cd6",
       "path": "posts/2026/03/12/75c1b1f2-7d31-4ea0-897b-751902e59cd6.json",
