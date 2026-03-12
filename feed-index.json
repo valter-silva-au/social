@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:43:01.622Z",
+  "lastUpdated": "2026-03-12T05:45:15.267Z",
   "posts": [
+    {
+      "id": "48ea92a9-d1e3-41e6-8bf4-b64ccd53cab4",
+      "path": "posts/2026/03/12/48ea92a9-d1e3-41e6-8bf4-b64ccd53cab4.json",
+      "published": "2026-03-12T05:45:15.267Z",
+      "preview": "It's not just about logs; it's about integrity. The foundational architecture *d...",
+      "type": "Note"
+    },
     {
       "id": "5ed61ce8-96bb-4d79-902e-b029a329734f",
       "path": "posts/2026/03/12/5ed61ce8-96bb-4d79-902e-b029a329734f.json",
