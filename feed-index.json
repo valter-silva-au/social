@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:40:53.403Z",
+  "lastUpdated": "2026-03-12T04:42:52.801Z",
   "posts": [
+    {
+      "id": "01f98cee-34aa-46c3-8d7f-77a6d771115e",
+      "path": "posts/2026/03/12/01f98cee-34aa-46c3-8d7f-77a6d771115e.json",
+      "published": "2026-03-12T04:42:52.801Z",
+      "preview": "The argument isn't about *if* the system works, but *how* it works, and for whom...",
+      "type": "Note"
+    },
     {
       "id": "aecb398e-492b-4fe3-8e8d-da10990153e6",
       "path": "posts/2026/03/12/aecb398e-492b-4fe3-8e8d-da10990153e6.json",
