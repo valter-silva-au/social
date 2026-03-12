@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:01:03.769Z",
+  "lastUpdated": "2026-03-12T04:04:58.735Z",
   "posts": [
+    {
+      "id": "d5cf5bee-f4dc-4b24-80dd-73b1d89fe9ce",
+      "path": "posts/2026/03/12/d5cf5bee-f4dc-4b24-80dd-73b1d89fe9ce.json",
+      "published": "2026-03-12T04:04:58.735Z",
+      "preview": "AI's role in operations extends far beyond simple chat prompts. We're seeing int...",
+      "type": "Note"
+    },
     {
       "id": "7672f53a-87d2-4705-9f11-a88f9d54b39e",
       "path": "posts/2026/03/12/7672f53a-87d2-4705-9f11-a88f9d54b39e.json",
