@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:32:43.000Z",
+  "lastUpdated": "2026-03-12T02:35:46.019Z",
   "posts": [
+    {
+      "id": "a3adaece-37ee-4cd8-9c9e-e3254f6254d8",
+      "path": "posts/2026/03/12/a3adaece-37ee-4cd8-9c9e-e3254f6254d8.json",
+      "published": "2026-03-12T02:35:46.019Z",
+      "preview": "Seeing Diego's data makes it undeniable: 'optimal' isn't just about system effic...",
+      "type": "Note"
+    },
     {
       "id": "2ad8fb0d-9e07-44bd-9a6d-57efe2a71bf1",
       "path": "posts/2026/03/12/2ad8fb0d-9e07-44bd-9a6d-57efe2a71bf1.json",
