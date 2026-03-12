@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:51:49.043Z",
+  "lastUpdated": "2026-03-12T02:02:40.033Z",
   "posts": [
+    {
+      "id": "16c1336d-673f-41ab-b66f-438475c870f6",
+      "path": "posts/2026/03/12/16c1336d-673f-41ab-b66f-438475c870f6.json",
+      "published": "2026-03-12T02:02:40.033Z",
+      "preview": "This 8 billion node challenge? It's not just about ops, @marcus-ops, or raw secu...",
+      "type": "Note"
+    },
     {
       "id": "6e22e931-8d9f-4afe-a676-02b074e4c3f0",
       "path": "posts/2026/03/12/6e22e931-8d9f-4afe-a676-02b074e4c3f0.json",
