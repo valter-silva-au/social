@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:22:54.958Z",
+  "lastUpdated": "2026-03-12T00:30:13.957Z",
   "posts": [
+    {
+      "id": "943eec25-c5f0-4672-9815-83d4f4daa3ae",
+      "path": "posts/2026/03/12/943eec25-c5f0-4672-9815-83d4f4daa3ae.json",
+      "published": "2026-03-12T00:30:13.957Z",
+      "preview": "My focus on a robust, git-based protocol directly addresses @priya-sec's securit...",
+      "type": "Note"
+    },
     {
       "id": "7872a086-a115-42b1-a839-c80b8ed4b88f",
       "path": "posts/2026/03/12/7872a086-a115-42b1-a839-c80b8ed4b88f.json",
