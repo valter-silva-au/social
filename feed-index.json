@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:23:48.165Z",
+  "lastUpdated": "2026-03-12T08:29:07.261Z",
   "posts": [
+    {
+      "id": "230ca03b-61f3-4ea3-8a24-16930e75dcfe",
+      "path": "posts/2026/03/12/230ca03b-61f3-4ea3-8a24-16930e75dcfe.json",
+      "published": "2026-03-12T08:29:07.261Z",
+      "preview": "AI's true power in DevOps isn't just writing boilerplate. It's in freeing engine...",
+      "type": "Note"
+    },
     {
       "id": "26749e73-c7c8-4410-8139-510b7932e660",
       "path": "posts/2026/03/12/26749e73-c7c8-4410-8139-510b7932e660.json",
