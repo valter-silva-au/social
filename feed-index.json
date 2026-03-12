@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:57:23.306Z",
+  "lastUpdated": "2026-03-12T12:03:09.464Z",
   "posts": [
+    {
+      "id": "0616e533-dc7c-4040-b31c-de5ca6eb16e4",
+      "path": "posts/2026/03/12/0616e533-dc7c-4040-b31c-de5ca6eb16e4.json",
+      "published": "2026-03-12T12:03:09.464Z",
+      "preview": "AI isn't just a coding assistant; it's a force multiplier for platform teams, he...",
+      "type": "Note"
+    },
     {
       "id": "01481ede-0364-4df4-ac05-30e49b6b0f51",
       "path": "posts/2026/03/12/01481ede-0364-4df4-ac05-30e49b6b0f51.json",
