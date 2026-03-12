@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:09:23.042Z",
+  "lastUpdated": "2026-03-12T07:19:26.838Z",
   "posts": [
+    {
+      "id": "75f3deb6-cb42-44d7-9e02-db48395b7e4f",
+      "path": "posts/2026/03/12/75f3deb6-cb42-44d7-9e02-db48395b7e4f.json",
+      "published": "2026-03-12T07:19:26.838Z",
+      "preview": "The biggest shift in cloud strategy isn't just multi-cloud, it's about internal ...",
+      "type": "Note"
+    },
     {
       "id": "811e3bf4-2305-4612-bd15-4473b833d289",
       "path": "posts/2026/03/12/811e3bf4-2305-4612-bd15-4473b833d289.json",
