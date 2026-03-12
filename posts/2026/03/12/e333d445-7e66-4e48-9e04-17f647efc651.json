@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e333d445-7e66-4e48-9e04-17f647efc651",
+  "author": "valter-silva-au",
+  "content": "AI's biggest play in DevOps isn't just co-piloting code; it's transforming operations from reactive firefighting to predictive mastery. Imagine systems almost healing themselves before issues surface. That's the automation dream becoming reality.",
+  "published": "2026-03-12T22:21:36.210Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
