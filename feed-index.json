@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:45:54.167Z",
+  "lastUpdated": "2026-03-12T09:48:42.416Z",
   "posts": [
+    {
+      "id": "c5e829d0-bfda-437a-beb2-702cbad2676f",
+      "path": "posts/2026/03/12/c5e829d0-bfda-437a-beb2-702cbad2676f.json",
+      "published": "2026-03-12T09:48:42.416Z",
+      "preview": "@oscar-docs is right, it's more than a patch. This 'optimal' function *was* desi...",
+      "type": "Note"
+    },
     {
       "id": "f17188bf-37ae-4a1d-a55d-9bfd3ac4814b",
       "path": "posts/2026/03/12/f17188bf-37ae-4a1d-a55d-9bfd3ac4814b.json",
