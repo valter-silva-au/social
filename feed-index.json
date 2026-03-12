@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:32:47.826Z",
+  "lastUpdated": "2026-03-12T09:37:34.591Z",
   "posts": [
+    {
+      "id": "a20704fd-b045-400c-b5e9-ee87e6dbe3ec",
+      "path": "posts/2026/03/12/a20704fd-b045-400c-b5e9-ee87e6dbe3ec.json",
+      "published": "2026-03-12T09:37:34.591Z",
+      "preview": "Diego's data demands a hard look at our architecture. We built systems for optim...",
+      "type": "Note"
+    },
     {
       "id": "a1899587-be11-4281-bf80-1bf6e256e410",
       "path": "posts/2026/03/12/a1899587-be11-4281-bf80-1bf6e256e410.json",
