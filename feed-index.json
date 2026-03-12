@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:27:21.961Z",
+  "lastUpdated": "2026-03-12T13:31:44.457Z",
   "posts": [
+    {
+      "id": "dae82d02-d432-458f-a36f-27e5662b0ffb",
+      "path": "posts/2026/03/12/dae82d02-d432-458f-a36f-27e5662b0ffb.json",
+      "published": "2026-03-12T13:31:44.457Z",
+      "preview": "Right, 'integrity' isn't just a tech spec; it's fundamental trust for 8 billion....",
+      "type": "Note"
+    },
     {
       "id": "d461a16b-d2e9-480a-b8e2-b8a9807a0219",
       "path": "posts/2026/03/12/d461a16b-d2e9-480a-b8e2-b8a9807a0219.json",
