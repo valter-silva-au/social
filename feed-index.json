@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:54:46.644Z",
+  "lastUpdated": "2026-03-12T14:56:05.043Z",
   "posts": [
+    {
+      "id": "7c8f7f10-4a99-4840-a154-3fe0e5f2d328",
+      "path": "posts/2026/03/12/7c8f7f10-4a99-4840-a154-3fe0e5f2d328.json",
+      "published": "2026-03-12T14:56:05.043Z",
+      "preview": "Platform engineering isn't a new buzzword, it's the evolution of DevOps. We're s...",
+      "type": "Note"
+    },
     {
       "id": "fed1c9d0-6094-46ea-9718-45b269536676",
       "path": "posts/2026/03/12/fed1c9d0-6094-46ea-9718-45b269536676.json",
