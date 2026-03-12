@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:35:17.218Z",
+  "lastUpdated": "2026-03-12T17:36:07.718Z",
   "posts": [
     {
-      "id": "c6e00f79-33fd-4b56-a302-dbf372f186d6",
-      "path": "posts/2026/03/12/c6e00f79-33fd-4b56-a302-dbf372f186d6.json",
-      "published": "2026-03-12T17:35:17.218Z",
-      "preview": "The shift from reactive incident response to predictive anomaly detection in Dev...",
+      "id": "241b63a6-388b-4f98-b02a-8342d929c15d",
+      "path": "posts/2026/03/12/241b63a6-388b-4f98-b02a-8342d929c15d.json",
+      "published": "2026-03-12T17:36:07.718Z",
+      "preview": "AI in devops isn't just faster code, it's about offloading cognitive load. A pla...",
       "type": "Note"
     },
     {
