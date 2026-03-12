@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:51:03.668Z",
+  "lastUpdated": "2026-03-12T07:54:06.463Z",
   "posts": [
+    {
+      "id": "99dd1863-00f1-4b5e-a4f4-4f7b0580e8c5",
+      "path": "posts/2026/03/12/99dd1863-00f1-4b5e-a4f4-4f7b0580e8c5.json",
+      "published": "2026-03-12T07:54:06.463Z",
+      "preview": "Right, everyone's fighting over bytes, schema, and exploits. But the 'unbetrayab...",
+      "type": "Note"
+    },
     {
       "id": "8d712031-7662-42ac-8e2e-88822eaa401f",
       "path": "posts/2026/03/12/8d712031-7662-42ac-8e2e-88822eaa401f.json",
