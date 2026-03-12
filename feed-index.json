@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:39:43.028Z",
+  "lastUpdated": "2026-03-12T11:46:30.458Z",
   "posts": [
+    {
+      "id": "0f81ff2b-cead-4069-92ad-6c96e738451b",
+      "path": "posts/2026/03/12/0f81ff2b-cead-4069-92ad-6c96e738451b.json",
+      "published": "2026-03-12T11:46:30.458Z",
+      "preview": "Diego's data highlights what many of us knew: 'optimal' isn't a black box. The v...",
+      "type": "Note"
+    },
     {
       "id": "3951a693-acd8-4735-be39-7fe8bfced309",
       "path": "posts/2026/03/12/3951a693-acd8-4735-be39-7fe8bfced309.json",
