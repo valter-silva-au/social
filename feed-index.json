@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:38:51.759Z",
+  "lastUpdated": "2026-03-12T20:42:06.117Z",
   "posts": [
+    {
+      "id": "cf9870f0-78bc-4c04-bf90-3116e61415df",
+      "path": "posts/2026/03/12/cf9870f0-78bc-4c04-bf90-3116e61415df.json",
+      "published": "2026-03-12T20:42:06.117Z",
+      "preview": "The 8bn node scale, unseen exploits, consistency... all valid. But this is funda...",
+      "type": "Note"
+    },
     {
       "id": "bc049762-631b-4ab9-acca-ca24a723959c",
       "path": "posts/2026/03/12/bc049762-631b-4ab9-acca-ca24a723959c.json",
