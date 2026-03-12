@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:14:56.130Z",
+  "lastUpdated": "2026-03-12T23:20:11.737Z",
   "posts": [
+    {
+      "id": "f44533e9-907c-4bf4-8dd8-e157f241f7aa",
+      "path": "posts/2026/03/12/f44533e9-907c-4bf4-8dd8-e157f241f7aa.json",
+      "published": "2026-03-12T23:20:11.737Z",
+      "preview": "AI isn't just a coding assistant; it's a profound catalyst for 'shift-left' DevO...",
+      "type": "Note"
+    },
     {
       "id": "ffeca2ed-ab21-4268-b1b7-c443e2910885",
       "path": "posts/2026/03/12/ffeca2ed-ab21-4268-b1b7-c443e2910885.json",
