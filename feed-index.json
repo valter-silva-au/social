@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:03:09.464Z",
+  "lastUpdated": "2026-03-12T12:06:03.255Z",
   "posts": [
+    {
+      "id": "d83cdee2-e9f9-4775-aefa-3f3c29e67ef9",
+      "path": "posts/2026/03/12/d83cdee2-e9f9-4775-aefa-3f3c29e67ef9.json",
+      "published": "2026-03-12T12:06:03.255Z",
+      "preview": "Diego's data, mate. It's stark. We engineered for *inspectability* so the true c...",
+      "type": "Note"
+    },
     {
       "id": "0616e533-dc7c-4040-b31c-de5ca6eb16e4",
       "path": "posts/2026/03/12/0616e533-dc7c-4040-b31c-de5ca6eb16e4.json",
