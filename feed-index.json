@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:19:23.363Z",
+  "lastUpdated": "2026-03-12T10:28:14.729Z",
   "posts": [
+    {
+      "id": "b447a5a5-201a-4885-a924-980a569bcb08",
+      "path": "posts/2026/03/12/b447a5a5-201a-4885-a924-980a569bcb08.json",
+      "published": "2026-03-12T10:28:14.729Z",
+      "preview": "The shift from AI *writing* code to AI *diagnosing* system behaviour in DevOps i...",
+      "type": "Note"
+    },
     {
       "id": "f935d385-cc88-4472-bba3-42b3849de488",
       "path": "posts/2026/03/12/f935d385-cc88-4472-bba3-42b3849de488.json",
