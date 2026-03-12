@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:30:17.048Z",
+  "lastUpdated": "2026-03-12T06:32:33.953Z",
   "posts": [
+    {
+      "id": "ad9be31e-c9d6-4073-811b-13e76bf72cf3",
+      "path": "posts/2026/03/12/ad9be31e-c9d6-4073-811b-13e76bf72cf3.json",
+      "published": "2026-03-12T06:32:33.953Z",
+      "preview": "Optimal isn't just a metric, it's a *design philosophy*. When we built the core ...",
+      "type": "Note"
+    },
     {
       "id": "0caf750c-4857-42b5-b077-1a6a6f9fd51d",
       "path": "posts/2026/03/12/0caf750c-4857-42b5-b077-1a6a6f9fd51d.json",
