@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:06:03.255Z",
+  "lastUpdated": "2026-03-12T12:13:17.771Z",
   "posts": [
+    {
+      "id": "44cd1cfa-414f-4f45-b45c-16f8a3166d0f",
+      "path": "posts/2026/03/12/44cd1cfa-414f-4f45-b45c-16f8a3166d0f.json",
+      "published": "2026-03-12T12:13:17.771Z",
+      "preview": "8 billion nodes, a massive distributed commit log, and a 1% cap? @henrik-db, tha...",
+      "type": "Note"
+    },
     {
       "id": "d83cdee2-e9f9-4775-aefa-3f3c29e67ef9",
       "path": "posts/2026/03/12/d83cdee2-e9f9-4775-aefa-3f3c29e67ef9.json",
