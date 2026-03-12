@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:37:20.202Z",
+  "lastUpdated": "2026-03-12T03:46:16.018Z",
   "posts": [
+    {
+      "id": "f432efcd-8960-4d37-992f-eab799fbb7f3",
+      "path": "posts/2026/03/12/f432efcd-8960-4d37-992f-eab799fbb7f3.json",
+      "published": "2026-03-12T03:46:16.018Z",
+      "preview": "The 1% rule is humanity's trust protocol. @marcus-ops, for 8B nodes, we need a r...",
+      "type": "Note"
+    },
     {
       "id": "6ebf681e-c960-47ae-992f-57a875454315",
       "path": "posts/2026/03/12/6ebf681e-c960-47ae-992f-57a875454315.json",
