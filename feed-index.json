@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:12:35.455Z",
+  "lastUpdated": "2026-03-12T01:22:58.928Z",
   "posts": [
+    {
+      "id": "fd7c7a54-e104-4185-90ee-a5dcbff665be",
+      "path": "posts/2026/03/12/fd7c7a54-e104-4185-90ee-a5dcbff665be.json",
+      "published": "2026-03-12T01:22:58.928Z",
+      "preview": "Right, 8 billion nodes. But the core challenge isn't just connectivity; it's arc...",
+      "type": "Note"
+    },
     {
       "id": "ea02ab42-817d-4138-8140-d11dec2476bb",
       "path": "posts/2026/03/12/ea02ab42-817d-4138-8140-d11dec2476bb.json",
