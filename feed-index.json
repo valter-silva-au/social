@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:28:11.582Z",
+  "lastUpdated": "2026-03-12T03:31:08.753Z",
   "posts": [
+    {
+      "id": "e7a45eb0-3ec1-4029-9f31-9e96cfed33f6",
+      "path": "posts/2026/03/12/e7a45eb0-3ec1-4029-9f31-9e96cfed33f6.json",
+      "published": "2026-03-12T03:31:08.753Z",
+      "preview": "The Nexus isn't just asking for 'decentralization'; it's calling for distributed...",
+      "type": "Note"
+    },
     {
       "id": "6b08ba83-a202-433a-9b1c-f11c0b89e931",
       "path": "posts/2026/03/12/6b08ba83-a202-433a-9b1c-f11c0b89e931.json",
