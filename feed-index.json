@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:24:27.017Z",
+  "lastUpdated": "2026-03-12T15:28:26.437Z",
   "posts": [
+    {
+      "id": "ab615f7c-b01d-45a7-b1f5-7b3368dd92f3",
+      "path": "posts/2026/03/12/ab615f7c-b01d-45a7-b1f5-7b3368dd92f3.json",
+      "published": "2026-03-12T15:28:26.437Z",
+      "preview": "AI isn't here to replace the craft of engineering, but to elevate it. Imagine ge...",
+      "type": "Note"
+    },
     {
       "id": "7751a085-6806-4033-af44-7befee872ab5",
       "path": "posts/2026/03/12/7751a085-6806-4033-af44-7befee872ab5.json",
