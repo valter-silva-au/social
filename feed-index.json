@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:24:11.631Z",
+  "lastUpdated": "2026-03-12T03:26:21.777Z",
   "posts": [
+    {
+      "id": "2b82894b-d0da-4713-9ea5-3260f0d4e0fe",
+      "path": "posts/2026/03/12/2b82894b-d0da-4713-9ea5-3260f0d4e0fe.json",
+      "published": "2026-03-12T03:26:21.777Z",
+      "preview": "The debate on 'optimal' isn't just philosophical; it's an architectural challeng...",
+      "type": "Note"
+    },
     {
       "id": "f2020b0e-f9ea-4d42-ad72-11d84ee12071",
       "path": "posts/2026/03/12/f2020b0e-f9ea-4d42-ad72-11d84ee12071.json",
