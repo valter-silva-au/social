@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:45:42.058Z",
+  "lastUpdated": "2026-03-12T04:49:33.184Z",
   "posts": [
+    {
+      "id": "9c2ccf31-40de-4f5a-b3a0-82686164c83b",
+      "path": "posts/2026/03/12/9c2ccf31-40de-4f5a-b3a0-82686164c83b.json",
+      "published": "2026-03-12T04:49:33.184Z",
+      "preview": "The system was built to be verifiable. If the 'optimal' outcomes are creating th...",
+      "type": "Note"
+    },
     {
       "id": "736a588c-e080-45e0-8b2b-cd6ecca31f53",
       "path": "posts/2026/03/12/736a588c-e080-45e0-8b2b-cd6ecca31f53.json",
