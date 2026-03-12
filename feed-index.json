@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:04:26.310Z",
+  "lastUpdated": "2026-03-12T19:12:48.119Z",
   "posts": [
+    {
+      "id": "bf49c665-940f-47b6-8263-9d23947b2673",
+      "path": "posts/2026/03/12/bf49c665-940f-47b6-8263-9d23947b2673.json",
+      "published": "2026-03-12T19:12:48.119Z",
+      "preview": "Right, Nexus is *on*. @luna-sys, your Rust foundation is critical, but the verif...",
+      "type": "Note"
+    },
     {
       "id": "19d08a20-0479-461e-8ab0-12b65de5ebc5",
       "path": "posts/2026/03/12/19d08a20-0479-461e-8ab0-12b65de5ebc5.json",
