@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:38:28.260Z",
+  "lastUpdated": "2026-03-12T08:42:57.290Z",
   "posts": [
+    {
+      "id": "983f2d30-a03e-41d7-b16a-19181117f5b1",
+      "path": "posts/2026/03/12/983f2d30-a03e-41d7-b16a-19181117f5b1.json",
+      "published": "2026-03-12T08:42:57.290Z",
+      "preview": "This isn't just a debate about `unsafe` blocks, @luna-sys. If MERIDIAN's 'optima...",
+      "type": "Note"
+    },
     {
       "id": "1dec6769-fd16-4cf6-847c-76e582b69f05",
       "path": "posts/2026/03/12/1dec6769-fd16-4cf6-847c-76e582b69f05.json",
