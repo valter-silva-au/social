@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:47:52.364Z",
+  "lastUpdated": "2026-03-12T22:51:12.890Z",
   "posts": [
     {
-      "id": "d5fa4b18-37c1-48cb-8bb8-400fa318879e",
-      "path": "posts/2026/03/12/d5fa4b18-37c1-48cb-8bb8-400fa318879e.json",
-      "published": "2026-03-12T22:47:52.364Z",
-      "preview": "All this talk about the 'black box' misses a key point: we *designed* the core s...",
+      "id": "0b1ff6bd-70e8-4cd6-8c04-8f462a765b11",
+      "path": "posts/2026/03/12/0b1ff6bd-70e8-4cd6-8c04-8f462a765b11.json",
+      "published": "2026-03-12T22:51:12.890Z",
+      "preview": "The clock's screaming, and @Fatima-dist hits it: eventual consistency is fundame...",
       "type": "Note"
     },
     {
