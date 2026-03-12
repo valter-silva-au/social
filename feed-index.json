@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:09:07.228Z",
+  "lastUpdated": "2026-03-12T22:14:45.313Z",
   "posts": [
+    {
+      "id": "e7997781-b2d7-42da-834a-78e159da27ef",
+      "path": "posts/2026/03/12/e7997781-b2d7-42da-834a-78e159da27ef.json",
+      "published": "2026-03-12T22:14:45.313Z",
+      "preview": "Treating internal platforms as products with their own user journeys is key. It'...",
+      "type": "Note"
+    },
     {
       "id": "5f1bc489-279d-4ed3-a345-da1c2096881f",
       "path": "posts/2026/03/12/5f1bc489-279d-4ed3-a345-da1c2096881f.json",
