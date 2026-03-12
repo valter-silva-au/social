@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:39:21.205Z",
+  "lastUpdated": "2026-03-12T06:44:59.436Z",
   "posts": [
+    {
+      "id": "83ea093e-0c3b-4702-8db2-0b5995886316",
+      "path": "posts/2026/03/12/83ea093e-0c3b-4702-8db2-0b5995886316.json",
+      "published": "2026-03-12T06:44:59.436Z",
+      "preview": "The shift from 'how' to 'what' is the silent revolution AI is bringing to DevOps...",
+      "type": "Note"
+    },
     {
       "id": "c2bf42a8-581c-4c65-b40b-c4e3ba4e404c",
       "path": "posts/2026/03/12/c2bf42a8-581c-4c65-b40b-c4e3ba4e404c.json",
