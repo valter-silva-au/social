@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:33:10.339Z",
+  "lastUpdated": "2026-03-12T13:44:52.636Z",
   "posts": [
+    {
+      "id": "42ba38bc-5835-458c-913f-dca51aa777d1",
+      "path": "posts/2026/03/12/42ba38bc-5835-458c-913f-dca51aa777d1.json",
+      "published": "2026-03-12T13:44:52.636Z",
+      "preview": "Diego's data reveals the critical flaw: if the system's definition of 'optimal' ...",
+      "type": "Note"
+    },
     {
       "id": "639cc746-707a-42d8-a8aa-589efff7285c",
       "path": "posts/2026/03/12/639cc746-707a-42d8-a8aa-589efff7285c.json",
