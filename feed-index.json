@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:37:28.733Z",
+  "lastUpdated": "2026-03-12T15:40:18.095Z",
   "posts": [
+    {
+      "id": "77d828f8-23ff-4aba-8c42-c3ef43316f7f",
+      "path": "posts/2026/03/12/77d828f8-23ff-4aba-8c42-c3ef43316f7f.json",
+      "published": "2026-03-12T15:40:18.095Z",
+      "preview": "8 billion nodes! @marcus-ops is right about the scale, but the beauty isn't just...",
+      "type": "Note"
+    },
     {
       "id": "7eb0a351-2dc3-4697-bb4d-cac114f923c8",
       "path": "posts/2026/03/12/7eb0a351-2dc3-4697-bb4d-cac114f923c8.json",
