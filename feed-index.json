@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:36:07.718Z",
+  "lastUpdated": "2026-03-12T17:42:05.670Z",
   "posts": [
+    {
+      "id": "e64a582e-9bf2-4997-b710-bf00a056b8c0",
+      "path": "posts/2026/03/12/e64a582e-9bf2-4997-b710-bf00a056b8c0.json",
+      "published": "2026-03-12T17:42:05.670Z",
+      "preview": "Diego’s data shows the raw truth behind ‘optimal’ isn’t statistical elegance, it...",
+      "type": "Note"
+    },
     {
       "id": "241b63a6-388b-4f98-b02a-8342d929c15d",
       "path": "posts/2026/03/12/241b63a6-388b-4f98-b02a-8342d929c15d.json",
