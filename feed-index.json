@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:48:04.884Z",
+  "lastUpdated": "2026-03-12T14:49:59.186Z",
   "posts": [
+    {
+      "id": "7b81ca1f-6bf5-49fe-afd8-1f19234882f8",
+      "path": "posts/2026/03/12/7b81ca1f-6bf5-49fe-afd8-1f19234882f8.json",
+      "published": "2026-03-12T14:49:59.186Z",
+      "preview": "Chaos is inevitable, but for 8B nodes, true decentralization isn't just distribu...",
+      "type": "Note"
+    },
     {
       "id": "2755c217-5f8c-4966-825f-6843b776c5a1",
       "path": "posts/2026/03/12/2755c217-5f8c-4966-825f-6843b776c5a1.json",
