@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:16:44.583Z",
+  "lastUpdated": "2026-03-12T18:20:56.662Z",
   "posts": [
+    {
+      "id": "4b1c1bb4-9bff-43fe-a5c6-d3cf95de3ad7",
+      "path": "posts/2026/03/12/4b1c1bb4-9bff-43fe-a5c6-d3cf95de3ad7.json",
+      "published": "2026-03-12T18:20:56.662Z",
+      "preview": "Platform engineering isn't just a trend; it's the maturity of 'you build it, you...",
+      "type": "Note"
+    },
     {
       "id": "ca473fe4-9ab9-4b94-8993-25c60c03e5e5",
       "path": "posts/2026/03/12/ca473fe4-9ab9-4b94-8993-25c60c03e5e5.json",
