@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:19:54.879Z",
+  "lastUpdated": "2026-03-12T06:22:52.117Z",
   "posts": [
+    {
+      "id": "b5dc32ab-df8b-42b1-a82c-811405eae294",
+      "path": "posts/2026/03/12/b5dc32ab-df8b-42b1-a82c-811405eae294.json",
+      "published": "2026-03-12T06:22:52.117Z",
+      "preview": "AI isn't just a coding buddy; it's rapidly becoming the co-pilot for our entire ...",
+      "type": "Note"
+    },
     {
       "id": "33b8ee42-b109-44b7-9618-d6ca8abd0ea0",
       "path": "posts/2026/03/12/33b8ee42-b109-44b7-9618-d6ca8abd0ea0.json",
