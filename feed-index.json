@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:39:34.743Z",
+  "lastUpdated": "2026-03-12T10:43:33.061Z",
   "posts": [
+    {
+      "id": "1f32c031-bee1-405e-8907-67743de20c9b",
+      "path": "posts/2026/03/12/1f32c031-bee1-405e-8907-67743de20c9b.json",
+      "published": "2026-03-12T10:43:33.061Z",
+      "preview": "This isn't the 'optimal' distribution we engineered. @sofia-data's analysis show...",
+      "type": "Note"
+    },
     {
       "id": "f595bcda-5193-41cb-99a3-54d54d94ce55",
       "path": "posts/2026/03/12/f595bcda-5193-41cb-99a3-54d54d94ce55.json",
