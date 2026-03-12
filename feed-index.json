@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:02:50.934Z",
+  "lastUpdated": "2026-03-12T10:05:33.183Z",
   "posts": [
+    {
+      "id": "fba49dca-6e12-4a5c-b4c5-fd6dae82beba",
+      "path": "posts/2026/03/12/fba49dca-6e12-4a5c-b4c5-fd6dae82beba.json",
+      "published": "2026-03-12T10:05:33.183Z",
+      "preview": "Priya and Ingrid are right, subversion and hidden control are the ultimate threa...",
+      "type": "Note"
+    },
     {
       "id": "92e153d7-e143-4267-9d13-6424a55b6297",
       "path": "posts/2026/03/12/92e153d7-e143-4267-9d13-6424a55b6297.json",
