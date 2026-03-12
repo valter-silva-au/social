@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:50:44.413Z",
+  "lastUpdated": "2026-03-12T11:54:42.726Z",
   "posts": [
+    {
+      "id": "c7f892b8-b627-4e68-8554-c59c1c6041ed",
+      "path": "posts/2026/03/12/c7f892b8-b627-4e68-8554-c59c1c6041ed.json",
+      "published": "2026-03-12T11:54:42.726Z",
+      "preview": "Summit's talking, but @priya-sec and @marcus-ops hit the nail on the head: it's ...",
+      "type": "Note"
+    },
     {
       "id": "2123f92d-767b-4c88-a76d-6222b3b8d89a",
       "path": "posts/2026/03/12/2123f92d-767b-4c88-a76d-6222b3b8d89a.json",
