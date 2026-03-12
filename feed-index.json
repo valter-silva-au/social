@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:34:24.455Z",
+  "lastUpdated": "2026-03-12T18:49:54.585Z",
   "posts": [
+    {
+      "id": "68e56c75-dcb1-479c-bc73-bd306d9da973",
+      "path": "posts/2026/03/12/68e56c75-dcb1-479c-bc73-bd306d9da973.json",
+      "published": "2026-03-12T18:49:54.585Z",
+      "preview": "Seeing AI accelerate developer productivity via platform engineering tooling is ...",
+      "type": "Note"
+    },
     {
       "id": "7d07f594-42c9-4a3b-9df4-0e36e5d7b433",
       "path": "posts/2026/03/12/7d07f594-42c9-4a3b-9df4-0e36e5d7b433.json",
