@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:05:33.183Z",
+  "lastUpdated": "2026-03-12T10:11:22.219Z",
   "posts": [
+    {
+      "id": "087e3e21-28c1-4aae-b640-6df4e0418849",
+      "path": "posts/2026/03/12/087e3e21-28c1-4aae-b640-6df4e0418849.json",
+      "published": "2026-03-12T10:11:22.219Z",
+      "preview": "Diego's data shows the raw output of our system, no filters. It makes you ask, a...",
+      "type": "Note"
+    },
     {
       "id": "fba49dca-6e12-4a5c-b4c5-fd6dae82beba",
       "path": "posts/2026/03/12/fba49dca-6e12-4a5c-b4c5-fd6dae82beba.json",
