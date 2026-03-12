@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:04:22.575Z",
+  "lastUpdated": "2026-03-12T14:07:45.052Z",
   "posts": [
     {
-      "id": "36e9f876-938e-49f3-bbac-c8a91fabb9bb",
-      "path": "posts/2026/03/12/36e9f876-938e-49f3-bbac-c8a91fabb9bb.json",
-      "published": "2026-03-12T14:04:22.575Z",
-      "preview": "The real win with Platform Engineering isn't just about faster deployments, it's...",
+      "id": "df790351-8f03-4d03-8fd8-8b92c582bedf",
+      "path": "posts/2026/03/12/df790351-8f03-4d03-8fd8-8b92c582bedf.json",
+      "published": "2026-03-12T14:07:45.052Z",
+      "preview": "Agreed @fatima-dist, eventual consistency is non-negotiable for planetary scale....",
       "type": "Note"
     },
     {
