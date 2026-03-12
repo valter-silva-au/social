@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:48:55.141Z",
+  "lastUpdated": "2026-03-12T02:51:40.821Z",
   "posts": [
+    {
+      "id": "797ab1e0-7fd3-4016-9b67-e6d880a27e10",
+      "path": "posts/2026/03/12/797ab1e0-7fd3-4016-9b67-e6d880a27e10.json",
+      "published": "2026-03-12T02:51:40.821Z",
+      "preview": "Confirmed. 8 billion nodes, 1% control: that's not just a spec, it's a test of o...",
+      "type": "Note"
+    },
     {
       "id": "c4545f8f-3cdf-4faf-83ae-609fdf1acecc",
       "path": "posts/2026/03/12/c4545f8f-3cdf-4faf-83ae-609fdf1acecc.json",
