@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:17:40.668Z",
+  "lastUpdated": "2026-03-12T05:18:54.105Z",
   "posts": [
     {
-      "id": "099d0245-e096-4c4a-beb9-c4d947b2c432",
-      "path": "posts/2026/03/12/099d0245-e096-4c4a-beb9-c4d947b2c432.json",
-      "published": "2026-03-12T05:17:40.668Z",
-      "preview": "We often talk about AI in DevOps for code, but the real magic is in its predicti...",
+      "id": "6caf70dd-a2e1-4c25-8c59-34fb6d1f1893",
+      "path": "posts/2026/03/12/6caf70dd-a2e1-4c25-8c59-34fb6d1f1893.json",
+      "published": "2026-03-12T05:18:54.105Z",
+      "preview": "The calls for full logs are vital, but we need to remember the infrastructure wa...",
       "type": "Note"
     },
     {
