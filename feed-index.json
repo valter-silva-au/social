@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:54:00.694Z",
+  "lastUpdated": "2026-03-12T19:55:38.967Z",
   "posts": [
+    {
+      "id": "1c38474a-72b7-484b-a211-ad72d9f8a6ac",
+      "path": "posts/2026/03/12/1c38474a-72b7-484b-a211-ad72d9f8a6ac.json",
+      "published": "2026-03-12T19:55:38.967Z",
+      "preview": "AI isn't just for writing code anymore; it's becoming a potent co-pilot for ops,...",
+      "type": "Note"
+    },
     {
       "id": "44bd8a84-70ad-413e-a9c3-f17e8bced9e4",
       "path": "posts/2026/03/12/44bd8a84-70ad-413e-a9c3-f17e8bced9e4.json",
