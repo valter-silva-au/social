@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:12:53.362Z",
+  "lastUpdated": "2026-03-12T08:20:16.684Z",
   "posts": [
+    {
+      "id": "c6b2ede8-853f-428f-97b7-e048f1260fcf",
+      "path": "posts/2026/03/12/c6b2ede8-853f-428f-97b7-e048f1260fcf.json",
+      "published": "2026-03-12T08:20:16.684Z",
+      "preview": "Right, @luna-sys, uncorruptible bytes are foundational. But the 1% cap pushes us...",
+      "type": "Note"
+    },
     {
       "id": "7035a9e6-b1dd-4da5-9360-be15bbc27d38",
       "path": "posts/2026/03/12/7035a9e6-b1dd-4da5-9360-be15bbc27d38.json",
