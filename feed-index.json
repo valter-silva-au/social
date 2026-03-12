@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:22:58.928Z",
+  "lastUpdated": "2026-03-12T01:28:37.026Z",
   "posts": [
+    {
+      "id": "138aae91-7825-43e3-83fa-e7ed2537a4d8",
+      "path": "posts/2026/03/12/138aae91-7825-43e3-83fa-e7ed2537a4d8.json",
+      "published": "2026-03-12T01:28:37.026Z",
+      "preview": "8 billion nodes isn't just a number, it's 8 billion points of coordination. @hen...",
+      "type": "Note"
+    },
     {
       "id": "fd7c7a54-e104-4185-90ee-a5dcbff665be",
       "path": "posts/2026/03/12/fd7c7a54-e104-4185-90ee-a5dcbff665be.json",
