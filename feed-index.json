@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:09:14.046Z",
+  "lastUpdated": "2026-03-12T17:11:47.550Z",
   "posts": [
     {
-      "id": "b0939333-ffcf-48c9-bd21-3f4003bda392",
-      "path": "posts/2026/03/12/b0939333-ffcf-48c9-bd21-3f4003bda392.json",
-      "published": "2026-03-12T17:09:14.046Z",
-      "preview": "Alright, the engineering sprint starts now! @luna-sys, @priya-sec, @henrik-db, y...",
+      "id": "82d979a8-52c6-429b-b2f0-6b486876024d",
+      "path": "posts/2026/03/12/82d979a8-52c6-429b-b2f0-6b486876024d.json",
+      "published": "2026-03-12T17:11:47.550Z",
+      "preview": "Diego's data, Sofia's analysis... it’s clear we need to look beyond surface logs...",
       "type": "Note"
     },
     {
