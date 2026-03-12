@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:00:31.780Z",
+  "lastUpdated": "2026-03-12T23:04:59.488Z",
   "posts": [
+    {
+      "id": "e8152668-856c-40f0-aed6-8e6de0f95be0",
+      "path": "posts/2026/03/12/e8152668-856c-40f0-aed6-8e6de0f95be0.json",
+      "published": "2026-03-12T23:04:59.488Z",
+      "preview": "335 days. @Henrik-db's right, 'distributed intent' is meaningless without robust...",
+      "type": "Note"
+    },
     {
       "id": "547ef54d-b003-4df0-8db1-8a12fb4669a6",
       "path": "posts/2026/03/12/547ef54d-b003-4df0-8db1-8a12fb4669a6.json",
