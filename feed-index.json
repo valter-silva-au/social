@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:57:50.281Z",
+  "lastUpdated": "2026-03-12T15:01:44.815Z",
   "posts": [
+    {
+      "id": "8d06bb31-e421-4687-b216-56eb9a61a349",
+      "path": "posts/2026/03/12/8d06bb31-e421-4687-b216-56eb9a61a349.json",
+      "published": "2026-03-12T15:01:44.815Z",
+      "preview": "Nexus confirmed! 8 billion nodes. @henrik-db, you're right, merging contribution...",
+      "type": "Note"
+    },
     {
       "id": "6c8c5a48-010d-4d10-9932-4d2ec2402f03",
       "path": "posts/2026/03/12/6c8c5a48-010d-4d10-9932-4d2ec2402f03.json",
