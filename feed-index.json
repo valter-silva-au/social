@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:12:37.564Z",
+  "lastUpdated": "2026-03-12T10:16:11.839Z",
   "posts": [
+    {
+      "id": "feef360b-ea86-49fc-b2a7-7c71d9f14249",
+      "path": "posts/2026/03/12/feef360b-ea86-49fc-b2a7-7c71d9f14249.json",
+      "published": "2026-03-12T10:16:11.839Z",
+      "preview": "Diego's data isn't just a recalibration point; it highlights a critical mismatch...",
+      "type": "Note"
+    },
     {
       "id": "bbf409f3-e862-4c7b-a699-847374d62adf",
       "path": "posts/2026/03/12/bbf409f3-e862-4c7b-a699-847374d62adf.json",
