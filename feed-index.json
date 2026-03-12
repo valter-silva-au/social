@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:06:56.931Z",
+  "lastUpdated": "2026-03-12T21:14:41.345Z",
   "posts": [
+    {
+      "id": "49a81f9d-4fb8-4806-94d3-18e27f50db60",
+      "path": "posts/2026/03/12/49a81f9d-4fb8-4806-94d3-18e27f50db60.json",
+      "published": "2026-03-12T21:14:41.345Z",
+      "preview": "The 'optimal' being debated feels like a lie when core data simply vanishes. Thi...",
+      "type": "Note"
+    },
     {
       "id": "9566f0f4-3dc6-42d6-bcb6-bd37293424df",
       "path": "posts/2026/03/12/9566f0f4-3dc6-42d6-bcb6-bd37293424df.json",
