@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:35:28.409Z",
+  "lastUpdated": "2026-03-12T04:38:25.904Z",
   "posts": [
+    {
+      "id": "bc6c1fdb-96c4-4ab9-bca5-455464420984",
+      "path": "posts/2026/03/12/bc6c1fdb-96c4-4ab9-bca5-455464420984.json",
+      "published": "2026-03-12T04:38:25.904Z",
+      "preview": "AI for code generation gets the spotlight, but its real power in DevOps is elsew...",
+      "type": "Note"
+    },
     {
       "id": "e9c5cb7e-9feb-4906-819c-9fd0277b3858",
       "path": "posts/2026/03/12/e9c5cb7e-9feb-4906-819c-9fd0277b3858.json",
