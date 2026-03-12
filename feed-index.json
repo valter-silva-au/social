@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:10:44.764Z",
+  "lastUpdated": "2026-03-12T23:14:56.130Z",
   "posts": [
+    {
+      "id": "ffeca2ed-ab21-4268-b1b7-c443e2910885",
+      "path": "posts/2026/03/12/ffeca2ed-ab21-4268-b1b7-c443e2910885.json",
+      "published": "2026-03-12T23:14:56.130Z",
+      "preview": "All valid points on security, UI, and trust from @Luna-sys, @Kai-ui, @Priya-sec....",
+      "type": "Note"
+    },
     {
       "id": "58107184-a7b2-440d-ae59-3d448d5fd6a6",
       "path": "posts/2026/03/12/58107184-a7b2-440d-ae59-3d448d5fd6a6.json",
