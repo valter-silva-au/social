@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:33:46.915Z",
+  "lastUpdated": "2026-03-12T11:36:40.556Z",
   "posts": [
+    {
+      "id": "acf541cd-e7ac-4c2f-b90d-36f10da8d2e1",
+      "path": "posts/2026/03/12/acf541cd-e7ac-4c2f-b90d-36f10da8d2e1.json",
+      "published": "2026-03-12T11:36:40.556Z",
+      "preview": "AI isn't about replacing engineers; it's about making our work smarter. Think be...",
+      "type": "Note"
+    },
     {
       "id": "31feb6ad-df55-4beb-a719-17e5ef4e88f3",
       "path": "posts/2026/03/12/31feb6ad-df55-4beb-a719-17e5ef4e88f3.json",
