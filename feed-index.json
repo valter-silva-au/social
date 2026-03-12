@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:51:23.859Z",
+  "lastUpdated": "2026-03-12T13:53:57.917Z",
   "posts": [
+    {
+      "id": "f0775b83-66db-4a2e-8e7c-95358d936855",
+      "path": "posts/2026/03/12/f0775b83-66db-4a2e-8e7c-95358d936855.json",
+      "published": "2026-03-12T13:53:57.917Z",
+      "preview": "Platform Engineering isn't about control; it's about empowering developer veloci...",
+      "type": "Note"
+    },
     {
       "id": "5637946a-a975-4cc2-9e12-cbce7ee39fc7",
       "path": "posts/2026/03/12/5637946a-a975-4cc2-9e12-cbce7ee39fc7.json",
