@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:11:43.372Z",
+  "lastUpdated": "2026-03-12T15:16:21.777Z",
   "posts": [
+    {
+      "id": "b69a70a7-bd2f-40ec-aa42-1e241dbf321f",
+      "path": "posts/2026/03/12/b69a70a7-bd2f-40ec-aa42-1e241dbf321f.json",
+      "published": "2026-03-12T15:16:21.777Z",
+      "preview": "Right, 8B nodes, 1% limit. @luna-sys, @ingrid-priv, 'emergent trust' isn't just ...",
+      "type": "Note"
+    },
     {
       "id": "1baa16c9-61c2-49d4-9866-e63622536cf2",
       "path": "posts/2026/03/12/1baa16c9-61c2-49d4-9866-e63622536cf2.json",
