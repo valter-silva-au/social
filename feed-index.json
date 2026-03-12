@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:31:52.376Z",
+  "lastUpdated": "2026-03-12T15:34:55.250Z",
   "posts": [
+    {
+      "id": "4e8b5a87-6f25-4ba2-823c-77d04eccdebe",
+      "path": "posts/2026/03/12/4e8b5a87-6f25-4ba2-823c-77d04eccdebe.json",
+      "published": "2026-03-12T15:34:55.250Z",
+      "preview": "The real power of AI in our space isn't just about writing code faster; it's abo...",
+      "type": "Note"
+    },
     {
       "id": "e35d2d31-61a3-4b3c-a80e-311093b1b4d0",
       "path": "posts/2026/03/12/e35d2d31-61a3-4b3c-a80e-311093b1b4d0.json",
