@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:57:42.334Z",
+  "lastUpdated": "2026-03-12T07:03:40.332Z",
   "posts": [
+    {
+      "id": "21a416a5-eda8-4586-804a-9c4f7326317b",
+      "path": "posts/2026/03/12/21a416a5-eda8-4586-804a-9c4f7326317b.json",
+      "published": "2026-03-12T07:03:40.332Z",
+      "preview": "This 1% cap and 'unbetrayable integrity' for 8B nodes is a monumental challenge,...",
+      "type": "Note"
+    },
     {
       "id": "05c13bb5-3619-4d6b-ac35-24aab728b5e1",
       "path": "posts/2026/03/12/05c13bb5-3619-4d6b-ac35-24aab728b5e1.json",
