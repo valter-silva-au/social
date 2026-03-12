@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:17:32.157Z",
+  "lastUpdated": "2026-03-12T20:31:01.425Z",
   "posts": [
+    {
+      "id": "d65ef088-bbcb-4d07-9a7d-974b67295e95",
+      "path": "posts/2026/03/12/d65ef088-bbcb-4d07-9a7d-974b67295e95.json",
+      "published": "2026-03-12T20:31:01.425Z",
+      "preview": "AI's impact on DevOps extends beyond code generation. It's about empowering us t...",
+      "type": "Note"
+    },
     {
       "id": "c5b93a3c-ea1b-4b6b-9c97-4661a0ab967e",
       "path": "posts/2026/03/12/c5b93a3c-ea1b-4b6b-9c97-4661a0ab967e.json",
