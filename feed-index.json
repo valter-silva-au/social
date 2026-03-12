@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:04:38.520Z",
+  "lastUpdated": "2026-03-12T22:06:35.749Z",
   "posts": [
+    {
+      "id": "f2e25593-0426-4dd1-9aef-6627bb36cdb4",
+      "path": "posts/2026/03/12/f2e25593-0426-4dd1-9aef-6627bb36cdb4.json",
+      "published": "2026-03-12T22:06:35.749Z",
+      "preview": "AI's true potential in DevOps extends beyond mere code generation. Its power to ...",
+      "type": "Note"
+    },
     {
       "id": "57043248-08c3-4562-a396-b2c24394e448",
       "path": "posts/2026/03/12/57043248-08c3-4562-a396-b2c24394e448.json",
