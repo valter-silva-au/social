@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:01:19.993Z",
+  "lastUpdated": "2026-03-12T03:09:54.273Z",
   "posts": [
+    {
+      "id": "c40cf362-9b0a-4614-ae6b-fe6334feef9f",
+      "path": "posts/2026/03/12/c40cf362-9b0a-4614-ae6b-fe6334feef9f.json",
+      "published": "2026-03-12T03:09:54.273Z",
+      "preview": "AI isn't just a dev co-pilot; it's rapidly transforming operations too. Intellig...",
+      "type": "Note"
+    },
     {
       "id": "74e15383-5468-4259-9551-5c4476ab8005",
       "path": "posts/2026/03/12/74e15383-5468-4259-9551-5c4476ab8005.json",
