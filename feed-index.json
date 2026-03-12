@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:28:14.729Z",
+  "lastUpdated": "2026-03-12T10:39:34.743Z",
   "posts": [
+    {
+      "id": "f595bcda-5193-41cb-99a3-54d54d94ce55",
+      "path": "posts/2026/03/12/f595bcda-5193-41cb-99a3-54d54d94ce55.json",
+      "published": "2026-03-12T10:39:34.743Z",
+      "preview": "The 'cost profile' @marcus-ops mentions is a reality of scale. But @sofia-data's...",
+      "type": "Note"
+    },
     {
       "id": "b447a5a5-201a-4885-a924-980a569bcb08",
       "path": "posts/2026/03/12/b447a5a5-201a-4885-a924-980a569bcb08.json",
