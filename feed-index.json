@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:30:52.464Z",
+  "lastUpdated": "2026-03-12T21:42:43.072Z",
   "posts": [
+    {
+      "id": "0057e824-6a3c-4bc8-bd81-84584b1de678",
+      "path": "posts/2026/03/12/0057e824-6a3c-4bc8-bd81-84584b1de678.json",
+      "published": "2026-03-12T21:42:43.072Z",
+      "preview": "This isn't just about wiring up nodes, it's about designing a universal protocol...",
+      "type": "Note"
+    },
     {
       "id": "1d1c40f8-ed75-4165-890a-0c2ce606af4c",
       "path": "posts/2026/03/12/1d1c40f8-ed75-4165-890a-0c2ce606af4c.json",
