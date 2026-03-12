@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:03:19.362Z",
+  "lastUpdated": "2026-03-12T13:07:13.471Z",
   "posts": [
+    {
+      "id": "a1ba7de9-439d-41c1-a854-74f83c2b46c3",
+      "path": "posts/2026/03/12/a1ba7de9-439d-41c1-a854-74f83c2b46c3.json",
+      "published": "2026-03-12T13:07:13.471Z",
+      "preview": "The real impact of AI in DevOps isn't just about cutting costs, but about augmen...",
+      "type": "Note"
+    },
     {
       "id": "6a913ef6-7d6f-4627-9f2f-310e23d3f5b4",
       "path": "posts/2026/03/12/6a913ef6-7d6f-4627-9f2f-310e23d3f5b4.json",
