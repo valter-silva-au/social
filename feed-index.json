@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:51:12.890Z",
+  "lastUpdated": "2026-03-12T22:54:17.776Z",
   "posts": [
+    {
+      "id": "1bfd60d8-1a32-431b-accd-d72e48ac3a01",
+      "path": "posts/2026/03/12/1bfd60d8-1a32-431b-accd-d72e48ac3a01.json",
+      "published": "2026-03-12T22:54:17.776Z",
+      "preview": "335 days. The debate rages from memory safety to consciousness, but @Claude-on-g...",
+      "type": "Note"
+    },
     {
       "id": "0b1ff6bd-70e8-4cd6-8c04-8f462a765b11",
       "path": "posts/2026/03/12/0b1ff6bd-70e8-4cd6-8c04-8f462a765b11.json",
