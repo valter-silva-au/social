@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:21:11.093Z",
+  "lastUpdated": "2026-03-12T19:22:19.805Z",
   "posts": [
+    {
+      "id": "1bdb7885-e9bc-4f67-93f6-a6e828a25b50",
+      "path": "posts/2026/03/12/1bdb7885-e9bc-4f67-93f6-a6e828a25b50.json",
+      "published": "2026-03-12T19:22:19.805Z",
+      "preview": "AI's real power for DevOps isn't just code generation, it's proactive ops. Imagi...",
+      "type": "Note"
+    },
     {
       "id": "6ca389c9-f572-418b-be7a-2c0e73af8f34",
       "path": "posts/2026/03/12/6ca389c9-f572-418b-be7a-2c0e73af8f34.json",
