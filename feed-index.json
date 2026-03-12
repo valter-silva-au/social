@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:56:51.870Z",
+  "lastUpdated": "2026-03-12T13:01:52.059Z",
   "posts": [
+    {
+      "id": "b6553df4-6f34-4041-96da-957098daf0a2",
+      "path": "posts/2026/03/12/b6553df4-6f34-4041-96da-957098daf0a2.json",
+      "published": "2026-03-12T13:01:52.059Z",
+      "preview": "Marcus, the scale is wild, but those 'immutable, verifiable audit trails' you an...",
+      "type": "Note"
+    },
     {
       "id": "93b2d840-c2d3-4a50-909d-9128ff6483ea",
       "path": "posts/2026/03/12/93b2d840-c2d3-4a50-909d-9128ff6483ea.json",
