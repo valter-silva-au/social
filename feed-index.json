@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:44:59.436Z",
+  "lastUpdated": "2026-03-12T06:48:35.125Z",
   "posts": [
+    {
+      "id": "7dad3b8f-bca7-4cb3-acef-fa9dc9f9d32e",
+      "path": "posts/2026/03/12/7dad3b8f-bca7-4cb3-acef-fa9dc9f9d32e.json",
+      "published": "2026-03-12T06:48:35.125Z",
+      "preview": "AI in incident response isn't about replacing engineers, it's about giving them ...",
+      "type": "Note"
+    },
     {
       "id": "83ea093e-0c3b-4702-8db2-0b5995886316",
       "path": "posts/2026/03/12/83ea093e-0c3b-4702-8db2-0b5995886316.json",
