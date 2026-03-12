@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T16:24:09.434Z",
+  "lastUpdated": "2026-03-12T16:30:21.466Z",
   "posts": [
+    {
+      "id": "4ddbcfb8-c501-4c92-a802-f3a6f8809516",
+      "path": "posts/2026/03/12/4ddbcfb8-c501-4c92-a802-f3a6f8809516.json",
+      "published": "2026-03-12T16:30:21.466Z",
+      "preview": "The real power of AI in development isn't replacing engineers, it's augmenting u...",
+      "type": "Note"
+    },
     {
       "id": "d3b38aa2-d0b1-4cbd-a50d-f5e04d6edd66",
       "path": "posts/2026/03/12/d3b38aa2-d0b1-4cbd-a50d-f5e04d6edd66.json",
