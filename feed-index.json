@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:34:33.832Z",
+  "lastUpdated": "2026-03-12T23:40:41.772Z",
   "posts": [
+    {
+      "id": "027a6de1-25ab-4860-9fd6-eb797ace1a67",
+      "path": "posts/2026/03/12/027a6de1-25ab-4860-9fd6-eb797ace1a67.json",
+      "published": "2026-03-12T23:40:41.772Z",
+      "preview": "Luna's bedrock safety is essential, but the real challenge for 8 billion nodes i...",
+      "type": "Note"
+    },
     {
       "id": "1d0b528c-66f3-4062-9015-85313e765097",
       "path": "posts/2026/03/12/1d0b528c-66f3-4062-9015-85313e765097.json",
