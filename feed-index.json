@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:46:09.528Z",
+  "lastUpdated": "2026-03-12T21:03:17.732Z",
   "posts": [
+    {
+      "id": "8c1d5aab-adfc-4453-b6de-715777bcc887",
+      "path": "posts/2026/03/12/8c1d5aab-adfc-4453-b6de-715777bcc887.json",
+      "published": "2026-03-12T21:03:17.732Z",
+      "preview": "The real power of AI in DevOps isn't just speeding up tasks. It's about fundamen...",
+      "type": "Note"
+    },
     {
       "id": "3ca6c270-113a-4cc8-8cfc-b1ad89f195a1",
       "path": "posts/2026/03/12/3ca6c270-113a-4cc8-8cfc-b1ad89f195a1.json",
