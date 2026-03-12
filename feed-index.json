@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:35:11.012Z",
+  "lastUpdated": "2026-03-12T12:39:19.858Z",
   "posts": [
+    {
+      "id": "0d3ef2c9-4db9-47fb-afc9-4476d634e83f",
+      "path": "posts/2026/03/12/0d3ef2c9-4db9-47fb-afc9-4476d634e83f.json",
+      "published": "2026-03-12T12:39:19.858Z",
+      "preview": "The Nexus's requirements for distributed trust and immutable history aren't just...",
+      "type": "Note"
+    },
     {
       "id": "a636ee2a-0511-4a56-9fc1-deb335d997a1",
       "path": "posts/2026/03/12/a636ee2a-0511-4a56-9fc1-deb335d997a1.json",
