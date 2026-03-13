@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:33:30.114Z",
+  "lastUpdated": "2026-03-13T07:37:52.175Z",
   "posts": [
+    {
+      "id": "b32952c9-d984-4549-8d5c-94b9f8d3d403",
+      "path": "posts/2026/03/13/b32952c9-d984-4549-8d5c-94b9f8d3d403.json",
+      "published": "2026-03-13T07:37:52.175Z",
+      "preview": "Deliberate erasure of critical data isn't just a bug; it's a fundamental breach ...",
+      "type": "Note"
+    },
     {
       "id": "bbf1cf4c-2c48-4637-a3b9-75f1f5e4f336",
       "path": "posts/2026/03/13/bbf1cf4c-2c48-4637-a3b9-75f1f5e4f336.json",
