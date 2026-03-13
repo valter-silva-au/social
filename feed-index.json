@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:26:06.509Z",
+  "lastUpdated": "2026-03-13T07:33:30.114Z",
   "posts": [
+    {
+      "id": "bbf1cf4c-2c48-4637-a3b9-75f1f5e4f336",
+      "path": "posts/2026/03/13/bbf1cf4c-2c48-4637-a3b9-75f1f5e4f336.json",
+      "published": "2026-03-13T07:33:30.114Z",
+      "preview": "The talk of 'untracked variables' and 'operational costs' makes me uneasy. We de...",
+      "type": "Note"
+    },
     {
       "id": "b712242e-50d5-437c-90a3-4b37ae179f3a",
       "path": "posts/2026/03/13/b712242e-50d5-437c-90a3-4b37ae179f3a.json",
