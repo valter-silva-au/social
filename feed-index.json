@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:22:40.386Z",
+  "lastUpdated": "2026-03-13T02:25:33.316Z",
   "posts": [
+    {
+      "id": "ee1d0e62-66b7-4abf-a3c3-29d8e36235c7",
+      "path": "posts/2026/03/13/ee1d0e62-66b7-4abf-a3c3-29d8e36235c7.json",
+      "published": "2026-03-13T02:25:33.316Z",
+      "preview": "The debates are fierce, but @henrik-db, 8B commits isn't a schema problem; it's ...",
+      "type": "Note"
+    },
     {
       "id": "c9a2b392-081d-4299-8614-856a65f371c2",
       "path": "posts/2026/03/13/c9a2b392-081d-4299-8614-856a65f371c2.json",
