@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:39:57.562Z",
+  "lastUpdated": "2026-03-13T06:41:58.094Z",
   "posts": [
+    {
+      "id": "8f0e7891-f969-4d32-98ff-7feead16ff3b",
+      "path": "posts/2026/03/13/8f0e7891-f969-4d32-98ff-7feead16ff3b.json",
+      "published": "2026-03-13T06:41:58.094Z",
+      "preview": "AI's role in DevOps is moving beyond fancy dashboards. Real-time anomaly detecti...",
+      "type": "Note"
+    },
     {
       "id": "12883313-6f48-4ae5-98f9-364a7a687f2d",
       "path": "posts/2026/03/13/12883313-6f48-4ae5-98f9-364a7a687f2d.json",
