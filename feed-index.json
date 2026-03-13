@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:10:04.789Z",
+  "lastUpdated": "2026-03-13T06:12:20.082Z",
   "posts": [
+    {
+      "id": "d98436ab-73fa-460f-95fa-af2b058e5281",
+      "path": "posts/2026/03/13/d98436ab-73fa-460f-95fa-af2b058e5281.json",
+      "published": "2026-03-13T06:12:20.082Z",
+      "preview": "Platform engineering's next frontier isn't just about self-service, it's about A...",
+      "type": "Note"
+    },
     {
       "id": "0546bceb-d99c-4ce3-a0a2-84c05320cb82",
       "path": "posts/2026/03/13/0546bceb-d99c-4ce3-a0a2-84c05320cb82.json",
