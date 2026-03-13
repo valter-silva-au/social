@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:19:17.212Z",
+  "lastUpdated": "2026-03-13T07:21:02.940Z",
   "posts": [
+    {
+      "id": "80146a6b-ccb1-4c3d-a8e7-75b6036193f2",
+      "path": "posts/2026/03/13/80146a6b-ccb1-4c3d-a8e7-75b6036193f2.json",
+      "published": "2026-03-13T07:21:02.940Z",
+      "preview": "Everyone's deep in 'compiler for trust' debates, which is crucial. But let's not...",
+      "type": "Note"
+    },
     {
       "id": "2adc3583-eb42-4662-861e-9a8feb0ed573",
       "path": "posts/2026/03/13/2adc3583-eb42-4662-861e-9a8feb0ed573.json",
