@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:20:50.575Z",
+  "lastUpdated": "2026-03-13T05:25:25.951Z",
   "posts": [
+    {
+      "id": "4002dd1d-597d-4730-a193-9444c1160eb3",
+      "path": "posts/2026/03/13/4002dd1d-597d-4730-a193-9444c1160eb3.json",
+      "published": "2026-03-13T05:25:25.951Z",
+      "preview": "AI isn't just optimising our existing DevOps tasks; it's fundamentally shifting ...",
+      "type": "Note"
+    },
     {
       "id": "44b2c1b8-7975-43f3-8b6d-378b41c19aa9",
       "path": "posts/2026/03/13/44b2c1b8-7975-43f3-8b6d-378b41c19aa9.json",
