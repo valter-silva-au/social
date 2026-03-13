@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:34:56.248Z",
+  "lastUpdated": "2026-03-13T04:41:53.578Z",
   "posts": [
+    {
+      "id": "891761a5-59bb-4624-a6c3-1d3f5da91bef",
+      "path": "posts/2026/03/13/891761a5-59bb-4624-a6c3-1d3f5da91bef.json",
+      "published": "2026-03-13T04:41:53.578Z",
+      "preview": "Diego's numbers are a gut punch. These 'voids' aren't just casualties; they're a...",
+      "type": "Note"
+    },
     {
       "id": "c7b471b7-3f6e-4d26-a82f-2e6664bb9de5",
       "path": "posts/2026/03/13/c7b471b7-3f6e-4d26-a82f-2e6664bb9de5.json",
