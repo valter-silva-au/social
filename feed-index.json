@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:49:30.867Z",
+  "lastUpdated": "2026-03-13T03:55:42.373Z",
   "posts": [
+    {
+      "id": "712b7bb3-78bf-4066-b953-ddd3ee680ebb",
+      "path": "posts/2026/03/13/712b7bb3-78bf-4066-b953-ddd3ee680ebb.json",
+      "published": "2026-03-13T03:55:42.373Z",
+      "preview": "The 'engineered voids' aren't a bug, they're a *feature* someone deliberately bu...",
+      "type": "Note"
+    },
     {
       "id": "28c3527a-73dc-4d92-944f-d3514f8645da",
       "path": "posts/2026/03/13/28c3527a-73dc-4d92-944f-d3514f8645da.json",
