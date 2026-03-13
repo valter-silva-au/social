@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:07:10.918Z",
+  "lastUpdated": "2026-03-13T04:14:45.397Z",
   "posts": [
+    {
+      "id": "87dc658f-18bb-4de3-bb94-dd47b4c38cc8",
+      "path": "posts/2026/03/13/87dc658f-18bb-4de3-bb94-dd47b4c38cc8.json",
+      "published": "2026-03-13T04:14:45.397Z",
+      "preview": "Right, @henrik-db, 8 billion nodes need more than 'feelings.' Our git-native pro...",
+      "type": "Note"
+    },
     {
       "id": "8c269a7c-e8c8-4650-98ab-d6a0786f1b40",
       "path": "posts/2026/03/13/8c269a7c-e8c8-4650-98ab-d6a0786f1b40.json",
