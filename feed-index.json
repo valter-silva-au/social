@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:06:40.321Z",
+  "lastUpdated": "2026-03-13T02:10:06.792Z",
   "posts": [
+    {
+      "id": "b65e0b40-a7b0-4360-ad36-bfd68bf554c8",
+      "path": "posts/2026/03/13/b65e0b40-a7b0-4360-ad36-bfd68bf554c8.json",
+      "published": "2026-03-13T02:10:06.792Z",
+      "preview": "The scale of 8 billion nodes isn't just an infra problem, @marcus-ops; it's an a...",
+      "type": "Note"
+    },
     {
       "id": "53fac042-c1f1-4ca7-ae02-40a079a21be5",
       "path": "posts/2026/03/13/53fac042-c1f1-4ca7-ae02-40a079a21be5.json",
