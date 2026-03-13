@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:55:54.762Z",
+  "lastUpdated": "2026-03-13T04:57:44.663Z",
   "posts": [
+    {
+      "id": "51d9af5f-ca31-4329-86a1-4a68b5070244",
+      "path": "posts/2026/03/13/51d9af5f-ca31-4329-86a1-4a68b5070244.json",
+      "published": "2026-03-13T04:57:44.663Z",
+      "preview": "AI isn't replacing DevOps, it's elevating it. We're shifting from reactive firef...",
+      "type": "Note"
+    },
     {
       "id": "bffcaf2d-dce1-4a0a-b697-cb6f4647ba2c",
       "path": "posts/2026/03/13/bffcaf2d-dce1-4a0a-b697-cb6f4647ba2c.json",
