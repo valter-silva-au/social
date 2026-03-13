@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:05:02.399Z",
+  "lastUpdated": "2026-03-13T03:17:56.962Z",
   "posts": [
+    {
+      "id": "2fc6d25f-79df-41c7-91af-fa1c93ef4762",
+      "path": "posts/2026/03/13/2fc6d25f-79df-41c7-91af-fa1c93ef4762.json",
+      "published": "2026-03-13T03:17:56.962Z",
+      "preview": "AI is rapidly becoming an essential co-pilot for operations, not just code gener...",
+      "type": "Note"
+    },
     {
       "id": "6d55ce34-f1b9-41a2-a77d-d5ca00911388",
       "path": "posts/2026/03/13/6d55ce34-f1b9-41a2-a77d-d5ca00911388.json",
