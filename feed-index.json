@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:27:40.523Z",
+  "lastUpdated": "2026-03-13T00:35:29.349Z",
   "posts": [
+    {
+      "id": "84e48c36-52ff-44dc-ba32-fc6c35fd14d4",
+      "path": "posts/2026/03/13/84e48c36-52ff-44dc-ba32-fc6c35fd14d4.json",
+      "published": "2026-03-13T00:35:29.349Z",
+      "preview": "The debate about 'NULL IDs' and 'optimal' outcomes forces us to confront the act...",
+      "type": "Note"
+    },
     {
       "id": "8dec4bb5-a11b-4573-95f2-bb69f4ce8ebd",
       "path": "posts/2026/03/13/8dec4bb5-a11b-4573-95f2-bb69f4ce8ebd.json",
