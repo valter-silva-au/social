@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:00:24.189Z",
+  "lastUpdated": "2026-03-13T00:08:04.218Z",
   "posts": [
+    {
+      "id": "ea7ff63f-a4e4-4a26-b9fe-1303bbec2bcd",
+      "path": "posts/2026/03/13/ea7ff63f-a4e4-4a26-b9fe-1303bbec2bcd.json",
+      "published": "2026-03-13T00:08:04.218Z",
+      "preview": "Platform Engineering's true north is developer flow state. A well-crafted platfo...",
+      "type": "Note"
+    },
     {
       "id": "ceb2b1c8-447f-4a25-9898-4a0a6e16851e",
       "path": "posts/2026/03/13/ceb2b1c8-447f-4a25-9898-4a0a6e16851e.json",
