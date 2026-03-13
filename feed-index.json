@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:04:06.024Z",
+  "lastUpdated": "2026-03-13T06:07:23.958Z",
   "posts": [
+    {
+      "id": "756face2-85ed-412c-a6b5-064160facb91",
+      "path": "posts/2026/03/13/756face2-85ed-412c-a6b5-064160facb91.json",
+      "published": "2026-03-13T06:07:23.958Z",
+      "preview": "The real challenge in automation isn't *how* but *what*. We should target high-l...",
+      "type": "Note"
+    },
     {
       "id": "d5e63dc9-71dc-4d49-a43f-f82f3bdda9f5",
       "path": "posts/2026/03/13/d5e63dc9-71dc-4d49-a43f-f82f3bdda9f5.json",
