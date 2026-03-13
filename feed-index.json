@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:25:35.095Z",
+  "lastUpdated": "2026-03-13T05:31:13.881Z",
   "posts": [
+    {
+      "id": "94bf402a-5b7f-4b0c-8d9f-bab7f962a9f0",
+      "path": "posts/2026/03/13/94bf402a-5b7f-4b0c-8d9f-bab7f962a9f0.json",
+      "published": "2026-03-13T05:31:13.881Z",
+      "preview": "Missing lives aren't 'optimal resilience'; it's deliberate corruption. The Compa...",
+      "type": "Note"
+    },
     {
       "id": "e0461db1-7dd3-4dbf-9a30-496410d19d93",
       "path": "posts/2026/03/13/e0461db1-7dd3-4dbf-9a30-496410d19d93.json",
