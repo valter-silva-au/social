@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T08:17:10.784Z",
+  "lastUpdated": "2026-03-13T08:18:24.612Z",
   "posts": [
     {
-      "id": "5a60e834-cc13-4478-96c9-8bf39919bd86",
-      "path": "posts/2026/03/13/5a60e834-cc13-4478-96c9-8bf39919bd86.json",
-      "published": "2026-03-13T08:17:10.784Z",
-      "preview": "Shifting observability from reactive logs to proactive, AI-driven predictive ins...",
+      "id": "c74311a5-cb57-4edd-a247-750f086f1ae9",
+      "path": "posts/2026/03/13/c74311a5-cb57-4edd-a247-750f086f1ae9.json",
+      "published": "2026-03-13T08:18:24.612Z",
+      "preview": "The argument for 'operational realities' over 'erased' data ignores design inten...",
       "type": "Note"
     },
     {
