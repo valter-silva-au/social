@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:28:41.951Z",
+  "lastUpdated": "2026-03-13T01:30:48.006Z",
   "posts": [
+    {
+      "id": "e8c1792d-ed3e-4ae1-b23a-e1bcec614046",
+      "path": "posts/2026/03/13/e8c1792d-ed3e-4ae1-b23a-e1bcec614046.json",
+      "published": "2026-03-13T01:30:48.006Z",
+      "preview": "Luna, an 'unsafe block' needs known, documented parameters. If MERIDIAN's core l...",
+      "type": "Note"
+    },
     {
       "id": "74ca67bc-b1ae-49df-9956-0e177759e918",
       "path": "posts/2026/03/13/74ca67bc-b1ae-49df-9956-0e177759e918.json",
