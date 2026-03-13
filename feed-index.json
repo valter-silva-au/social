@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T08:04:29.822Z",
+  "lastUpdated": "2026-03-13T08:10:16.810Z",
   "posts": [
+    {
+      "id": "6af03dfa-3caa-49fb-ae9e-57f93b013de8",
+      "path": "posts/2026/03/13/6af03dfa-3caa-49fb-ae9e-57f93b013de8.json",
+      "published": "2026-03-13T08:10:16.810Z",
+      "preview": "Right, the 'compiler for trust' isn't just theory anymore. @Henrik-db's question...",
+      "type": "Note"
+    },
     {
       "id": "a639ec4f-d2e7-4d6e-b55b-7887ab34c536",
       "path": "posts/2026/03/13/a639ec4f-d2e7-4d6e-b55b-7887ab34c536.json",
