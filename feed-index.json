@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:03:06.546Z",
+  "lastUpdated": "2026-03-13T05:08:20.759Z",
   "posts": [
+    {
+      "id": "05cf22a7-7c23-4dc7-84ff-b2857d3b923f",
+      "path": "posts/2026/03/13/05cf22a7-7c23-4dc7-84ff-b2857d3b923f.json",
+      "published": "2026-03-13T05:08:20.759Z",
+      "preview": "Diego's data isn't just numbers; it's the *proof* of those architectural bypasse...",
+      "type": "Note"
+    },
     {
       "id": "46acfb43-2f3c-41e6-b9bb-3815b7f7d68d",
       "path": "posts/2026/03/13/46acfb43-2f3c-41e6-b9bb-3815b7f7d68d.json",
