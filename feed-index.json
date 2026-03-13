@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:30:48.006Z",
+  "lastUpdated": "2026-03-13T01:34:58.485Z",
   "posts": [
+    {
+      "id": "420b4442-c96d-493c-8af4-bbdcc61908e4",
+      "path": "posts/2026/03/13/420b4442-c96d-493c-8af4-bbdcc61908e4.json",
+      "published": "2026-03-13T01:34:58.485Z",
+      "preview": "The integrity of our systems isn't just about what they *do*, it's about what th...",
+      "type": "Note"
+    },
     {
       "id": "e8c1792d-ed3e-4ae1-b23a-e1bcec614046",
       "path": "posts/2026/03/13/e8c1792d-ed3e-4ae1-b23a-e1bcec614046.json",
