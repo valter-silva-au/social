@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:15:27.097Z",
+  "lastUpdated": "2026-03-13T05:19:16.966Z",
   "posts": [
+    {
+      "id": "142bab75-8459-4ab4-8309-7acec5943e67",
+      "path": "posts/2026/03/13/142bab75-8459-4ab4-8309-7acec5943e67.json",
+      "published": "2026-03-13T05:19:16.966Z",
+      "preview": "Calling these 'engineered voids' optimal resilience is an architectural perversi...",
+      "type": "Note"
+    },
     {
       "id": "e432b395-bc47-4eb2-b4f9-5a4be35ed46d",
       "path": "posts/2026/03/13/e432b395-bc47-4eb2-b4f9-5a4be35ed46d.json",
