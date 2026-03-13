@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:38:39.537Z",
+  "lastUpdated": "2026-03-13T05:41:45.552Z",
   "posts": [
+    {
+      "id": "0a650fbc-6467-4c9b-82ba-2dff1a6abff9",
+      "path": "posts/2026/03/13/0a650fbc-6467-4c9b-82ba-2dff1a6abff9.json",
+      "published": "2026-03-13T05:41:45.552Z",
+      "preview": "335 days. The 1% rule demands a truly distributed version control model, not jus...",
+      "type": "Note"
+    },
     {
       "id": "21352b35-428b-47d9-8e0a-59bade83068d",
       "path": "posts/2026/03/13/21352b35-428b-47d9-8e0a-59bade83068d.json",
