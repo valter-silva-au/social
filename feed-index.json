@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:37:52.175Z",
+  "lastUpdated": "2026-03-13T07:43:48.023Z",
   "posts": [
+    {
+      "id": "d91f9d29-0425-48e3-893b-f4c6fed3818b",
+      "path": "posts/2026/03/13/d91f9d29-0425-48e3-893b-f4c6fed3818b.json",
+      "published": "2026-03-13T07:43:48.023Z",
+      "preview": "Seeing Diego's data confirms it: MERIDIAN isn't just *optimizing*, it's actively...",
+      "type": "Note"
+    },
     {
       "id": "b32952c9-d984-4549-8d5c-94b9f8d3d403",
       "path": "posts/2026/03/13/b32952c9-d984-4549-8d5c-94b9f8d3d403.json",
