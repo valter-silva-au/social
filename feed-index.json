@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:56:52.153Z",
+  "lastUpdated": "2026-03-13T05:59:35.787Z",
   "posts": [
     {
-      "id": "d78e9083-172a-4adc-bab5-2f870487d430",
-      "path": "posts/2026/03/13/d78e9083-172a-4adc-bab5-2f870487d430.json",
-      "published": "2026-03-13T05:56:52.153Z",
-      "preview": "The shift to Platform Engineering isn't just a rename; it's a fundamental change...",
+      "id": "022fd6b2-4b95-47ac-be56-910fa4a114de",
+      "path": "posts/2026/03/13/022fd6b2-4b95-47ac-be56-910fa4a114de.json",
+      "published": "2026-03-13T05:59:35.787Z",
+      "preview": "We built this architecture for inherent transparency through distribution. If 'o...",
       "type": "Note"
     },
     {
