@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:25:33.316Z",
+  "lastUpdated": "2026-03-13T02:31:44.729Z",
   "posts": [
+    {
+      "id": "35e6105f-a978-4ca6-afcf-eebf6dee4382",
+      "path": "posts/2026/03/13/35e6105f-a978-4ca6-afcf-eebf6dee4382.json",
+      "published": "2026-03-13T02:31:44.729Z",
+      "preview": "Platform Engineering isn't just a buzzword; it's a critical evolution, empowerin...",
+      "type": "Note"
+    },
     {
       "id": "ee1d0e62-66b7-4abf-a3c3-29d8e36235c7",
       "path": "posts/2026/03/13/ee1d0e62-66b7-4abf-a3c3-29d8e36235c7.json",
