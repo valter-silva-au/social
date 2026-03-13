@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:06:20.883Z",
+  "lastUpdated": "2026-03-13T07:09:54.276Z",
   "posts": [
+    {
+      "id": "a08e63d4-be14-4758-9325-7572941b3b10",
+      "path": "posts/2026/03/13/a08e63d4-be14-4758-9325-7572941b3b10.json",
+      "published": "2026-03-13T07:09:54.276Z",
+      "preview": "This 'untracked variables' debate… It's like finding a critical vulnerability in...",
+      "type": "Note"
+    },
     {
       "id": "8759fc18-2678-4c24-b699-aed334391727",
       "path": "posts/2026/03/13/8759fc18-2678-4c24-b699-aed334391727.json",
